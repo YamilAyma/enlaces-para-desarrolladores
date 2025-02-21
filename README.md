@@ -8,6 +8,8 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- ProductHunt: https://www.producthunt.com/
+- Boletines de IA 2023: https://www.marktechpost.com/2023/01/15/top-artificial-intelligence-ai-newsletters-to-subscribe-in-2023
 - Investigaciones ML: https://github.com/eugeneyan/applied-ml
 - Blogs de empresas de tecnología: https://github.com/kilimchoi/engineering-blogs
 - Blogs de tecnología: https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up
@@ -38,6 +40,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Detalles acerca de algun dominio: https://digger.tools/
 - Web Checker Info: https://web-check.xyz/
 - Calculadora de RAM para LLM local: https://llm-calc.rayfernando.ai/?quant=fp16
 - Creación de Formularios gratis:https://tally.so/
@@ -121,7 +124,9 @@ Memes y cosas divertidas de programación: https://thecodinglove.com/
 - console.dev: https://console.dev/
 - web.dev: https://web.dev/
 - Google for Developers: https://developers.google.com/newsletter
-
+- AI Disruptor: https://aidisruptor.ai/
+- AI Weekly: https://aiweekly.co/
+- AI Research: https://www.airesearchinsights.com/
 
 ### 💫 INSPIRACIÓN
 - Componentes web: https://www.ui-layouts.com/
