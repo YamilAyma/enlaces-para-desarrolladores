@@ -90,14 +90,15 @@ Memes y cosas divertidas de programación: https://thecodinglove.com/
 - Cheatsheets: https://cheatsheets.zip/
 - Todos sobre las landing pages: https://www.landingpagesexplained.com
 
-📒 CURSOS: 
+### 📒 CURSOS: 
 - Diseño de sistemas: https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81
 
-🔠 TIPOGRAFIAS:
+### 🔠 TIPOGRAFIAS:
 - https://www.fontsquirrel.com/fonts/list/classification/sans%20serif
 - Tipografias bonitas: https://typodermicfonts.com/downloads/
 
-📣 BLOGS Y BOLETINES
+### 📣 BLOGS Y BOLETINES
+- Python Peru: https://python.pe/
 - Cursos y noticias actuales: https://www.marktechpost.com/
 - Ciencia de datos: https://www.kdnuggets.com/
 - Diseños de sistemas: https://blog.bytebytego.com/
@@ -108,12 +109,20 @@ Memes y cosas divertidas de programación: https://thecodinglove.com/
 - prismic: https://prismic.io/blog
 - Sé mejor profesional: https://adlerhsieh.com/
 - Posts para devs: https://www.devtoolsacademy.com/
+- Ned Batchelder (_python): https://nedbatchelder.com/blog/
+- sobolevn blog (_python): https://sobolevn.me/
+- pythonprogramming: https://pythonprogramming.net/
+- fullstackpython: https://www.fullstackpython.com/
+- importpython (_python): https://importpython.com/newsletter/
+- Real Python ⭐: https://realpython.com/
+- Guido Van Rossum Blog: https://neopythonic.blogspot.com/
 - Dosis diaria de Ciencia de datos: https://blog.dailydoseofds.com/
 - Software Engineer: https://cassidoo.co/
 - Sistemas: https://newsletter.optimistengineer.com/
 - Sitios de presentación de blogs: https://bloggingfordevs.com/
 - The Codist :): https://thecodist.com/
 - Hacker News: https://news.ycombinator.com/
+- Luminousmen: https://luminousmen.com/
 - Blog: https://matt.blwt.io/
 - Data engineering: https://www.dataengineeringweekly.com/
 - Programmer Weekly: https://www.programmerweekly.com/
@@ -127,6 +136,15 @@ Memes y cosas divertidas de programación: https://thecodinglove.com/
 - AI Disruptor: https://aidisruptor.ai/
 - AI Weekly: https://aiweekly.co/
 - AI Research: https://www.airesearchinsights.com/
+- Daniel Roy: https://daniel.feldroy.com/
+
+### 🎙️ Podcast
+- TalkPython: https://talkpython.fm/episodes/all
+- Python Podcast _: https://www.pythonpodcast.com/
+
+### 🌐 Otros medios
+- Python Reddit: https://www.reddit.com/r/Python/?rdt=57565
+
 
 ### 💫 INSPIRACIÓN
 - Componentes web: https://www.ui-layouts.com/
