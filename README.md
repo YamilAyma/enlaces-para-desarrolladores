@@ -9,8 +9,14 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
 - ProductHunt: https://www.producthunt.com/
+- Componentes UI Reutilizables: https://tinywidgets.org/
+- Scripts bash para Devops: https://github.com/HariSekhon/DevOps-Bash-tools
+- Prompt para editor Cursor: https://github.com/PatrickJS/awesome-cursorrules
+- Modelos de visión computacional: https://github.com/roboflow/notebooks
 - Boletines de IA 2023: https://www.marktechpost.com/2023/01/15/top-artificial-intelligence-ai-newsletters-to-subscribe-in-2023
 - Investigaciones ML: https://github.com/eugeneyan/applied-ml
+- AI Agentes: https://github.com/e2b-dev/awesome-ai-agents
+- Prompts: https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb
 - Blogs de empresas de tecnología: https://github.com/kilimchoi/engineering-blogs
 - Blogs de tecnología: https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up
 - Sitios web: https://dev.to/kafeel_ahmad/11-must-know-websites-every-developer-should-bookmark-3389
@@ -24,6 +30,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Herramientas de IA: https://www.myaihub.ai/
 - Cursos y certificaciones para devs: https://www.classcentral.com/report/free-developer-it-certifications
 - Plantillas HTML: https://htmlrev.com/
+- APIs para desarrollo y practica de proyectos: https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm
 - Componentes UI: https://cuicui.day/
 - Awesome Shadcn UI: https://shadcn.batchtool.com/components
 - Dev Fonts: https://devfonts.gafi.dev/
@@ -34,6 +41,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 📄 LISTAS
 - STARTUPS: https://docs.google.com/spreadsheets/u/0/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/htmlview
+- State of JS: https://2024.stateofjs.com/en-US/libraries/
 
 ### 🧗 ROADMAPS:
 - Laravel : https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
@@ -41,10 +49,18 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 🛠️ HERRAMIENTAS:
 - Detalles acerca de algun dominio: https://digger.tools/
+- Datos falsos y sinteticos: https://github.com/supabase-community/copycat
+- Automatizacion web ligera: https://github.com/mherrmann/helium
 - Web Checker Info: https://web-check.xyz/
+- Visualización de modelos: https://www.tensorflow.org/tensorboard?hl=es-419
+- Capturas de pantalla bonitas con gradientes: https://postspark.app
+- Pruebe sus fuentes antes de usarlas: https://www.uifonts.app
+- Terminal potenciada: https://www.warp.dev
+- Generador de páginas de pricing: https://shipixen.com/shadcn-pricing-page?ref=dailydev
 - Calculadora de RAM para LLM local: https://llm-calc.rayfernando.ai/?quant=fp16
-- Creación de Formularios gratis:https://tally.so/
+- Creación de Formularios gratis: https://tally.so/
 - Creador de .htaccess: https://www.htaccessredirect.net/
+- Tablas multidimensionales para analisis de datos: https://github.com/VisActor/VTable
 - Compresor de videos: https://compressx.app/?aff=nyLmN
 - API de Screenshots: https://screenshotone.com/
 - Creador de documentación mediante coidgo: https://www.docz.site/
@@ -54,6 +70,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Catalogo de temas VSCode: https://vscodethemes.com/
 - Agentes AI por prompts: https://potpie.ai/
 - Creacion de modelos 3D: https://lumalabs.ai/genie?view=create
+- Taipy: https://github.com/Avaiga/taipy
+- WebUI- Agentes en su navegador: https://github.com/browser-use/web-ui
 - Galeria de herramientas de IA: https://www.contentbyai.com/
 - Iconos de herramientaas y tech: https://xandemon.github.io/developer-icons/icons/All/
 - Generador de paletas de colores: https://www.tints.dev/red/AE7FA9
@@ -69,9 +87,18 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 ### 🤗 RELAX:
 Memes y cosas divertidas de programación: https://thecodinglove.com/
 
-### ⭐ PACKS DE COMPONENTES:
+### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 - ZenUI: https://zenui.net/
 - TailwindCSS: https://tailgrids.com/blog/tailwind-resources
+- MagicUI: https://magicui.design
+- Lukacho: https://ui.lukacho.com/components
+- HyperUI: https://www.hyperui.dev/
+- Material Tailwind Blocks: https://www.material-tailwind.com/blocks
+- AcertinityUI: https://ui.aceternity.com/
+- Motion Primitives: https://motion-primitives.com/
+- ShapexUI: https://www.shapexui.site/
+- primereact: https://primereact.org
+
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 - Plantillas HTML: https://htmlrev.com/
@@ -89,9 +116,14 @@ Memes y cosas divertidas de programación: https://thecodinglove.com/
 - Optimización de algoritmos (conocer): https://www.bigocheatsheet.com/
 - Cheatsheets: https://cheatsheets.zip/
 - Todos sobre las landing pages: https://www.landingpagesexplained.com
+- Node JS Buenas Practicas: https://github.com/goldbergyoni/nodebestpractices/tree/spanish-translation
+- TS para React: https://www.jacobparis.com/content/react-ts
+- Como construir RAG con Langchain: https://github.com/bRAGAI/bRAG-langchain
+- Stacks: https://batijs.dev/
 
 ### 📒 CURSOS: 
 - Diseño de sistemas: https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81
+- Rust por Google : https://github.com/google/comprehensive-rust
 
 ### 🔠 TIPOGRAFIAS:
 - https://www.fontsquirrel.com/fonts/list/classification/sans%20serif
