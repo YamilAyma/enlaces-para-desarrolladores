@@ -25,6 +25,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Plantillas REACT: https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci
 - Fondos CSS: https://prismic.io/blog/css-background-effects
 - Miles de herramientas para todos: https://bestwebdesigntools.com/
+- Prompts para cursor: https://cursor.directory/
+- Cursor List: https://cursorlist.com/
 - Herramientas de Python y proyecto (échales ojos): https://github.com/ml-tooling/best-of-web-python?tab=readme-ov-file
 - Librerias de IU: https://bestwebdesigntools.com/blog/20-best-free-paid-react-ui-libraries-for-developers-in-2025
 - Frameworks de creación de Agentes: https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks
