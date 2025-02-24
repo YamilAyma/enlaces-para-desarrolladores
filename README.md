@@ -8,6 +8,8 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Noticias de código abierto (china): https://www.oschina.net/
+- Stickers kawaii de logos y empresas tech: https://github.com/SAWARATSUKI/KawaiiLogos
 - ProductHunt: https://www.producthunt.com/
 - Componentes UI Reutilizables: https://tinywidgets.org/
 - Scripts bash para Devops: https://github.com/HariSekhon/DevOps-Bash-tools
@@ -48,9 +50,11 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Explorar interesantes repositorios GitHub: https://hellogithub.com/en
 - Detalles acerca de algun dominio: https://digger.tools/
 - Datos falsos y sinteticos: https://github.com/supabase-community/copycat
 - Automatizacion web ligera: https://github.com/mherrmann/helium
+- .: https://coding.net/
 - Web Checker Info: https://web-check.xyz/
 - Visualización de modelos: https://www.tensorflow.org/tensorboard?hl=es-419
 - Capturas de pantalla bonitas con gradientes: https://postspark.app
@@ -169,6 +173,9 @@ Memes y cosas divertidas de programación: https://thecodinglove.com/
 - AI Weekly: https://aiweekly.co/
 - AI Research: https://www.airesearchinsights.com/
 - Daniel Roy: https://daniel.feldroy.com/
+- 51CTO: https://www.51cto.com/
+- cnblogs: https://www.cnblogs.com/
+- CSDN: https://www.csdn.net/
 
 ### 🎙️ Podcast
 - TalkPython: https://talkpython.fm/episodes/all
@@ -176,7 +183,8 @@ Memes y cosas divertidas de programación: https://thecodinglove.com/
 
 ### 🌐 Otros medios
 - Python Reddit: https://www.reddit.com/r/Python/?rdt=57565
-
+- Linux Do: https://linux.do/
+- v2EX: https://www.v2ex.com/ 
 
 ### 💫 INSPIRACIÓN
 - Componentes web: https://www.ui-layouts.com/
