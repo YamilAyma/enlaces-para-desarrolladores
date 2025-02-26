@@ -33,6 +33,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Miles de herramientas para todos: https://bestwebdesigntools.com/
 - Prompts para cursor: https://cursor.directory/
 - Cursor List: https://cursorlist.com/
+- Loaders: https://uiball.com/ldrs/
 - Herramientas de Python y proyecto (échales ojos): https://github.com/ml-tooling/best-of-web-python?tab=readme-ov-file
 - Librerias de IU: https://bestwebdesigntools.com/blog/20-best-free-paid-react-ui-libraries-for-developers-in-2025
 - Frameworks de creación de Agentes: https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks
@@ -58,6 +59,12 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Tailwind Tools in Browser: https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl
+- Glassmorfismo CSS Generator: https://ui.glass/generator/
+- Can I use?: https://caniuse.com/
+- Test para archivos .htaccess: https://htaccess.madewithlove.com/
+- AI asistente para Android Studio: https://firebender.com/
+- Navegador para frontend: https://polypane.app/
 - Visualizador JSON en el navegador: https://webcurate.co/json-viewer
 - Testing de apps en dispositivos de distinta resolucion: https://blisk.io/
 - Responsive al maximo: https://responsively.app/
@@ -118,6 +125,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Manejo de archivos con terminal (app): https://superfile.netlify.app/
 - Creacion de datos falsos: https://fakerjs.dev/
 - Creacion de slides para devs: https://sli.dev/
+- Patrones CSS: https://bansal.io/pattern-css
 - Creacion de flexboxes: https://flexboxlabs.netlify.app/
 
 ### 🤗 RELAX:
@@ -134,11 +142,16 @@ Tu perfil de GitHub en un video: https://git-wrapped.com/
 - Material Tailwind Blocks: https://www.material-tailwind.com/blocks
 - AcertinityUI: https://ui.aceternity.com/
 - Motion Primitives: https://motion-primitives.com/
+- PrelineUI: https://preline.co/
 - ShapexUI: https://www.shapexui.site/
 - primereact: https://primereact.org
 - FlyonUI: https://flyonui.com
 - Shadcn UI Blocks: https://www.shadcnui-blocks.com/
 - Tailgrids: https://tailgrids.com/
+- Tailkits: https://tailkits.com/
+- Free Templates: https://cruip.com/free-templates/
+- Themesberg: https://themesberg.com/
+- RadixUI: https://www.radix-ui.com/
 - WindUI: https://wind-ui.com/
 - Tailwind Buttons: https://devdojo.com/tailwindcss/buttons
 
