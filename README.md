@@ -8,7 +8,11 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- DevSuite: https://devsuite.co/
+- DevUtilities: https://jam.dev/utilities
+- Built At ... Coleccion UI Kits: https://www.builtatlightspeed.com/ 
 - Galería de startups: https://startups.gallery/
+- Coleccion de SVGs para tus proyectos: https://shapes.framer.website/
 - Encuentra apps y paginas webs sobre herramientas: https://webcurate.co/
 - Noticias de código abierto (china): https://www.oschina.net/
 - Stickers kawaii de logos y empresas tech: https://github.com/SAWARATSUKI/KawaiiLogos
@@ -54,6 +58,28 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Visualizador JSON en el navegador: https://webcurate.co/json-viewer
+- Testing de apps en dispositivos de distinta resolucion: https://blisk.io/
+- Responsive al maximo: https://responsively.app/
+- Backend y Frontend con Python: https://reflex.dev/
+- Muestras de gradientes: https://webgradients.com/
+. Imagenes falsas para maquetas: https://fakeimg.pl/
+- Fondos para gradientes sofisticados: https://meshgradient.in/
+- Remover fondo de imagen, clasico: https://www.remove.bg/es
+- Ver metadatos de una imagen: https://jimpl.com/
+- Remover elementos de imagen: https://objectremover.com/
+- Compresor de imagen: https://www.websiteplanet.com/webtools/imagecompressor/
+- Compresor de imagen II: https://compressimage.io/
+- Comparte codigo en capturas bonitas y especializadas: https://showcode.app/
+- Crear imagenes con IA sin registro: https://dezgo.com/text2image/sdxl
+- Trasforma un SVG para usarlo en fondos llamativos: https://www.shapedivider.app/
+- Creador de loaders svg: https://loaders.holasvg.com/
+- Fondos automaticos y de patrones: https://bgjar.com/
+- Crea fondos a partir de SVGs: https://creatica.app/
+- Dibuja tus propios SVGs: https://editor.method.ac/
+- Optimización de SVG: https://jakearchibald.github.io/svgomg/
+- Editor de fotos gratuito: https://www.photopea.com/
+- Avatares / Iconos de perfil : https://avvvatars.com/
 - Sitio web a LLM data: https://www.datafuel.dev
 - Envia imagenes a Internet sin registro: https://imgur.com/
 - Explorar interesantes repositorios GitHub: https://hellogithub.com/en
@@ -113,7 +139,7 @@ Tu perfil de GitHub en un video: https://git-wrapped.com/
 - FlyonUI: https://flyonui.com
 - Shadcn UI Blocks: https://www.shadcnui-blocks.com/
 - Tailgrids: https://tailgrids.com/
-
+- WindUI: https://wind-ui.com/
 - Tailwind Buttons: https://devdojo.com/tailwindcss/buttons
 
 
@@ -140,6 +166,7 @@ Tu perfil de GitHub en un video: https://git-wrapped.com/
 - TS para React: https://www.jacobparis.com/content/react-ts
 - Como construir RAG con Langchain: https://github.com/bRAGAI/bRAG-langchain
 - Stacks: https://batijs.dev/
+- Lecciones de ciberseguridad: https://www.hacksplaining.com/lessons
 
 ### 📒 CURSOS: 
 - Diseño de sistemas: https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81
