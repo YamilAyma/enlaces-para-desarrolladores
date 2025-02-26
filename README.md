@@ -8,6 +8,10 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Plantillas de documentos y hojas de calculos: https://www.vertex42.com/
+- 1001 fonts: https://www.1001fonts.com/
+- 3D ICONS!: https://www.3dicons.com/
+- Branding Websites: https://www.brandingwebsite.com/
 - LazyWeb: https://app.lazyweb.rocks/
 - Pixel Markets, ilustraciones gratuitas: https://pixels.market/
 - Hover.css: https://ianlunn.github.io/Hover/
@@ -46,10 +50,12 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Herramientas de IA: https://www.myaihub.ai/
 - Cursos y certificaciones para devs: https://www.classcentral.com/report/free-developer-it-certifications
 - Plantillas HTML: https://htmlrev.com/
+- Iconbuddy: https://iconbuddy.com/
 - APIs para desarrollo y practica de proyectos: https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm
 - Componentes UI: https://cuicui.day/
 - Awesome Shadcn UI: https://shadcn.batchtool.com/components
 - Dev Fonts: https://devfonts.gafi.dev/
+- 404 design: https://www.404s.design/
 - Lista de herramientas para trabajar con tecnologias: https://free-for.dev/#/
 - SVGapp: https://svgl.app/
 - Newsletter for devs: https://codeburst.io/newsletters-for-web-developers-c6d6590f7f55
@@ -64,6 +70,11 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Membresias y soporte: https://buymeacoffee.com/
+- Envia archivos a Internet sin registro: https://gofile.io/home
+- Aprende visualmente: https://explorer.globe.engineer/
+- Conocer velocidad de internet: https://fast.com/es/
+- Mejora de prompts : https://www.flexos.work/design/prompt
 - Encuentra el comando de git que buscabas: https://www.gitfluence.com/
 - More Tailwind Gradients Generator: https://www.creative-tim.com/twcomponents/gradient-generator
 - Best Tailwind Tool?: https://tailscan.com/
@@ -72,6 +83,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Glassmorfismo CSS Generator: https://ui.glass/generator/
 - Can I use?: https://caniuse.com/
 - Test para archivos .htaccess: https://htaccess.madewithlove.com/
+- Check Username: https://namechk.com/
 - AI asistente para Android Studio: https://firebender.com/
 - Navegador para frontend: https://polypane.app/
 - Visualizador JSON en el navegador: https://webcurate.co/json-viewer
@@ -129,6 +141,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Generador de paletas de colores: https://www.tints.dev/red/AE7FA9
 - Colores analogicos: https://tailcolor.com/?color=b1b2ff
 - Tailwind Gradient: https://www.tailwindgradient.com/
+- Mejorar tu mecanografia: https://www.typingbolt.com/
 - Cursores animados: https://cursify.vercel.app/
 - Creacion de paquetes JS rapidamente: https://jsrepo.dev/
 - Manejo de archivos con terminal (app): https://superfile.netlify.app/
@@ -140,6 +153,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 ### 🤗 RELAX:
 Memes y cosas divertidas de programación: https://thecodinglove.com/
 Tu perfil de GitHub en un video: https://git-wrapped.com/
+Una vista por la historia IU: https://www.webdesignmuseum.org
+Juegos con matemáticas: https://www.coolmathgames.com/
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
