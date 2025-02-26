@@ -8,6 +8,8 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Galería de startups: https://startups.gallery/
+- Encuentra apps y paginas webs sobre herramientas: https://webcurate.co/
 - Noticias de código abierto (china): https://www.oschina.net/
 - Stickers kawaii de logos y empresas tech: https://github.com/SAWARATSUKI/KawaiiLogos
 - ProductHunt: https://www.producthunt.com/
@@ -52,6 +54,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Sitio web a LLM data: https://www.datafuel.dev
+- Envia imagenes a Internet sin registro: https://imgur.com/
 - Explorar interesantes repositorios GitHub: https://hellogithub.com/en
 - Detalles acerca de algun dominio: https://digger.tools/
 - Datos falsos y sinteticos: https://github.com/supabase-community/copycat
@@ -92,6 +96,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 🤗 RELAX:
 Memes y cosas divertidas de programación: https://thecodinglove.com/
+Tu perfil de GitHub en un video: https://git-wrapped.com/
+
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 - ZenUI: https://zenui.net/
@@ -104,17 +110,25 @@ Memes y cosas divertidas de programación: https://thecodinglove.com/
 - Motion Primitives: https://motion-primitives.com/
 - ShapexUI: https://www.shapexui.site/
 - primereact: https://primereact.org
+- FlyonUI: https://flyonui.com
+- Shadcn UI Blocks: https://www.shadcnui-blocks.com/
+- Tailgrids: https://tailgrids.com/
+
+- Tailwind Buttons: https://devdojo.com/tailwindcss/buttons
 
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 - Plantillas HTML: https://htmlrev.com/
 - Portafolios de desarrolladores: https://github.com/emmabostian/developer-portfolios
+- SaaS Starter..: https://github.com/nextjs/saas-starter
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 - Diseño de sistemas: https://kps.hashnode.dev/system-design-the-complete-course
 - Manual de lab devops: https://dev.to/skysingh04/a-lab-manual-to-devops-4j0e
+- Habitos de un ingeniero de software: https://vadimkravcenko.com/shorts/habits-of-great-software-engineers
 
 ### 📚 DOCUMENTACIÓN UTIL
+- 33 consejos de JS: https://github.com/leonardomso/33-js-concepts
 - Cheatsheets de entrevistas: https://medium.com/javarevisited/system-design-cheatsheet-4607e716db5a
 - Conceptos de programación: https://devpedia.dev/
 - CheatSheets, cuando no lo recuerdas del todo: https://quickref.me/
@@ -178,6 +192,7 @@ Memes y cosas divertidas de programación: https://thecodinglove.com/
 - 51CTO: https://www.51cto.com/
 - cnblogs: https://www.cnblogs.com/
 - CSDN: https://www.csdn.net/
+- vadim kravcenko: https://vadimkravcenko.com/
 
 ### 🎙️ Podcast
 - TalkPython: https://talkpython.fm/episodes/all
