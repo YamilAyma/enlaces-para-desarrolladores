@@ -8,6 +8,11 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- LazyWeb: https://app.lazyweb.rocks/
+- Pixel Markets, ilustraciones gratuitas: https://pixels.market/
+- Hover.css: https://ianlunn.github.io/Hover/
+- Compiladores e interpretes online: https://www.mycompiler.io/es
+- Listas de APIs publicas: https://apislist.com
 - DevSuite: https://devsuite.co/
 - DevUtilities: https://jam.dev/utilities
 - Built At ... Coleccion UI Kits: https://www.builtatlightspeed.com/ 
@@ -59,6 +64,10 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Encuentra el comando de git que buscabas: https://www.gitfluence.com/
+- More Tailwind Gradients Generator: https://www.creative-tim.com/twcomponents/gradient-generator
+- Best Tailwind Tool?: https://tailscan.com/
+- Editor de codigo para tomar capturas: https://vividshare.io/code
 - Tailwind Tools in Browser: https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl
 - Glassmorfismo CSS Generator: https://ui.glass/generator/
 - Can I use?: https://caniuse.com/
@@ -138,15 +147,25 @@ Tu perfil de GitHub en un video: https://git-wrapped.com/
 - TailwindCSS: https://tailgrids.com/blog/tailwind-resources
 - MagicUI: https://magicui.design
 - Lukacho: https://ui.lukacho.com/components
+- Old Styles: https://jdan.github.io/98.css/
 - HyperUI: https://www.hyperui.dev/
 - Material Tailwind Blocks: https://www.material-tailwind.com/blocks
 - AcertinityUI: https://ui.aceternity.com/
 - Motion Primitives: https://motion-primitives.com/
 - PrelineUI: https://preline.co/
 - ShapexUI: https://www.shapexui.site/
+- wickedblocks: https://www.wickedblocks.dev/
+- Animated Icons: https://icons.pqoqubbw.dev/
+- floatui: https://floatui.com/
+- Merakiui: https://merakiui.com/
+- Tailwind Templates: https://tailwindtemplates.io/
+- Apex Charts: https://apexcharts.com/
+- Apache Echarts: https://echarts.apache.org/en/index.html
 - primereact: https://primereact.org
 - FlyonUI: https://flyonui.com
 - Shadcn UI Blocks: https://www.shadcnui-blocks.com/
+- CSS Box Shadows : https://getcssscan.com/css-box-shadow-examples
+- CSS Buttons: https://getcssscan.com/css-buttons-examples
 - Tailgrids: https://tailgrids.com/
 - Tailkits: https://tailkits.com/
 - Free Templates: https://cruip.com/free-templates/
