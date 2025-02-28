@@ -13,6 +13,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - 3D ICONS!: https://www.3dicons.com/
 - Branding Websites: https://www.brandingwebsite.com/
 - LazyWeb: https://app.lazyweb.rocks/
+- ComponentsLibraries: https://componentlibraries.com/
 - Pixel Markets, ilustraciones gratuitas: https://pixels.market/
 - Hover.css: https://ianlunn.github.io/Hover/
 - Compiladores e interpretes online: https://www.mycompiler.io/es
@@ -46,7 +47,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Herramientas de Python y proyecto (échales ojos): https://github.com/ml-tooling/best-of-web-python?tab=readme-ov-file
 - Librerias de IU: https://bestwebdesigntools.com/blog/20-best-free-paid-react-ui-libraries-for-developers-in-2025
 - Frameworks de creación de Agentes: https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks
-- Iconos : https://uiverse.io/elements
+- Iconos y componentes por la comunidad : https://uiverse.io/elements
 - Herramientas de IA: https://www.myaihub.ai/
 - Cursos y certificaciones para devs: https://www.classcentral.com/report/free-developer-it-certifications
 - Plantillas HTML: https://htmlrev.com/
@@ -70,6 +71,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Ilustraciones AI: https://items.design/
+- Cree y obtenga fondos abstractos coloridos gratuitos: https://www.color4bg.com/es/
 - Membresias y soporte: https://buymeacoffee.com/
 - Envia archivos a Internet sin registro: https://gofile.io/home
 - Aprende visualmente: https://explorer.globe.engineer/
@@ -123,6 +126,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Generador de páginas de pricing: https://shipixen.com/shadcn-pricing-page?ref=dailydev
 - Calculadora de RAM para LLM local: https://llm-calc.rayfernando.ai/?quant=fp16
 - Creación de Formularios gratis: https://tally.so/
+- UI Kits: https://uikits.design/
 - Creador de .htaccess: https://www.htaccessredirect.net/
 - Tablas multidimensionales para analisis de datos: https://github.com/VisActor/VTable
 - Compresor de videos: https://compressx.app/?aff=nyLmN
@@ -163,6 +167,9 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - MagicUI: https://magicui.design
 - Lukacho: https://ui.lukacho.com/components
 - Old Styles: https://jdan.github.io/98.css/
+- KokonotUI: https://kokonutui.com/
+- Spectrum Icons: https://spectrums.framer.website/
+
 - HyperUI: https://www.hyperui.dev/
 - Material Tailwind Blocks: https://www.material-tailwind.com/blocks
 - AcertinityUI: https://ui.aceternity.com/
@@ -178,6 +185,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Apache Echarts: https://echarts.apache.org/en/index.html
 - primereact: https://primereact.org
 - FlyonUI: https://flyonui.com
+- Khagwal 3D: https://3d.khagwal.com/
 - Shadcn UI Blocks: https://www.shadcnui-blocks.com/
 - CSS Box Shadows : https://getcssscan.com/css-box-shadow-examples
 - CSS Buttons: https://getcssscan.com/css-buttons-examples
@@ -188,6 +196,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - RadixUI: https://www.radix-ui.com/
 - WindUI: https://wind-ui.com/
 - Tailwind Buttons: https://devdojo.com/tailwindcss/buttons
+- FeatherUI: https://feathericons.com/
 
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
@@ -222,6 +231,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 ### 🔠 TIPOGRAFIAS:
 - https://www.fontsquirrel.com/fonts/list/classification/sans%20serif
 - Tipografias bonitas: https://typodermicfonts.com/downloads/
+- Collletttivo: https://www.collletttivo.it/
 
 ### 📣 BLOGS Y BOLETINES
 - Python Peru: https://python.pe/
@@ -268,6 +278,8 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - CSDN: https://www.csdn.net/
 - vadim kravcenko: https://vadimkravcenko.com/
 
+- NextRoll: https://tech.nextroll.com/blog/
+
 ### 🎙️ Podcast
 - TalkPython: https://talkpython.fm/episodes/all
 - Python Podcast _: https://www.pythonpodcast.com/
@@ -281,6 +293,15 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Componentes web: https://www.ui-layouts.com/
 - Screenshots de sitios web: https://onemillionscreenshots.com/
 - Heros y vistas: https://www.supahero.io/
+- Notas, Slides, Presentaciones: https://www.deck.gallery/
+- Componentes Dieter Rams: https://drams.framer.website/
+- Galería de páginas web: https://minimal.gallery/
+- Galería de pies de página (footers): https://www.footer.design/
+- Aplicaciones móviles: https://handheld.design/
+- Galería de sitios web: https://assetgallery.co/
+- Vistas de aplicaciones para estudiar: https://screensdesign.com/
+- Páginas web con tema oscuro: https://www.dark.design/
+- Páginas web con estructura bento grid: https://bentogrids.com/
 
 ---
 
