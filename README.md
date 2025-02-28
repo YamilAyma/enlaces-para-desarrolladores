@@ -153,6 +153,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Creacion de datos falsos: https://fakerjs.dev/
 - Creacion de slides para devs: https://sli.dev/
 - Patrones CSS: https://bansal.io/pattern-css
+- Crear modelos 3D con IA: https://shapen.com/
 - Creacion de flexboxes: https://flexboxlabs.netlify.app/
 
 ### 🤗 RELAX:
@@ -163,6 +164,8 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- Botones CSS: https://markodenic.com/tools/buttons-generator/
+- Tienda de articulos 3D: https://assetpro.design/collections/3d-shapes
 - ZenUI: https://zenui.net/
 - TailwindCSS: https://tailgrids.com/blog/tailwind-resources
 - MagicUI: https://magicui.design
@@ -170,7 +173,9 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Old Styles: https://jdan.github.io/98.css/
 - KokonotUI: https://kokonutui.com/
 - Spectrum Icons: https://spectrums.framer.website/
-
+- Raster, iconos retro : https://raster.saran13raj.com/
+- Rafty, react&tailwind components: https://rafty.rhinobase.io/
+- Free React Components: https://reactcomponents.com/
 - HyperUI: https://www.hyperui.dev/
 - Material Tailwind Blocks: https://www.material-tailwind.com/blocks
 - AcertinityUI: https://ui.aceternity.com/
@@ -191,13 +196,18 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - CSS Box Shadows : https://getcssscan.com/css-box-shadow-examples
 - CSS Buttons: https://getcssscan.com/css-buttons-examples
 - Tailgrids: https://tailgrids.com/
+- CuratedUIList: https://www.curateduilist.com/
 - Tailkits: https://tailkits.com/
 - Free Templates: https://cruip.com/free-templates/
 - Themesberg: https://themesberg.com/
 - RadixUI: https://www.radix-ui.com/
+- saasUI: https://illustrations.saas-ui.dev/
 - WindUI: https://wind-ui.com/
 - Tailwind Buttons: https://devdojo.com/tailwindcss/buttons
 - FeatherUI: https://feathericons.com/
+- Recursos de videos: https://mixkit.co/
+- Recursos de videos II: https://coverr.co/
+
 
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
@@ -223,6 +233,8 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - TS para React: https://www.jacobparis.com/content/react-ts
 - Como construir RAG con Langchain: https://github.com/bRAGAI/bRAG-langchain
 - Stacks: https://batijs.dev/
+- Isocons: https://www.isocons.app/
+- Glyph: https://glyphs.fyi/
 - Lecciones de ciberseguridad: https://www.hacksplaining.com/lessons
 
 ### 📒 CURSOS: 
@@ -233,6 +245,8 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - https://www.fontsquirrel.com/fonts/list/classification/sans%20serif
 - Tipografias bonitas: https://typodermicfonts.com/downloads/
 - Collletttivo: https://www.collletttivo.it/
+- DaFont: https://www.dafont.com/es/
+- Befonts: https://befonts.com
 
 ### 📣 BLOGS Y BOLETINES
 - Python Peru: https://python.pe/
@@ -303,7 +317,11 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Galería de sitios web: https://assetgallery.co/
 - Vistas de aplicaciones para estudiar: https://screensdesign.com/
 - Páginas web con tema oscuro: https://www.dark.design/
+- Galerías de logos: https://logosystem.co/
 - Páginas web con estructura bento grid: https://bentogrids.com/
+- Más páginas web atractivas: https://godly.website/
+- Ejemplos de sitios web: https://websitevice.com/
+- pafolios: https://pafolios.com/
 
 ---
 
