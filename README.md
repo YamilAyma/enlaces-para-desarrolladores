@@ -71,6 +71,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Mesh Gradient Generator: https://glazz.saran13raj.com/mesh-gradient
 - Ilustraciones AI: https://items.design/
 - Cree y obtenga fondos abstractos coloridos gratuitos: https://www.color4bg.com/es/
 - Membresias y soporte: https://buymeacoffee.com/
@@ -290,6 +291,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - v2EX: https://www.v2ex.com/ 
 
 ### 💫 INSPIRACIÓN
+- Páginas web con animaciones: https://www.unsection.com/
 - Componentes web: https://www.ui-layouts.com/
 - Screenshots de sitios web: https://onemillionscreenshots.com/
 - Heros y vistas: https://www.supahero.io/
