@@ -71,6 +71,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Crear ilustraciones con IA sin registro: https://tinywow.com/image/ai-image-generator
 - Mesh Gradient Generator: https://glazz.saran13raj.com/mesh-gradient
 - Ilustraciones AI: https://items.design/
 - Cree y obtenga fondos abstractos coloridos gratuitos: https://www.color4bg.com/es/
@@ -171,6 +172,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - MagicUI: https://magicui.design
 - Lukacho: https://ui.lukacho.com/components
 - Old Styles: https://jdan.github.io/98.css/
+- Colores en vivo: https://www.realtimecolors.com
 - KokonotUI: https://kokonutui.com/
 - Spectrum Icons: https://spectrums.framer.website/
 - Raster, iconos retro : https://raster.saran13raj.com/
@@ -203,6 +205,8 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - RadixUI: https://www.radix-ui.com/
 - saasUI: https://illustrations.saas-ui.dev/
 - WindUI: https://wind-ui.com/
+- AnimatedIcons: https://animatedicons.co/
+- Phosphor Icons: https://phosphoricons.com/
 - Tailwind Buttons: https://devdojo.com/tailwindcss/buttons
 - FeatherUI: https://feathericons.com/
 - Recursos de videos: https://mixkit.co/
@@ -234,6 +238,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Como construir RAG con Langchain: https://github.com/bRAGAI/bRAG-langchain
 - Stacks: https://batijs.dev/
 - Isocons: https://www.isocons.app/
+- Mantine: https://mantine.dev/
 - Glyph: https://glyphs.fyi/
 - Lecciones de ciberseguridad: https://www.hacksplaining.com/lessons
 
@@ -247,6 +252,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Collletttivo: https://www.collletttivo.it/
 - DaFont: https://www.dafont.com/es/
 - Befonts: https://befonts.com
+- Fontshare: https://www.fontshare.com/
 
 ### 📣 BLOGS Y BOLETINES
 - Python Peru: https://python.pe/
@@ -305,6 +311,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - v2EX: https://www.v2ex.com/ 
 
 ### 💫 INSPIRACIÓN
+- CallToInspiration: https://calltoinspiration.com/
 - Páginas web con animaciones: https://www.unsection.com/
 - Componentes web: https://www.ui-layouts.com/
 - Screenshots de sitios web: https://onemillionscreenshots.com/
@@ -322,7 +329,9 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Más páginas web atractivas: https://godly.website/
 - Ejemplos de sitios web: https://websitevice.com/
 - pafolios: https://pafolios.com/
-
+- OGImageGallery: https://www.ogimage.gallery/
+- SaaS Webs: https://saaspo.com/
+- Mobbin: https://mobbin.com/
 ---
 
 ⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
