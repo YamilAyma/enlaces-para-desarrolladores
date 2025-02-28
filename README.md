@@ -13,6 +13,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - 3D ICONS!: https://www.3dicons.com/
 - Branding Websites: https://www.brandingwebsite.com/
 - LazyWeb: https://app.lazyweb.rocks/
+- Wallpapers: https://www.pixelums.com/
 - ComponentsLibraries: https://componentlibraries.com/
 - Pixel Markets, ilustraciones gratuitas: https://pixels.market/
 - Hover.css: https://ianlunn.github.io/Hover/
@@ -71,6 +72,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Mockups con gradientes: https://shots.so/
 - Crear ilustraciones con IA sin registro: https://tinywow.com/image/ai-image-generator
 - Mesh Gradient Generator: https://glazz.saran13raj.com/mesh-gradient
 - Ilustraciones AI: https://items.design/
@@ -165,6 +167,10 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- Reverse UI: https://reverseui.com/craft
+- Spark UI: https://spark-ui.dev/
+- Hugeicons: https://hugeicons.com/
+- Iconstica Free: https://www.iconstica.com/free-icons
 - Botones CSS: https://markodenic.com/tools/buttons-generator/
 - Tienda de articulos 3D: https://assetpro.design/collections/3d-shapes
 - ZenUI: https://zenui.net/
@@ -332,6 +338,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - OGImageGallery: https://www.ogimage.gallery/
 - SaaS Webs: https://saaspo.com/
 - Mobbin: https://mobbin.com/
+- Muzli: https://muz.li/es
 ---
 
 ⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
