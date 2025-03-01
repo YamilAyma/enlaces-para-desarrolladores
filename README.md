@@ -8,6 +8,11 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Lista de herramientas alternativas OpenSource: https://openalternative.co
+- Recursos para fuentes y colores: https://www.colorsandfonts.com/
+- Herramientas para usar con TailwindCSS: https://github.com/aniftyco/awesome-tailwindcss
+- toolfolio: https://toolfolio.io/
+- yesicon: https://yesicon.app
 - Plantillas de documentos y hojas de calculos: https://www.vertex42.com/
 - 1001 fonts: https://www.1001fonts.com/
 - 3D ICONS!: https://www.3dicons.com/
@@ -72,6 +77,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- pqoqubbw/icons: https://icons.pqoqubbw.dev/
+- Repositorio GIT a diagrama: https://gitdiagram.com
 - Mockups con gradientes: https://shots.so/
 - Crear ilustraciones con IA sin registro: https://tinywow.com/image/ai-image-generator
 - Mesh Gradient Generator: https://glazz.saran13raj.com/mesh-gradient
@@ -167,6 +174,9 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- Majestic-ui (flutter): https://www.majesticui.com
+- CSSFX, animaciones CSS (copiar y pegar): https://cssfx.netlify.app/
+- LunarUI: https://lunarui.dev/
 - Reverse UI: https://reverseui.com/craft
 - Spark UI: https://spark-ui.dev/
 - Hugeicons: https://hugeicons.com/
@@ -326,6 +336,9 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Componentes Dieter Rams: https://drams.framer.website/
 - Galería de páginas web: https://minimal.gallery/
 - Galería de pies de página (footers): https://www.footer.design/
+- seesaw, sitios web: https://www.seesaw.website/
+- Brutalist Websites: https://brutalistwebsites.com/
+- Detalles y animaciones: https://60fps.design/ 
 - Aplicaciones móviles: https://handheld.design/
 - Galería de sitios web: https://assetgallery.co/
 - Vistas de aplicaciones para estudiar: https://screensdesign.com/
