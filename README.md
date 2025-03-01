@@ -77,6 +77,11 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Plataforma para prueba de APIs: https://hoppscotch.com
+- Motor de busqueda con IA: https://scira.app/
+- Extraer SVGs de paginas web (Extension Chrome): https://svgexport.io/
+- Gotero para usar en paginas web (Extension Chrome): https://chromewebstore.google.com/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka
+- Dibuja en paginas web en vivo (Extension Chrome): https://chromewebstore.google.com/detail/page-marker-draw-on-web/jfiihjeimjpkpoaekpdpllpaeichkiod
 - pqoqubbw/icons: https://icons.pqoqubbw.dev/
 - Repositorio GIT a diagrama: https://gitdiagram.com
 - Mockups con gradientes: https://shots.so/
@@ -96,6 +101,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Tailwind Tools in Browser: https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl
 - Glassmorfismo CSS Generator: https://ui.glass/generator/
 - Can I use?: https://caniuse.com/
+- Creador de animaciones Lottie y microinteracciones: https://www.phase.com/es-ES
+- Mossaik: https://mossaik.app/
 - Test para archivos .htaccess: https://htaccess.madewithlove.com/
 - Check Username: https://namechk.com/
 - AI asistente para Android Studio: https://firebender.com/
@@ -129,6 +136,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Datos falsos y sinteticos: https://github.com/supabase-community/copycat
 - Automatizacion web ligera: https://github.com/mherrmann/helium
 - .: https://coding.net/
+- Animaciones con texto: https://spacetypegenerator.com/
 - Web Checker Info: https://web-check.xyz/
 - Visualización de modelos: https://www.tensorflow.org/tensorboard?hl=es-419
 - Capturas de pantalla bonitas con gradientes: https://postspark.app
@@ -142,6 +150,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Tablas multidimensionales para analisis de datos: https://github.com/VisActor/VTable
 - Compresor de videos: https://compressx.app/?aff=nyLmN
 - API de Screenshots: https://screenshotone.com/
+- Varias paletas de colores e información : https://www.happyhues.co/
+- EpicEasing: https://epiceasing.com/?curve=0.470%2C0.000%2C0.745%2C0.715&language=css
 - Creador de documentación mediante coidgo: https://www.docz.site/
 - Diagramas ERD interactivos y geniales: https://liambx.com/
 - Animaciones con Canvas y TS para videos: https://motioncanvas.io/
@@ -174,6 +184,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- Nee3D: https://need3d.ru/en/ 
 - Majestic-ui (flutter): https://www.majesticui.com
 - CSSFX, animaciones CSS (copiar y pegar): https://cssfx.netlify.app/
 - LunarUI: https://lunarui.dev/
@@ -263,12 +274,14 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Rust por Google : https://github.com/google/comprehensive-rust
 
 ### 🔠 TIPOGRAFIAS:
+- https://velvetyne.fr/
 - https://www.fontsquirrel.com/fonts/list/classification/sans%20serif
 - Tipografias bonitas: https://typodermicfonts.com/downloads/
 - Collletttivo: https://www.collletttivo.it/
 - DaFont: https://www.dafont.com/es/
 - Befonts: https://befonts.com
 - Fontshare: https://www.fontshare.com/
+- uncut: https://uncut.wtf/
 
 ### 📣 BLOGS Y BOLETINES
 - Python Peru: https://python.pe/
@@ -326,7 +339,13 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Linux Do: https://linux.do/
 - v2EX: https://www.v2ex.com/ 
 
+
 ### 💫 INSPIRACIÓN
+- https://designsystems.surf/
+- a1 Gallery; https://www.a1.gallery/
+- Más inspiracion UI: https://viewport-ui.design/
+- Same energy: https://same.energy/
+- Encabezados y banners: https://headers.club/
 - CallToInspiration: https://calltoinspiration.com/
 - Páginas web con animaciones: https://www.unsection.com/
 - Componentes web: https://www.ui-layouts.com/
