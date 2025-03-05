@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- APIs para utilizarlos en tus proyectos: https://github.com/public-api-lists/public-api-lists
 - Lista de herramientas alternativas OpenSource: https://openalternative.co
 - Recursos para fuentes y colores: https://www.colorsandfonts.com/
 - Herramientas para usar con TailwindCSS: https://github.com/aniftyco/awesome-tailwindcss
