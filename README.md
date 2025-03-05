@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Prompt Engineering: https://github.com/NirDiamant/Prompt_Engineering
 - APIs para utilizarlos en tus proyectos: https://github.com/public-api-lists/public-api-lists
 - Lista de herramientas alternativas OpenSource: https://openalternative.co
 - Recursos para fuentes y colores: https://www.colorsandfonts.com/
@@ -251,6 +252,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Diseño de sistemas: https://kps.hashnode.dev/system-design-the-complete-course
 - Manual de lab devops: https://dev.to/skysingh04/a-lab-manual-to-devops-4j0e
 - Habitos de un ingeniero de software: https://vadimkravcenko.com/shorts/habits-of-great-software-engineers
+- https://www.joshwcomeau.com/blog/whimsical-animations
 
 ### 📚 DOCUMENTACIÓN UTIL
 - 33 consejos de JS: https://github.com/leonardomso/33-js-concepts
