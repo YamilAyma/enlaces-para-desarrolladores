@@ -62,6 +62,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Iconbuddy: https://iconbuddy.com/
 - APIs para desarrollo y practica de proyectos: https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm
 - Componentes UI: https://cuicui.day/
+- Tech Blogs: https://tech-blogs.dev/list/
 - Awesome Shadcn UI: https://shadcn.batchtool.com/components
 - Dev Fonts: https://devfonts.gafi.dev/
 - 404 design: https://www.404s.design/
@@ -73,6 +74,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 ### 📄 LISTAS
 - STARTUPS: https://docs.google.com/spreadsheets/u/0/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/htmlview
 - State of JS: https://2024.stateofjs.com/en-US/libraries/
+- Lista de APIs para usar en proyectos: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 
 ### 🧗 ROADMAPS:
 - Laravel : https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
@@ -344,6 +346,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 
 
 ### 💫 INSPIRACIÓN
+
 - https://designsystems.surf/
 - a1 Gallery; https://www.a1.gallery/
 - Más inspiracion UI: https://viewport-ui.design/
