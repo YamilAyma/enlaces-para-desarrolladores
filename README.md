@@ -342,7 +342,9 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 ### 🌐 Otros medios
 - Python Reddit: https://www.reddit.com/r/Python/?rdt=57565
 - Linux Do: https://linux.do/
-- v2EX: https://www.v2ex.com/ 
+- v2EX: https://www.v2ex.com/
+- elHacker.net: https://elhacker.net/
+- hackertab.dev: https://now.hackertab.dev/
 
 
 ### 💫 INSPIRACIÓN
