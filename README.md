@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Efectos con imagenes en CSS: https://prismic.io/blog/css-image-effects
 - Prompt Engineering: https://github.com/NirDiamant/Prompt_Engineering
 - APIs para utilizarlos en tus proyectos: https://github.com/public-api-lists/public-api-lists
 - Lista de herramientas alternativas OpenSource: https://openalternative.co
@@ -81,6 +82,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- CSS easing functions creador: https://easingwizard.com/
+- Visualización de CSV: https://github.com/visprex/visprex
 - Plataforma para prueba de APIs: https://hoppscotch.com
 - Motor de busqueda con IA: https://scira.app/
 - Extraer SVGs de paginas web (Extension Chrome): https://svgexport.io/
