@@ -66,6 +66,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Tech Blogs: https://tech-blogs.dev/list/
 - Awesome Shadcn UI: https://shadcn.batchtool.com/components
 - Dev Fonts: https://devfonts.gafi.dev/
+- GenAIAgents: https://github.com/NirDiamant/GenAI_Agents
 - 404 design: https://www.404s.design/
 - Lista de herramientas para trabajar con tecnologias: https://free-for.dev/#/
 - SVGapp: https://svgl.app/
@@ -82,6 +83,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- Analisis de paquetes de Python (PyPi): https://pypistats.org/
 - CSS easing functions creador: https://easingwizard.com/
 - Visualización de CSV: https://github.com/visprex/visprex
 - Plataforma para prueba de APIs: https://hoppscotch.com
