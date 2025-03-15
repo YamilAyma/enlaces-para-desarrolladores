@@ -19,6 +19,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Plantillas de documentos y hojas de calculos: https://www.vertex42.com/
 - 1001 fonts: https://www.1001fonts.com/
 - 3D ICONS!: https://www.3dicons.com/
+- Unheap: https://www.unheap.com/
 - Branding Websites: https://www.brandingwebsite.com/
 - LazyWeb: https://app.lazyweb.rocks/
 - Wallpapers: https://www.pixelums.com/
@@ -77,6 +78,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - STARTUPS: https://docs.google.com/spreadsheets/u/0/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/htmlview
 - State of JS: https://2024.stateofjs.com/en-US/libraries/
 - Lista de APIs para usar en proyectos: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+- NEWSLETTERS: https://docs.google.com/spreadsheets/d/1LWHf_WVwK0wKAFBFjQxtM7OJokK7lb5SUPknw3Ebz_c/edit?gid=1533789385#gid=1533789385
 
 ### 🧗 ROADMAPS:
 - Laravel : https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
@@ -325,6 +327,7 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - The pragmatic Engineer: https://newsletter.pragmaticengineer.com/
 - Dear Architects:: https://www.deararchitects.xyz/
 - EKS News: https://eks.news/
+- Javaspecialist: https://www.javaspecialists.eu/archive/
 - of-by-one: https://offbynone.io/
 - console.dev: https://console.dev/
 - web.dev: https://web.dev/
@@ -342,8 +345,25 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - Ethical Design: https://ethicaldesignnetwork.com/
 - FundamentDesign: https://www.fundament.design/
 - ProductDesign: https://productdesigninterview.com/weekly-ux-product-design-exercise
-
+- jsk: https://javascriptkicks.com/
+- jsWEEKLY: https://javascriptweekly.com/
+- ecmascriptnews: https://ecmascript.news/index.html
 - NextRoll: https://tech.nextroll.com/blog/
+- Vue.js feed: https://vuejsfeed.com/
+- nodeweekly: https://nodeweekly.com/
+- reactstatus: https://react.statuscode.com/
+- phpweekly: https://www.phpweekly.com/
+- awesome php weekly: https://php.libhunt.com/newsletter
+- Laravel Newsletter: https://laravel-news.com/newsletter
+- dbweekly: https://dbweekly.com/
+- postgresqlweekly: https://postgresweekly.com/
+- smashingmagazine: https://www.smashingmagazine.com/the-smashing-newsletter/
+- cssweekly: https://css-weekly.com/
+- bytes: https://bytes.dev/
+- frontendfocus: https://frontendfoc.us/
+- pycoders: https://pycoders.com/
+- pythonweekly: https://www.pythonweekly.com/
+
 
 ### 🎙️ Podcast
 - TalkPython: https://talkpython.fm/episodes/all
