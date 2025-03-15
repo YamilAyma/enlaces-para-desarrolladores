@@ -337,6 +337,11 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 - cnblogs: https://www.cnblogs.com/
 - CSDN: https://www.csdn.net/
 - vadim kravcenko: https://vadimkravcenko.com/
+- AI Goodies: https://aigoodies.beehiiv.com/
+- https://danmallteaches.substack.com/
+- Ethical Design: https://ethicaldesignnetwork.com/
+- FundamentDesign: https://www.fundament.design/
+- ProductDesign: https://productdesigninterview.com/weekly-ux-product-design-exercise
 
 - NextRoll: https://tech.nextroll.com/blog/
 
