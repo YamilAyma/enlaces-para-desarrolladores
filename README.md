@@ -9,6 +9,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
 - Efectos con imagenes en CSS: https://prismic.io/blog/css-image-effects
+- FrutigerAeroWallpapers: https://imgur.com/a/over-50-frutiger-aero-wallpapers-2008ify-pc-py02bp7
 - Prompt Engineering: https://github.com/NirDiamant/Prompt_Engineering
 - APIs para utilizarlos en tus proyectos: https://github.com/public-api-lists/public-api-lists
 - Lista de herramientas alternativas OpenSource: https://openalternative.co
@@ -85,6 +86,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 
 ### 🛠️ HERRAMIENTAS:
+- FrutigerAero Glassmorphism Generator: https://frutigeraerogames.com/glassmorphism-css-ui-generator/
+- Glassmorphism Generator: https://hype4.academy/tools/glassmorphism-generator
 - Analisis de paquetes de Python (PyPi): https://pypistats.org/
 - CSS easing functions creador: https://easingwizard.com/
 - Visualización de CSV: https://github.com/visprex/visprex
@@ -195,7 +198,8 @@ Juegos con matemáticas: https://www.coolmathgames.com/
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
-- Nee3D: https://need3d.ru/en/ 
+- Nee3D: https://need3d.ru/en/
+- Windows Frutiger Aero Framework CSS: https://khang-nd.github.io/7.css/
 - Majestic-ui (flutter): https://www.majesticui.com
 - CSSFX, animaciones CSS (copiar y pegar): https://cssfx.netlify.app/
 - LunarUI: https://lunarui.dev/
