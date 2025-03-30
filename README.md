@@ -84,6 +84,9 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 ### 🧗 ROADMAPS:
 - Laravel : https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
 
+### APIs:
+- Acortador URL: https://da.gd/
+- Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
 - FrutigerAero Glassmorphism Generator: https://frutigeraerogames.com/glassmorphism-css-ui-generator/
