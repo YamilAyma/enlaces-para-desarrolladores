@@ -192,6 +192,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Patrones CSS: https://bansal.io/pattern-css
 - Crear modelos 3D con IA: https://shapen.com/
 - Creacion de flexboxes: https://flexboxlabs.netlify.app/
+    #### Despliegue:
+      - https://www.pythonanywhere.com
 
 ### 🤗 RELAX:
 Memes y cosas divertidas de programación: https://thecodinglove.com/
