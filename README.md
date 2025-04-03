@@ -92,6 +92,14 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- Programar y graba GIF de la terminal: https://github.com/charmbracelet/vhs
+- Graba tu terminal y genera GIF: https://github.com/faressoft/terminalizer
+- Estadisticas para usuarios Github: https://github.com/cicirello/user-statistician
+- Generador Readme por CLI: https://github.com/kefranabg/readme-md-generator
+- Creador README: https://readme-forge.github.io/
+- Estadisticas Github README: https://github.com/anuraghazra/github-readme-stats
+- Salon de la fama en READMEs: https://github.com/sourcerer-io/hall-of-fame#readme
+- Plantilla de README para proyectos: https://github.com/othneildrew/Best-README-Template
 - Despliegue de apps Streamlit: https://www.streamoku.com/
 - Estructura Atomic-Design React: https://github.com/Shpendrr/react-app-structure
 - Comparacion de modelos IA: https://countless.dev/
@@ -276,6 +284,8 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Manual de lab devops: https://dev.to/skysingh04/a-lab-manual-to-devops-4j0e
 - Habitos de un ingeniero de software: https://vadimkravcenko.com/shorts/habits-of-great-software-engineers
 - https://www.joshwcomeau.com/blog/whimsical-animations
+- README: https://github.com/hackergrrl/art-of-readme
+- Mejores prácticas README: https://github.com/jehna/readme-best-practices
 
 ### 📚 DOCUMENTACIÓN UTIL
 - 33 consejos de JS: https://github.com/leonardomso/33-js-concepts
@@ -392,7 +402,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### 💫 INSPIRACIÓN
-
+- Ejemplos de READMEs personales: https://zzetao.github.io/awesome-github-profile/
 - https://designsystems.surf/
 - a1 Gallery; https://www.a1.gallery/
 - Más inspiracion UI: https://viewport-ui.design/
