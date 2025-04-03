@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- PACK DE PACK de recursos: https://resourcle.com/
 - Efectos con imagenes en CSS: https://prismic.io/blog/css-image-effects
 - FrutigerAeroWallpapers: https://imgur.com/a/over-50-frutiger-aero-wallpapers-2008ify-pc-py02bp7
 - Prompt Engineering: https://github.com/NirDiamant/Prompt_Engineering
@@ -72,6 +73,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - 404 design: https://www.404s.design/
 - Lista de herramientas para trabajar con tecnologias: https://free-for.dev/#/
 - SVGapp: https://svgl.app/
+- MCP Servidores: https://mcp.so/
 - Newsletter for devs: https://codeburst.io/newsletters-for-web-developers-c6d6590f7f55
 - Newsletters for all: https://www.smashingmagazine.com/2024/06/useful-email-newsletters-for-designers
 
@@ -80,6 +82,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - State of JS: https://2024.stateofjs.com/en-US/libraries/
 - Lista de APIs para usar en proyectos: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 - NEWSLETTERS: https://docs.google.com/spreadsheets/d/1LWHf_WVwK0wKAFBFjQxtM7OJokK7lb5SUPknw3Ebz_c/edit?gid=1533789385#gid=1533789385
+- Preguntas de entrevista React: https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file
 
 ### 🧗 ROADMAPS:
 - Laravel : https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
@@ -89,6 +92,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- Estructura Atomic-Design React: https://github.com/Shpendrr/react-app-structure
+- Comparacion de modelos IA: https://countless.dev/
 - FrutigerAero Glassmorphism Generator: https://frutigeraerogames.com/glassmorphism-css-ui-generator/
 - Glassmorphism Generator: https://hype4.academy/tools/glassmorphism-generator
 - Analisis de paquetes de Python (PyPi): https://pypistats.org/
@@ -199,7 +204,6 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 Memes y cosas divertidas de programación: https://thecodinglove.com/
 Tu perfil de GitHub en un video: https://git-wrapped.com/
 Una vista por la historia IU: https://www.webdesignmuseum.org
-Juegos con matemáticas: https://www.coolmathgames.com/
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
