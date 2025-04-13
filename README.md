@@ -9,6 +9,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
 - PACK DE PACK de recursos: https://resourcle.com/
+- Plantillas para Issues: https://github.com/stevemao/github-issue-templates
 - Efectos con imagenes en CSS: https://prismic.io/blog/css-image-effects
 - FrutigerAeroWallpapers: https://imgur.com/a/over-50-frutiger-aero-wallpapers-2008ify-pc-py02bp7
 - Prompt Engineering: https://github.com/NirDiamant/Prompt_Engineering
@@ -92,6 +93,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- Más insignias para repositorios como READMEs: https://shields.io/
+- Mejora la visualización de repositorios en tu GitHub(Extensión): https://chromewebstore.google.com/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe
 - Insignias para README.md: https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
 - Programar y graba GIF de la terminal: https://github.com/charmbracelet/vhs
 - Graba tu terminal y genera GIF: https://github.com/faressoft/terminalizer
