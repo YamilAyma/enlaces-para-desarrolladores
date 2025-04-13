@@ -92,6 +92,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- Insignias para README.md: https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
 - Programar y graba GIF de la terminal: https://github.com/charmbracelet/vhs
 - Graba tu terminal y genera GIF: https://github.com/faressoft/terminalizer
 - Estadisticas para usuarios Github: https://github.com/cicirello/user-statistician
