@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Tipografías para editores de código: https://www.programmingfonts.org/
 - PACK DE PACK de recursos: https://resourcle.com/
 - Plantillas para Issues: https://github.com/stevemao/github-issue-templates
 - Efectos con imagenes en CSS: https://prismic.io/blog/css-image-effects
@@ -93,6 +94,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- Repositorio de fuentes para tu editor: https://github.com/CSS-Tricks/coding-fonts
 - Más insignias para repositorios como READMEs: https://shields.io/
 - Mejora la visualización de repositorios en tu GitHub(Extensión): https://chromewebstore.google.com/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe
 - Insignias para README.md: https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
