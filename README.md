@@ -94,6 +94,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- Loaders personalizados y sencillos: https://loading.io/
 - Repositorio de fuentes para tu editor: https://github.com/CSS-Tricks/coding-fonts
 - Más insignias para repositorios como READMEs: https://shields.io/
 - Mejora la visualización de repositorios en tu GitHub(Extensión): https://chromewebstore.google.com/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe
