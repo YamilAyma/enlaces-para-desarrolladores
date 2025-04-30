@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- toolsui: https://tools.ui-layouts.com/
 - Tipografías para editores de código: https://www.programmingfonts.org/
 - PACK DE PACK de recursos: https://resourcle.com/
 - Plantillas para Issues: https://github.com/stevemao/github-issue-templates
@@ -94,6 +95,14 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- fine-tuning de datasets: https://github.com/ConardLi/easy-dataset
+- AI Coding Autoalojado: https://www.tabbyml.com/
+- Presentaciones con MD: https://github.com/mfontanini/presenterm
+- Imagen a ASCII: https://itoa.hex.dance/
+- Layoutsdev: https://layouts.dev/
+- CSS Voxel Editor: https://voxels.layoutit.com/
+- paleta de colores tailwindcss de empresas: https://brands-tail-color.vercel.app/
+- Dibuja con texto: https://cascii.app/
 - Loaders personalizados y sencillos: https://loading.io/
 - Repositorio de fuentes para tu editor: https://github.com/CSS-Tricks/coding-fonts
 - Más insignias para repositorios como READMEs: https://shields.io/
@@ -295,6 +304,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Mejores prácticas README: https://github.com/jehna/readme-best-practices
 
 ### 📚 DOCUMENTACIÓN UTIL
+- Agents recipes: https://www.agentrecipes.com/
 - 33 consejos de JS: https://github.com/leonardomso/33-js-concepts
 - Cheatsheets de entrevistas: https://medium.com/javarevisited/system-design-cheatsheet-4607e716db5a
 - Conceptos de programación: https://devpedia.dev/
@@ -313,6 +323,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Lecciones de ciberseguridad: https://www.hacksplaining.com/lessons
 
 ### 📒 CURSOS: 
+- CSS mediante lecciones: https://anchoreum.com/#es
 - Diseño de sistemas: https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81
 - Rust por Google : https://github.com/google/comprehensive-rust
 
@@ -327,6 +338,10 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - uncut: https://uncut.wtf/
 
 ### 📣 BLOGS Y BOLETINES
+- selfhosting: https://noted.lol/
+- MLCMU: https://blog.ml.cmu.edu/
+- SYC: https://strategizeyourcareer.com/
+- theshapeddev: https://thetshaped.dev/
 - Python Peru: https://python.pe/
 - Cursos y noticias actuales: https://www.marktechpost.com/
 - Ciencia de datos: https://www.kdnuggets.com/
