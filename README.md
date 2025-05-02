@@ -8,6 +8,9 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Listas de topicos interesantes: https://github.com/sindresorhus/awesome
+- Herramientas para READMEs: https://github.com/rzashakeri/beautify-github-profile
+- Lista de mejores prácticas en programación: https://github.com/dereknguyen269/programing-best-practices
 - toolsui: https://tools.ui-layouts.com/
 - Tipografías para editores de código: https://www.programmingfonts.org/
 - PACK DE PACK de recursos: https://resourcle.com/
@@ -95,6 +98,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- estadisticas github: https://github.com/lowlighter/metrics
 - fine-tuning de datasets: https://github.com/ConardLi/easy-dataset
 - AI Coding Autoalojado: https://www.tabbyml.com/
 - Presentaciones con MD: https://github.com/mfontanini/presenterm
@@ -304,6 +308,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Mejores prácticas README: https://github.com/jehna/readme-best-practices
 
 ### 📚 DOCUMENTACIÓN UTIL
+- Trucos Python: https://realpython.com/python-tricks/
 - Agents recipes: https://www.agentrecipes.com/
 - 33 consejos de JS: https://github.com/leonardomso/33-js-concepts
 - Cheatsheets de entrevistas: https://medium.com/javarevisited/system-design-cheatsheet-4607e716db5a
@@ -338,6 +343,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - uncut: https://uncut.wtf/
 
 ### 📣 BLOGS Y BOLETINES
+- 
 - selfhosting: https://noted.lol/
 - MLCMU: https://blog.ml.cmu.edu/
 - SYC: https://strategizeyourcareer.com/
