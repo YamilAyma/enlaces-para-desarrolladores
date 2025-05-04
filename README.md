@@ -98,6 +98,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- RegEx Builder - https://regexbuilder.vercel.app/
 - estadisticas github: https://github.com/lowlighter/metrics
 - fine-tuning de datasets: https://github.com/ConardLi/easy-dataset
 - AI Coding Autoalojado: https://www.tabbyml.com/
