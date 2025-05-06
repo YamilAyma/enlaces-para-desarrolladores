@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Lista de recursos Jupyter - https://github.com/markusschanta/awesome-jupyter
 - Listas de topicos interesantes: https://github.com/sindresorhus/awesome
 - Herramientas para READMEs: https://github.com/rzashakeri/beautify-github-profile
 - Lista de mejores prácticas en programación: https://github.com/dereknguyen269/programing-best-practices
