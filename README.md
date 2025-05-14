@@ -120,6 +120,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- Iconos de habilidades tech - https://github.com/tandpfun/skill-icons
+- Emojis para archivos MD en Github - https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
 - RegEx Builder - https://regexbuilder.vercel.app/
 - estadisticas github: https://github.com/lowlighter/metrics
 - fine-tuning de datasets: https://github.com/ConardLi/easy-dataset
@@ -333,6 +335,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Mejores prácticas README: https://github.com/jehna/readme-best-practices
 
 ### 📚 DOCUMENTACIÓN UTIL
+- Logros de Github - https://github.com/4xmen/Get-Github-Achievements
 - Lista de Cheatsheets - https://github.com/detailyang/awesome-cheatsheet
 - WPO - https://github.com/davidsonfellipe/awesome-wpo
 - Recursos para bases de datos - https://github.com/pingcap/awesome-database-learning
