@@ -8,21 +8,41 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- ⚠️ La lista más extensa - https://github.com/jnv/lists
+- Recursos Java - https://github.com/Vedenin/useful-java-links
+- Colección de Prompts para GenIA - https://github.com/ai-boost/awesome-prompts
+- Ingeniería de datos - https://github.com/igorbarinov/awesome-data-engineering
+- Recursos interesantes - https://github.com/stanzhai/be-a-professional-programmer
+- Recursos gráficos (fotos, videos, iconos...) - https://github.com/neutraltone/awesome-stock-resources
+- Programación Recreativa - https://github.com/terkelg/awesome-creative-coding
+- Recursos para gamedev - https://github.com/ellisonleao/magictools
+- Sobre diseño UI - https://github.com/gztchan/awesome-design
+- Lista de herramientas IA gratuitas - https://github.com/LiLittleCat/awesome-free-chatgpt
+- Proyectos ML - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+- Sobre VSCode - https://github.com/viatsko/awesome-vscode
+- Certificaciones - https://github.com/cloudcommunity/Free-Certifications
+- Colección de herramientas para diseño IU - https://github.com/goabstract/Awesome-Design-Tools
+- Lista de herramientas y recursos frontend - https://github.com/dypsilon/frontend-dev-bookmarks
+- Lista de detalles sobre github - https://github.com/tiimgreen/github-cheat-sheet
+- Sobre conceptos de escalabilidad - https://github.com/binhnguyennus/awesome-scalability
+- Colección de recursos y herramientas para desarrolladores - https://github.com/trimstray/the-book-of-secret-knowledge
+- Proyectos de Github - https://hellogithub.com/en
+- Colección de articulos sobre tecnología e IA - https://github.com/papers-we-love/papers-we-love
 - Lista de recursos Jupyter - https://github.com/markusschanta/awesome-jupyter
-- Listas de topicos interesantes: https://github.com/sindresorhus/awesome
-- Herramientas para READMEs: https://github.com/rzashakeri/beautify-github-profile
-- Lista de mejores prácticas en programación: https://github.com/dereknguyen269/programing-best-practices
-- toolsui: https://tools.ui-layouts.com/
-- Tipografías para editores de código: https://www.programmingfonts.org/
-- PACK DE PACK de recursos: https://resourcle.com/
-- Plantillas para Issues: https://github.com/stevemao/github-issue-templates
-- Efectos con imagenes en CSS: https://prismic.io/blog/css-image-effects
-- FrutigerAeroWallpapers: https://imgur.com/a/over-50-frutiger-aero-wallpapers-2008ify-pc-py02bp7
-- Prompt Engineering: https://github.com/NirDiamant/Prompt_Engineering
-- APIs para utilizarlos en tus proyectos: https://github.com/public-api-lists/public-api-lists
-- Lista de herramientas alternativas OpenSource: https://openalternative.co
-- Recursos para fuentes y colores: https://www.colorsandfonts.com/
-- Herramientas para usar con TailwindCSS: https://github.com/aniftyco/awesome-tailwindcss
+- Listas de topicos interesantes - https://github.com/sindresorhus/awesome
+- Herramientas para READMEs - https://github.com/rzashakeri/beautify-github-profile
+- Lista de mejores prácticas en programación - https://github.com/dereknguyen269/programing-best-practices
+- toolsui - https://tools.ui-layouts.com/
+- Tipografías para editores de código - https://www.programmingfonts.org/
+- PACK DE PACK de recursos - https://resourcle.com/
+- Plantillas para Issues - https://github.com/stevemao/github-issue-templates
+- Efectos con imagenes en CSS - https://prismic.io/blog/css-image-effects
+- FrutigerAeroWallpapers - https://imgur.com/a/over-50-frutiger-aero-wallpapers-2008ify-pc-py02bp7
+- Prompt Engineering - https://github.com/NirDiamant/Prompt_Engineering
+- APIs para utilizarlos en tus proyectos - https://github.com/public-api-lists/public-api-lists
+- Lista de herramientas alternativas OpenSource - https://openalternative.co
+- Recursos para fuentes y colores - https://www.colorsandfonts.com/
+- Herramientas para usar con TailwindCSS - https://github.com/aniftyco/awesome-tailwindcss
 - toolfolio: https://toolfolio.io/
 - yesicon: https://yesicon.app
 - Plantillas de documentos y hojas de calculos: https://www.vertex42.com/
@@ -78,7 +98,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Dev Fonts: https://devfonts.gafi.dev/
 - GenAIAgents: https://github.com/NirDiamant/GenAI_Agents
 - 404 design: https://www.404s.design/
-- Lista de herramientas para trabajar con tecnologias: https://free-for.dev/#/
+- Lista de herramientas gratuitas para trabajar con tecnologias: https://free-for.dev/#/
 - SVGapp: https://svgl.app/
 - MCP Servidores: https://mcp.so/
 - Newsletter for devs: https://codeburst.io/newsletters-for-web-developers-c6d6590f7f55
@@ -95,6 +115,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Laravel : https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
 
 ### APIs:
+- APIs - https://github.com/TonnyL/Awesome_APIs 
 - Acortador URL: https://da.gd/
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
@@ -238,17 +259,19 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
-- Nee3D: https://need3d.ru/en/
-- Windows Frutiger Aero Framework CSS: https://khang-nd.github.io/7.css/
-- Majestic-ui (flutter): https://www.majesticui.com
-- CSSFX, animaciones CSS (copiar y pegar): https://cssfx.netlify.app/
-- LunarUI: https://lunarui.dev/
-- Reverse UI: https://reverseui.com/craft
-- Spark UI: https://spark-ui.dev/
-- Hugeicons: https://hugeicons.com/
-- Iconstica Free: https://www.iconstica.com/free-icons
-- Botones CSS: https://markodenic.com/tools/buttons-generator/
-- Tienda de articulos 3D: https://assetpro.design/collections/3d-shapes
+- TailwindCSS - https://github.com/aniftyco/awesome-tailwindcss
+- Lista de componentes para React - https://github.com/brillout/awesome-react-components
+- Nee3D - https://need3d.ru/en/
+- Windows Frutiger Aero Framework CSS - https://khang-nd.github.io/7.css/
+- Majestic-ui (flutter) - https://www.majesticui.com
+- CSSFX, animaciones CSS (copiar y pegar) - https://cssfx.netlify.app/
+- LunarUI - https://lunarui.dev/
+- Reverse UI - https://reverseui.com/craft
+- Spark UI - https://spark-ui.dev/
+- Hugeicons - https://hugeicons.com/
+- Iconstica Free - https://www.iconstica.com/free-icons
+- Botones CSS - https://markodenic.com/tools/buttons-generator/
+- Tienda de articulos 3D - https://assetpro.design/collections/3d-shapes
 - ZenUI: https://zenui.net/
 - TailwindCSS: https://tailgrids.com/blog/tailwind-resources
 - MagicUI: https://magicui.design
@@ -310,6 +333,15 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Mejores prácticas README: https://github.com/jehna/readme-best-practices
 
 ### 📚 DOCUMENTACIÓN UTIL
+- Lista de Cheatsheets - https://github.com/detailyang/awesome-cheatsheet
+- WPO - https://github.com/davidsonfellipe/awesome-wpo
+- Recursos para bases de datos - https://github.com/pingcap/awesome-database-learning
+- Guidelines - https://github.com/Kristories/awesome-guidelines
+- GenAI - https://github.com/aishwaryanr/awesome-generative-ai-guide
+- Hacking - https://github.com/carpedm20/awesome-hacking
+- ML - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+- Lista de diseño de sistemas - https://github.com/ashishps1/awesome-system-design-resources
+- Tips CSS - https://github.com/AllThingsSmitty/css-protips
 - Trucos Python: https://realpython.com/python-tricks/
 - Agents recipes: https://www.agentrecipes.com/
 - 33 consejos de JS: https://github.com/leonardomso/33-js-concepts
