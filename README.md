@@ -261,6 +261,8 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- TW Components, Componentes Tailwind Gratuitos - https://www.creative-tim.com/twcomponents/
+- prompt-kit, Componentes para aplicaciones de IA - https://www.prompt-kit.com/
 - TailwindCSS - https://github.com/aniftyco/awesome-tailwindcss
 - Lista de componentes para React - https://github.com/brillout/awesome-react-components
 - Nee3D - https://need3d.ru/en/
@@ -325,6 +327,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Plantillas HTML: https://htmlrev.com/
 - Portafolios de desarrolladores: https://github.com/emmabostian/developer-portfolios
 - SaaS Starter..: https://github.com/nextjs/saas-starter
+- Plantilla de landing (NextJS, React) - https://studio.jaumegelabert.dev/
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 - Diseño de sistemas: https://kps.hashnode.dev/system-design-the-complete-course
