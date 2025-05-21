@@ -120,6 +120,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- Constructor de temas Shadcn - https://themecn.dev/
 - Iconos de habilidades tech - https://github.com/tandpfun/skill-icons
 - Emojis para archivos MD en Github - https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
 - RegEx Builder - https://regexbuilder.vercel.app/
@@ -261,6 +262,9 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- OpenPropsUI (solo CSS) - https://open-props-ui.netlify.app/
+- Reka(Vue.js) - https://reka-ui.com/
+- Efectos y animaciones construidas (ReactJS) - https://www.reactbits.dev/
 - TW Components, Componentes Tailwind Gratuitos - https://www.creative-tim.com/twcomponents/
 - prompt-kit, Componentes para aplicaciones de IA - https://www.prompt-kit.com/
 - TailwindCSS - https://github.com/aniftyco/awesome-tailwindcss
