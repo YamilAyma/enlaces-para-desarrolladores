@@ -8,7 +8,15 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Reshot, Iconos - https://www.reshot.com/
+- WebTools - https://webtoolsweekly.com/archive
+- Dev Icons - https://xandemon.github.io/developer-icons/
+- Hooks para React - https://hookcn.ouassim.tech/
+- Colección de SVGs - https://symbl.revend.group/
+- Colección de Componentes ReactUI - https://21st.dev/
 - ⚠️ La lista más extensa - https://github.com/jnv/lists
+- CheatSheets (articulo) - https://medium.com/@vrkunduri/cheatsheets-for-developers-1bf378aafcb0
+- Sobre TailwindCSS - https://allutilitycss.com/
 - Recursos Java - https://github.com/Vedenin/useful-java-links
 - Colección de Prompts para GenIA - https://github.com/ai-boost/awesome-prompts
 - Ingeniería de datos - https://github.com/igorbarinov/awesome-data-engineering
@@ -84,6 +92,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Cursor List: https://cursorlist.com/
 - Loaders: https://uiball.com/ldrs/
 - Herramientas de Python y proyecto (échales ojos): https://github.com/ml-tooling/best-of-web-python?tab=readme-ov-file
+- Listas de recursos_ Web Tools Weekly - https://us5.campaign-archive.com/home/?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d
 - Librerias de IU: https://bestwebdesigntools.com/blog/20-best-free-paid-react-ui-libraries-for-developers-in-2025
 - Frameworks de creación de Agentes: https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks
 - Iconos y componentes por la comunidad : https://uiverse.io/elements
@@ -120,6 +129,19 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- Prueba fuentes de Google Fonts - https://fontsensei.com/
+- Generador de gradiente TailwindCSS - https://gradienty.codes/
+- Imagenes de perfiles para diseños - https://www.piclooks.com/
+- Crear gradiente personalizado - https://photogradient.com/
+- Crea graficas de visualizacion de datos - https://graphitup.com/charts
+- Favicon Animado - https://www.faviconvideo.com/
+- Constructor Flexbox - https://flexboxlabs.netlify.app/
+- Constructor de temas Shadcn - https://tweakcn.com/
+- Grabar pantalla desde la web - https://github.com/addyosmani/recorder
+- SVG a 3D - https://bekuto3d.ayaka.io/
+- Convertidor Universal de archivos - https://vert.sh/
+- Responsive Typographic Scale Generator- https://dkwebsolutions.co.uk/our-tools/responsive-typographic-scale-generator
+- Paletas de colores desde un sitio web - https://colorize.design/
 - Constructor de temas Shadcn - https://themecn.dev/
 - Iconos de habilidades tech - https://github.com/tandpfun/skill-icons
 - Emojis para archivos MD en Github - https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
@@ -213,6 +235,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Datos falsos y sinteticos: https://github.com/supabase-community/copycat
 - Automatizacion web ligera: https://github.com/mherrmann/helium
 - .: https://coding.net/
+- JSON Formateador - https://www.jsonguide.com/jsonformatter
 - Animaciones con texto: https://spacetypegenerator.com/
 - Web Checker Info: https://web-check.xyz/
 - Visualización de modelos: https://www.tensorflow.org/tensorboard?hl=es-419
@@ -262,6 +285,44 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- FrankenUI - https://franken-ui.dev/docs/2.1/installation
+- FastBootstrap - https://fastbootstrap.com/
+- EasyFrontend - https://easyfrontend.com/
+- BeerCSS(Material Design) - https://www.beercss.com/
+- FlyonUI - https://flyonui.com/
+- Drag&drop - https://drag-and-drop.formkit.com/
+- Fondos Bootstrap - https://ui.bootstrap.ninja/ninja-backgrounds/
+- MieloUI - https://mielo-ui.github.io/ 
+- Botones - https://www.buttons.cool/buttons
+- Drag & drop - https://targetjs.io/docs
+- Solid Toast (Notificaciones para web) - https://www.solid-toast.com/
+- SVG Loaders - https://magecdn.com/tools/svg-loaders   
+- BaseUI - https://base-ui.com/
+- Kitwind - https://kitwind.io/products/kometa/
+- Widgets - https://embed.im/free-website-widgets
+- Animaciones Ligeras - https://blendy.tahazsh.com/
+- Selector Asincrono - https://async.rdsx.dev/
+- Componentes React para un estilo de terminal - https://www.sacred.computer/
+- renecss - https://renecss.org/
+- MUI - https://mui.com/
+- MynaUI(Kit) - https://mynaui.com/
+- IntentUI - https://intentui.com/
+- MotifyX (Patrones CSS para fondos) - https://jatin-yadav05.github.io/MotifyX/
+- Patrones TailwindCSS - https://railsdesigner.com/tailwindcss-patterns/
+- Layouts TailwindCSS - https://layoutsfortailwind.lalokalabs.dev/
+- Visualizador de sonido - https://github.com/maximux13/waveform-renderer
+- TailwindFlex(Librería de componentes) - https://tailwindflex.com/
+- Ant Design X - https://x.ant.design/
+- SyntaxUI - https://syntaxui.com/  
+- PenguinUI - https://www.penguinui.com/
+- YamadaUI - https://yamada-ui.com/
+- Svelte Shadcn Blocks - https://sv-blocks.vercel.app/
+- Libreria de componentes de Supabase - https://supabase.com/ui
+- WebTUI, Aspecto de terminal - https://webtui.ironclad.sh/
+- 9ui - https://www.9ui.dev/
+- ArtifactUI - https://artifactui.in/
+- Sobre TailwindCSS -https://allutilitycss.com/ 
+- Botones Metálicos - https://button.lakshb.dev/
 - OpenPropsUI (solo CSS) - https://open-props-ui.netlify.app/
 - Reka(Vue.js) - https://reka-ui.com/
 - Efectos y animaciones construidas (ReactJS) - https://www.reactbits.dev/
@@ -311,7 +372,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - CSS Box Shadows : https://getcssscan.com/css-box-shadow-examples
 - CSS Buttons: https://getcssscan.com/css-buttons-examples
 - Tailgrids: https://tailgrids.com/
-- CuratedUIList: https://www.curateduilist.com/
+- CuratedUIList TailwindCSS: https://www.curateduilist.com/
 - Tailkits: https://tailkits.com/
 - Free Templates: https://cruip.com/free-templates/
 - Themesberg: https://themesberg.com/
@@ -328,6 +389,8 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
+- Windy Toolbox - https://windytoolbox.com/
+- FlatLogic Plantillas - https://flatlogic.com/templates
 - Plantillas HTML: https://htmlrev.com/
 - Portafolios de desarrolladores: https://github.com/emmabostian/developer-portfolios
 - SaaS Starter..: https://github.com/nextjs/saas-starter
@@ -342,6 +405,16 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Mejores prácticas README: https://github.com/jehna/readme-best-practices
 
 ### 📚 DOCUMENTACIÓN UTIL
+- Animaciones por Scroll - https://scroll-driven-animations.style/ 
+- Diagramas de visualización - https://datavizproject.com/
+- Rico Cheatsheets - https://devhints.io/
+- BigO Cheatsheet - https://www.bigocheatsheet.com/
+- Lista de CheatSheets - https://github.com/detailyang/awesome-cheatsheet
+- CheatSheets de programación - https://cheatography.com/programming/
+- HTML CheatSheet Interactivo - https://htmlcheatsheet.com/
+- AwesomeCheatsheets - https://lecoupa.github.io/awesome-cheatsheets/
+- OverAPI - https://overapi.com/
+- TailwindCSS CheatSheet - https://kombai.com/tailwind/cheat-sheet/
 - Logros de Github - https://github.com/4xmen/Get-Github-Achievements
 - Lista de Cheatsheets - https://github.com/detailyang/awesome-cheatsheet
 - WPO - https://github.com/davidsonfellipe/awesome-wpo
@@ -377,6 +450,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Rust por Google : https://github.com/google/comprehensive-rust
 
 ### 🔠 TIPOGRAFIAS:
+- AnnotationMono - https://qwerasd205.github.io/AnnotationMono/
 - https://velvetyne.fr/
 - https://www.fontsquirrel.com/fonts/list/classification/sans%20serif
 - Tipografias bonitas: https://typodermicfonts.com/downloads/
@@ -482,7 +556,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Encabezados y banners: https://headers.club/
 - CallToInspiration: https://calltoinspiration.com/
 - Páginas web con animaciones: https://www.unsection.com/
-- Componentes web: https://www.ui-layouts.com/
+- Componentes web animados con TailwindCSS: https://www.ui-layouts.com/
 - Screenshots de sitios web: https://onemillionscreenshots.com/
 - Heros y vistas: https://www.supahero.io/
 - Notas, Slides, Presentaciones: https://www.deck.gallery/
@@ -509,3 +583,5 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 ⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
 Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
+
+> 597
