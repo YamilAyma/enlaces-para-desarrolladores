@@ -285,6 +285,10 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- SmoothUI - https://www.smoothui.dev/
+- AllShadcnUI - https://allshadcn.com/
+- SpectrumUI - https://ui.spectrumhq.in/
+- LLM React UI - https://llm-ui.com/
 - FrankenUI - https://franken-ui.dev/docs/2.1/installation
 - FastBootstrap - https://fastbootstrap.com/
 - EasyFrontend - https://easyfrontend.com/
@@ -548,6 +552,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### 💫 INSPIRACIÓN
+- Portafolios - https://masri.blog/Blog/Coding/Potfolios/Collection-of-150-awesome-portfolios
 - Ejemplos de READMEs personales: https://zzetao.github.io/awesome-github-profile/
 - https://designsystems.surf/
 - a1 Gallery; https://www.a1.gallery/
