@@ -8,6 +8,9 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Colección de Herramientas - https://www.ufreetools.com/es/
+- Animaciones Tailwind: https://tailwindcss-animations.vercel.app/
+- Bloques de IU para apps web: https://blocks.starterkitpro.com/
 - Simple Icons - https://simpleicons.org/
 - Formas abstractas: https://coolshap.es/
 - Patrones y gradientes: https://patterncraft.fun/
@@ -134,7 +137,20 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Acortador URL: https://da.gd/
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
+### 🖥️ Técnico:
+- reactsounds - https://www.reactsounds.com/
+- Manejador de estados para parametros de búsqueda React - https://nuqs.47ng.com/
+- Framework de React para experiencias 3D - https://www.reactylon.com/
+
 ### 🛠️ HERRAMIENTAS:
+- Crea clips de videos desde el navegador - https://clipjs.vercel.app/
+- Crea imágenes de plantilla fácilmente - https://www.image-elf.com/
+- Texto a SVG - https://text-to-svg.com/
+- Gráficos a partir de números - https://try.venz.dev/
+- Constructor de apps NextJS - https://nextbunny.co/editor?projectId=default-project
+- Carga de CSV en tus aplicaciones: https://hellocsv.github.io/HelloCSV/
+- (CLI) De imagen a ASCII - https://meatfighter.com/ascii-silhouettify/
+- Interesantes herramientas para URLs - https://www.urltoany.com/
 - Combinador de fuentes: https://fontjoy.com/
 - Prueba fuentes de Google Fonts - https://fontsensei.com/
 - Generador de gradiente TailwindCSS - https://gradienty.codes/
@@ -355,8 +371,12 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Tienda de articulos 3D - https://assetpro.design/collections/3d-shapes
 - ZenUI: https://zenui.net/
 - TailwindCSS: https://tailgrids.com/blog/tailwind-resources
+- Bits : https://bits-ui.com/
+- GlowUI : https://www.glowui.com/icons
+- RizzUI : https://www.rizzui.com/
 - MagicUI: https://magicui.design
 - Lukacho: https://ui.lukacho.com/components
+- Volt : https://volt.primevue.org/
 - Old Styles: https://jdan.github.io/98.css/
 - Colores en vivo: https://www.realtimecolors.com
 - KokonotUI: https://kokonutui.com/
@@ -473,7 +493,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - uncut: https://uncut.wtf/
 
 ### 📣 BLOGS Y BOLETINES
-- 
+- PythonLink - https://pythonlink.xyz/en
 - selfhosting: https://noted.lol/
 - MLCMU: https://blog.ml.cmu.edu/
 - SYC: https://strategizeyourcareer.com/
