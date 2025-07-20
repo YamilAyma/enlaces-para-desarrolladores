@@ -8,6 +8,11 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Simple Icons - https://simpleicons.org/
+- Formas abstractas: https://coolshap.es/
+- Patrones y gradientes: https://patterncraft.fun/
+- Colección de imágenes: https://www.lummi.ai/
+- Shadcn-ui: https://github.com/birobirobiro/awesome-shadcn-ui
 - Reshot, Iconos - https://www.reshot.com/
 - WebTools - https://webtoolsweekly.com/archive
 - Dev Icons - https://xandemon.github.io/developer-icons/
@@ -110,6 +115,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Lista de herramientas gratuitas para trabajar con tecnologias: https://free-for.dev/#/
 - SVGapp: https://svgl.app/
 - MCP Servidores: https://mcp.so/
+- Recursos UI: https://uihut.com/free-assets
 - Newsletter for devs: https://codeburst.io/newsletters-for-web-developers-c6d6590f7f55
 - Newsletters for all: https://www.smashingmagazine.com/2024/06/useful-email-newsletters-for-designers
 
@@ -129,6 +135,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🛠️ HERRAMIENTAS:
+- Combinador de fuentes: https://fontjoy.com/
 - Prueba fuentes de Google Fonts - https://fontsensei.com/
 - Generador de gradiente TailwindCSS - https://gradienty.codes/
 - Imagenes de perfiles para diseños - https://www.piclooks.com/
@@ -285,6 +292,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- PaceUI - https://www.paceui.com/
 - SmoothUI - https://www.smoothui.dev/
 - AllShadcnUI - https://allshadcn.com/
 - SpectrumUI - https://ui.spectrumhq.in/
