@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Freesets - https://freesets.dev/
 - Colección de Herramientas - https://www.ufreetools.com/es/
 - Animaciones Tailwind: https://tailwindcss-animations.vercel.app/
 - Bloques de IU para apps web: https://blocks.starterkitpro.com/
@@ -143,6 +144,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Framework de React para experiencias 3D - https://www.reactylon.com/
 
 ### 🛠️ HERRAMIENTAS:
+- CalculatorBit - https://calculatorbit.com/
 - Crea clips de videos desde el navegador - https://clipjs.vercel.app/
 - Crea imágenes de plantilla fácilmente - https://www.image-elf.com/
 - Texto a SVG - https://text-to-svg.com/
