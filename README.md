@@ -122,6 +122,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Recursos UI: https://uihut.com/free-assets
 - Newsletter for devs: https://codeburst.io/newsletters-for-web-developers-c6d6590f7f55
 - Newsletters for all: https://www.smashingmagazine.com/2024/06/useful-email-newsletters-for-designers
+- ImgSearch - https://www.thiings.co/things
 
 ### 📄 LISTAS
 - STARTUPS: https://docs.google.com/spreadsheets/u/0/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/htmlview
@@ -144,6 +145,9 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Framework de React para experiencias 3D - https://www.reactylon.com/
 
 ### 🛠️ HERRAMIENTAS:
+- Github Profile Header Generator - https://leviarista.github.io/github-profile-header-generator/
+- Diagramas Isometricos FossFLOW - https://stan-smith.github.io/FossFLOW/
+- Generador Glass Card - https://glass3d.dev/
 - CalculatorBit - https://calculatorbit.com/
 - Crea clips de videos desde el navegador - https://clipjs.vercel.app/
 - Crea imágenes de plantilla fácilmente - https://www.image-elf.com/
@@ -309,7 +313,20 @@ Tu perfil de GitHub en un video: https://git-wrapped.com/
 Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
+### 🌐 WEB
+- React
+  - +hooks para React - https://github.com/imbhargav5/rooks
+
+- Iconos
+  - Obra Icons - https://icons.obra.studio/
+  - TThings - https://www.thiings.co/things
+
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- Kelp - https://kelpui.com/
+- Origin UI - https://originui.com/
+- Vue Equipment - https://www.vue.equipment/
+- Untitled UI - https://www.untitledui.com/react
+- effect - https://github.com/Effect-TS/effect
 - PaceUI - https://www.paceui.com/
 - SmoothUI - https://www.smoothui.dev/
 - AllShadcnUI - https://allshadcn.com/
@@ -423,6 +440,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
+- NG-Matero - https://github.com/ng-matero/ng-matero
 - Windy Toolbox - https://windytoolbox.com/
 - FlatLogic Plantillas - https://flatlogic.com/templates
 - Plantillas HTML: https://htmlrev.com/
