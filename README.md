@@ -162,7 +162,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Generador de gradiente TailwindCSS - https://gradienty.codes/
 - Imagenes de perfiles para diseños - https://www.piclooks.com/
 - Crear gradiente personalizado - https://photogradient.com/
-- Crea graficas de visualizacion de datos - https://graphitup.com/charts
+- Crea graficas de visualizacion de datos - https://graphitup.com/tools
 - Favicon Animado - https://www.faviconvideo.com/
 - Constructor Flexbox - https://flexboxlabs.netlify.app/
 - Constructor de temas Shadcn - https://tweakcn.com/
