@@ -592,6 +592,21 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - pycoders: https://pycoders.com/
 - pythonweekly: https://www.pythonweekly.com/
 
+### Self-Hosted (Autoalojado)
+- Docker, adios a funciona en mi maquina: https://www.docker.com/
+
+### 🤖 IA
+- ChatGPT: https://chatgpt.com/
+- Gemini: https://gemini.google.com/, https://github.com/google-gemini/gemini-cli
+- GLM: https://chat.z.ai/
+- Mistral: https://chat.mistral.ai/chat
+- Claude: https://claude.ai/login, https://github.com/anthropics/claude-code
+- Qwen: https://chat.qwen.ai/
+
+#### Herramientas
+- Ollama, ejecuta y administra LLMs: https://ollama.com/ 
+- Sticht, diseño de sitios web: https://stitch.withgoogle.com/
+- Antigravity | IDE Google con modelos vanguardia: https://antigravity.google/
 
 ### 🎙️ Podcast
 - TalkPython: https://talkpython.fm/episodes/all
