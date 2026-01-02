@@ -145,6 +145,10 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Framework de React para experiencias 3D - https://www.reactylon.com/
 
 ### 🛠️ HERRAMIENTAS:
+- Visualizar fuente en multiples tamaños: https://landin.gs/tools/type-scale-generator/
+- Editor CSS para animaciones hover de links HTML: https://hoverly.wpwork.shop/
+- Editor HTML para correos: https://email-editor.courselit.app/
+- translate.js-Traducir facilmente sitios web con IA para i18n :https://github.com/xnx3/translate
 - Github Profile Header Generator - https://leviarista.github.io/github-profile-header-generator/
 - Diagramas Isometricos FossFLOW - https://stan-smith.github.io/FossFLOW/
 - Generador Glass Card - https://glass3d.dev/
@@ -322,6 +326,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
   - TThings - https://www.thiings.co/things
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- Snippets de CSS, HTML y JS: https://snipzy.dev/
 - Kelp - https://kelpui.com/
 - Origin UI - https://originui.com/
 - Vue Equipment - https://www.vue.equipment/
@@ -457,6 +462,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Mejores prácticas README: https://github.com/jehna/readme-best-practices
 
 ### 📚 DOCUMENTACIÓN UTIL
+- Todo sobre las propiedades CSS: https://nikolai-shabalin.github.io/css-properties/en/
 - Animaciones por Scroll - https://scroll-driven-animations.style/ 
 - Diagramas de visualización - https://datavizproject.com/
 - Rico Cheatsheets - https://devhints.io/
