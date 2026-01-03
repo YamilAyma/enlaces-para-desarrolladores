@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Prompts de sistema de IAs populares: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 - Freesets - https://freesets.dev/
 - Colección de Herramientas - https://www.ufreetools.com/es/
 - Animaciones Tailwind: https://tailwindcss-animations.vercel.app/
@@ -594,6 +595,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 ### Self-Hosted (Autoalojado)
 - Docker, adios a funciona en mi maquina: https://www.docker.com/
+- metube, web GUI para yt-dlp: https://github.com/alexta69/metube
 
 ### 🤖 IA
 - ChatGPT: https://chatgpt.com/
