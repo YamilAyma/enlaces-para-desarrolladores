@@ -626,6 +626,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### 💫 INSPIRACIÓN
+- DesignSpells: https://www.designspells.com/
 - Portafolios - https://github.com/emmabostian/developer-portfolios
 - Colección de portafolios de desarrolladores: https://homeofdevs.com/
 - Ejemplos de READMEs personales: https://zzetao.github.io/awesome-github-profile/
