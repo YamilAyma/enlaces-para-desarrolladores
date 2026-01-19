@@ -126,6 +126,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - ImgSearch - https://www.thiings.co/things
 
 ### 📄 LISTAS
+- Startups Graveyard: https://loot-drop.vercel.app/
 - STARTUPS: https://docs.google.com/spreadsheets/u/0/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/htmlview
 - State of JS: https://2024.stateofjs.com/en-US/libraries/
 - Lista de APIs para usar en proyectos: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
@@ -409,6 +410,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Spectrum Icons: https://spectrums.framer.website/
 - Raster, iconos retro : https://raster.saran13raj.com/
 - Rafty, react&tailwind components: https://rafty.rhinobase.io/
+- Iconos 3D: https://www.icoon.co/
 - Free React Components: https://reactcomponents.com/
 - HyperUI: https://www.hyperui.dev/
 - Material Tailwind Blocks: https://www.material-tailwind.com/blocks
@@ -635,6 +637,9 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Páginas web con animaciones: https://www.unsection.com/
 - Componentes web animados con TailwindCSS: https://www.ui-layouts.com/
 - Screenshots de sitios web: https://onemillionscreenshots.com/
+- Navbars: https://www.navbar.gallery/
+- CTA Gallery: https://www.cta.gallery/
+- H1 Gallery: https://h1gallery.com/
 - Heros y vistas: https://www.supahero.io/
 - Notas, Slides, Presentaciones: https://www.deck.gallery/
 - Componentes Dieter Rams: https://drams.framer.website/
@@ -656,6 +661,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - SaaS Webs: https://saaspo.com/
 - Mobbin: https://mobbin.com/
 - Muzli: https://muz.li/es
+- Recursos mezclados,Design Sweets: https://designsweets.co/
 ---
 
 ⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
