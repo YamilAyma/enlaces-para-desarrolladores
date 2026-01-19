@@ -453,7 +453,6 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Windy Toolbox - https://windytoolbox.com/
 - FlatLogic Plantillas - https://flatlogic.com/templates
 - Plantillas HTML: https://htmlrev.com/
-- Portafolios de desarrolladores: https://github.com/emmabostian/developer-portfolios
 - SaaS Starter..: https://github.com/nextjs/saas-starter
 - Plantilla de landing (NextJS, React) - https://studio.jaumegelabert.dev/
 
@@ -467,6 +466,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 ### 📚 DOCUMENTACIÓN UTIL
 - Todo sobre las propiedades CSS: https://nikolai-shabalin.github.io/css-properties/en/
+- The Component Gallery: https://component.gallery/
 - Animaciones por Scroll - https://scroll-driven-animations.style/ 
 - Diagramas de visualización - https://datavizproject.com/
 - Rico Cheatsheets - https://devhints.io/
@@ -626,15 +626,23 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### 💫 INSPIRACIÓN
-- Portafolios - https://masri.blog/Blog/Coding/Potfolios/Collection-of-150-awesome-portfolios
+- Portafolios - https://github.com/emmabostian/developer-portfolios
+- Colección de portafolios de desarrolladores: https://homeofdevs.com/
 - Ejemplos de READMEs personales: https://zzetao.github.io/awesome-github-profile/
+- SaaS Landing Pages: https://saaslandingpage.com/
+- MaxiBestOf: https://maxibestof.one/
+- SeeSaw: https://www.seesaw.website/
+- DarkModeDesign: https://www.darkmodedesign.com/
+- Branding: https://www.rebrand.gallery/
+- Landing Pages: https://www.landing.gallery/
 - https://designsystems.surf/
 - a1 Gallery; https://www.a1.gallery/
+- Refero: https://refero.design/
 - Más inspiracion UI: https://viewport-ui.design/
 - Same energy: https://same.energy/
 - Encabezados y banners: https://headers.club/
 - CallToInspiration: https://calltoinspiration.com/
-- Páginas web con animaciones: https://www.unsection.com/
+- Secciones de páginas web: https://www.unsection.com/
 - Componentes web animados con TailwindCSS: https://www.ui-layouts.com/
 - Screenshots de sitios web: https://onemillionscreenshots.com/
 - Navbars: https://www.navbar.gallery/
@@ -657,11 +665,18 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Más páginas web atractivas: https://godly.website/
 - Ejemplos de sitios web: https://websitevice.com/
 - pafolios: https://pafolios.com/
+- LandingsDev: https://landings.dev/
 - OGImageGallery: https://www.ogimage.gallery/
+- LandBook: https://land-book.com/
+- Landings infinitas por scroll: https://godly.website/
 - SaaS Webs: https://saaspo.com/
+- AdmireTheWeb: https://admiretheweb.com/
 - Mobbin: https://mobbin.com/
 - Muzli: https://muz.li/es
+- OnePage: https://onepagelove.com/
 - Recursos mezclados,Design Sweets: https://designsweets.co/
+- Más inspiración: https://craftwork.design/curated/websites/
+
 ---
 
 ⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
