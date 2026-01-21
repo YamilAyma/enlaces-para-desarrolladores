@@ -17,11 +17,11 @@ export const metadata: Metadata = {
   keywords: ["desarrolladores", "recursos", "frontend", "backend", "herramientas", "gratis", "web development", "ui kits", "iconos"],
   authors: [{ name: "Yamil Ayma", url: "https://github.com/YamilAyma" }],
   creator: "Yamil Ayma",
-  metadataBase: new URL("https://enlaces.yamilayma.com"), // Replace with actual domain if known, or use localhost for now and update later
+  metadataBase: new URL("https://enlaces-para-desarrolladores.netlify.app"), 
   openGraph: {
     type: "website",
     locale: "es_ES",
-    url: "https://enlaces.yamilayma.com",
+    url: "https://enlaces-para-desarrolladores.netlify.app",
     title: "Enlaces para Desarrolladores",
     description: "Descubre cientos de recursos cuidadosamente seleccionados para llevar tu desarrollo al siguiente nivel.",
     siteName: "Enlaces para Desarrolladores",

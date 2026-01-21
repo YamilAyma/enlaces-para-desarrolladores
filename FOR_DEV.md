@@ -72,3 +72,4 @@ Desde la carpeta `web/`:
 -   `pnpm dev`: Inicia el servidor de desarrollo en `localhost:3000`.
 -   `pnpm build`: Construye la aplicación para producción.
 -   `pnpm lint`: Revisa errores de código.
+

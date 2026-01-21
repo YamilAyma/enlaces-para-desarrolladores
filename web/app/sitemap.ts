@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
  
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://enlaces.yamilayma.com' // Replace with production URL
+  const baseUrl = 'https://enlaces-para-desarrolladores.netlify.app'
 
   return [
     {
