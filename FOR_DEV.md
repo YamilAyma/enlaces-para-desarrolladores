@@ -46,10 +46,10 @@ La aplicación es un sitio estático generado con **Next.js**. La forma más fá
 3.  Haz clic en **"Add new site"** -> **"Import an existing project"**.
 4.  Conecta con GitHub y selecciona tu repositorio.
 5.  **Configuración de Construcción**:
-    *   **Base directory**: `web` (⚠️ Muy importante poner esto).
+    *   **Base directory**: `web`.
     *   **Build command**: `pnpm build` (o `next build`).
-    *   **Publish directory**: `.next` (Netlify suele detectar Next.js automáticamente y configurar sus plugins, si te pide el directorio de salida para estáticos puro usa `out` si configuraste exportación, pero para Next.js estándar `.next` es correcto junto con el plugin de Netlify).
-    *   *Tip*: Netlify instalará automáticamente `@netlify/plugin-nextjs` para que todo funcione perfecto.
+    *   **Publish directory**: `web/out`
+    *   *Tip*: No necesitas plugins adicionales. Netlify servirá los archivos HTML directamente.
 6.  Haz clic en **Deploy**.
 
 ### Opción 3: Exportación Estática (Hosting Tradicional)

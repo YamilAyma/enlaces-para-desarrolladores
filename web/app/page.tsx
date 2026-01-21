@@ -17,7 +17,6 @@ export default async function Home() {
       <div className="fixed inset-0 z-[-1] bg-[url('/grid.svg')] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]" />
       
       <SiteHeader />
-      {/* Hero Removed, added spacing */}
       <div className="pt-32 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-20">
          <Suspense fallback={<div className="h-96 flex items-center justify-center text-muted-foreground animate-pulse">Loading developer resources...</div>}>
             <GalleryClientSide initialCategories={categories} />

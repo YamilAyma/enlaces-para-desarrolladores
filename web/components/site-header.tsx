@@ -52,7 +52,6 @@ function SiteHeaderContent() {
     >
       <div className="flex items-center gap-4">
         <Link href="/" onClick={() => router.replace('/')} className="flex items-center gap-2 group">
-             {/* INCREASED LOGO SIZE */}
              <div className="relative h-12 w-12 overflow-hidden rounded-xl"> 
                 <Image 
                     src="/logo.png" 
