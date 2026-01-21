@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "brand_name": "Enlaces para Desarrolladores",
+    "description": "Core design tokens inspired by Craftwork aesthetic."
+  },
+  "colors": {
+    "primary": {
+      "DEFAULT": "#CAFC00",
+      "hover": "#B5E600",
+      "foreground": "#000000"
+    },
+    "secondary": {
+      "DEFAULT": "#F4F4F5",
+      "foreground": "#18181B"
+    },
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "muted": "#9CA3AF",
+    "accent": "#CAFC00",
+    "destructive": "#EF4444",
+    "success": "#10B981"
+  },
+  "typography": {
+    "font_family_headings": ["Plus Jakarta Sans", "Space Grotesk", "sans-serif"],
+    "font_family_body": ["Inter", "sans-serif"],
+    "font_weight_bold": "700",
+    "font_weight_normal": "400"
+  },
+  "ui": {
+    "border_radius_default": "0.5rem",
+    "border_radius_small": "0.25rem",
+    "spacing_base_unit": "4px"
+  }
+}
