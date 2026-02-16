@@ -125,6 +125,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Newsletter for devs: https://codeburst.io/newsletters-for-web-developers-c6d6590f7f55
 - Newsletters for all: https://www.smashingmagazine.com/2024/06/useful-email-newsletters-for-designers
 - ImgSearch - https://www.thiings.co/things
+- 
 
 ### 📄 LISTAS
 - Startups Graveyard: https://loot-drop.vercel.app/
@@ -148,8 +149,10 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Framework de React para experiencias 3D - https://www.reactylon.com/
 - Waveform Playlist: https://github.com/naomiaro/waveform-playlist
 - image.js: https://github.com/image-js/image-js
+- JSON Schema Based Editor: https://github.com/json-editor/json-editor
 
 ### 🛠️ HERRAMIENTAS:
+- Descargar cualquier cosa, Cobalt: https://cobalt.tools/
 - Diseñador de base de datos StackRender: https://github.com/stackrender/stackrender
 - CircleCropImage: https://circlecropimage.net/
 - BaselineStatusForVideo: https://baseline-status-for-video.css-weekly.com/
@@ -337,6 +340,8 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
   - TThings - https://www.thiings.co/things
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- Soundcn: https://github.com/kapishdima/soundcn
+- Park UI: https://park-ui.com/
 - Chatkit: https://openai.github.io/chatkit-js/
 - shadcn/ui expansions: https://shadcnui-expansions.typeart.cc/
 - Bundui: https://bundui.io/
