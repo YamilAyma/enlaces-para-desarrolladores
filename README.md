@@ -644,6 +644,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### 💫 INSPIRACIÓN
+- Navbar Gallery: https://www.navbar.gallery/
 - DesignSpells: https://www.designspells.com/
 - Portafolios - https://github.com/emmabostian/developer-portfolios
 - Colección de portafolios de desarrolladores: https://homeofdevs.com/
