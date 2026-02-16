@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- AllSvgIcons: https://allsvgicons.com/
 - Prompts de sistema de IAs populares: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 - Freesets - https://freesets.dev/
 - Colección de Herramientas - https://www.ufreetools.com/es/
@@ -145,8 +146,15 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - reactsounds - https://www.reactsounds.com/
 - Manejador de estados para parametros de búsqueda React - https://nuqs.47ng.com/
 - Framework de React para experiencias 3D - https://www.reactylon.com/
+- Waveform Playlist: https://github.com/naomiaro/waveform-playlist
+- image.js: https://github.com/image-js/image-js
 
 ### 🛠️ HERRAMIENTAS:
+- Diseñador de base de datos StackRender: https://github.com/stackrender/stackrender
+- CircleCropImage: https://circlecropimage.net/
+- BaselineStatusForVideo: https://baseline-status-for-video.css-weekly.com/
+- FreeOnlineSVGConverter: https://svgconverter.online/
+- PasteResize: https://pasteresize.online/
 - AetherCSS: https://aethercss.lovable.app/
 - Visualizar fuente en multiples tamaños: https://landin.gs/tools/type-scale-generator/
 - Editor CSS para animaciones hover de links HTML: https://hoverly.wpwork.shop/
@@ -329,6 +337,11 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
   - TThings - https://www.thiings.co/things
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- Chatkit: https://openai.github.io/chatkit-js/
+- shadcn/ui expansions: https://shadcnui-expansions.typeart.cc/
+- Bundui: https://bundui.io/
+- Reshaped: https://www.reshaped.so/
+- SolidUI: https://www.solid-ui.com/
 - Snippets de CSS, HTML y JS: https://snipzy.dev/
 - Kelp - https://kelpui.com/
 - Origin UI - https://originui.com/
@@ -446,8 +459,6 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Recursos de videos: https://mixkit.co/
 - Recursos de videos II: https://coverr.co/
 
-
-
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 - NG-Matero - https://github.com/ng-matero/ng-matero
 - Windy Toolbox - https://windytoolbox.com/
@@ -455,6 +466,8 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Plantillas HTML: https://htmlrev.com/
 - SaaS Starter..: https://github.com/nextjs/saas-starter
 - Plantilla de landing (NextJS, React) - https://studio.jaumegelabert.dev/
+- supa-next-starter: https://github.com/michaeltroya/supa-next-starter
+- ProjectPlannerAI StarterKit: https://github.com/webdevcody/ppai-next-starter
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 - Diseño de sistemas: https://kps.hashnode.dev/system-design-the-complete-course

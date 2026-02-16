@@ -1,5 +1,5 @@
 ---
-name: creating-skills
+name: gemini-skill-creator
 description: Generates high-quality, predictable, and efficient .agent/skills/ directories based on user requirements. Use when the user asks to create a new skill or "habilidad".
 ---
 
