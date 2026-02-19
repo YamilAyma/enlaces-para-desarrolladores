@@ -150,8 +150,17 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Waveform Playlist: https://github.com/naomiaro/waveform-playlist
 - image.js: https://github.com/image-js/image-js
 - JSON Schema Based Editor: https://github.com/json-editor/json-editor
+- Typewriter Web Component: https://codepen.io/luis-lessrain/pen/EaKjXwB
+- log-vwer, mejor console.log: https://github.com/iamqitmeer/log-vwer
+- ortoni-report, para Playwright: https://github.com/ortoniKC/ortoni-report
+- nuxt-hints, DevEx para Nuxt: https://github.com/nuxt/hints
+- nuxt-glow: https://github.com/aksharahegde/nuxt-glow
+- nuxt-simple-cookie-consent: https://github.com/criting/nuxt-simple-cookie-consent
 
 ### 🛠️ HERRAMIENTAS:
+- PageGYM: https://pagegym.com/
+- FontGenerator: https://fontgen.cool/
+- CLI para extraer tokens de diseño. Dembrandt: https://www.dembrandt.com/
 - Descargar cualquier cosa, Cobalt: https://cobalt.tools/
 - Diseñador de base de datos StackRender: https://github.com/stackrender/stackrender
 - CircleCropImage: https://circlecropimage.net/
@@ -523,6 +532,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Mantine: https://mantine.dev/
 - Glyph: https://glyphs.fyi/
 - Lecciones de ciberseguridad: https://www.hacksplaining.com/lessons
+- ModernCSS: https://modern-css.com/
 
 ### 📒 CURSOS: 
 - CSS mediante lecciones: https://anchoreum.com/#es
