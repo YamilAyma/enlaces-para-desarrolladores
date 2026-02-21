@@ -125,7 +125,13 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Newsletter for devs: https://codeburst.io/newsletters-for-web-developers-c6d6590f7f55
 - Newsletters for all: https://www.smashingmagazine.com/2024/06/useful-email-newsletters-for-designers
 - ImgSearch - https://www.thiings.co/things
-- 
+- GithubProfileBadges: https://github.com/Thinkright20/Profile-Badges
+- CredlyBadges: https://github.com/wesleyscholl/credly-badge
+- Certificaciones: https://www.classcentral.com/report/free-developer-it-certifications/
+- ProyectosCiberseguridad: https://github.com/CarterPerez-dev/Cybersecurity-Projects
+- TheReport,Fuente de las últimas noticias y tendencias en educación en línea: https://www.classcentral.com/report/
+- Cursosdev: https://cursosdev.com/
+- CouponAmI : https://www.couponami.com/
 
 ### 📄 LISTAS
 - Startups Graveyard: https://loot-drop.vercel.app/
