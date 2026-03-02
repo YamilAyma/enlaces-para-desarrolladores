@@ -14,6 +14,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Colección de Herramientas - https://www.ufreetools.com/es/
 - Animaciones Tailwind: https://tailwindcss-animations.vercel.app/
 - Bloques de IU para apps web: https://blocks.starterkitpro.com/
+- FreeMediaGoo: https://www.freemediagoo.com/
+- FreeImages: https://www.freeimages.com/
 - Simple Icons - https://simpleicons.org/
 - Formas abstractas: https://coolshap.es/
 - Patrones y gradientes: https://patterncraft.fun/
@@ -111,6 +113,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Cursos y certificaciones para devs: https://www.classcentral.com/report/free-developer-it-certifications
 - Plantillas HTML: https://htmlrev.com/
 - Iconbuddy: https://iconbuddy.com/
+- FreeIcons: https://iconstore.co/
 - APIs para desarrollo y practica de proyectos: https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm
 - Componentes UI: https://cuicui.day/
 - Tech Blogs: https://tech-blogs.dev/list/
@@ -120,12 +123,15 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - 404 design: https://www.404s.design/
 - Lista de herramientas gratuitas para trabajar con tecnologias: https://free-for.dev/#/
 - SVGapp: https://svgl.app/
+- TemplateYes: https://www.templateyes.com/
 - MCP Servidores: https://mcp.so/
 - Recursos UI: https://uihut.com/free-assets
 - Newsletter for devs: https://codeburst.io/newsletters-for-web-developers-c6d6590f7f55
 - Newsletters for all: https://www.smashingmagazine.com/2024/06/useful-email-newsletters-for-designers
 - ImgSearch - https://www.thiings.co/things
+- Subtle Patterns: https://www.toptal.com/designers/subtlepatterns/
 - GithubProfileBadges: https://github.com/Thinkright20/Profile-Badges
+- SoftIcons: https://www.softicons.com/
 - CredlyBadges: https://github.com/wesleyscholl/credly-badge
 - Certificaciones: https://www.classcentral.com/report/free-developer-it-certifications/
 - ProyectosCiberseguridad: https://github.com/CarterPerez-dev/Cybersecurity-Projects
@@ -350,12 +356,28 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - React
   - +hooks para React - https://github.com/imbhargav5/rooks
 
-- Iconos
-  - Obra Icons - https://icons.obra.studio/
+### Iconos
+  - Obra Icons: https://icons.obra.studio/
+  - IKONS: https://ikons.piotrkwiatkowski.co.uk/
+  - Handy Icons: https://webdesignerdepot.com/24-free-exclusive-vector-icons-handy/
+  - Childish Icons: https://webdesignerdepot.com/60-exclusive-free-icons-childish/
+  - icons8: https://icons8.com/
+  - Set de iconos para blogging: https://designm.ag/resources/blogging-social-media-icons/
+  - Hugeicons - https://hugeicons.com/
+  - Climaicons: https://github.com/christiannaths/Climacons-Font
+  - Condense: https://condense.jp/icon/
+  - FamFamFam Silk Icons: https://github.com/legacy-icons/famfamfam-silk
+  - Crystal Clear Icons: https://commons.wikimedia.org/wiki/Crystal_Clear
   - TThings - https://www.thiings.co/things
+  - Tango Icons: https://commons.wikimedia.org/wiki/Tango_icons
+  - Clarity Icons: https://v12.clarity.design/icons
+  - Farm-Fresh: https://commons.wikimedia.org/wiki/Farm-Fresh_web_icons
+  - Vivid.js: https://webkul.github.io/vivid/
+  - minicons: https://unmatchedstyle.com/news/minicons-icon-pack-giveaway.php
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 - Soundcn: https://github.com/kapishdima/soundcn
+- FusionCharts: https://www.fusioncharts.com/blog/fusioncharts-free-now-open-source/
 - Park UI: https://park-ui.com/
 - Chatkit: https://openai.github.io/chatkit-js/
 - shadcn/ui expansions: https://shadcnui-expansions.typeart.cc/
@@ -425,7 +447,6 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - LunarUI - https://lunarui.dev/
 - Reverse UI - https://reverseui.com/craft
 - Spark UI - https://spark-ui.dev/
-- Hugeicons - https://hugeicons.com/
 - Iconstica Free - https://www.iconstica.com/free-icons
 - Botones CSS - https://markodenic.com/tools/buttons-generator/
 - Tienda de articulos 3D - https://assetpro.design/collections/3d-shapes
@@ -488,6 +509,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Plantilla de landing (NextJS, React) - https://studio.jaumegelabert.dev/
 - supa-next-starter: https://github.com/michaeltroya/supa-next-starter
 - ProjectPlannerAI StarterKit: https://github.com/webdevcody/ppai-next-starter
+- opensourcetemplates: https://www.opensourcetemplates.org/
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 - Diseño de sistemas: https://kps.hashnode.dev/system-design-the-complete-course
@@ -546,6 +568,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Rust por Google : https://github.com/google/comprehensive-rust
 
 ### 🔠 TIPOGRAFIAS:
+- ShowFont: https://www.showfont.net/
 - AnnotationMono - https://qwerasd205.github.io/AnnotationMono/
 - https://velvetyne.fr/
 - https://www.fontsquirrel.com/fonts/list/classification/sans%20serif
@@ -706,13 +729,14 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - LandBook: https://land-book.com/
 - Landings infinitas por scroll: https://godly.website/
 - SaaS Webs: https://saaspo.com/
+- Opendesign: http://www.opendesigns.org/
 - AdmireTheWeb: https://admiretheweb.com/
 - Mobbin: https://mobbin.com/
 - Muzli: https://muz.li/es
 - OnePage: https://onepagelove.com/
 - Recursos mezclados,Design Sweets: https://designsweets.co/
 - Más inspiración: https://craftwork.design/curated/websites/
-
+- owsd: https://www.oswd.org/
 ---
 
 ⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
