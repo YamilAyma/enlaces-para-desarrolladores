@@ -170,6 +170,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - nuxt-simple-cookie-consent: https://github.com/criting/nuxt-simple-cookie-consent
 
 ### 🛠️ HERRAMIENTAS:
+- heropatterns: https://heropatterns.com/
 - Ira Design: https://iradesign.io/
 - CoolBackgrounds: https://coolbackgrounds.io/black-background/
 - PageGYM: https://pagegym.com/
@@ -697,6 +698,8 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### 💫 INSPIRACIÓN
+- openclipart: https://openclipart.org/
+- UI Kits: https://www.webappers.com/2012/11/12/a-comprehensive-collection-of-free-ui-kits-templates/
 - Navbar Gallery: https://www.navbar.gallery/
 - DesignSpells: https://www.designspells.com/
 - Portafolios - https://github.com/emmabostian/developer-portfolios
