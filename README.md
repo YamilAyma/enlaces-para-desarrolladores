@@ -357,7 +357,17 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
   - +hooks para React - https://github.com/imbhargav5/rooks
 
 ### Iconos
+  - Toolbar Icons: https://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/
+  - Cotyledon Icons: https://www.webappers.com/2011/05/30/cotyledon-mini-icons-free-for-download/
+  - Sublink Interactive, Icons: http://sublink.ca/icons/
   - Obra Icons: https://icons.obra.studio/
+  - Primo Icons: https://webdesignerdepot.com/200-free-exclusive-vector-icons-primo/
+  - Siena Icons: https://webdesignerdepot.com/200-free-exclusive-icons-siena/
+  - Ravenna Icons: https://webdesignerdepot.com/92-free-exclusive-icons-ravenna/
+  - Woven Fabric Icons: https://webdesignerdepot.com/woven-fabric-social-media-icon-set/
+  - Xmas Stickers: https://webdesignerdepot.com/more-exclusive-icons-for-the-holidays-xmas-festives/
+  - Reflection Icons: https://webdesignerdepot.com/200-exclusive-free-icons-reflection/
+  - KaChing ecommerce Icons: https://webdesignerdepot.com/kaching-exclusive-free-ecommerce-icons/
   - IKONS: https://ikons.piotrkwiatkowski.co.uk/
   - Handy Icons: https://webdesignerdepot.com/24-free-exclusive-vector-icons-handy/
   - Childish Icons: https://webdesignerdepot.com/60-exclusive-free-icons-childish/
@@ -380,6 +390,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - FusionCharts: https://www.fusioncharts.com/blog/fusioncharts-free-now-open-source/
 - Park UI: https://park-ui.com/
 - Chatkit: https://openai.github.io/chatkit-js/
+- BonBonButtons: https://simurai.com/archive/buttons/
 - shadcn/ui expansions: https://shadcnui-expansions.typeart.cc/
 - Bundui: https://bundui.io/
 - Reshaped: https://www.reshaped.so/
