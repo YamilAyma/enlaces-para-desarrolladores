@@ -170,6 +170,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - nuxt-simple-cookie-consent: https://github.com/criting/nuxt-simple-cookie-consent
 
 ### 🛠️ HERRAMIENTAS:
+- Ira Design: https://iradesign.io/
+- CoolBackgrounds: https://coolbackgrounds.io/black-background/
 - PageGYM: https://pagegym.com/
 - FontGenerator: https://fontgen.cool/
 - CLI para extraer tokens de diseño. Dembrandt: https://www.dembrandt.com/
@@ -516,6 +518,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Windy Toolbox - https://windytoolbox.com/
 - FlatLogic Plantillas - https://flatlogic.com/templates
 - Plantillas HTML: https://htmlrev.com/
+- DreamTemplate: https://www.dreamtemplate.com/
 - SaaS Starter..: https://github.com/nextjs/saas-starter
 - Plantilla de landing (NextJS, React) - https://studio.jaumegelabert.dev/
 - supa-next-starter: https://github.com/michaeltroya/supa-next-starter
@@ -748,6 +751,13 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Recursos mezclados,Design Sweets: https://designsweets.co/
 - Más inspiración: https://craftwork.design/curated/websites/
 - owsd: https://www.oswd.org/
+- cssdesignyorkshire: https://www.css-design-yorkshire.com/
+- csscollection: https://csscollection.com/
+- cssmix: https://cssmix.net/
+- cssreboot: http://www.cssreboot.com/
+- cssmanía: https://www.cssmania.com/
+- graphcommerce: https://www.graphcommerce.org/gallery
+- CSSDrive: http://www.cssdrive.com/
 ---
 
 ⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
