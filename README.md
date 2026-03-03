@@ -170,6 +170,9 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - nuxt-simple-cookie-consent: https://github.com/criting/nuxt-simple-cookie-consent
 
 ### 🛠️ HERRAMIENTAS:
+- Atenuador de color: https://patorjk.com/text-color-fader/
+- Old School Gaming Filter: https://patorjk.com/old-school-gaming-filters/
+- unfake.js, arregla imagenes de IA pixeladas: https://github.com/jenissimo/unfake.js
 - heropatterns: https://heropatterns.com/
 - Ira Design: https://iradesign.io/
 - CoolBackgrounds: https://coolbackgrounds.io/black-background/
@@ -359,34 +362,34 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - React
   - +hooks para React - https://github.com/imbhargav5/rooks
 
-### Iconos
-  - Toolbar Icons: https://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/
-  - Cotyledon Icons: https://www.webappers.com/2011/05/30/cotyledon-mini-icons-free-for-download/
-  - Sublink Interactive, Icons: http://sublink.ca/icons/
-  - Obra Icons: https://icons.obra.studio/
-  - Primo Icons: https://webdesignerdepot.com/200-free-exclusive-vector-icons-primo/
-  - Siena Icons: https://webdesignerdepot.com/200-free-exclusive-icons-siena/
-  - Ravenna Icons: https://webdesignerdepot.com/92-free-exclusive-icons-ravenna/
-  - Woven Fabric Icons: https://webdesignerdepot.com/woven-fabric-social-media-icon-set/
-  - Xmas Stickers: https://webdesignerdepot.com/more-exclusive-icons-for-the-holidays-xmas-festives/
-  - Reflection Icons: https://webdesignerdepot.com/200-exclusive-free-icons-reflection/
-  - KaChing ecommerce Icons: https://webdesignerdepot.com/kaching-exclusive-free-ecommerce-icons/
-  - IKONS: https://ikons.piotrkwiatkowski.co.uk/
-  - Handy Icons: https://webdesignerdepot.com/24-free-exclusive-vector-icons-handy/
-  - Childish Icons: https://webdesignerdepot.com/60-exclusive-free-icons-childish/
-  - icons8: https://icons8.com/
-  - Set de iconos para blogging: https://designm.ag/resources/blogging-social-media-icons/
-  - Hugeicons - https://hugeicons.com/
-  - Climaicons: https://github.com/christiannaths/Climacons-Font
-  - Condense: https://condense.jp/icon/
-  - FamFamFam Silk Icons: https://github.com/legacy-icons/famfamfam-silk
-  - Crystal Clear Icons: https://commons.wikimedia.org/wiki/Crystal_Clear
-  - TThings - https://www.thiings.co/things
-  - Tango Icons: https://commons.wikimedia.org/wiki/Tango_icons
-  - Clarity Icons: https://v12.clarity.design/icons
-  - Farm-Fresh: https://commons.wikimedia.org/wiki/Farm-Fresh_web_icons
-  - Vivid.js: https://webkul.github.io/vivid/
-  - minicons: https://unmatchedstyle.com/news/minicons-icon-pack-giveaway.php
+### 🅰️ Iconos
+- Toolbar Icons: https://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/
+- Cotyledon Icons: https://www.webappers.com/2011/05/30/cotyledon-mini-icons-free-for-download/
+- Sublink Interactive, Icons: http://sublink.ca/icons/
+- Obra Icons: https://icons.obra.studio/
+- Primo Icons: https://webdesignerdepot.com/200-free-exclusive-vector-icons-primo/
+- Siena Icons: https://webdesignerdepot.com/200-free-exclusive-icons-siena/
+- Ravenna Icons: https://webdesignerdepot.com/92-free-exclusive-icons-ravenna/
+- Woven Fabric Icons: https://webdesignerdepot.com/woven-fabric-social-media-icon-set/
+- Xmas Stickers: https://webdesignerdepot.com/more-exclusive-icons-for-the-holidays-xmas-festives/
+- Reflection Icons: https://webdesignerdepot.com/200-exclusive-free-icons-reflection/
+- KaChing ecommerce Icons: https://webdesignerdepot.com/kaching-exclusive-free-ecommerce-icons/
+- IKONS: https://ikons.piotrkwiatkowski.co.uk/
+- Handy Icons: https://webdesignerdepot.com/24-free-exclusive-vector-icons-handy/
+- Childish Icons: https://webdesignerdepot.com/60-exclusive-free-icons-childish/
+- icons8: https://icons8.com/
+- Set de iconos para blogging: https://designm.ag/resources/blogging-social-media-icons/
+- Hugeicons - https://hugeicons.com/
+- Climaicons: https://github.com/christiannaths/Climacons-Font
+- Condense: https://condense.jp/icon/
+- FamFamFam Silk Icons: https://github.com/legacy-icons/famfamfam-silk
+- Crystal Clear Icons: https://commons.wikimedia.org/wiki/Crystal_Clear
+- TThings - https://www.thiings.co/things
+- Tango Icons: https://commons.wikimedia.org/wiki/Tango_icons
+- Clarity Icons: https://v12.clarity.design/icons
+- Farm-Fresh: https://commons.wikimedia.org/wiki/Farm-Fresh_web_icons
+- Vivid.js: https://webkul.github.io/vivid/
+- minicons: https://unmatchedstyle.com/news/minicons-icon-pack-giveaway.php
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 - Soundcn: https://github.com/kapishdima/soundcn
