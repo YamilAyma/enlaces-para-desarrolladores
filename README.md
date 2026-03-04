@@ -163,13 +163,19 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - image.js: https://github.com/image-js/image-js
 - JSON Schema Based Editor: https://github.com/json-editor/json-editor
 - Typewriter Web Component: https://codepen.io/luis-lessrain/pen/EaKjXwB
+- Triplex, editor 2D/3D para React: https://triplex.dev/
 - log-vwer, mejor console.log: https://github.com/iamqitmeer/log-vwer
 - ortoni-report, para Playwright: https://github.com/ortoniKC/ortoni-report
 - nuxt-hints, DevEx para Nuxt: https://github.com/nuxt/hints
+- tinypdf, librería de creación de PDFs npm: https://github.com/Lulzx/tinypdf
+- Masonry Grid, librería de layout liviana: https://masonry-grid.js.org/
 - nuxt-glow: https://github.com/aksharahegde/nuxt-glow
 - nuxt-simple-cookie-consent: https://github.com/criting/nuxt-simple-cookie-consent
+- Infografía para mostrar estadísticas de tu perfil GitHub: https://github.com/martadinata666/martadinata666
 
 ### 🛠️ HERRAMIENTAS:
+- PicGo, cargar imágenes: https://picgo.app/
+- SweetFont, buscador semántico de fuentes: https://sweetfont.com/
 - Atenuador de color: https://patorjk.com/text-color-fader/
 - Old School Gaming Filter: https://patorjk.com/old-school-gaming-filters/
 - unfake.js, arregla imagenes de IA pixeladas: https://github.com/jenissimo/unfake.js
@@ -392,6 +398,8 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - minicons: https://unmatchedstyle.com/news/minicons-icon-pack-giveaway.php
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- ReactLogoSoup, para el uso de logos de marcas: https://github.com/sanity-labs/react-logo-soup
+- BetterAuthUI: https://better-auth-ui.com/
 - Soundcn: https://github.com/kapishdima/soundcn
 - FusionCharts: https://www.fusioncharts.com/blog/fusioncharts-free-now-open-source/
 - Park UI: https://park-ui.com/
@@ -441,7 +449,9 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - TailwindFlex(Librería de componentes) - https://tailwindflex.com/
 - Ant Design X - https://x.ant.design/
 - SyntaxUI - https://syntaxui.com/  
+- EvilCharts, con estética de Shadcn y recharts: https://github.com/legions-developer/evilcharts
 - PenguinUI - https://www.penguinui.com/
+- Tambo: https://github.com/tambo-ai/tambo
 - YamadaUI - https://yamada-ui.com/
 - Svelte Shadcn Blocks - https://sv-blocks.vercel.app/
 - Libreria de componentes de Supabase - https://supabase.com/ui
@@ -674,6 +684,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 ### Self-Hosted (Autoalojado)
 - Docker, adios a funciona en mi maquina: https://www.docker.com/
 - metube, web GUI para yt-dlp: https://github.com/alexta69/metube
+- zerobyte, automatización de backups: https://github.com/nicotsx/zerobyte
 
 ### 🤖 IA
 - ChatGPT: https://chatgpt.com/
