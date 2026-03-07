@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- delphitools: https://delphi.tools/
 - OSINT Framework: https://osintframework.com/
 - AllSvgIcons: https://allsvgicons.com/
 - Prompts de sistema de IAs populares: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
@@ -47,6 +48,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Lista de herramientas y recursos frontend - https://github.com/dypsilon/frontend-dev-bookmarks
 - Lista de detalles sobre github - https://github.com/tiimgreen/github-cheat-sheet
 - Sobre conceptos de escalabilidad - https://github.com/binhnguyennus/awesome-scalability
+- Founders Kit: https://github.com/avinash201199/founders-kit
 - Colección de recursos y herramientas para desarrolladores - https://github.com/trimstray/the-book-of-secret-knowledge
 - Proyectos de Github - https://hellogithub.com/en
 - Colección de articulos sobre tecnología e IA - https://github.com/papers-we-love/papers-we-love
@@ -176,6 +178,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Bindu, IA como Microservicio: https://github.com/GetBindu/Bindu
 
 ### 🛠️ HERRAMIENTAS:
+- yourascii: https://yourascii.vercel.app/
 - user-scanner: https://github.com/kaifcodec/user-scanner
 - Phoneintel: https://github.com/phoneintel/phoneintel
 - nexfil: https://github.com/thewhiteh4t/nexfil
@@ -598,6 +601,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Glyph: https://glyphs.fyi/
 - Lecciones de ciberseguridad: https://www.hacksplaining.com/lessons
 - ModernCSS: https://modern-css.com/
+- UI Playbook: https://uiplaybook.dev/
 
 ### 📒 CURSOS: 
 - CSS mediante lecciones: https://anchoreum.com/#es
@@ -644,7 +648,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Software Engineer: https://cassidoo.co/
 - Sistemas: https://newsletter.optimistengineer.com/
 - Sitios de presentación de blogs: https://bloggingfordevs.com/
-- The Codist :): https://thecodist.com/
+- The Codist: https://thecodist.com/
 - Hacker News: https://news.ycombinator.com/
 - Luminousmen: https://luminousmen.com/
 - Blog: https://matt.blwt.io/
@@ -721,6 +725,8 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### 💫 INSPIRACIÓN
+- UX Snaps: https://www.uxsnaps.com/
+- A/B Test: https://abtest.design/
 - openclipart: https://openclipart.org/
 - UI Kits: https://www.webappers.com/2012/11/12/a-comprehensive-collection-of-free-ui-kits-templates/
 - Navbar Gallery: https://www.navbar.gallery/
