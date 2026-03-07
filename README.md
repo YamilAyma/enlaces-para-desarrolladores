@@ -8,6 +8,7 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- OSINT Framework: https://osintframework.com/
 - AllSvgIcons: https://allsvgicons.com/
 - Prompts de sistema de IAs populares: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 - Freesets - https://freesets.dev/
@@ -172,8 +173,16 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - nuxt-glow: https://github.com/aksharahegde/nuxt-glow
 - nuxt-simple-cookie-consent: https://github.com/criting/nuxt-simple-cookie-consent
 - Infografía para mostrar estadísticas de tu perfil GitHub: https://github.com/martadinata666/martadinata666
+- Bindu, IA como Microservicio: https://github.com/GetBindu/Bindu
 
 ### 🛠️ HERRAMIENTAS:
+- user-scanner: https://github.com/kaifcodec/user-scanner
+- Phoneintel: https://github.com/phoneintel/phoneintel
+- nexfil: https://github.com/thewhiteh4t/nexfil
+- sherlock, osint de redes sociales con nombre de usuario: https://github.com/sherlock-project/sherlock
+- maigret, osint con nombre de usuario: https://github.com/soxoj/maigret?tab=readme-ov-file
+- holehe, osint con email: https://github.com/megadose/holehe
+- weathr: https://github.com/Veirt/weathr
 - PicGo, cargar imágenes: https://picgo.app/
 - SweetFont, buscador semántico de fuentes: https://sweetfont.com/
 - Atenuador de color: https://patorjk.com/text-color-fader/
