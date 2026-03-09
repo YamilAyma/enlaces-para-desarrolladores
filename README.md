@@ -8,6 +8,8 @@ herramienta favorita 😉.
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+- Navegador de componentes Shadcn: https://shoogle.dev/
+- Mejores prácticas de Claude Code: https://github.com/shanraisshan/claude-code-best-practice
 - delphitools: https://delphi.tools/
 - OSINT Framework: https://osintframework.com/
 - AllSvgIcons: https://allsvgicons.com/
@@ -141,6 +143,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - TheReport,Fuente de las últimas noticias y tendencias en educación en línea: https://www.classcentral.com/report/
 - Cursosdev: https://cursosdev.com/
 - CouponAmI : https://www.couponami.com/
+- AwesomeSelfHosted: https://github.com/awesome-selfhosted/awesome-selfhosted
+- LibHunt: https://www.libhunt.com/
 
 ### 📄 LISTAS
 - Startups Graveyard: https://loot-drop.vercel.app/
@@ -159,6 +163,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🖥️ Técnico:
+- gh-space-shooter: https://github.com/czl9707/gh-space-shooter
 - reactsounds - https://www.reactsounds.com/
 - Manejador de estados para parametros de búsqueda React - https://nuqs.47ng.com/
 - Framework de React para experiencias 3D - https://www.reactylon.com/
@@ -176,8 +181,14 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - nuxt-simple-cookie-consent: https://github.com/criting/nuxt-simple-cookie-consent
 - Infografía para mostrar estadísticas de tu perfil GitHub: https://github.com/martadinata666/martadinata666
 - Bindu, IA como Microservicio: https://github.com/GetBindu/Bindu
+- gws cli, Google Workspace CLI: https://github.com/googleworkspace/cli
+- numpyts, numpy en TypesScript y JavaScript: https://github.com/dupontcyborg/numpy-ts
 
 ### 🛠️ HERRAMIENTAS:
+- sqlcrack, visualize código SQL(Extensión VSCode): https://github.com/buva7687/sql-crack
+- llmfit, instale LLM según su hardware: https://github.com/AlexsJones/llmfit
+- GitNexus, cree RAGs de sus repositorios Github: https://github.com/abhigyanpatwari/GitNexus
+- Homarr, dashboard integrador: https://github.com/homarr-labs/homarr
 - yourascii: https://yourascii.vercel.app/
 - user-scanner: https://github.com/kaifcodec/user-scanner
 - Phoneintel: https://github.com/phoneintel/phoneintel
@@ -410,6 +421,9 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - minicons: https://unmatchedstyle.com/news/minicons-icon-pack-giveaway.php
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+- Oat: https://github.com/knadh/oat
+- CliSpinners: https://github.com/sindresorhus/cli-spinners
+- 8bitUI: https://www.8bitcn.com/
 - ReactLogoSoup, para el uso de logos de marcas: https://github.com/sanity-labs/react-logo-soup
 - BetterAuthUI: https://better-auth-ui.com/
 - Soundcn: https://github.com/kapishdima/soundcn
@@ -550,6 +564,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - supa-next-starter: https://github.com/michaeltroya/supa-next-starter
 - ProjectPlannerAI StarterKit: https://github.com/webdevcody/ppai-next-starter
 - opensourcetemplates: https://www.opensourcetemplates.org/
+- NextjsStarterKit: https://github.com/kovrichard/catalyst
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 - Diseño de sistemas: https://kps.hashnode.dev/system-design-the-complete-course
@@ -560,6 +575,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Mejores prácticas README: https://github.com/jehna/readme-best-practices
 
 ### 📚 DOCUMENTACIÓN UTIL
+- Prompts de diseño de UI para IA: https://www.designprompts.dev/
 - Todo sobre las propiedades CSS: https://nikolai-shabalin.github.io/css-properties/en/
 - The Component Gallery: https://component.gallery/
 - Animaciones por Scroll - https://scroll-driven-animations.style/ 
@@ -711,6 +727,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Ollama, ejecuta y administra LLMs: https://ollama.com/ 
 - Sticht, diseño de sitios web: https://stitch.withgoogle.com/
 - Antigravity | IDE Google con modelos vanguardia: https://antigravity.google/
+- GeminiCLI: https://geminicli.com/
 
 ### 🎙️ Podcast
 - TalkPython: https://talkpython.fm/episodes/all
@@ -725,6 +742,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 
 ### 💫 INSPIRACIÓN
+- VeryGoodComponents: https://www.goodcomponents.io/
 - UX Snaps: https://www.uxsnaps.com/
 - A/B Test: https://abtest.design/
 - openclipart: https://openclipart.org/
