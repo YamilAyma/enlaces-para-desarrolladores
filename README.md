@@ -143,8 +143,10 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - TheReport,Fuente de las últimas noticias y tendencias en educación en línea: https://www.classcentral.com/report/
 - Cursosdev: https://cursosdev.com/
 - CouponAmI : https://www.couponami.com/
+- ConvertX: https://github.com/C4illin/ConvertX
 - AwesomeSelfHosted: https://github.com/awesome-selfhosted/awesome-selfhosted
 - LibHunt: https://www.libhunt.com/
+- react-native-discovery: https://reactnative.directory/
 
 ### 📄 LISTAS
 - Startups Graveyard: https://loot-drop.vercel.app/
@@ -163,6 +165,11 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🖥️ Técnico:
+- clipboardy, portapapeles fácil: https://github.com/sindresorhus/clipboardy
+- valdi-framework: https://github.com/Snapchat/Valdi
+- qrcode-vue: https://github.com/scopewu/qrcode.vue
+- vue-infinite-list: https://github.com/suhaotian/broad-infinite-list
+- react-native-enricher: https://github.com/software-mansion/react-native-enriched
 - gh-space-shooter: https://github.com/czl9707/gh-space-shooter
 - reactsounds - https://www.reactsounds.com/
 - Manejador de estados para parametros de búsqueda React - https://nuqs.47ng.com/
