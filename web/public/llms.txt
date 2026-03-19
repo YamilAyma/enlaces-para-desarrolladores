@@ -1,14 +1,10 @@
-# Mi lista de recursos para desarrolladores 💻🔥
+# Enlaces para Desarrolladores
 
----
+> Una colección curada de cientos de recursos, herramientas y bibliotecas para potenciar tu desarrollo.
 
-👋 Bienvenido amigo desarrollador, me alegra saber que te impulse buscar herramientas ó estar actualizado a las rápidas tecnologías y recursos,
-por ello guardo enlaces que me parecen útiles como interesantes para visitar, me gusta, no prefiero guardarlo solo para mí y puede que encuentres tu próxima
-herramienta favorita 😉.
+Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y LLMs. Contiene categorías que van desde IA y Packs hasta Cursos e Inspiración.
 
-He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
-
-### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+## 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
 
 - [PlaceCats](https://placecats.com/): Marcadores de posición con imágenes de gatos.
 - [Shadcn Shoogle](https://shoogle.dev/): Explorador interactivo para componentes Shadcn/ui.
@@ -151,8 +147,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [LibHunt](https://www.libhunt.com/): Descubre las mejores librerías y comparativas de software basadas en popularidad.
 - [React Native Directory](https://reactnative.directory/): El lugar definitivo para encontrar y comparar librerías de React Native.
 - [Skills Sh](https://skills.sh/): Directorio para acceder a 'skills' de IA.
-
-### 📄 LISTAS
+## 📄 LISTAS
 
 - [Startups Graveyard](https://loot-drop.vercel.app/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.
 - [STARTUPS G-Sheet](https://docs.google.com/spreadsheets/u/0/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/htmlview): Hoja de cálculo colaborativa con miles de startups y sus detalles.
@@ -160,18 +155,15 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Actually Free APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/): Lista de APIs realmente gratuitas, abiertas y que no requieren autenticación.
 - [NEWSLETTERS G-Sheet](https://docs.google.com/spreadsheets/d/1LWHf_WVwK0wKAFBFjQxtM7OJokK7lb5SUPknw3Ebz_c/edit?gid=1533789385#gid=1533789385): Recopilación exhaustiva de newsletters sobre tecnología y emprendimiento.
 - [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file): Repositorio con las preguntas más comunes en entrevistas de trabajo para React.
-
-### 🧗 ROADMAPS:
+## 🧗 ROADMAPS:
 
 - [Laravel Roadmap](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path): Guía completa y detallada para dominar el ecosistema de Laravel.
-
-### APIs:
+## APIs:
 
 - [Awesome APIs](https://github.com/TonnyL/Awesome_APIs): Una lista curada de APIs asombrosas para todo tipo de funcionalidades.
 - [Da.gd](https://da.gd/): Acortador de URLs minimalista y potente con soporte para terminal.
 - [Aptoide API](https://ws75.aptoide.com/api/7/apps/search?info=1): Documentación para acceder a los datos de aplicaciones de la tienda Aptoide.
-
-### 🖥️ Técnico:
+## 🖥️ Técnico:
 
 - [Beheader](https://github.com/p2r3/beheader): Herramienta de línea de comandos para unir múltiples archivos en uno solo.
 - [Agentation](https://github.com/benjitaylor/agentation): Sistema de feedback para elementos visuales basado en agentes de IA.
@@ -201,8 +193,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [GWS CLI](https://github.com/googleworkspace/cli): Herramienta de línea de comandos potente para administrar Google Workspace de forma programática.
 - [Numpy TS](https://github.com/dupontcyborg/numpy-ts): Versión de la librería NumPy portada a TypeScript y JavaScript para cálculos numéricos.
 - [Cheerio](https://github.com/cheeriojs/cheerio/): Librería rápida y flexible para el análisis y manipulación de HTML/XML con sintaxis estilo jQuery.
-
-### 🛠️ HERRAMIENTAS:
+## 🛠️ HERRAMIENTAS:
 
 - [Tooooools](https://www.tooooools.app/): Colección masiva de herramientas de diseño y recursos creativos.
 - [Font Generator](https://fontgenerator.design/fonts): Generador de fuentes personalizadas y estilos tipográficos modernos.
@@ -402,19 +393,17 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Pattern CSS](https://bansal.io/pattern-css): Librería de patrones de fondo minimalistas hechos puramente con CSS.
 - [Shapen](https://shapen.com/): Herramienta de IA para generar modelos 3D complejos a partir de imágenes simples.
 - [Flexbox Labs](https://flexboxlabs.netlify.app/): Constructor interactivo que te ayuda a entender y diseñar layouts con Flexbox.
-
-#### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
+## 🤗 RELAX:
 
-### 🤗 RELAX:
 - [The Coding Love](https://thecodinglove.com/): Blog clásico de humor para desarrolladores con memes y GIFs sobre la vida en IT.
 - [Git Wrapped](https://git-wrapped.com/): Genera un video resumen con las estadísticas más importantes de tu año en GitHub.
 - [Web Design Museum](https://www.webdesignmuseum.org): Museo digital interactivo que recorre la historia visual del diseño de interfaces web.
+## 🌐 WEB:
 
-### 🌐 WEB:
 - [Rooks](https://github.com/imbhargav5/rooks): Colección masiva de hooks de React listos para usar y optimizar tus componentes.
+## 🅰️ Iconos:
 
-### 🅰️ Iconos:
 - [Toolbar Icons](https://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/): Set de 30 iconos clásicos diseñados específicamente para interfaces de barras de herramientas.
 - [Itshover](https://www.itshover.com/): Galería de inspiración enfocada en efectos de hover y micro-interacciones innovadoras.
 - [Cotyledon Icons](https://www.webappers.com/2011/05/30/cotyledon-mini-icons-free-for-download/): Pack de mini iconos gratuitos con un diseño limpio y profesional para descarga directa.
@@ -443,11 +432,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Farm-Fresh](https://commons.wikimedia.org/wiki/Farm-Fresh_web_icons): Set masivo de iconos web con un estilo detallado y profesional.
 - [Vivid.js](https://webkul.github.io/vivid/): Librería de iconos SVG animados y personalizables para interfaces dinámicas.
 - [Minicons](https://unmatchedstyle.com/news/minicons-icon-pack-giveaway.php): Pack de iconos vectoriales minimalistas y geométricos para diseños modernos.
+## ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
-### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
-
-- Oat: https://github.com/knadh/oat
-- CliSpinners: https://github.com/sindresorhus/cli-spinners
 - [8bitUI](https://www.8bitcn.com/): Biblioteca de componentes con una estética retro de 8 bits para proyectos nostálgicos.
 - [ReactLogoSoup](https://github.com/sanity-labs/react-logo-soup): Utilidad para integrar y gestionar fácilmente logos de marcas en aplicaciones React.
 - [BetterAuthUI](https://better-auth-ui.com/): Conjunto de componentes de interfaz listos para implementar sistemas de autenticación modernos.
@@ -577,8 +563,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Feather Icons](https://feathericons.com/): Set de iconos de código abierto simples y hermosos.
 - [Mixkit](https://mixkit.co/): Galería gratuita de videos de stock, música y efectos para tus proyectos.
 - [Coverr](https://coverr.co/): Repositorio de videos de fondo gratuitos de alta calidad para sitios web.
-
-### 🧩 PLANTILLAS Y EJEMPLOS:
+## 🧩 PLANTILLAS Y EJEMPLOS:
 
 - [NG-Matero](https://github.com/ng-matero/ng-matero): Panel de administración robusto para Angular basado en Material Design.
 - [Windy Toolbox](https://windytoolbox.com/): Conjunto de herramientas y componentes esenciales para usuarios de Tailwind CSS.
@@ -592,17 +577,13 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Open Source Templates](https://www.opensourcetemplates.org/): Repositorio de plantillas de código abierto para diversos tipos de proyectos.
 - [NextjsStarterKit (Catalyst)](https://github.com/kovrichard/catalyst): Starter kit de alto rendimiento para aplicaciones Next.js modernas.
 - [CloudflareVibeSDK](https://github.com/cloudflare/vibesdk): SDK oficial de Cloudflare para construir aplicaciones rápidas y seguras.
-
-### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
+## 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 
 - [Diseño de sistemas](https://kps.hashnode.dev/system-design-the-complete-course): Guía completa sobre el diseño de sistemas escalables y arquitectura de software.
 - [Manual de lab devops](https://dev.to/skysingh04/a-lab-manual-to-devops-4j0e): Manual práctico paso a paso para aprender herramientas y flujos de DevOps.
 - [Habitos de un ingeniero](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers): Reflexiones sobre los hábitos y mentalidad de los mejores ingenieros de software.
 - [Whimsical Animations](https://www.joshwcomeau.com/blog/whimsical-animations): Guía interactiva sobre cómo crear animaciones encantadoras y lúdicas en la web.
-- README: https://github.com/hackergrrl/art-of-readme
-- Mejores prácticas README: https://github.com/jehna/readme-best-practices
-
-### 📚 DOCUMENTACIÓN UTIL
+## 📚 DOCUMENTACIÓN UTIL
 
 - [Design Prompts](https://www.designprompts.dev/): Colección de prompts especializados para generar diseños de interfaces de usuario con IA.
 - [CSS Properties](https://nikolai-shabalin.github.io/css-properties/en/): Referencia completa y detallada sobre todas las propiedades CSS y sus posibles valores.
@@ -618,7 +599,6 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [OverAPI](https://overapi.com/): Portal que centraliza cheatsheets para casi todas las APIs y lenguajes de programación populares.
 - [TailwindCSS CheatSheet](https://kombai.com/tailwind/cheat-sheet/): Referencia rápida interactiva para dominar todas las clases utilitarias de Tailwind CSS.
 - [GitHub Achievements](https://github.com/4xmen/Get-Github-Achievements): Guía detallada sobre cómo obtener todas las insignias y logros en tu perfil de GitHub.
-- Lista de Cheatsheets - https://github.com/detailyang/awesome-cheatsheet
 - [WPO](https://github.com/davidsonfellipe/awesome-wpo): Lista curada de recursos enfocados en la optimización del rendimiento web.
 - [Database Learning](https://github.com/pingcap/awesome-database-learning): Repositorio completo para aprender todo sobre el funcionamiento interno de las bases de datos.
 - [Guidelines](https://github.com/Kristories/awesome-guidelines): Colección de guías de estilo y mejores prácticas para el desarrollo de software.
@@ -647,14 +627,12 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Hacksplaining](https://www.hacksplaining.com/lessons): Lecciones interactivas para aprender sobre vulnerabilidades web y cómo prevenirlas.
 - [Modern CSS](https://modern-css.com/): Blog técnico que explora técnicas de CSS moderno para soluciones de diseño reales.
 - [UI Playbook](https://uiplaybook.dev/): Guía interactiva sobre los componentes UI fundamentales y cuándo usarlos.
-
-### 📒 CURSOS:
+## 📒 CURSOS:
 
 - [CSS mediante lecciones](https://anchoreum.com/#es): Plataforma educativa interactiva para aprender CSS a través de desafíos prácticos.
 - [Diseño de sistemas](https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81): Lista curada de los mejores cursos para aprender arquitectura de sistemas distribuidos en 2025.
 - [Rust por Google](https://github.com/google/comprehensive-rust): Curso intensivo y completo de Rust desarrollado y utilizado por el equipo de Android en Google.
-
-### 🔠 TIPOGRAFIAS:
+## 🔠 TIPOGRAFIAS:
 
 - [ShowFont](https://www.showfont.net/): Herramienta para previsualizar y descargar fuentes gratuitas con un enfoque en la legibilidad.
 - [AnnotationMono](https://qwerasd205.github.io/AnnotationMono/): Fuente monoespaciada diseñada específicamente para anotar y comentar código de forma clara.
@@ -666,8 +644,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Befonts](https://befonts.com): Galería de tipografías premium y gratuitas con un diseño contemporáneo.
 - [Fontshare](https://www.fontshare.com/): Servicio de fuentes gratuitas de Indian Type Foundry que ofrece tipografías de nivel profesional.
 - [Uncut](https://uncut.wtf/): Directorio de fuentes tipográficas contemporáneas y de código abierto cuidadosamente seleccionadas.
-
-### 📣 BLOGS Y BOLETINES
+## 📣 BLOGS Y BOLETINES
 
 - [PythonLink](https://pythonlink.xyz/en): Agregador de recursos, noticias y tutoriales sobre el lenguaje Python a nivel global.
 - [Noted (Self-hosting)](https://noted.lol/): Blog dedicado al mundo del self-hosting, privacidad y herramientas de código abierto.
@@ -741,14 +718,12 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Frontend Focus](https://frontendfoc.us/): Newsletter semanal sobre HTML, CSS, WebGL y desarrollo del lado del cliente.
 - [PyCoder's Weekly](https://pycoders.com/): La newsletter de Python más querida, enfocada en tutoriales y proyectos open source.
 - [Python Weekly](https://www.pythonweekly.com/): Resumen semanal con noticias sobre Python, empleos y recursos educativos de alta calidad.
-
-### 🏠 Self-Hosted (Autoalojado)
+## 🏠 Self-Hosted (Autoalojado)
 
 - [Docker](https://www.docker.com/): La plataforma de contenedores estándar para desarrollar, enviar y ejecutar aplicaciones en cualquier lugar.
 - [MeTube](https://github.com/alexta69/metube): Interfaz web moderna (GUI) para yt-dlp que permite descargar videos de forma sencilla.
 - [ZeroByte](https://github.com/nicotsx/zerobyte): Herramienta de automatización para gestionar y optimizar backups de forma eficiente.
-
-### 🤖 IA
+## 🤖 IA
 
 - [ChatGPT](https://chatgpt.com/): El modelo de lenguaje a gran escala de OpenAI que revolucionó la interacción con la IA.
 - [Gemini](https://gemini.google.com/): La IA más avanzada de Google, integrada en su ecosistema y disponible mediante CLI.
@@ -756,30 +731,24 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Mistral](https://chat.mistral.ai/chat): Plataforma de chat para interactuar con los potentes y eficientes modelos de IA de Mistral.
 - [Claude](https://claude.ai/login): IA de Anthropic enfocada en la seguridad, razonamiento complejo y generación de código de alta calidad.
 - [Qwen](https://chat.qwen.ai/): Familia de modelos de lenguaje avanzados desarrollados por Alibaba Cloud.
-
-#### ✨ Herramientas IA
-
 - [DeepAgents](https://github.com/langchain-ai/deepagents): Plataforma experimental para el desarrollo y despliegue de agentes de IA autónomos.
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw): Herramienta automatizada para realizar investigaciones técnicas profundas con IA.
 - [Ollama](https://ollama.com/): La forma más sencilla de ejecutar y administrar modelos de lenguaje locales en tu máquina.
 - [Stitch](https://stitch.withgoogle.com/): Herramienta de Google para diseñar sitios web de forma rápida y colaborativa con IA.
 - [Antigravity](https://antigravity.google/): IDE vanguardista de Google potenciado por modelos de IA de última generación.
 - [GeminiCLI](https://geminicli.com/): Interfaz de línea de comandos para interactuar directamente con los modelos Gemini.
-
-### 🎙️ Podcast
+## 🎙️ Podcast
 
 - [Talk Python](https://talkpython.fm/episodes/all): Podcast semanal que explora el vasto ecosistema de Python y su comunidad.
 - [Python Podcast](https://www.pythonpodcast.com/): Espacio dedicado a discutir noticias, bibliotecas y tendencias del mundo Python.
-
-### 🌐 Otros medios
+## 🌐 Otros medios
 
 - [Python Reddit](https://www.reddit.com/r/Python/?rdt=57565): La comunidad de Reddit más grande y activa dedicada al lenguaje Python.
 - [Linux Do](https://linux.do/): Foro y comunidad técnica enfocada en Linux, sistemas abiertos y desarrollo.
 - [v2EX](https://www.v2ex.com/): Comunidad creativa donde los desarrolladores comparten ideas y proyectos innovadores.
 - [elHacker.net](https://elhacker.net/): Uno de los portales de seguridad informática y hacking ético más legendarios en español.
 - [Hackertab](https://now.hackertab.dev/): Extensión de navegador que convierte tu nueva pestaña en un feed de noticias tech.
-
-### 💫 INSPIRACIÓN
+## 💫 INSPIRACIÓN
 
 - [VeryGoodComponents](https://www.goodcomponents.io/): Galería de componentes UI excepcionales y bien diseñados para inspirar tus proyectos.
 - [UX Snaps](https://www.uxsnaps.com/): Colección de capturas de pantalla de interfaces reales enfocada en flujos de UX específicos.
@@ -848,7 +817,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [GraphCommerce Gallery](https://www.graphcommerce.org/gallery): Galería que muestra el potencial de React y Next.js para construir e-commerce asombrosos.
 - [CSS Drive](http://www.cssdrive.com/): Galería técnica que destaca los mejores diseños web centrados en el uso avanzado de CSS.
 
----
+## Optional
 
-⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
-Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
+- [Sitio Web](https://enlaces-para-desarrolladores.netlify.app): Versión interactiva con búsqueda y filtros.
+- [GitHub Repository](https://github.com/YamilAyma/enlaces-para-desarrolladores): Código fuente y contribuciones.
+- [Author](https://github.com/YamilAyma): Autor del repositorio como proyecto - Ingeniería de Software con IA, Automatización Digital.
