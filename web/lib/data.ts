@@ -4,6 +4,7 @@ import path from 'path';
 export interface LinkItem {
   title: string;
   url: string;
+  description?: string;
 }
 
 export interface Category {
@@ -47,18 +48,44 @@ function parseReadme(content: string): Category[] {
       const name = line.replace(/^###\s+/, '').trim();
       currentCategory = { name, links: [] };
     } 
-    // List Items with Links (- Title: URL or - Title - URL)
+    // List Items with Links
     else if (line.startsWith('-') && currentCategory) {
-      const match = line.match(urlRegex);
-      if (match) {
-        const url = match[0];
-        // Extract title: Remove "- ", remove URL, clean up separators (: or -)
-        let title = line.substring(1).replace(url, '').trim();
-        // Remove trailing separators
-        title = title.replace(/[:\-]+$/, '').trim();
+      // 1. Try to match the new format: - [Title](URL): Description
+      const enrichedMatch = line.match(/^-\s+\[(.*?)\]\((https?:\/\/[^\s\)]+)\):\s*(.*)/);
+      
+      if (enrichedMatch) {
+        const [, title, url, description] = enrichedMatch;
+        currentCategory.links.push({ 
+          title: title.trim(), 
+          url: url.trim(), 
+          description: description.trim() 
+        });
+      } else {
+        // 2. Fallback to old formats or simple URL search
+        const urlRegex = /(https?:\/\/[^\s\)]+)/;
+        const match = line.match(urlRegex);
         
-        if (title && url) {
-            currentCategory.links.push({ title, url });
+        if (match) {
+          const url = match[0];
+          let titleLine = line.substring(1).trim();
+          
+          // Try to extract title if bracketed
+          let title = '';
+          const bracketMatch = titleLine.match(/\[(.*?)\]/);
+          if (bracketMatch) {
+            title = bracketMatch[1];
+          } else {
+            // Fallback: Remove URL and separators
+            title = titleLine.replace(url, '').trim().replace(/[:\-]+$/, '').trim();
+          }
+
+          // Extract description by taking everything after the URL + possible separator
+          const afterUrlMatch = line.match(new RegExp(`${url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\)?:?\\s*(.*)`));
+          const description = afterUrlMatch ? afterUrlMatch[1].trim() : '';
+
+          if (title && url) {
+            currentCategory.links.push({ title, url, description });
+          }
         }
       }
     }

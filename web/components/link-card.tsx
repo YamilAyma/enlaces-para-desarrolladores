@@ -3,11 +3,10 @@ import { ArrowUpRight } from "lucide-react";
 interface LinkCardProps {
   title: string;
   url: string;
-  ogImage?: { url: string }[];
-  ogDescription?: string;
+  description?: string;
 }
 
-export function LinkCard({ title, url }: LinkCardProps) {
+export function LinkCard({ title, url, description }: LinkCardProps) {
   // Extract domain for display
   let domain = "";
   try {
@@ -34,6 +33,12 @@ export function LinkCard({ title, url }: LinkCardProps) {
             </div>
         </div>
         
+        {description && (
+            <p className="text-sm text-zinc-400 line-clamp-2 leading-relaxed">
+                {description}
+            </p>
+        )}
+
         <p className="text-sm font-medium text-zinc-500 font-mono truncate group-hover:text-zinc-400 transition-colors">
             {domain}
         </p>

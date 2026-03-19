@@ -4,6 +4,8 @@ import { useMemo, useState, useEffect } from "react";
 import { LinkCard } from "@/components/link-card";
 import { BentoGrid } from "@/components/bento-grid";
 import { getCategoryIcon } from "@/lib/icons";
+import { slugify } from "@/lib/utils";
+import Link from "next/link";
 import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import { Loader2, Search } from "lucide-react";
 
@@ -75,8 +77,8 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
       {/* Category Pills - Larger & Scrollbar hidden via global utility */}
       <div className="sticky top-[72px] z-30 bg-transparent backdrop-blur-md py-6">
          <div className="flex items-center gap-3 overflow-x-auto pb-4 md:pb-0 scrollbar-hide mask-fade-right px-1">
-                <button
-                    onClick={() => updateCategory("All")}
+                <Link
+                    href="/"
                     className={`flex-shrink-0 rounded-full px-6 py-2.5 text-base font-semibold transition-all duration-300 border shadow-sm ${
                         activeCategory === "All" 
                         ? "bg-[var(--primary)] text-black border-[var(--primary)] shadow-[0_0_20px_rgba(202,252,0,0.4)] scale-105" 
@@ -84,11 +86,11 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
                     }`}
                 >
                     Todos
-                </button>
+                </Link>
                 {initialCategories.map(cat => (
-                    <button
+                    <Link
                         key={cat.name}
-                        onClick={() => updateCategory(cat.name)}
+                        href={`/categoria/${slugify(cat.name)}`}
                         className={`flex-shrink-0 rounded-full px-6 py-2.5 text-base font-semibold transition-all duration-300 border shadow-sm ${
                             activeCategory === cat.name 
                             ? "bg-[var(--primary)] text-black border-[var(--primary)] shadow-[0_0_20px_rgba(202,252,0,0.4)] scale-105" 
@@ -96,7 +98,7 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
                         }`}
                     >
                         {cat.name}
-                    </button>
+                    </Link>
                 ))}
             </div>
       </div>
@@ -147,6 +149,7 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
                                 key={`${link.url}-${index}`}
                                 title={link.title}
                                 url={link.url}
+                                description={link.description}
                             />
                         ))}
                     </BentoGrid>
