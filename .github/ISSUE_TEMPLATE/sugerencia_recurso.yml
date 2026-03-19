@@ -1,0 +1,41 @@
+name: Sugerir un Recurso 🚀
+description: Envía una nueva herramienta o recurso para añadir a la lista.
+title: "[SUGERENCIA]: "
+labels: ["enhancement", "resource-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por querer contribuir! Asegúrate de que el recurso sea útil para desarrolladores.
+  - type: input
+    id: resource-name
+    attributes:
+      label: Nombre del Recurso
+      placeholder: ej. Lucide Icons
+    validations:
+      required: true
+  - type: input
+    id: resource-url
+    attributes:
+      label: URL del Recurso
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Categoría
+      options:
+        - IA
+        - Herramientas
+        - Iconos
+        - Documentación
+        - Cursos
+        - Otros
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción (opcional)
+      placeholder: ¿Por qué es útil este recurso?

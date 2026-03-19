@@ -1,0 +1,24 @@
+name: Reportar Enlace Roto
+description: Informa si un enlace en la lista ya no funciona.
+title: "[BROKEN LINK]: "
+labels: ["bug", "broken-link"]
+body:
+  - type: input
+    id: resource-name
+    attributes:
+      label: Nombre del Recurso
+      placeholder: ej. Lucide Icons
+    validations:
+      required: true
+  - type: input
+    id: resource-url
+    attributes:
+      label: URL del Enlace Roto
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Información adicional
+      placeholder: ¿Sigue roto o ha sido movido?

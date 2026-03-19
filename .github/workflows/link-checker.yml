@@ -1,0 +1,33 @@
+name: Link Checker
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Ejecutar todos los domingos a las 00:00 UTC
+  workflow_dispatch: # Permitir ejecución manual
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Link Checker
+        id: checker
+        run: node scripts/check-links.js
+        continue-on-error: true
+
+      - name: Create Issue if links are broken
+        if: steps.checker.outcome == 'failure'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Enlaces rotos detectados en el README"
+          content-filepath: ./broken_links.json
+          labels: |
+            bug
+            automated-report
+          token: ${{ secrets.GITHUB_TOKEN }}
