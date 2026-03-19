@@ -762,6 +762,8 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 
 #### ✨ Herramientas IA
 
+Deepagents, plataforma de agentes: https://github.com/langchain-ai/deepagents
+- AutoResearchClaw: https://github.com/aiming-lab/AutoResearchClaw
 - Ollama, ejecuta y administra LLMs: https://ollama.com/
 - Sticht, diseño de sitios web: https://stitch.withgoogle.com/
 - Antigravity | IDE Google con modelos vanguardia: https://antigravity.google/
