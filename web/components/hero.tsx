@@ -30,7 +30,7 @@ export function Hero() {
         <a 
             href="https://github.com/YamilAyma/enlaces-para-desarrolladores"
             target="_blank"
-            className="flex items-center gap-2 rounded-full border border-input bg-background/50 px-8 py-4 text-lg font-medium transition-colors hover:bg-[var(--muted)]"
+            className="flex items-center gap-2 rounded-full border border-white/10 bg-zinc-900 px-8 py-4 text-lg font-bold text-zinc-100 transition-all hover:bg-zinc-800 hover:border-white/20"
         >
             <Github className="h-5 w-5" />
             <span>Submit Link</span>

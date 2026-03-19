@@ -43,7 +43,7 @@ function SiteHeaderContent() {
     <motion.header
       className={`fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 py-4 transition-all duration-300 ${
         isScrolled
-          ? "bg-background/80 backdrop-blur-md shadow-sm border-b border-border/50"
+          ? "bg-black/80 backdrop-blur-md shadow-sm border-b border-white/5"
           : "bg-transparent"
       }`}
       initial={{ y: -100 }}
@@ -52,7 +52,7 @@ function SiteHeaderContent() {
     >
       <div className="flex items-center gap-4">
         <Link href="/" onClick={() => router.replace('/')} className="flex items-center gap-2 group">
-             <div className="relative h-12 w-12 overflow-hidden rounded-xl"> 
+             <div className="relative h-12 w-12 overflow-hidden rounded-xl border border-white/10"> 
                 <Image 
                     src="/logo.png" 
                     alt="Logo" 
@@ -61,8 +61,8 @@ function SiteHeaderContent() {
                 />
              </div>
              <div className="flex flex-col leading-none">
-                <span className="text-xs text-muted-foreground font-medium">Enlaces para</span>
-                <span className="text-base font-bold font-heading text-foreground tracking-tight">Desarrolladores</span>
+                <span className="text-[10px] text-zinc-500 font-bold tracking-widest uppercase mb-0.5">Enlaces para</span>
+                <span className="text-lg font-black font-heading text-white tracking-tight">Desarrolladores</span>
              </div>
         </Link>
       </div>
@@ -71,7 +71,7 @@ function SiteHeaderContent() {
 
       <div className="flex items-center gap-3">
         <div className="relative hidden sm:block group">
-            <div className="absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground">
+            <div className="absolute left-3 top-1/2 -translate-y-1/2 text-zinc-500 group-focus-within:text-[var(--primary)] transition-colors">
                 {isPending ? <Loader2 className="h-4 w-4 animate-spin text-[var(--primary)]" /> : <Search className="h-4 w-4" />}
             </div>
             <input 
@@ -79,7 +79,7 @@ function SiteHeaderContent() {
                 placeholder="Buscar recursos..."
                 value={term}
                 onChange={(e) => handleSearch(e.target.value)}
-                className="w-48 lg:w-64 rounded-full border border-input bg-background/50 px-9 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--primary)] transition-all group-focus-within:w-72 group-focus-within:bg-background"
+                className="w-48 lg:w-64 rounded-full border border-white/10 bg-white/5 px-9 py-2 text-sm text-zinc-100 placeholder:text-zinc-500 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[var(--primary)] transition-all group-focus-within:w-72 group-focus-within:bg-black/50 group-focus-within:border-[var(--primary)]/30"
             />
         </div>
         
@@ -87,7 +87,7 @@ function SiteHeaderContent() {
             href="https://github.com/YamilAyma/enlaces-para-desarrolladores" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="flex items-center gap-2 rounded-full border border-input bg-background/50 px-4 py-2 text-sm font-medium transition-colors hover:bg-[var(--muted)]"
+            className="flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm font-bold text-zinc-100 transition-all hover:bg-[var(--primary)] hover:text-black hover:border-[var(--primary)] hover:shadow-[0_0_15px_rgba(202,252,0,0.3)]"
         >
             <Github className="h-4 w-4" />
             <span className="hidden sm:inline">Submit Link</span>

@@ -79,10 +79,10 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
          <div className="flex items-center gap-3 overflow-x-auto pb-4 md:pb-0 scrollbar-hide mask-fade-right px-1">
                 <Link
                     href="/"
-                    className={`flex-shrink-0 rounded-full px-6 py-2.5 text-base font-semibold transition-all duration-300 border shadow-sm ${
+                    className={`flex-shrink-0 rounded-full px-6 py-2.5 text-base font-bold transition-all duration-300 border shadow-sm ${
                         activeCategory === "All" 
                         ? "bg-[var(--primary)] text-black border-[var(--primary)] shadow-[0_0_20px_rgba(202,252,0,0.4)] scale-105" 
-                        : "bg-background/80 backdrop-blur text-muted-foreground border-border/50 hover:bg-muted hover:text-foreground hover:border-foreground/20"
+                        : "bg-zinc-900 text-zinc-400 border-white/5 hover:bg-zinc-800 hover:text-white hover:border-white/20"
                     }`}
                 >
                     Todos
@@ -91,10 +91,10 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
                     <Link
                         key={cat.name}
                         href={`/categoria/${slugify(cat.name)}`}
-                        className={`flex-shrink-0 rounded-full px-6 py-2.5 text-base font-semibold transition-all duration-300 border shadow-sm ${
+                        className={`flex-shrink-0 rounded-full px-6 py-2.5 text-base font-bold transition-all duration-300 border shadow-sm ${
                             activeCategory === cat.name 
                             ? "bg-[var(--primary)] text-black border-[var(--primary)] shadow-[0_0_20px_rgba(202,252,0,0.4)] scale-105" 
-                            : "bg-background/80 backdrop-blur text-muted-foreground border-border/50 hover:bg-muted hover:text-foreground hover:border-foreground/20"
+                            : "bg-zinc-900 text-zinc-400 border-white/5 hover:bg-zinc-800 hover:text-white hover:border-white/20"
                         }`}
                     >
                         {cat.name}

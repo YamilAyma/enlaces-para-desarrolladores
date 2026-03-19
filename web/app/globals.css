@@ -13,22 +13,28 @@
 }
 
 :root {
-  /* Brand Identity: Acid Green */
-  --background: #ffffff;
-  --foreground: #000000;
+  /* Brand Identity: Premium Dark with Acid Green */
+  --background: #0a0a0a;
+  --foreground: #ededed;
 
   --primary: #CAFC00;
   --primary-foreground: #000000;
 
-  --muted: #F4F4F5;
+  --muted: #18181b;
+  --muted-foreground: #a1a1aa;
   --accent: #CAFC00;
+  --border: #27272a;
+  --input: #27272a;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
+  /* Even if the system is light, we keep it dark for brand consistency, 
+     but we could add a light theme here if we wanted to support it in the future.
+     For now, we force the premium dark look preferred by the user. */
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
-    --muted: #27272a;
+    --muted: #18181b;
   }
 }
 

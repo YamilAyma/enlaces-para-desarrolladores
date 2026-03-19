@@ -11,7 +11,7 @@ export default async function Home() {
   const categories = await getLinks();
 
   return (
-    <main className="min-h-screen bg-[var(--background)] selection:bg-[var(--primary)] selection:text-black relative overflow-x-hidden">
+    <main className="min-h-screen bg-black text-zinc-100 selection:bg-[var(--primary)] selection:text-black relative overflow-x-hidden">
       {/* Background Gradient Mesh */}
       <div className="fixed inset-0 z-[-1] bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-zinc-900 via-[#0a0a0a] to-black" />
       <div className="fixed inset-0 z-[-1] bg-[url('/grid.svg')] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]" />
