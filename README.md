@@ -1,13 +1,16 @@
 # Mi lista de recursos para desarrolladores 💻🔥
+
 ---
 
-👋 Bienvenido amigo desarrollador, me alegra saber que te impulse buscar herramientas ó estar actualizado a las rápidas tecnologías y recursos, 
+👋 Bienvenido amigo desarrollador, me alegra saber que te impulse buscar herramientas ó estar actualizado a las rápidas tecnologías y recursos,
 por ello guardo enlaces que me parecen útiles como interesantes para visitar, me gusta, no prefiero guardarlo solo para mí y puede que encuentres tu próxima
 herramienta favorita 😉.
 
 He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
+
+- PlaceCats, placeholder imagenes con gatos: https://placecats.com/
 - Navegador de componentes Shadcn: https://shoogle.dev/
 - Mejores prácticas de Claude Code: https://github.com/shanraisshan/claude-code-best-practice
 - delphitools: https://delphi.tools/
@@ -85,7 +88,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Listas de APIs publicas: https://apislist.com
 - DevSuite: https://devsuite.co/
 - DevUtilities: https://jam.dev/utilities
-- Built At ... Coleccion UI Kits: https://www.builtatlightspeed.com/ 
+- Built At ... Coleccion UI Kits: https://www.builtatlightspeed.com/
 - Galería de startups: https://startups.gallery/
 - Coleccion de SVGs para tus proyectos: https://shapes.framer.website/
 - Encuentra apps y paginas webs sobre herramientas: https://webcurate.co/
@@ -147,8 +150,10 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - AwesomeSelfHosted: https://github.com/awesome-selfhosted/awesome-selfhosted
 - LibHunt: https://www.libhunt.com/
 - react-native-discovery: https://reactnative.directory/
+- Skills: https://skills.sh/
 
 ### 📄 LISTAS
+
 - Startups Graveyard: https://loot-drop.vercel.app/
 - STARTUPS: https://docs.google.com/spreadsheets/u/0/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/htmlview
 - State of JS: https://2024.stateofjs.com/en-US/libraries/
@@ -157,14 +162,19 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Preguntas de entrevista React: https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file
 
 ### 🧗 ROADMAPS:
+
 - Laravel : https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
 
 ### APIs:
-- APIs - https://github.com/TonnyL/Awesome_APIs 
+
+- APIs - https://github.com/TonnyL/Awesome_APIs
 - Acortador URL: https://da.gd/
 - Aptoide API: https://ws75.aptoide.com/api/7/apps/search?info=1
 
 ### 🖥️ Técnico:
+
+- beheader, archivos en uno solo: https://github.com/p2r3/beheader
+- Agentation, feedback de elementos visuales para IA: https://github.com/benjitaylor/agentation
 - clipboardy, portapapeles fácil: https://github.com/sindresorhus/clipboardy
 - valdi-framework: https://github.com/Snapchat/Valdi
 - qrcode-vue: https://github.com/scopewu/qrcode.vue
@@ -190,8 +200,15 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Bindu, IA como Microservicio: https://github.com/GetBindu/Bindu
 - gws cli, Google Workspace CLI: https://github.com/googleworkspace/cli
 - numpyts, numpy en TypesScript y JavaScript: https://github.com/dupontcyborg/numpy-ts
+- Manipulacion de HTML/XML(js): https://github.com/cheeriojs/cheerio/
 
 ### 🛠️ HERRAMIENTAS:
+
+- tooooools: https://www.tooooools.app/
+- FontGenerator: https://fontgenerator.design/fonts
+- SVG Studio Web: https://www.svg.studio/
+- GitAgent: https://github.com/open-gitagent/gitagent
+- Plannotator: https://github.com/backnotprop/plannotator
 - sqlcrack, visualize código SQL(Extensión VSCode): https://github.com/buva7687/sql-crack
 - llmfit, instale LLM según su hardware: https://github.com/AlexsJones/llmfit
 - GitNexus, cree RAGs de sus repositorios Github: https://github.com/abhigyanpatwari/GitNexus
@@ -321,7 +338,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Responsive al maximo: https://responsively.app/
 - Backend y Frontend con Python: https://reflex.dev/
 - Muestras de gradientes: https://webgradients.com/
-. Imagenes falsas para maquetas: https://fakeimg.pl/
+  . Imagenes falsas para maquetas: https://fakeimg.pl/
 - Fondos para gradientes sofisticados: https://meshgradient.in/
 - Remover fondo de imagen, clasico: https://www.remove.bg/es
 - Ver metadatos de una imagen: https://jimpl.com/
@@ -384,22 +401,25 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - Creacion de slides para devs: https://sli.dev/
 - Patrones CSS: https://bansal.io/pattern-css
 - Crear modelos 3D con IA: https://shapen.com/
-- Creacion de flexboxes: https://flexboxlabs.netlify.app/
-    #### Despliegue:
-      - https://www.pythonanywhere.com
+- Creacion de flexboxes: https://flexboxlabs.netlify.app/#### Despliegue:
+
+  - https://www.pythonanywhere.com
 
 ### 🤗 RELAX:
+
 Memes y cosas divertidas de programación: https://thecodinglove.com/
 Tu perfil de GitHub en un video: https://git-wrapped.com/
 Una vista por la historia IU: https://www.webdesignmuseum.org
 
-
 ### 🌐 WEB
+
 - React
   - +hooks para React - https://github.com/imbhargav5/rooks
 
 ### 🅰️ Iconos
+
 - Toolbar Icons: https://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/
+- itshover: https://www.itshover.com/
 - Cotyledon Icons: https://www.webappers.com/2011/05/30/cotyledon-mini-icons-free-for-download/
 - Sublink Interactive, Icons: http://sublink.ca/icons/
 - Obra Icons: https://icons.obra.studio/
@@ -428,6 +448,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - minicons: https://unmatchedstyle.com/news/minicons-icon-pack-giveaway.php
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+
 - Oat: https://github.com/knadh/oat
 - CliSpinners: https://github.com/sindresorhus/cli-spinners
 - 8bitUI: https://www.8bitcn.com/
@@ -460,11 +481,11 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - FlyonUI - https://flyonui.com/
 - Drag&drop - https://drag-and-drop.formkit.com/
 - Fondos Bootstrap - https://ui.bootstrap.ninja/ninja-backgrounds/
-- MieloUI - https://mielo-ui.github.io/ 
+- MieloUI - https://mielo-ui.github.io/
 - Botones - https://www.buttons.cool/buttons
 - Drag & drop - https://targetjs.io/docs
 - Solid Toast (Notificaciones para web) - https://www.solid-toast.com/
-- SVG Loaders - https://magecdn.com/tools/svg-loaders   
+- SVG Loaders - https://magecdn.com/tools/svg-loaders
 - BaseUI - https://base-ui.com/
 - Kitwind - https://kitwind.io/products/kometa/
 - Widgets - https://embed.im/free-website-widgets
@@ -481,7 +502,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Visualizador de sonido - https://github.com/maximux13/waveform-renderer
 - TailwindFlex(Librería de componentes) - https://tailwindflex.com/
 - Ant Design X - https://x.ant.design/
-- SyntaxUI - https://syntaxui.com/  
+- SyntaxUI - https://syntaxui.com/
 - EvilCharts, con estética de Shadcn y recharts: https://github.com/legions-developer/evilcharts
 - PenguinUI - https://www.penguinui.com/
 - Tambo: https://github.com/tambo-ai/tambo
@@ -491,7 +512,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - WebTUI, Aspecto de terminal - https://webtui.ironclad.sh/
 - 9ui - https://www.9ui.dev/
 - ArtifactUI - https://artifactui.in/
-- Sobre TailwindCSS -https://allutilitycss.com/ 
+- Sobre TailwindCSS -https://allutilitycss.com/
 - Botones Metálicos - https://button.lakshb.dev/
 - OpenPropsUI (solo CSS) - https://open-props-ui.netlify.app/
 - Reka(Vue.js) - https://reka-ui.com/
@@ -561,6 +582,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Recursos de videos II: https://coverr.co/
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
+
 - NG-Matero - https://github.com/ng-matero/ng-matero
 - Windy Toolbox - https://windytoolbox.com/
 - FlatLogic Plantillas - https://flatlogic.com/templates
@@ -572,8 +594,10 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - ProjectPlannerAI StarterKit: https://github.com/webdevcody/ppai-next-starter
 - opensourcetemplates: https://www.opensourcetemplates.org/
 - NextjsStarterKit: https://github.com/kovrichard/catalyst
+- CloudflareVibeSDK: https://github.com/cloudflare/vibesdk
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
+
 - Diseño de sistemas: https://kps.hashnode.dev/system-design-the-complete-course
 - Manual de lab devops: https://dev.to/skysingh04/a-lab-manual-to-devops-4j0e
 - Habitos de un ingeniero de software: https://vadimkravcenko.com/shorts/habits-of-great-software-engineers
@@ -582,10 +606,11 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Mejores prácticas README: https://github.com/jehna/readme-best-practices
 
 ### 📚 DOCUMENTACIÓN UTIL
+
 - Prompts de diseño de UI para IA: https://www.designprompts.dev/
 - Todo sobre las propiedades CSS: https://nikolai-shabalin.github.io/css-properties/en/
 - The Component Gallery: https://component.gallery/
-- Animaciones por Scroll - https://scroll-driven-animations.style/ 
+- Animaciones por Scroll - https://scroll-driven-animations.style/
 - Diagramas de visualización - https://datavizproject.com/
 - Rico Cheatsheets - https://devhints.io/
 - BigO Cheatsheet - https://www.bigocheatsheet.com/
@@ -626,12 +651,14 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - ModernCSS: https://modern-css.com/
 - UI Playbook: https://uiplaybook.dev/
 
-### 📒 CURSOS: 
+### 📒 CURSOS:
+
 - CSS mediante lecciones: https://anchoreum.com/#es
 - Diseño de sistemas: https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81
 - Rust por Google : https://github.com/google/comprehensive-rust
 
 ### 🔠 TIPOGRAFIAS:
+
 - ShowFont: https://www.showfont.net/
 - AnnotationMono - https://qwerasd205.github.io/AnnotationMono/
 - https://velvetyne.fr/
@@ -644,6 +671,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - uncut: https://uncut.wtf/
 
 ### 📣 BLOGS Y BOLETINES
+
 - PythonLink - https://pythonlink.xyz/en
 - selfhosting: https://noted.lol/
 - MLCMU: https://blog.ml.cmu.edu/
@@ -717,12 +745,14 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - pycoders: https://pycoders.com/
 - pythonweekly: https://www.pythonweekly.com/
 
-### Self-Hosted (Autoalojado)
+### 🏠 Self-Hosted (Autoalojado)
+
 - Docker, adios a funciona en mi maquina: https://www.docker.com/
 - metube, web GUI para yt-dlp: https://github.com/alexta69/metube
 - zerobyte, automatización de backups: https://github.com/nicotsx/zerobyte
 
 ### 🤖 IA
+
 - ChatGPT: https://chatgpt.com/
 - Gemini: https://gemini.google.com/, https://github.com/google-gemini/gemini-cli
 - GLM: https://chat.z.ai/
@@ -730,25 +760,28 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Claude: https://claude.ai/login, https://github.com/anthropics/claude-code
 - Qwen: https://chat.qwen.ai/
 
-#### Herramientas
-- Ollama, ejecuta y administra LLMs: https://ollama.com/ 
+#### ✨ Herramientas IA
+
+- Ollama, ejecuta y administra LLMs: https://ollama.com/
 - Sticht, diseño de sitios web: https://stitch.withgoogle.com/
 - Antigravity | IDE Google con modelos vanguardia: https://antigravity.google/
 - GeminiCLI: https://geminicli.com/
 
 ### 🎙️ Podcast
+
 - TalkPython: https://talkpython.fm/episodes/all
 - Python Podcast _: https://www.pythonpodcast.com/
 
 ### 🌐 Otros medios
+
 - Python Reddit: https://www.reddit.com/r/Python/?rdt=57565
 - Linux Do: https://linux.do/
 - v2EX: https://www.v2ex.com/
 - elHacker.net: https://elhacker.net/
 - hackertab.dev: https://now.hackertab.dev/
 
-
 ### 💫 INSPIRACIÓN
+
 - VeryGoodComponents: https://www.goodcomponents.io/
 - UX Snaps: https://www.uxsnaps.com/
 - A/B Test: https://abtest.design/
@@ -785,7 +818,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - Galería de pies de página (footers): https://www.footer.design/
 - seesaw, sitios web: https://www.seesaw.website/
 - Brutalist Websites: https://brutalistwebsites.com/
-- Detalles y animaciones: https://60fps.design/ 
+- Detalles y animaciones: https://60fps.design/
 - Aplicaciones móviles: https://handheld.design/
 - Galería de sitios web: https://assetgallery.co/
 - Vistas de aplicaciones para estudiar: https://screensdesign.com/
@@ -815,6 +848,7 @@ Una vista por la historia IU: https://www.webdesignmuseum.org
 - cssmanía: https://www.cssmania.com/
 - graphcommerce: https://www.graphcommerce.org/gallery
 - CSSDrive: http://www.cssdrive.com/
+
 ---
 
 ⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
