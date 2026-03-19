@@ -46,6 +46,9 @@ export const metadata: Metadata = {
     shortcut: "/icon.png",
     apple: "/icon.png",
   },
+  verification: {
+    google: "hKxa3eTYihytsIbCFOtjcyLBoZkGx7ryB5ejex8LB1w",
+  },
   robots: {
     index: true,
     follow: true,
