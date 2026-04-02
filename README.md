@@ -151,6 +151,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [LibHunt](https://www.libhunt.com/): Descubre las mejores librerías y comparativas de software basadas en popularidad.
 - [React Native Directory](https://reactnative.directory/): El lugar definitivo para encontrar y comparar librerías de React Native.
 - [Skills Sh](https://skills.sh/): Directorio para acceder a 'skills' de IA.
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges): Un repositorio de badges de markdown para usar en tus proyectos.
 
 ### 📄 LISTAS
 
@@ -204,6 +205,18 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 🛠️ HERRAMIENTAS:
 
+- [GitHub Readme Stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow): Genera dinámicamente tu estado de StackOverflow en tus archivos README de GitHub
+- [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium): Genera dinámicamente tu último artículo de Medium en tus archivos README de GitHub
+- [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile): Muestra tu música de Spotify reproduciéndose en tu perfil de Github.
+- [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats): Agrega métricas de desarrollo interesantes a tu perfil de Github con Wakatime.
+- [GitHub Action Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page): Github Action para enviar actualizaciones a tu repositorio de perfil especial.
+- [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator): Genera fácilmente el archivo README de tu perfil de GitHub con los complementos más recientes, como el contador de visitantes, las estadísticas de GitHub, etc., utilizando una interfaz de usuario mínima.
+- [GitHub Activity Readme](https://github.com/jamesgeorge007/github-activity-readme): Actualiza el archivo README con la actividad reciente de un usuario en GitHub.
+- [Waka Readme](https://github.com/athul/waka-readme): Métricas semanales de Wakatime en tu perfil Readme..
+- [Readme Typing SVG](https://github.com/denvercoder1/readme-typing-svg): Agrega un gif de texto con efecto de máquina de escribir a tu perfil de GitHub.
+- [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter): Genera un contador de visitas a tu perfil de GitHub.
+- [Profile Summary for GitHub](https://profile-summary-for-github.com/search): Genera un resumen visual con estadísticas de tu perfil de GitHub.
+- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow): Plantilla de Github Action para mostrar contenido en tu perfil.
 - [Tooooools](https://www.tooooools.app/): Colección masiva de herramientas de diseño y recursos creativos.
 - [Font Generator](https://fontgenerator.design/fonts): Generador de fuentes personalizadas y estilos tipográficos modernos.
 - [SVG Studio Web](https://www.svg.studio/): Herramienta online para la creación y edición de gráficos vectoriales SVG.
