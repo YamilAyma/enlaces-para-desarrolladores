@@ -847,6 +847,9 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [CSS Manía](https://www.cssmania.com/): Una de las galerías de diseño CSS más antiguas y respetadas para inspiración web.
 - [GraphCommerce Gallery](https://www.graphcommerce.org/gallery): Galería que muestra el potencial de React y Next.js para construir e-commerce asombrosos.
 - [CSS Drive](http://www.cssdrive.com/): Galería técnica que destaca los mejores diseños web centrados en el uso avanzado de CSS.
+- [Toools.design](https://www.toools.design/ui-web-design-inspiration-websites): Galería técnica que destaca los mejores diseños web.
+- [Httpster](https://httpster.net/): Galería técnica que destaca los mejores diseños web de estética brutalista y minimalismo.
+- [CSS Zen Garden](https://csszengarden.com/pages/alldesigns/): Galería de sitios web influenciados por el CSS.
 
 ---
 
