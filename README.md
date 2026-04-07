@@ -206,9 +206,14 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Cheerio](https://github.com/cheeriojs/cheerio/): Librería rápida y flexible para el análisis y manipulación de HTML/XML con sintaxis estilo jQuery.
 - [Dj-Urls-Panel](https://github.com/yassi/dj-urls-panel): Visualiza el enrutamiento de URL de Django dentro del panel de administración de Django, incluyendo patrones, vistas, espacios de nombres y conflictos.
 - [FaceHash](https://www.facehash.dev/): Un componente de React que genera rostros de avatar únicos a partir de cualquier cadena de texto. Sin dependencias. Funciona con Next.js, Vite y Remix. 
+- [Sonar](https://github.com/RasKrebs/sonar): Herramienta de línea de comandos para inspeccionar y administrar servicios que escuchan en puertos locales.
+- [NotebookLM Py](https://github.com/teng-lin/notebooklm-py): API de Python no oficial y funcionalidades de agente para Google NotebookLM. Acceso programático completo a las funciones de NotebookLM, incluidas las capacidades que la interfaz web no expone, a través de Python, la línea de comandos y agentes de IA como Claude Code, Codex y OpenClaw. 
 
 ### 🛠️ HERRAMIENTAS:
 
+
+- [PWAScore](https://pwascore.com/): Compara las capacidades de las aplicaciones web progresivas (PWA) en los navegadores móviles y de escritorio más populares. 
+- [Floci](https://github.com/floci-io/floci): Ligero, esponjoso y siempre gratuito: emulador local de AWS. 
 - [Stroke](https://stroke.abhii.space/): Animar archivos SVG. Hermosamente.
 - [MiniStack](https://github.com/Nahuel990/ministack): Emulador local de AWS gratuito y de código abierto: más de 35 servicios, compatible con Terraform, bases de datos reales. Gratis para siempre. Licencia MIT.
 - [EmailMD](https://github.com/unmta/emailmd): Convierte archivos Markdown en correos electrónicos profesionales con un diseño limpio y moderno.
@@ -795,6 +800,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [GeminiCLI](https://geminicli.com/): Interfaz de línea de comandos para interactuar directamente con los modelos Gemini.
 - [Oh My ClaudeCode](https://github.com/Yeachan-Heo/oh-my-claudecode): Orquestación multiagente centrada en equipos para Claude Code.
 - [ClawTeam](https://github.com/HKUDS/ClawTeam): "Inteligencia de enjambre de agentes" (Un comando → Automatización completa)
+- [NanoClaw](https://github.com/qwibitai/nanoclaw): Se ejecuta en contenedores para mayor seguridad. Se conecta a WhatsApp, Telegram, Slack, Discord, Gmail y otras aplicaciones de mensajería, tiene memoria, tareas programadas y se ejecuta directamente en el SDK de agentes de Anthropic.
 
 ### 🎙️ Podcast
 
