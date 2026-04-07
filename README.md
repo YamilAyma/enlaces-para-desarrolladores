@@ -152,6 +152,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [React Native Directory](https://reactnative.directory/): El lugar definitivo para encontrar y comparar librerías de React Native.
 - [Skills Sh](https://skills.sh/): Directorio para acceder a 'skills' de IA.
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges): Un repositorio de badges de markdown para usar en tus proyectos.
+- [Claude SEO](https://github.com/AgriciDaniel/claude-seo): Competencia SEO universal para Claude Code. 19 subcompetencias, 12 subagentes, 3 extensiones (DataForSEO, Firecrawl, Banana). SEO técnico, EEAT, schema, GEO/AEO, backlinks, SEO local, inteligencia de mapas, API de Google e informes en PDF/Excel.
 
 ### 📄 LISTAS
 
@@ -174,6 +175,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 🖥️ Técnico:
 
+- [Django Modern Rest](https://github.com/wemake-services/django-modern-rest): ¡Moderno framework REST para Django con tipado y soporte asíncrono! 
 - [Beheader](https://github.com/p2r3/beheader): Herramienta de línea de comandos para unir múltiples archivos en uno solo.
 - [Agentation](https://github.com/benjitaylor/agentation): Sistema de feedback para elementos visuales basado en agentes de IA.
 - [Clipboardy](https://github.com/sindresorhus/clipboardy): Librería de Node.js para interactuar fácilmente con el portapapeles del sistema.
@@ -202,9 +204,14 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [GWS CLI](https://github.com/googleworkspace/cli): Herramienta de línea de comandos potente para administrar Google Workspace de forma programática.
 - [Numpy TS](https://github.com/dupontcyborg/numpy-ts): Versión de la librería NumPy portada a TypeScript y JavaScript para cálculos numéricos.
 - [Cheerio](https://github.com/cheeriojs/cheerio/): Librería rápida y flexible para el análisis y manipulación de HTML/XML con sintaxis estilo jQuery.
+- [Dj-Urls-Panel](https://github.com/yassi/dj-urls-panel): Visualiza el enrutamiento de URL de Django dentro del panel de administración de Django, incluyendo patrones, vistas, espacios de nombres y conflictos.
+- [FaceHash](https://www.facehash.dev/): Un componente de React que genera rostros de avatar únicos a partir de cualquier cadena de texto. Sin dependencias. Funciona con Next.js, Vite y Remix. 
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Stroke](https://stroke.abhii.space/): Animar archivos SVG. Hermosamente.
+- [MiniStack](https://github.com/Nahuel990/ministack): Emulador local de AWS gratuito y de código abierto: más de 35 servicios, compatible con Terraform, bases de datos reales. Gratis para siempre. Licencia MIT.
+- [EmailMD](https://github.com/unmta/emailmd): Convierte archivos Markdown en correos electrónicos profesionales con un diseño limpio y moderno.
 - [GitHub Readme Stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow): Genera dinámicamente tu estado de StackOverflow en tus archivos README de GitHub
 - [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium): Genera dinámicamente tu último artículo de Medium en tus archivos README de GitHub
 - [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile): Muestra tu música de Spotify reproduciéndose en tu perfil de Github.
@@ -464,6 +471,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
+- [Dayflow Calendar](https://calendar.dayflow.studio/): Un componente de calendario completo, ligero y elegante. 
 - [Oat](https://github.com/knadh/oat): Sistema de autenticación de código abierto para aplicaciones web.
 - [CliSpinners](https://github.com/sindresorhus/cli-spinners): Librería de spinners para aplicaciones de línea de comandos.
 - [Kodo7](https://www.kodo7.com/): Sistema de generación de texturas visuales.
@@ -666,6 +674,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Hacksplaining](https://www.hacksplaining.com/lessons): Lecciones interactivas para aprender sobre vulnerabilidades web y cómo prevenirlas.
 - [Modern CSS](https://modern-css.com/): Blog técnico que explora técnicas de CSS moderno para soluciones de diseño reales.
 - [UI Playbook](https://uiplaybook.dev/): Guía interactiva sobre los componentes UI fundamentales y cuándo usarlos.
+- [Claude Howto](https://github.com/luongnv89/claude-howto): Una guía visual y basada en ejemplos para Claude Code, desde conceptos básicos hasta agentes avanzados, con plantillas que se pueden copiar y pegar y que aportan valor inmediato. 
 
 ### 📒 CURSOS:
 
@@ -784,6 +793,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Stitch](https://stitch.withgoogle.com/): Herramienta de Google para diseñar sitios web de forma rápida y colaborativa con IA.
 - [Antigravity](https://antigravity.google/): IDE vanguardista de Google potenciado por modelos de IA de última generación.
 - [GeminiCLI](https://geminicli.com/): Interfaz de línea de comandos para interactuar directamente con los modelos Gemini.
+- [Oh My ClaudeCode](https://github.com/Yeachan-Heo/oh-my-claudecode): Orquestación multiagente centrada en equipos para Claude Code.
+- [ClawTeam](https://github.com/HKUDS/ClawTeam): "Inteligencia de enjambre de agentes" (Un comando → Automatización completa)
 
 ### 🎙️ Podcast
 
