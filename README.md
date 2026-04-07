@@ -415,6 +415,11 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Pattern CSS](https://bansal.io/pattern-css): Librería de patrones de fondo minimalistas hechos puramente con CSS.
 - [Shapen](https://shapen.com/): Herramienta de IA para generar modelos 3D complejos a partir de imágenes simples.
 - [Flexbox Labs](https://flexboxlabs.netlify.app/): Constructor interactivo que te ayuda a entender y diseñar layouts con Flexbox.
+- [Gitlogue](https://github.com/unhappychoice/gitlogue): Una herramienta cinematográfica para reproducir commits de Git en la terminal, que convierte tu historial de Git en una historia animada y viviente.
+- [CollabMD](https://github.com/andes90/collabmd): Colaboración en tiempo real para carpetas Markdown, diagramas y documentos respaldados por Git. 
+- [Monosketch](https://monosketch.io/): Potente aplicación de dibujo y diagramación ASCII que te permite transformar sin esfuerzo tus Convertidas en diseños visualmente impactantes.
+- [Cloudflare Error Page Editor](https://virt.moe/cferr/editor/): Cloudflare Error Page Editor
+- [Convert](https://github.com/p2r3/convert):  Convertidor de archivos en línea verdaderamente universal.
 
 #### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
@@ -459,8 +464,9 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
-- Oat: https://github.com/knadh/oat
-- CliSpinners: https://github.com/sindresorhus/cli-spinners
+- [Oat](https://github.com/knadh/oat): Sistema de autenticación de código abierto para aplicaciones web.
+- [CliSpinners](https://github.com/sindresorhus/cli-spinners): Librería de spinners para aplicaciones de línea de comandos.
+- [Kodo7](https://www.kodo7.com/): Sistema de generación de texturas visuales.
 - [8bitUI](https://www.8bitcn.com/): Biblioteca de componentes con una estética retro de 8 bits para proyectos nostálgicos.
 - [ReactLogoSoup](https://github.com/sanity-labs/react-logo-soup): Utilidad para integrar y gestionar fácilmente logos de marcas en aplicaciones React.
 - [BetterAuthUI](https://better-auth-ui.com/): Conjunto de componentes de interfaz listos para implementar sistemas de autenticación modernos.
