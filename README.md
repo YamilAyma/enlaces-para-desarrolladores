@@ -10,6 +10,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
 
+- [Clawflows](https://github.com/nikilster/clawflows): ⚡️ Superpoderes para tu Openclaw. Potentes flujos de trabajo de agentes predefinidos. 
 - [PlaceCats](https://placecats.com/): Marcadores de posición con imágenes de gatos.
 - [Shadcn Shoogle](https://shoogle.dev/): Explorador interactivo para componentes Shadcn/ui.
 - [Claude Code Best Practice](https://github.com/shanraisshan/claude-code-best-practice): Guía de mejores prácticas para el uso de Claude Code.
@@ -175,6 +176,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 🖥️ Técnico:
 
+- [Pretext](https://github.com/chenglou/pretext): Medición y maquetación de texto rápidas, precisas y completas. 
 - [Django Modern Rest](https://github.com/wemake-services/django-modern-rest): ¡Moderno framework REST para Django con tipado y soporte asíncrono! 
 - [Beheader](https://github.com/p2r3/beheader): Herramienta de línea de comandos para unir múltiples archivos en uno solo.
 - [Agentation](https://github.com/benjitaylor/agentation): Sistema de feedback para elementos visuales basado en agentes de IA.
@@ -207,11 +209,12 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Dj-Urls-Panel](https://github.com/yassi/dj-urls-panel): Visualiza el enrutamiento de URL de Django dentro del panel de administración de Django, incluyendo patrones, vistas, espacios de nombres y conflictos.
 - [FaceHash](https://www.facehash.dev/): Un componente de React que genera rostros de avatar únicos a partir de cualquier cadena de texto. Sin dependencias. Funciona con Next.js, Vite y Remix. 
 - [Sonar](https://github.com/RasKrebs/sonar): Herramienta de línea de comandos para inspeccionar y administrar servicios que escuchan en puertos locales.
-- [NotebookLM Py](https://github.com/teng-lin/notebooklm-py): API de Python no oficial y funcionalidades de agente para Google NotebookLM. Acceso programático completo a las funciones de NotebookLM, incluidas las capacidades que la interfaz web no expone, a través de Python, la línea de comandos y agentes de IA como Claude Code, Codex y OpenClaw. 
+- [NotebookLM Py](https://github.com/teng-lin/notebooklm-py): API de Python no oficial y funcionalidades de agente para Google NotebookLM. Acceso programático completo a las funciones de NotebookLM, incluidas las capacidades que la interfaz web no expone, a través de Python, la línea de comandos y agentes de IA como Claude Code, Codex y OpenClaw.
+- [Docmd](https://github.com/docmd-io/docmd): Genera documentación minimalista, rápida y elegante a partir de Markdown. Sin React, sin código innecesario, solo contenido. Diseñado para desarrolladores.
 
 ### 🛠️ HERRAMIENTAS:
 
-
+- [Omni Search](https://github.com/Eul45/omni-search): Búsqueda de archivos de alto rendimiento para Windows + detector de duplicados mediante NTFS USN/MFT (Tauri + Rust + C++). 
 - [PWAScore](https://pwascore.com/): Compara las capacidades de las aplicaciones web progresivas (PWA) en los navegadores móviles y de escritorio más populares. 
 - [Floci](https://github.com/floci-io/floci): Ligero, esponjoso y siempre gratuito: emulador local de AWS. 
 - [Stroke](https://stroke.abhii.space/): Animar archivos SVG. Hermosamente.
@@ -476,6 +479,11 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
+- [WarcraftCN](https://www.warcraftcn.com/): Un conjunto de componentes inspirados en la estética clásica de la interfaz de usuario de Warcraft III RTS. Código abierto, listo para copiar y pegar. Compatible con tus frameworks favoritos. Creado por fans. Sin afiliación. 
+- [Retroui](https://www.retroui.dev/):Una librería de interfaz de usuario para React + TailwindCSS con estilo neobrutalista, ideal para crear aplicaciones web modernas y llamativas. Perfecta para cualquier proyecto que utilice Shadcn/ui.
+- [Bearnie](https://bearnie.dev/): Componentes accesibles para Astro y Tailwind CSS. 
+- [Starwind](https://starwind.dev/): Componentes animados, personalizables y accesibles para Astro, creados exclusivamente con Astro y JavaScript puro. Inspirados en shadcn/ui, con instalación sencilla mediante la línea de comandos.
+- [Shadcn Studio](https://shadcnstudio.com/): Crea interfaces de usuario futuristas con Shadcn.
 - [Dayflow Calendar](https://calendar.dayflow.studio/): Un componente de calendario completo, ligero y elegante. 
 - [Oat](https://github.com/knadh/oat): Sistema de autenticación de código abierto para aplicaciones web.
 - [CliSpinners](https://github.com/sindresorhus/cli-spinners): Librería de spinners para aplicaciones de línea de comandos.
@@ -631,8 +639,10 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Manual de lab devops](https://dev.to/skysingh04/a-lab-manual-to-devops-4j0e): Manual práctico paso a paso para aprender herramientas y flujos de DevOps.
 - [Habitos de un ingeniero](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers): Reflexiones sobre los hábitos y mentalidad de los mejores ingenieros de software.
 - [Whimsical Animations](https://www.joshwcomeau.com/blog/whimsical-animations): Guía interactiva sobre cómo crear animaciones encantadoras y lúdicas en la web.
-- README: https://github.com/hackergrrl/art-of-readme
-- Mejores prácticas README: https://github.com/jehna/readme-best-practices
+- [Art of README](https://github.com/hackergrrl/art-of-readme): El arte de los archivos README.
+- [Mejores prácticas README](https://github.com/jehna/readme-best-practices): Mejores prácticas para archivos README.
+- [Tauri Tanstack Start React Template](https://github.com/kvnxiao/tauri-tanstack-start-react-template): Una plantilla Tauri 2.0 + TanStack Start React, con TailwindCSS, análisis de código con opiniones propias y GitHub Actions preconfigurado. 
+- [React SaaS Template](https://www.react-saas-template.com/): Ahorra meses a tu equipo al crear aplicaciones SaaS B2B y B2C con esta gratuita de la comunidad React Router. plantilla
 
 ### 📚 DOCUMENTACIÓN UTIL
 
@@ -801,6 +811,9 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Oh My ClaudeCode](https://github.com/Yeachan-Heo/oh-my-claudecode): Orquestación multiagente centrada en equipos para Claude Code.
 - [ClawTeam](https://github.com/HKUDS/ClawTeam): "Inteligencia de enjambre de agentes" (Un comando → Automatización completa)
 - [NanoClaw](https://github.com/qwibitai/nanoclaw): Se ejecuta en contenedores para mayor seguridad. Se conecta a WhatsApp, Telegram, Slack, Discord, Gmail y otras aplicaciones de mensajería, tiene memoria, tareas programadas y se ejecuta directamente en el SDK de agentes de Anthropic.
+- [Lemonade](https://github.com/lemonade-sdk/lemonade): Lemonade ayuda a los usuarios a descubrir y ejecutar aplicaciones de IA locales, ofreciendo modelos LLM optimizados directamente desde sus propias GPU y NPU.
+- [InsForge](https://github.com/InsForge/InsForge): Brinda a los agentes todo lo que necesitan para lanzar aplicaciones full-stack.
+- [Promptfoo](https://github.com/promptfoo/promptfoo): Prueba tus indicaciones, agentes y RAG. Red teaming/pentesting/escaneo de vulnerabilidades para IA. Compara el rendimiento de GPT, Claude, Gemini, Llama y más. Configuraciones declarativas sencillas con línea de comandos e integración CI/CD. Utilizado por OpenAI y Anthropic. 
 
 ### 🎙️ Podcast
 
