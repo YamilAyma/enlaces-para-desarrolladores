@@ -10,6 +10,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
 
+- [GetDesign](https://getdesign.md/): Diseños inspirados en sitios web populares. Incorpóralo a tu proyecto y deja que los agentes de codificación creen la interfaz de usuario correspondiente. 
+- [Prompts.chat](https://github.com/f/prompts.chat): Comparte, descubre y recopila prompts de la comunidad. Gratuito y de código abierto: autoaloja tu organización con total privacidad. 
 - [Clawflows](https://github.com/nikilster/clawflows): ⚡️ Superpoderes para tu Openclaw. Potentes flujos de trabajo de agentes predefinidos. 
 - [PlaceCats](https://placecats.com/): Marcadores de posición con imágenes de gatos.
 - [Shadcn Shoogle](https://shoogle.dev/): Explorador interactivo para componentes Shadcn/ui.
@@ -154,6 +156,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Skills Sh](https://skills.sh/): Directorio para acceder a 'skills' de IA.
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges): Un repositorio de badges de markdown para usar en tus proyectos.
 - [Claude SEO](https://github.com/AgriciDaniel/claude-seo): Competencia SEO universal para Claude Code. 19 subcompetencias, 12 subagentes, 3 extensiones (DataForSEO, Firecrawl, Banana). SEO técnico, EEAT, schema, GEO/AEO, backlinks, SEO local, inteligencia de mapas, API de Google e informes en PDF/Excel.
+- [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): Un conjunto de habilidades de agente listas para usar en investigación, ciencia, ingeniería, análisis, finanzas y redacción. 
 
 ### 📄 LISTAS
 
@@ -213,9 +216,14 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Sonar](https://github.com/RasKrebs/sonar): Herramienta de línea de comandos para inspeccionar y administrar servicios que escuchan en puertos locales.
 - [NotebookLM Py](https://github.com/teng-lin/notebooklm-py): API de Python no oficial y funcionalidades de agente para Google NotebookLM. Acceso programático completo a las funciones de NotebookLM, incluidas las capacidades que la interfaz web no expone, a través de Python, la línea de comandos y agentes de IA como Claude Code, Codex y OpenClaw.
 - [Docmd](https://github.com/docmd-io/docmd): Genera documentación minimalista, rápida y elegante a partir de Markdown. Sin React, sin código innecesario, solo contenido. Diseñado para desarrolladores.
+- [PixiJS](https://github.com/pixijs/pixijs): El motor de creación HTML5: Crea contenido digital atractivo con el renderizador WebGL 2D más rápido y flexible.
+- [Claude Ads](https://github.com/AgriciDaniel/claude-ads): Auditoría integral de publicidad de pago y optimización para Claude Code. 186 comprobaciones en Google, Meta, YouTube, LinkedIn, TikTok y Microsoft Ads con puntuación ponderada, agentes paralelos y plantillas del sector. 
+- [Theme Toggle](https://theme-toggle.rdsx.dev/): Efecto de alternancia de tema 
 
 ### 🛠️ HERRAMIENTAS:
 
+- [SEO Audit Skill](https://github.com/seo-skills/seo-audit-skill): Una completa herramienta de línea de comandos para auditorías SEO con 108 reglas de auditoría en 12 categorías. Analiza cualquier sitio web para detectar las mejores prácticas de SEO, Core Web Vitals, encabezados de seguridad, datos estructurados, accesibilidad y mucho más
+- [Rowboat](https://github.com/rowboatlabs/rowboat): Compañero de trabajo de IA de código abierto, con memoria 
 - [Reclip](https://github.com/averygan/reclip): Descarga vídeos de casi cualquier sitio web. Descargador de contenido multimedia ligero y autoalojado con una interfaz web limpia.
 - [OpenVideo](https://github.com/CristianOlivera1/openvid): Crea demos profesionales en segundos, directamente en tu navegador
 - [Omni Search](https://github.com/Eul45/omni-search): Búsqueda de archivos de alto rendimiento para Windows + detector de duplicados mediante NTFS USN/MFT (Tauri + Rust + C++). 
@@ -452,6 +460,9 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Rooks](https://github.com/imbhargav5/rooks): Colección masiva de hooks de React listos para usar y optimizar tus componentes.
 
 ### 🅰️ Iconos:
+
+- [Boxicons](https://boxicons.com/): Iconos sencillamente hermosos, elaborados con esmero. Para diseñadores y
+desarrolladores
 - [Toolbar Icons](https://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/): Set de 30 iconos clásicos diseñados específicamente para interfaces de barras de herramientas.
 - [Itshover](https://www.itshover.com/): Galería de inspiración enfocada en efectos de hover y micro-interacciones innovadoras.
 - [Cotyledon Icons](https://www.webappers.com/2011/05/30/cotyledon-mini-icons-free-for-download/): Pack de mini iconos gratuitos con un diseño limpio y profesional para descarga directa.
@@ -808,6 +819,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 #### ✨ Herramientas IA
 
+- [AI Website Cloner Template](https://github.com/JCodesMore/ai-website-cloner-template): Clona cualquier sitio web con un solo comando usando agentes de codificación de IA. 
 - [DeepAgents](https://github.com/langchain-ai/deepagents): Plataforma experimental para el desarrollo y despliegue de agentes de IA autónomos.
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw): Herramienta automatizada para realizar investigaciones técnicas profundas con IA.
 - [Ollama](https://ollama.com/): La forma más sencilla de ejecutar y administrar modelos de lenguaje locales en tu máquina.
@@ -820,6 +832,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Lemonade](https://github.com/lemonade-sdk/lemonade): Lemonade ayuda a los usuarios a descubrir y ejecutar aplicaciones de IA locales, ofreciendo modelos LLM optimizados directamente desde sus propias GPU y NPU.
 - [InsForge](https://github.com/InsForge/InsForge): Brinda a los agentes todo lo que necesitan para lanzar aplicaciones full-stack.
 - [Promptfoo](https://github.com/promptfoo/promptfoo): Prueba tus indicaciones, agentes y RAG. Red teaming/pentesting/escaneo de vulnerabilidades para IA. Compara el rendimiento de GPT, Claude, Gemini, Llama y más. Configuraciones declarativas sencillas con línea de comandos e integración CI/CD. Utilizado por OpenAI y Anthropic. 
+- [AutoSkills](https://www.autoskills.sh/): Detecta automáticamente tu pila tecnológica e instala la mejor.
+Habilidades de agente de IA para tu proyecto
 
 ### 🎙️ Podcast
 
@@ -836,6 +850,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 💫 INSPIRACIÓN
 
+- [Netfolio](https://www.netfolio.io/websites): Explora los mejores sitios web Actualizado diariamente. 
 - [VeryGoodComponents](https://www.goodcomponents.io/): Galería de componentes UI excepcionales y bien diseñados para inspirar tus proyectos.
 - [UX Snaps](https://www.uxsnaps.com/): Colección de capturas de pantalla de interfaces reales enfocada en flujos de UX específicos.
 - [A/B Test Design](https://abtest.design/): Directorio de casos reales y lecciones aprendidas de experimentos de tests A/B.
