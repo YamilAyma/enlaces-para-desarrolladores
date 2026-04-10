@@ -15,6 +15,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Prompts.chat](https://github.com/f/prompts.chat): Comparte, descubre y recopila prompts de la comunidad. Gratuito y de código abierto: autoaloja tu organización con total privacidad. 
 - [Clawflows](https://github.com/nikilster/clawflows): ⚡️ Superpoderes para tu Openclaw. Potentes flujos de trabajo de agentes predefinidos. 
 - [PlaceCats](https://placecats.com/): Marcadores de posición con imágenes de gatos.
+- [Awesome Copilot](https://awesome-copilot.github.com/): Recopilación curada de instrucciones de sistema, agentes y ganchos personalizados para potenciar GitHub Copilot.
 - [Shadcn Shoogle](https://shoogle.dev/): Explorador interactivo para componentes Shadcn/ui.
 - [Claude Code Best Practice](https://github.com/shanraisshan/claude-code-best-practice): Guía de mejores prácticas para el uso de Claude Code.
 - [Delphi Tools](https://delphi.tools/): Colección de utilidades y herramientas para desarrolladores.
@@ -250,6 +251,10 @@ para lanzar aplicaciones fullstack.
 - [VigIA Orchestrator](https://github.com/JordanCT/VigIA-Orchestrator): Orquestador de agentes de IA para flujos de trabajo complejos y automatización de tareas técnicas.
 - [Druids](https://github.com/fulcrumresearch/druids): Framework de código abierto para construir aplicaciones complejas basadas en LLMs con soporte para múltiples modelos.
 - [Qwen Code](https://qwen.ai/qwencode): Agente de IA para codificación en terminal basado en Qwen-Coder para automatizar flujos de trabajo.
+- [pdfx](https://github.com/akii09/pdfx): Componentes de React para generar documentos PDF totalmente personalizables con una experiencia similar a shadcn/ui.
+- [Boneyard](https://github.com/0xGF/boneyard): Librería de React que genera pantallas de carga (skeleton) perfectas basándose en la estructura real del DOM.
+- [Emdash](https://github.com/emdash-cms/emdash): CMS full-stack para TypeScript construido sobre Astro, diseñado para entornos serverless y agentes de IA.
+- [Database.build](https://database.build/): Plataforma intuitiva para diseñar y gestionar esquemas de bases de datos de forma visual y rápida.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -283,7 +288,6 @@ para lanzar aplicaciones fullstack.
 - [GitAgent](https://github.com/open-gitagent/gitagent): Agente de IA especializado en la gestión y automatización de procesos en Git.
 - [Plannotator](https://github.com/backnotprop/plannotator): Utilidad para la planificación y anotación visual de proyectos.
 - [SQL Crack](https://github.com/buva7687/sql-crack): Extensión de VSCode para visualizar y depurar código SQL de forma interactiva.
-- [LLMFit](https://github.com/AlexsJones/llmfit): Herramienta para instalar y optimizar modelos LLM locales según tu hardware.
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus): Crea sistemas de RAG (Búsqueda Aumentada) sobre tus propios repositorios de GitHub.
 - [Homarr](https://github.com/homarr-labs/homarr): Un dashboard elegante y modular para integrar todos tus servicios en un solo lugar.
 - [YourASCII](https://yourascii.vercel.app/): Generador de arte ASCII y texto estilizado para consolas y perfiles.
@@ -487,6 +491,10 @@ para lanzar aplicaciones fullstack.
 - [Tunnelmole](https://tunnelmole.com/): Herramienta sencilla y de código abierto para exponer servidores locales a internet mediante URLs públicas.
 - [Pencil](https://www.pencil.dev/): Lienzo de diseño para desarrolladores integrado en el IDE que genera código de producción instantáneamente.
 - [fnm](https://github.com/Schniz/fnm): Gestor de versiones de Node.js extremadamente rápido e inteligente, desarrollado íntegramente en Rust.
+- [Diagrams.net](https://app.diagrams.net/): Herramienta líder de diseño de diagramas y flujos, totalmente gratuita y compatible con múltiples formatos (anteriormente Draw.io).
+- [Apidog](https://apidog.com/es/): Plataforma integral de desarrollo de APIs con diseño, documentación, mocking y pruebas automatizadas en un solo lugar.
+- [Port-kill](https://github.com/treadiehq/port-kill): Utilidad extremadamente rápida para encontrar y terminar procesos que están ocupando puertos específicos en el sistema.
+- [DrawDB](https://www.drawdb.app/): Herramienta de diseño de bases de datos relacionales basada en el navegador con una interfaz moderna y generador de SQL.
 
 #### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
@@ -676,10 +684,10 @@ desarrolladores
 - [Feather Icons](https://feathericons.com/): Set de iconos de código abierto simples y hermosos.
 - [Mixkit](https://mixkit.co/): Galería gratuita de videos de stock, música y efectos para tus proyectos.
 - [Coverr](https://coverr.co/): Repositorio de videos de fondo gratuitos de alta calidad para sitios web.
-- [pdfx](https://github.com/akii09/pdfx): Componentes de React para generar documentos PDF totalmente personalizables con una experiencia similar a shadcn/ui.
-- [Boneyard](https://github.com/0xGF/boneyard): Librería de React que genera pantallas de carga (skeleton) perfectas basándose en la estructura real del DOM.
-- [Emdash](https://github.com/emdash-cms/emdash): CMS full-stack para TypeScript construido sobre Astro, diseñado para entornos serverless y agentes de IA.
 - [liveline](https://github.com/benjitaylor/liveline): Gráficos de líneas animados en tiempo real para React, optimizados para un rendimiento de 60fps en el navegador.
+- [Gridstack.js](https://gridstackjs.com/): Librería de TypeScript para crear layouts de dashboards responsivos, arrastrables y redimensionables de forma sencilla.
+- [React Email](https://react.email/): Framework moderno para construir correos electrónicos elegantes y responsivos utilizando componentes funcionales de React.
+- [mapcn](https://github.com/AnmolSaini16/mapcn): Biblioteca de componentes de mapas interactivos y personalizables para React, estilizados con Tailwind CSS y listos para usar.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
@@ -759,6 +767,7 @@ desarrolladores
 - [Motion (Zajno)](https://motion.zajno.com/): Recurso interactivo que explora y demuestra los principios de animación y diseño gráfico en interfaces UI/UX. 
 - [alg0.dev](https://www.alg0.dev/): Herramienta interactiva para aprender y visualizar el funcionamiento de algoritmos paso a paso.
 - [Python Tutor](https://pythontutor.com/): Visualizador educativo que muestra la ejecución de código paso a paso para Python, JS, C, C++ y Java.
+- [Linux Security Guide](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): Guía completa de endurecimiento y seguridad para servidores Linux mantenida por la comunidad.
 
 ### 📒 CURSOS:
 
@@ -766,6 +775,8 @@ desarrolladores
 - [Diseño de sistemas](https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81): Lista curada de los mejores cursos para aprender arquitectura de sistemas distribuidos en 2025.
 - [Rust por Google](https://github.com/google/comprehensive-rust): Curso intensivo y completo de Rust desarrollado y utilizado por el equipo de Android en Google.
 - [KodeKloud Studio](https://kodekloud.com/studio/labs): Entorno de laboratorios interactivos para practicar habilidades reales en DevOps, Cloud y programación.
+- [Anthropic Skilljar](https://anthropic.skilljar.com/): Plataforma educativa oficial de Anthropic con cursos gratuitos y certificados sobre el uso avanzado de Claude y sus servicios.
+- [Aprende SQL](https://www.aprendesql.dev/): Plataforma educativa interactiva diseñada para dominar el lenguaje SQL mediante ejercicios prácticos directos.
 
 ### 🔠 TIPOGRAFIAS:
 
@@ -798,6 +809,7 @@ desarrolladores
 - [Prismic Blog](https://prismic.io/blog): Artículos sobre desarrollo web moderno, frameworks y gestión de contenido.
 - [Adler Hsieh](https://adlerhsieh.com/): Blog personal con reflexiones profundas sobre cómo ser un mejor profesional en tecnología.
 - [DevTools Academy](https://www.devtoolsacademy.com/): Portal de aprendizaje con posts y tutoriales enfocados en herramientas de desarrollo.
+- [Karpathy Jobs](https://karpathy.ai/jobs/): Tablero de anuncios y recursos de carrera enfocados en roles de alto nivel en el sector de la Inteligencia Artificial.
 - [Ned Batchelder](https://nedbatchelder.com/blog/): Blog de uno de los desarrolladores de Python más experimentados del ecosistema.
 - [Sobolev's Blog](https://sobolevn.me/): Artículos técnicos de alta calidad centrados en Python, Django y buenas prácticas.
 - [PythonProgramming](https://pythonprogramming.net/): Tutoriales de Python prácticos que cubren desde lo básico hasta robótica.
@@ -861,6 +873,7 @@ desarrolladores
 - [MeTube](https://github.com/alexta69/metube): Interfaz web moderna (GUI) para yt-dlp que permite descargar videos de forma sencilla.
 - [ZeroByte](https://github.com/nicotsx/zerobyte): Herramienta de automatización para gestionar y optimizar backups de forma eficiente.
 - [Reclip](https://github.com/averygan/reclip): Descarga vídeos de casi cualquier sitio web. Descargador de contenido multimedia ligero y autoalojado con una interfaz web limpia.
+- [Dokploy](https://github.com/Dokploy/dokploy): Plataforma como servicio (PaaS) de código abierto y autoalojada que simplifica el despliegue de aplicaciones y bases de datos sobre Docker.
 
 ### 🤖 IA
 
@@ -888,6 +901,9 @@ desarrolladores
 - [InsForge](https://github.com/InsForge/InsForge): Brinda a los agentes todo lo que necesitan para lanzar aplicaciones full-stack.
 - [Promptfoo](https://github.com/promptfoo/promptfoo): Prueba tus indicaciones, agentes y RAG. Red teaming/pentesting/escaneo de vulnerabilidades para IA. Compara el rendimiento de GPT, Claude, Gemini, Llama y más. Configuraciones declarativas sencillas con línea de comandos e integración CI/CD. Utilizado por OpenAI y Anthropic. 
 - [AutoSkills](https://www.autoskills.sh/): Detecta automáticamente tu pila tecnológica e instala la mejor.
+- [Can I Run AI](https://www.canirun.ai/): Herramienta que escanea tu hardware para determinar qué modelos de IA de código abierto puedes ejecutar localmente de forma fluida.
+- [Page Agent](https://github.com/alibaba/page-agent): Agente de IA autónomo desarrollado por Alibaba que permite controlar el navegador y realizar tareas web complejas mediante lenguaje natural.
+- [LLMFit](https://github.com/AlexsJones/llmfit): Herramienta para instalar y optimizar modelos LLM locales según tu hardware específico.
 Habilidades de agente de IA para tu proyecto
 
 ### 🎙️ Podcast

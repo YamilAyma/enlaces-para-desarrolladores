@@ -1,3 +1,8 @@
+---
+title: Curación de Recursos Tecnológicos
+description: Protocolo para la investigación, validación e integración de nuevos recursos en el README.md.
+---
+
 # 🛠️ Workflow: Curación de Recursos Tecnológicos
 
 Este flujo de trabajo describe los pasos que debe seguir un agente para procesar una lista de enlaces y agregarlos al repositorio de "Enlaces para Desarrolladores".
