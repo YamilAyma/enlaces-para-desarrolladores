@@ -138,6 +138,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Dev Fonts](https://devfonts.gafi.dev/): Herramienta para previsualizar y elegir las mejores tipografías para desarrollo.
 - [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents): Repositorio dedicado a la investigación y desarrollo de agentes de IA generativa.
 - [404 Design](https://www.404s.design/): Galería de inspiración enfocada exclusivamente en diseños creativos de páginas de error 404.
+- [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit): Recopilación masiva de más de 120 librerías para ingeniería de LLMs, incluyendo RAG, agentes, fine-tuning y evaluación.
 - [Free For Dev](https://free-for.dev/#/): Lista masiva de servicios y herramientas gratuitas para desarrolladores (Saas, Paas, etc).
 - [Svgl](https://svgl.app/): Repositorio de logos de tecnologías y marcas en formato SVG de alta calidad.
 - [Icons0](https://icons0.dev/): Una colección curada y minimalista de sets de iconos optimizados para interfaces web modernas.
@@ -260,6 +261,7 @@ para lanzar aplicaciones fullstack.
 - [Emdash](https://github.com/emdash-cms/emdash): CMS full-stack para TypeScript construido sobre Astro, diseñado para entornos serverless y agentes de IA.
 - [Database.build](https://database.build/): Plataforma intuitiva para diseñar y gestionar esquemas de bases de datos de forma visual y rápida.
 - [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch): Guía técnica y repositorio de código para construir modelos de lenguaje grandes (GPT-like) desde cero usando PyTorch.
+- [GSD (Get Shit Done)](https://github.com/gsd-build/get-shit-done): Framework de desarrollo guiado por especificaciones para agentes de IA que resuelve el "context rot" y permite la ejecución autónoma de tareas.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -506,6 +508,8 @@ para lanzar aplicaciones fullstack.
 - [Mobile Simulator](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk): Extensión de Chrome para pruebas de diseño responsivo que emula múltiples dispositivos y gestos táctiles.
 - [GitButler](https://github.com/gitbutlerapp/gitbutler): Cliente de Git de nueva generación desarrollado en Rust que introduce conceptos como ramas virtuales y flujo paralelo.
 - [Unlighthouse](https://github.com/harlan-zw/unlighthouse): Herramienta para generar reportes de Google Lighthouse de forma masiva para todas las rutas de un sitio web automáticamente.
+- [Outerbase Studio](https://github.com/outerbase/studio): GUI de base de datos de código abierto para el navegador que permite gestionar esquemas y datos de forma visual en PostgreSQL, MySQL y SQLite.
+- [Port Killer](https://github.com/productdevbook/port-killer): Herramienta multiplataforma para gestionar puertos y procesos con soporte para Kubernetes port-forwarding y túneles de Cloudflare.
 
 #### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
@@ -520,6 +524,7 @@ para lanzar aplicaciones fullstack.
 - [MagicPattern CSS](https://www.magicpattern.design/tools/css-backgrounds): Generador de patrones y fondos CSS geométricos personalizables para añadir textura visual a proyectos web.
 - [Krumzi Backgrounds](https://www.krumzi.com/tools/animated-background-generator): Generador de fondos animados y gradientes dinámicos impulsado por IA para crear interfaces inmersivas.
 - [simpleParallax.js](https://simpleparallax.com/): Librería de JavaScript ultra ligera y fácil de usar para añadir efectos de paralaje a cualquier imagen.
+- [Tailwind Animations](https://github.com/midudev/tailwind-animations): Librería de animaciones listas para usar en proyectos de Tailwind CSS, diseñada para mejorar la interactividad visual.
 
 ### 🅰️ Iconos:
 
@@ -773,6 +778,7 @@ desarrolladores
 - [BatiJS](https://batijs.dev/): Herramienta interactiva para explorar y comparar diferentes stacks de desarrollo web.
 - [Isocons](https://www.isocons.app/): Galería de iconos isométricos elegantes para dar profundidad visual a tus interfaces.
 - [Mantine](https://mantine.dev/): Biblioteca de componentes de React completa con un fuerte enfoque en la accesibilidad.
+- [Big-O Visual Guide](https://samwho.dev/big-o/): Guía interactiva y visual que explica la complejidad algorítmica y la notación Big O mediante animaciones y ejemplos prácticos.
 - [Glyphs](https://glyphs.fyi/): Repositorio de recursos tipográficos e iconos diseñados para interfaces modernas.
 - [Hacksplaining](https://www.hacksplaining.com/lessons): Lecciones interactivas para aprender sobre vulnerabilidades web y cómo prevenirlas.
 - [Modern CSS](https://modern-css.com/): Blog técnico que explora técnicas de CSS moderno para soluciones de diseño reales.
