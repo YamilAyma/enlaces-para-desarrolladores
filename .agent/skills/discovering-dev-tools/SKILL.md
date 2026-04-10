@@ -41,7 +41,18 @@ Esta habilidad permite al agente actuar como un curador autónomo de recursos t�
     - Realizar el commit siguiendo la skill `@/commits`.
     - Crear un Pull Request usando `gh pr create` con:
         - **Título**: `Discovery: YYYY-MM-DD`
-        - **Cuerpo**: Incluir resumen de la búsqueda, lista de recursos añadidos y links verificados.
+        - **Cuerpo**: 
+            ## 🔍 Resumen de Descubrimiento
+            [Breve resumen del valor técnico encontrado]
+            
+            ### 📦 Recursos Añadidos
+            - **Nombre**: [Link]
+              - *Descripción técnica en español*
+            
+            ### ✅ Verificación de Integridad
+            - [x] **Enlace validado**: Verificado con `scripts/link_validator.py`.
+            - [x] **Formato corregido**: Validado con `scripts/format_helper.py`.
+            - [x] **Deduplicación**: Sin duplicidad en el catálogo.
 
 ## Fuentes y Criterios de Búsqueda
 Las fuentes están centralizadas en `resources/sources.json`. El agente debe priorizar herramientas que:
