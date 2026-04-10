@@ -97,6 +97,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Shapes by Framer](https://shapes.framer.website/): Colección de formas SVG personalizables para tus diseños en Framer o Web.
 - [Web Curate](https://webcurate.co/): Descubre las mejores aplicaciones y páginas web sobre herramientas digitales.
 - [OSChina](https://www.oschina.net/): Portal de noticias y comunidad de código abierto líder en la región de China.
+- [SkillsMP](https://skillsmp.com):  Explora las habilidades del agente
 - [KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos): Versiones adorables y estilizadas de logos de empresas tecnológicas.
 - [Product Hunt](https://www.producthunt.com/): La plataforma de referencia para descubrir los lanzamientos de nuevos productos tech.
 - [TinyWidgets](https://tinywidgets.org/): Colección de widgets y componentes UI ligeros y reutilizables.
@@ -161,6 +162,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges): Un repositorio de badges de markdown para usar en tus proyectos.
 - [Claude SEO](https://github.com/AgriciDaniel/claude-seo): Competencia SEO universal para Claude Code. 19 subcompetencias, 12 subagentes, 3 extensiones (DataForSEO, Firecrawl, Banana). SEO técnico, EEAT, schema, GEO/AEO, backlinks, SEO local, inteligencia de mapas, API de Google e informes en PDF/Excel.
 - [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): Un conjunto de habilidades de agente listas para usar en investigación, ciencia, ingeniería, análisis, finanzas y redacción. 
+- [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills): Guía técnica en un solo archivo diseñada para corregir sesgos y mejorar el comportamiento de Claude Code en tareas de programación complejas.
+- [OpenSkills](https://github.com/numman-ali/openskills): Framework y CLI universal para hacer que las habilidades de codificación de IA sean portables entre diferentes agentes y frameworks.
 
 ### 📄 LISTAS
 
@@ -187,6 +190,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [AI Agents Skills](https://github.com/hoodini/ai-agents-skills): Colección curada de habilidades especializadas para agentes de codificación. 
 - [Vercel Labs Agent Skills](https://github.com/vercel-labs/agent-skills): Habilidades empaquetadas para agentes de IA siguiendo el formato estándar de Agent Skills. 
 - [AI Agent Skills Library](https://github.com/maragudk/skills): Colección de habilidades variadas para agentes de IA (investigación, code review, etc.). 
+- [SQL MCP Server](https://github.com/Azure/data-api-builder): Servidor Model Context Protocol nativo de Microsoft (Data API builder) que permite a los agentes de IA acceder de forma segura a datos SQL sin exponer esquemas sensibles.
 - [Claude Agentic Framework](https://github.com/er4700345-coder/claude-agentic-framework): Marco especializado para Claude Code que aplica metodologías estructuradas de desarrollo de software. 
 - [InsForge](https://insforge.dev/): Proporcione a los agentes todo lo que necesitan.
 para lanzar aplicaciones fullstack. 
@@ -234,9 +238,15 @@ para lanzar aplicaciones fullstack.
 - [Crashcat](https://github.com/isaac-mason/crashcat): Motor de física para JavaScript, diseñado para juegos, simulaciones y sitios web creativos. 
 - [PayKit](https://paykit.sh/): El primer framework de facturación para TypeScript que gestiona planes, Stripe y webhooks directamente desde el código. 
 - [Geo Content Writer](https://github.com/GEO-SEO/geo-content-writer): Sistema de producción de contenido GEO/SEO basado en backlog que convierte oportunidades de prompts en artículos optimizados. 
+- [OpenClaw](https://github.com/openclaw/openclaw): Asistente de IA residente con memoria persistente nativa que permite mantener el contexto detallado entre sesiones de trabajo.
+- [OpenCLI-RS Skill](https://github.com/nashsu/opencli-rs-skill): Herramienta avanzada de crawling para agentes de IA que permite extraer datos estructurados de más de 55 fuentes (X, Reddit, etc.).
+- [Mevid](https://github.com/mevid-ai/mevid): Capa de memoria cognitiva de código abierto para agentes de IA, estructurada como un sistema de archivos inspeccionable para mejorar la retención de datos.
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent): Framework de agentes de IA de Nous Research diseñado para evolucionar y adaptarse dinámicamente según el uso del desarrollador.
+- [DeepTutor](https://github.com/HKUDS/DeepTutor): Asistente de aprendizaje personalizado nativo para agentes, enfocado en optimizar el aprendizaje técnico mediante IA.
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Recordly](https://github.com/webadderall/Recordly): Crea grabaciones de pantalla profesionales gratis. Un grabador de pantalla de código abierto para Mac/Windows/Linux que añade zoom automático, cursores animados, subtítulos automáticos y mucho más a tus vídeos. 
 - [Ultramock](https://www.ultramock.io/): Crea mockups de alta calidad para tus productos digitales.
 - [Rowboat](https://github.com/rowboatlabs/rowboat): Compañero de trabajo de IA de código abierto, con memoria 
 - [Openvid](https://github.com/CristianOlivera1/openvid): Crea demos profesionales en segundos, directamente en tu navegador
@@ -461,6 +471,8 @@ para lanzar aplicaciones fullstack.
 - [Monosketch](https://monosketch.io/): Potente aplicación de dibujo y diagramación ASCII que te permite transformar sin esfuerzo tus Convertidas en diseños visualmente impactantes.
 - [Cloudflare Error Page Editor](https://virt.moe/cferr/editor/): Cloudflare Error Page Editor
 - [Convert](https://github.com/p2r3/convert):  Convertidor de archivos en línea verdaderamente universal.
+- [Panel Cleaner](https://github.com/scottaw/panel-cleaner): Herramienta de ML diseñada para automatizar la limpieza de globos de texto en imágenes de manga, optimizando el flujo de traducción.
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): Ecosistema de OCR multilingüe de alto rendimiento que soporta más de 80 idiomas para aplicaciones industriales y de desarrollo.
 
 #### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
@@ -475,6 +487,7 @@ para lanzar aplicaciones fullstack.
 
 ### 🅰️ Iconos:
 
+- [Streamline](https://www.streamlinehq.com/): Tu biblioteca definitiva de iconos. Descarga o copia iconos SVG y PNG.   
 - [Boxicons](https://boxicons.com/): Iconos sencillamente hermosos, elaborados con esmero. Para diseñadores y
 desarrolladores
 - [Toolbar Icons](https://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/): Set de 30 iconos clásicos diseñados específicamente para interfaces de barras de herramientas.
@@ -511,7 +524,7 @@ desarrolladores
 - [ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI): Una colección de código abierto de componentes animados, interactivos y totalmente personalizables para crear interfaces de usuario impactantes y memorables. 
 - [Kutty](https://kutty.netlify.app/): Kutty es un plugin de Tailwind para la creación de aplicaciones web. Cuenta con un conjunto de componentes accesibles y reutilizables que se utilizan habitualmente en aplicaciones web. 
 - [WarcraftCN](https://www.warcraftcn.com/): Un conjunto de componentes inspirados en la estética clásica de la interfaz de usuario de Warcraft III RTS. Código abierto, listo para copiar y pegar. Compatible con tus frameworks favoritos. Creado por fans. Sin afiliación. 
-- [Retroui](https://www.retroui.dev/):Una librería de interfaz de usuario para React + TailwindCSS con estilo neobrutalista, ideal para crear aplicaciones web modernas y llamativas. Perfecta para cualquier proyecto que utilice Shadcn/ui.
+- [Retroui](https://www.retroui.dev/): Una librería de interfaz de usuario para React + TailwindCSS con estilo neobrutalista, ideal para crear aplicaciones web modernas y llamativas. Perfecta para cualquier proyecto que utilice Shadcn/ui.
 - [Bearnie](https://bearnie.dev/): Componentes accesibles para Astro y Tailwind CSS. 
 - [Starwind](https://starwind.dev/): Componentes animados, personalizables y accesibles para Astro, creados exclusivamente con Astro y JavaScript puro. Inspirados en shadcn/ui, con instalación sencilla mediante la línea de comandos.
 - [Shadcn Studio](https://shadcnstudio.com/): Crea interfaces de usuario futuristas con Shadcn.
@@ -663,6 +676,7 @@ desarrolladores
 - [Open Source Templates](https://www.opensourcetemplates.org/): Repositorio de plantillas de código abierto para diversos tipos de proyectos.
 - [NextjsStarterKit (Catalyst)](https://github.com/kovrichard/catalyst): Starter kit de alto rendimiento para aplicaciones Next.js modernas.
 - [CloudflareVibeSDK](https://github.com/cloudflare/vibesdk): SDK oficial de Cloudflare para construir aplicaciones rápidas y seguras.
+- [UniWind Starter](https://www.native-templates.com/templates/uniwind-starter): El paquete de inicio Uniwind de React Native
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 
