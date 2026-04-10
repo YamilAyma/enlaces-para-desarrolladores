@@ -183,6 +183,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Awesome APIs](https://github.com/TonnyL/Awesome_APIs): Una lista curada de APIs asombrosas para todo tipo de funcionalidades.
 - [Da.gd](https://da.gd/): Acortador de URLs minimalista y potente con soporte para terminal.
 - [Aptoide API](https://ws75.aptoide.com/api/7/apps/search?info=1): Documentación para acceder a los datos de aplicaciones de la tienda Aptoide.
+- [IPQuery](https://ipquery.io/): API gratuita centrada en desarrolladores para obtener datos de geolocalización e inteligencia de IPs en JSON.
 
 ### 🖥️ Técnico:
 
@@ -248,6 +249,7 @@ para lanzar aplicaciones fullstack.
 - [Marimo Pair](https://github.com/marimo-team/marimo-pair): Extensión de pair programming para el cuaderno reactivo Marimo, integrada con agentes de IA.
 - [VigIA Orchestrator](https://github.com/JordanCT/VigIA-Orchestrator): Orquestador de agentes de IA para flujos de trabajo complejos y automatización de tareas técnicas.
 - [Druids](https://github.com/fulcrumresearch/druids): Framework de código abierto para construir aplicaciones complejas basadas en LLMs con soporte para múltiples modelos.
+- [Qwen Code](https://qwen.ai/qwencode): Agente de IA para codificación en terminal basado en Qwen-Coder para automatizar flujos de trabajo.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -482,6 +484,9 @@ para lanzar aplicaciones fullstack.
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): Ecosistema de OCR multilingüe de alto rendimiento que soporta más de 80 idiomas para aplicaciones industriales y de desarrollo.
 - [CSS Studio](https://cssstudio.ai): Generador y editor de CSS potenciado por Inteligencia Artificial para crear diseños premium rápidamente.
 - [MarkItDown](https://github.com/microsoft/markitdown): Herramienta oficial de Microsoft para convertir diversos formatos de archivo (Office, PDF, etc.) en Markdown limpio.
+- [Tunnelmole](https://tunnelmole.com/): Herramienta sencilla y de código abierto para exponer servidores locales a internet mediante URLs públicas.
+- [Pencil](https://www.pencil.dev/): Lienzo de diseño para desarrolladores integrado en el IDE que genera código de producción instantáneamente.
+- [fnm](https://github.com/Schniz/fnm): Gestor de versiones de Node.js extremadamente rápido e inteligente, desarrollado íntegramente en Rust.
 
 #### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
@@ -493,6 +498,7 @@ para lanzar aplicaciones fullstack.
 
 ### 🌐 WEB:
 - [Rooks](https://github.com/imbhargav5/rooks): Colección masiva de hooks de React listos para usar y optimizar tus componentes.
+- [simpleParallax.js](https://simpleparallax.com/): Librería de JavaScript ultra ligera y fácil de usar para añadir efectos de paralaje a cualquier imagen.
 
 ### 🅰️ Iconos:
 
@@ -670,6 +676,10 @@ desarrolladores
 - [Feather Icons](https://feathericons.com/): Set de iconos de código abierto simples y hermosos.
 - [Mixkit](https://mixkit.co/): Galería gratuita de videos de stock, música y efectos para tus proyectos.
 - [Coverr](https://coverr.co/): Repositorio de videos de fondo gratuitos de alta calidad para sitios web.
+- [pdfx](https://github.com/akii09/pdfx): Componentes de React para generar documentos PDF totalmente personalizables con una experiencia similar a shadcn/ui.
+- [Boneyard](https://github.com/0xGF/boneyard): Librería de React que genera pantallas de carga (skeleton) perfectas basándose en la estructura real del DOM.
+- [Emdash](https://github.com/emdash-cms/emdash): CMS full-stack para TypeScript construido sobre Astro, diseñado para entornos serverless y agentes de IA.
+- [liveline](https://github.com/benjitaylor/liveline): Gráficos de líneas animados en tiempo real para React, optimizados para un rendimiento de 60fps en el navegador.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
@@ -747,12 +757,15 @@ desarrolladores
 - [Claude Howto](https://github.com/luongnv89/claude-howto): Una guía visual y basada en ejemplos para Claude Code, desde conceptos básicos hasta agentes avanzados, con plantillas que se pueden copiar y pegar y que aportan valor inmediato. 
 - [Frontend Slides](https://github.com/zarazhangrui/frontend-slides): Herramienta para crear hermosas presentaciones web aprovechando las habilidades de frontend de Claude. 
 - [Motion (Zajno)](https://motion.zajno.com/): Recurso interactivo que explora y demuestra los principios de animación y diseño gráfico en interfaces UI/UX. 
+- [alg0.dev](https://www.alg0.dev/): Herramienta interactiva para aprender y visualizar el funcionamiento de algoritmos paso a paso.
+- [Python Tutor](https://pythontutor.com/): Visualizador educativo que muestra la ejecución de código paso a paso para Python, JS, C, C++ y Java.
 
 ### 📒 CURSOS:
 
 - [CSS mediante lecciones](https://anchoreum.com/#es): Plataforma educativa interactiva para aprender CSS a través de desafíos prácticos.
 - [Diseño de sistemas](https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81): Lista curada de los mejores cursos para aprender arquitectura de sistemas distribuidos en 2025.
 - [Rust por Google](https://github.com/google/comprehensive-rust): Curso intensivo y completo de Rust desarrollado y utilizado por el equipo de Android en Google.
+- [KodeKloud Studio](https://kodekloud.com/studio/labs): Entorno de laboratorios interactivos para practicar habilidades reales en DevOps, Cloud y programación.
 
 ### 🔠 TIPOGRAFIAS:
 
