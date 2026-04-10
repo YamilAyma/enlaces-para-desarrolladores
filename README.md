@@ -10,6 +10,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
 
+- [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): Esta es una base de datos con más de 300.000 símbolos que incluyen acciones, ETF, fondos, índices, divisas, criptomonedas y mercados monetarios. 
 - [GetDesign](https://getdesign.md/): Diseños inspirados en sitios web populares. Incorpóralo a tu proyecto y deja que los agentes de codificación creen la interfaz de usuario correspondiente. 
 - [Prompts.chat](https://github.com/f/prompts.chat): Comparte, descubre y recopila prompts de la comunidad. Gratuito y de código abierto: autoaloja tu organización con total privacidad. 
 - [Clawflows](https://github.com/nikilster/clawflows): ⚡️ Superpoderes para tu Openclaw. Potentes flujos de trabajo de agentes predefinidos. 
@@ -179,6 +180,9 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 🖥️ Técnico:
 
+- [Baoyu Skills](https://github.com/JimLiu/baoyu-skills): Habilidades compartidas por Baoyu para mejorar la eficiencia en el trabajo diario con Claude Code. 
+- [InsForge](https://insforge.dev/): Proporcione a los agentes todo lo que necesitan.
+para lanzar aplicaciones fullstack. 
 - [Liquid](https://github.com/shrihari-prakash/liquid): ✨ Servidor de autenticación y gestión de usuarios sin interrupciones y altamente personalizable para cualquier proyecto.
 - [Dropzone](https://github.com/dropzone/dropzone): Dropzone es una biblioteca de arrastrar y soltar fácil de usar. Admite vistas previas de imágenes y muestra barras de progreso muy útiles. 
 - [Pretext](https://github.com/chenglou/pretext): Medición y maquetación de texto rápidas, precisas y completas. 
@@ -218,14 +222,14 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Docmd](https://github.com/docmd-io/docmd): Genera documentación minimalista, rápida y elegante a partir de Markdown. Sin React, sin código innecesario, solo contenido. Diseñado para desarrolladores.
 - [PixiJS](https://github.com/pixijs/pixijs): El motor de creación HTML5: Crea contenido digital atractivo con el renderizador WebGL 2D más rápido y flexible.
 - [Claude Ads](https://github.com/AgriciDaniel/claude-ads): Auditoría integral de publicidad de pago y optimización para Claude Code. 186 comprobaciones en Google, Meta, YouTube, LinkedIn, TikTok y Microsoft Ads con puntuación ponderada, agentes paralelos y plantillas del sector. 
-- [Theme Toggle](https://theme-toggle.rdsx.dev/): Efecto de alternancia de tema 
+- [Theme Toggle](https://theme-toggle.rdsx.dev/): Efecto de alternancia de tema.
+- [SEO Audit Skill](https://github.com/seo-skills/seo-audit-skill): Una completa herramienta de línea de comandos para auditorías SEO con 108 reglas de auditoría en 12 categorías. Analiza cualquier sitio web para detectar las mejores prácticas de SEO, Core Web Vitals, encabezados de seguridad, datos estructurados, accesibilidad y mucho más
 
 ### 🛠️ HERRAMIENTAS:
 
-- [SEO Audit Skill](https://github.com/seo-skills/seo-audit-skill): Una completa herramienta de línea de comandos para auditorías SEO con 108 reglas de auditoría en 12 categorías. Analiza cualquier sitio web para detectar las mejores prácticas de SEO, Core Web Vitals, encabezados de seguridad, datos estructurados, accesibilidad y mucho más
+- [Ultramock](https://www.ultramock.io/): Crea mockups de alta calidad para tus productos digitales.
 - [Rowboat](https://github.com/rowboatlabs/rowboat): Compañero de trabajo de IA de código abierto, con memoria 
-- [Reclip](https://github.com/averygan/reclip): Descarga vídeos de casi cualquier sitio web. Descargador de contenido multimedia ligero y autoalojado con una interfaz web limpia.
-- [OpenVideo](https://github.com/CristianOlivera1/openvid): Crea demos profesionales en segundos, directamente en tu navegador
+- [Openvid](https://github.com/CristianOlivera1/openvid): Crea demos profesionales en segundos, directamente en tu navegador
 - [Omni Search](https://github.com/Eul45/omni-search): Búsqueda de archivos de alto rendimiento para Windows + detector de duplicados mediante NTFS USN/MFT (Tauri + Rust + C++). 
 - [PWAScore](https://pwascore.com/): Compara las capacidades de las aplicaciones web progresivas (PWA) en los navegadores móviles y de escritorio más populares. 
 - [Floci](https://github.com/floci-io/floci): Ligero, esponjoso y siempre gratuito: emulador local de AWS. 
@@ -663,6 +667,7 @@ desarrolladores
 
 ### 📚 DOCUMENTACIÓN UTIL
 
+- [Catalogue IF](https://catalogue.projectsbyif.com/): IF selecciona cuidadosamente este catálogo para ayudar a los equipos a diseñar servicios confiables que sean útiles para los usuarios.
 - [Design Prompts](https://www.designprompts.dev/): Colección de prompts especializados para generar diseños de interfaces de usuario con IA.
 - [CSS Properties](https://nikolai-shabalin.github.io/css-properties/en/): Referencia completa y detallada sobre todas las propiedades CSS y sus posibles valores.
 - [The Component Gallery](https://component.gallery/): Directorio de referencia que recopila componentes de interfaz de usuario de sistemas de diseño reales.
@@ -807,6 +812,7 @@ desarrolladores
 - [Docker](https://www.docker.com/): La plataforma de contenedores estándar para desarrollar, enviar y ejecutar aplicaciones en cualquier lugar.
 - [MeTube](https://github.com/alexta69/metube): Interfaz web moderna (GUI) para yt-dlp que permite descargar videos de forma sencilla.
 - [ZeroByte](https://github.com/nicotsx/zerobyte): Herramienta de automatización para gestionar y optimizar backups de forma eficiente.
+- [Reclip](https://github.com/averygan/reclip): Descarga vídeos de casi cualquier sitio web. Descargador de contenido multimedia ligero y autoalojado con una interfaz web limpia.
 
 ### 🤖 IA
 
@@ -819,6 +825,7 @@ desarrolladores
 
 #### ✨ Herramientas IA
 
+- [Aura](https://www.aura.build/): Crea hermosos diseños 
 - [AI Website Cloner Template](https://github.com/JCodesMore/ai-website-cloner-template): Clona cualquier sitio web con un solo comando usando agentes de codificación de IA. 
 - [DeepAgents](https://github.com/langchain-ai/deepagents): Plataforma experimental para el desarrollo y despliegue de agentes de IA autónomos.
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw): Herramienta automatizada para realizar investigaciones técnicas profundas con IA.
