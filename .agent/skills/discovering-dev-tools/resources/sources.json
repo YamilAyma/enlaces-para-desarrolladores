@@ -1,0 +1,22 @@
+{
+  "x_accounts": [
+    "https://x.com/GithubProjects",
+    "https://x.com/GitHub_Daily"
+  ],
+  "web_sources": [
+    "https://github.com/trending",
+    "https://www.producthunt.com/topics/developer-tools",
+    "https://news.ycombinator.com/show"
+  ],
+  "google_queries": [
+    "site:github.com \"awesome\" AI agents skills",
+    "site:github.com \"mcp server\" list 2026",
+    "new developer tools for productivity 2026",
+    "best open source developer resources reddit 2026"
+  ],
+  "curation_criteria": {
+    "min_stars": 100,
+    "languages": ["TypeScript", "Python", "Go", "Rust", "Java"],
+    "focus_areas": ["AI Agents", "MCP", "DevEx", "Frontend Art", "System Design"]
+  }
+}
