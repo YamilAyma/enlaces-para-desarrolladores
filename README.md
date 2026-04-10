@@ -140,6 +140,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [404 Design](https://www.404s.design/): Galería de inspiración enfocada exclusivamente en diseños creativos de páginas de error 404.
 - [Free For Dev](https://free-for.dev/#/): Lista masiva de servicios y herramientas gratuitas para desarrolladores (Saas, Paas, etc).
 - [Svgl](https://svgl.app/): Repositorio de logos de tecnologías y marcas en formato SVG de alta calidad.
+- [Icons0](https://icons0.dev/): Una colección curada y minimalista de sets de iconos optimizados para interfaces web modernas.
 - [TemplateYes](https://www.templateyes.com/): Directorio de plantillas web gratuitas y de pago para diversos frameworks.
 - [MCP So](https://mcp.so/): Directorio de servidores para el Model Context Protocol (MCP) que expanden las capacidades de IA.
 - [UI Hut](https://uihut.com/free-assets): Plataforma con miles de recursos de diseño UI gratuitos como plantillas y kits.
@@ -174,6 +175,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Actually Free APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/): Lista de APIs realmente gratuitas, abiertas y que no requieren autenticación.
 - [NEWSLETTERS G-Sheet](https://docs.google.com/spreadsheets/d/1LWHf_WVwK0wKAFBFjQxtM7OJokK7lb5SUPknw3Ebz_c/edit?gid=1533789385#gid=1533789385): Recopilación exhaustiva de newsletters sobre tecnología y emprendimiento.
 - [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file): Repositorio con las preguntas más comunes en entrevistas de trabajo para React.
+- [Gostack (Rocketseat)](https://github.com/rocketseat-education/bootcamp-gostack-desafios): Desafíos prácticos y proyectos para dominar el ecosistema Node.js, React y React Native.
+- [EverShop](https://github.com/evershopcommerce/evershop): Framework de comercio electrónico modular para Node.js construido con React y GraphQL.
 
 ### 🧗 ROADMAPS:
 
@@ -185,6 +188,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Da.gd](https://da.gd/): Acortador de URLs minimalista y potente con soporte para terminal.
 - [Aptoide API](https://ws75.aptoide.com/api/7/apps/search?info=1): Documentación para acceder a los datos de aplicaciones de la tienda Aptoide.
 - [IPQuery](https://ipquery.io/): API gratuita centrada en desarrolladores para obtener datos de geolocalización e inteligencia de IPs en JSON.
+- [Free LLM APIs](https://github.com/cheahjs/free-llm-api-resources): Lista curada de servicios que ofrecen acceso gratuito o créditos de prueba para APIs de inferencia de modelos de lenguaje grandes.
 
 ### 🖥️ Técnico:
 
@@ -255,6 +259,7 @@ para lanzar aplicaciones fullstack.
 - [Boneyard](https://github.com/0xGF/boneyard): Librería de React que genera pantallas de carga (skeleton) perfectas basándose en la estructura real del DOM.
 - [Emdash](https://github.com/emdash-cms/emdash): CMS full-stack para TypeScript construido sobre Astro, diseñado para entornos serverless y agentes de IA.
 - [Database.build](https://database.build/): Plataforma intuitiva para diseñar y gestionar esquemas de bases de datos de forma visual y rápida.
+- [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch): Guía técnica y repositorio de código para construir modelos de lenguaje grandes (GPT-like) desde cero usando PyTorch.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -495,6 +500,12 @@ para lanzar aplicaciones fullstack.
 - [Apidog](https://apidog.com/es/): Plataforma integral de desarrollo de APIs con diseño, documentación, mocking y pruebas automatizadas en un solo lugar.
 - [Port-kill](https://github.com/treadiehq/port-kill): Utilidad extremadamente rápida para encontrar y terminar procesos que están ocupando puertos específicos en el sistema.
 - [DrawDB](https://www.drawdb.app/): Herramienta de diseño de bases de datos relacionales basada en el navegador con una interfaz moderna y generador de SQL.
+- [npmx](https://npmx.dev/): Explorador de registro NPM moderno y rápido con métricas de tamaño, vulnerabilidades y comparación de paquetes en tiempo real.
+- [MetaExplorer](https://www.metaexplorer.co/): Extensión de navegador para depuración exhaustiva de SEO, etiquetas Open Graph y validación de accesibilidad en tiempo real.
+- [React Doctor](https://www.react.doctor/): Herramienta de auditoría de rendimiento y salud para bases de código React que detecta antipatrones mediante análisis estático.
+- [Mobile Simulator](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk): Extensión de Chrome para pruebas de diseño responsivo que emula múltiples dispositivos y gestos táctiles.
+- [GitButler](https://github.com/gitbutlerapp/gitbutler): Cliente de Git de nueva generación desarrollado en Rust que introduce conceptos como ramas virtuales y flujo paralelo.
+- [Unlighthouse](https://github.com/harlan-zw/unlighthouse): Herramienta para generar reportes de Google Lighthouse de forma masiva para todas las rutas de un sitio web automáticamente.
 
 #### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
@@ -506,6 +517,8 @@ para lanzar aplicaciones fullstack.
 
 ### 🌐 WEB:
 - [Rooks](https://github.com/imbhargav5/rooks): Colección masiva de hooks de React listos para usar y optimizar tus componentes.
+- [MagicPattern CSS](https://www.magicpattern.design/tools/css-backgrounds): Generador de patrones y fondos CSS geométricos personalizables para añadir textura visual a proyectos web.
+- [Krumzi Backgrounds](https://www.krumzi.com/tools/animated-background-generator): Generador de fondos animados y gradientes dinámicos impulsado por IA para crear interfaces inmersivas.
 - [simpleParallax.js](https://simpleparallax.com/): Librería de JavaScript ultra ligera y fácil de usar para añadir efectos de paralaje a cualquier imagen.
 
 ### 🅰️ Iconos:
@@ -688,6 +701,8 @@ desarrolladores
 - [Gridstack.js](https://gridstackjs.com/): Librería de TypeScript para crear layouts de dashboards responsivos, arrastrables y redimensionables de forma sencilla.
 - [React Email](https://react.email/): Framework moderno para construir correos electrónicos elegantes y responsivos utilizando componentes funcionales de React.
 - [mapcn](https://github.com/AnmolSaini16/mapcn): Biblioteca de componentes de mapas interactivos y personalizables para React, estilizados con Tailwind CSS y listos para usar.
+- [Sileo](https://github.com/hiaaryan/sileo): Librería de notificaciones (toasts) para React basada en física de resortes y efectos visuales "gooey".
+- [Pragmatic Drag and Drop](https://github.com/atlassian/pragmatic-drag-and-drop): Primitivas de bajo nivel de Atlassian para construir experiencias de arrastre de alto rendimiento en cualquier framework.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
@@ -767,6 +782,8 @@ desarrolladores
 - [Motion (Zajno)](https://motion.zajno.com/): Recurso interactivo que explora y demuestra los principios de animación y diseño gráfico en interfaces UI/UX. 
 - [alg0.dev](https://www.alg0.dev/): Herramienta interactiva para aprender y visualizar el funcionamiento de algoritmos paso a paso.
 - [Python Tutor](https://pythontutor.com/): Visualizador educativo que muestra la ejecución de código paso a paso para Python, JS, C, C++ y Java.
+- [RunSQL](https://runsql.com/r): Entorno interactivo basado en el navegador para ejecutar, probar y compartir consultas SQL sin configuración local.
+- [Algorithm Visualizer](https://algorithm-visualizer.org/): Plataforma interactiva que visualiza algoritmos de diversas estructuras de datos mediante animaciones paso a paso.
 - [Linux Security Guide](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): Guía completa de endurecimiento y seguridad para servidores Linux mantenida por la comunidad.
 
 ### 📒 CURSOS:
@@ -777,6 +794,7 @@ desarrolladores
 - [KodeKloud Studio](https://kodekloud.com/studio/labs): Entorno de laboratorios interactivos para practicar habilidades reales en DevOps, Cloud y programación.
 - [Anthropic Skilljar](https://anthropic.skilljar.com/): Plataforma educativa oficial de Anthropic con cursos gratuitos y certificados sobre el uso avanzado de Claude y sus servicios.
 - [Aprende SQL](https://www.aprendesql.dev/): Plataforma educativa interactiva diseñada para dominar el lenguaje SQL mediante ejercicios prácticos directos.
+- [Aprende Python](https://aprendepython.es/): Plataforma educativa en español con cursos estructurados desde fundamentos hasta manipulación de datos con Python.
 
 ### 🔠 TIPOGRAFIAS:
 
