@@ -18,14 +18,24 @@ Mantener el `README.md` actualizado con herramientas de alta calidad, evitando d
 - **Regla:** Si ya existe, informar al usuario con el número de línea y el enlace actual. NO duplicar.
 
 ### 3. Categorización
-Identificar la sección más adecuada según la naturaleza del recurso:
-- `🖥️ Técnico`: Frameworks complejos, agentes de IA, herramientas de arquitectura.
-- `🛠️ HERRAMIENTAS`: CLI, utilidades de sistema, gestores de paquetes, SaaS de productividad.
-- `⭐ PACKS DE COMPONENTES y LIBRERIAS`: Componentes UI, hooks, librerías de estilos.
-- `🌐 WEB`: Recursos ligeros, animaciones CSS/JS, efectos visuales.
-- `📚 DOCUMENTACIÓN UTIL`: Referencias, cheatsheets, visualizadores educativos.
-- `APIs`: Servicios externos consumibles vía HTTP.
-- `📒 CURSOS`: Plataformas de aprendizaje, laboratorios interactivos.
+Identificar la sección más adecuada del `README.md` según la naturaleza del recurso. No limitarse a las categorías más comunes:
+
+- `📦 PACKS`: Colecciones masivas de recursos, directorios de herramientas o "packs" de utilidades.
+- `📄 LISTAS`: Repositorios tipo "Awesome", hojas de cálculo con datos o recopilaciones estáticas.
+- `🧗 ROADMAPS`: Guías de aprendizaje paso a paso o rutas para dominar una tecnología.
+- `APIs`: Servicios externos consumibles vía HTTP (geolocalización, finanzas, datos públicos).
+- `🖥️ Técnico`: Frameworks de bajo nivel, agentes de IA avanzados, arquitecturas distribuidas, optimización.
+- `🛠️ HERRAMIENTAS`: CLI, utilidades de sistema, gestores de paquetes, software de productividad, depuradores.
+- `🤗 RELAX`: Humor para devs, juegos retro, museos digitales, visualizaciones nostálgicas.
+- `🌐 WEB`: Librerías de frontend ligeras, efectos visuales (parallax, animaciones CSS/JS), micro-interacciones.
+- `🅰️ Iconos`: Repositorios de SVG, fuentes de iconos, sets de logos tecnológicos.
+- `⭐ PACKS DE COMPONENTES y LIBRERIAS`: Bibliotecas de componentes UI (React, Vue, Svelte), hooks, primitivas de diseño.
+- `🧩 PLANTILLAS Y EJEMPLOS`: Starter kits, proyectos base, ejemplos de landing pages, dashboards pre-configurados.
+- `📖 ARTICULOS INTERESANTES`: Lectura técnica profunda, reflexiones sobre ingeniería, guías de buenas prácticas.
+- `📚 DOCUMENTACIÓN UTIL`: Cheatsheets, visualizadores educativos, referencias de lenguaje, glosarios técnicos.
+- `📒 CURSOS`: Plataformas de aprendizaje, desafíos prácticos, laboratorios interactivos (tipo labs).
+- `🔠 TIPOGRAFIAS`: Fuentes diseñadas para programación, fundiciones tipográficas, herramientas de previsualización.
+- `📣 BLOGS Y BOLETINES`: Newsletters técnicas, comunidades locales, blogs personales de referentes tech.
 
 ### 4. Implementación Quirúrgica
 - Los nuevos recursos deben añadirse **al final de la lista de su respectiva sección**.
