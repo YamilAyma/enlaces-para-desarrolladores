@@ -214,6 +214,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Reclip](https://github.com/averygan/reclip): Descarga vídeos de casi cualquier sitio web. Descargador de contenido multimedia ligero y autoalojado con una interfaz web limpia.
+- [OpenVideo](https://github.com/CristianOlivera1/openvid): Crea demos profesionales en segundos, directamente en tu navegador
 - [Omni Search](https://github.com/Eul45/omni-search): Búsqueda de archivos de alto rendimiento para Windows + detector de duplicados mediante NTFS USN/MFT (Tauri + Rust + C++). 
 - [PWAScore](https://pwascore.com/): Compara las capacidades de las aplicaciones web progresivas (PWA) en los navegadores móviles y de escritorio más populares. 
 - [Floci](https://github.com/floci-io/floci): Ligero, esponjoso y siempre gratuito: emulador local de AWS. 
