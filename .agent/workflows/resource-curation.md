@@ -18,24 +18,31 @@ Mantener el `README.md` actualizado con herramientas de alta calidad, evitando d
 - **Regla:** Si ya existe, informar al usuario con el número de línea y el enlace actual. NO duplicar.
 
 ### 3. Categorización
-Identificar la sección más adecuada del `README.md` según la naturaleza del recurso. No limitarse a las categorías más comunes:
+Identificar la sección más adecuada del `README.md` según la naturaleza del recurso. Es CRÍTICO usar la categoría correcta para mantener el orden:
 
-- `📦 PACKS`: Colecciones masivas de recursos, directorios de herramientas o "packs" de utilidades.
-- `📄 LISTAS`: Repositorios tipo "Awesome", hojas de cálculo con datos o recopilaciones estáticas.
-- `🧗 ROADMAPS`: Guías de aprendizaje paso a paso o rutas para dominar una tecnología.
-- `APIs`: Servicios externos consumibles vía HTTP (geolocalización, finanzas, datos públicos).
-- `🖥️ Técnico`: Frameworks de bajo nivel, agentes de IA avanzados, arquitecturas distribuidas, optimización.
+- `📦 PACKS`: Colecciones masivas, directorios de herramientas, packs de utilidades o recursos "Awesome".
+- `📄 LISTAS`: Repositorios tipo lista, hojas de cálculo colaborativas, reportes anuales (ej: State of JS).
+- `🧗 ROADMAPS`: Guías de aprendizaje paso a paso o rutas para dominar una tecnología (ej: Laravel Roadmap).
+- `APIs`: Servicios externos consumibles vía HTTP (geolocalización, finanzas, datos públicos, IPQuery).
+- `🖥️ Técnico`: Frameworks de bajo nivel, agentes de IA avanzados, arquitecturas, optimización, componentes core.
 - `🛠️ HERRAMIENTAS`: CLI, utilidades de sistema, gestores de paquetes, software de productividad, depuradores.
-- `🤗 RELAX`: Humor para devs, juegos retro, museos digitales, visualizaciones nostálgicas.
-- `🌐 WEB`: Librerías de frontend ligeras, efectos visuales (parallax, animaciones CSS/JS), micro-interacciones.
-- `🅰️ Iconos`: Repositorios de SVG, fuentes de iconos, sets de logos tecnológicos.
-- `⭐ PACKS DE COMPONENTES y LIBRERIAS`: Bibliotecas de componentes UI (React, Vue, Svelte), hooks, primitivas de diseño.
+    - `#### Despliegue`: Plataformas específicas para hosting o despliegue (ej: PythonAnywhere).
+- `🤗 RELAX`: Humor para devs, juegos retro, museos digitales, visualizaciones creativas no técnicas.
+- `🌐 WEB`: Librerías de frontend ligeras, efectos visuales (parallax, animaciones CSS/JS), hooks (ej: Rooks).
+- `🅰️ Iconos`: Repositorios de SVG, sets de logos tecnológicos, fuentes de iconos.
+- `⭐ PACKS DE COMPONENTES y LIBRERIAS`: Bibliotecas UI (React, Svelte, Vue), primitivas de diseño (ej: Radix, Shadcn).
 - `🧩 PLANTILLAS Y EJEMPLOS`: Starter kits, proyectos base, ejemplos de landing pages, dashboards pre-configurados.
-- `📖 ARTICULOS INTERESANTES`: Lectura técnica profunda, reflexiones sobre ingeniería, guías de buenas prácticas.
-- `📚 DOCUMENTACIÓN UTIL`: Cheatsheets, visualizadores educativos, referencias de lenguaje, glosarios técnicos.
-- `📒 CURSOS`: Plataformas de aprendizaje, desafíos prácticos, laboratorios interactivos (tipo labs).
-- `🔠 TIPOGRAFIAS`: Fuentes diseñadas para programación, fundiciones tipográficas, herramientas de previsualización.
-- `📣 BLOGS Y BOLETINES`: Newsletters técnicas, comunidades locales, blogs personales de referentes tech.
+- `📖 ARTICULOS INTERESANTES`: Lectura técnica profunda, manuales prácticos, reflexiones sobre ingeniería.
+- `📚 DOCUMENTACIÓN UTIL`: Cheatsheets, visualizadores educativos, referencias de lenguaje, guías de prompts.
+- `📒 CURSOS`: Plataformas de aprendizaje, desafíos prácticos, laboratorios interactivos.
+- `🔠 TIPOGRAFIAS`: Fuentes para programadores, fundiciones tipográficas, previsualizadores de fuentes.
+- `📣 BLOGS Y BOLETINES`: Newsletters técnicas, boletines semanales, blogs de ingeniería corporativos.
+- `🏠 Self-Hosted (Autoalojado)`: Herramientas para correr en tus propios servidores (Docker, gestores de descarga).
+- `🤖 IA`: Enlaces a modelos de IA directos (ChatGPT, Gemini, Claude, Mistral).
+    - `#### ✨ Herramientas IA`: Agentes, clonadores de sitios, frameworks de agentes, herramientas locales (Ollama).
+- `🎙️ Podcast`: Contenido en audio sobre tecnología y ecosistemas de programación.
+- `🌐 Otros medios`: Foros, comunidades (Reddit), plataformas de feed de noticias (Hackertab).
+- `💫 INSPIRACIÓN`: Galerías de diseño web, portafolios excepcionales, ejemplos de UI/UX de alto nivel (Bento Grids, Godly).
 
 ### 4. Implementación Quirúrgica
 - Los nuevos recursos deben añadirse **al final de la lista de su respectiva sección**.
