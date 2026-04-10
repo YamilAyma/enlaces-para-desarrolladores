@@ -14,28 +14,34 @@ Esta habilidad permite al agente actuar como un curador autónomo de recursos t�
 
 ## Workflow de Descubrimiento Autónomo
 
-1.  **[ ] Fase de Exploración**: 
+1.  **[ ] Fase de Preparación**: 
+    - Crear una rama dedicada `agent/discovery-YYYYMMDD` antes de realizar cambios.
+
+2.  **[ ] Fase de Exploración**: 
     - Consultar el archivo `resources/sources.json` para obtener los endpoints.
     - Usar `browser_subagent` para navegar por las cuentas de X (`@GithubProjects`, `@GitHub_Daily`) y capturar los posts más recientes.
     - Usar `read_url_content` para GitHub Trending y Product Hunt (Developer Tools).
     - Ejecutar búsquedas en Google usando queries avanzadas (Dorks) definidas en `sources.json`.
 
-2.  **[ ] Fase de Filtrado y Deduplicación**:
+3.  **[ ] Fase de Filtrado y Validación**:
     - Para cada enlace encontrado, verificar si ya existe en el `README.md` usando `grep_search`.
-    - Descartar enlaces rotos o repositorios sin actividad reciente.
+    - **OBLIGATORIO**: Ejecutar `scripts/link_validator.py` sobre los nuevos enlaces. Solo los que devuelvan `200 OK` pueden ser incluidos.
 
-3.  **[ ] Fase de Evaluación (Criterio de IA)**:
+4.  **[ ] Fase de Evaluación (Criterio de IA)**:
     - Analizar el valor técnico de la herramienta. ¿Es útil para un desarrollador moderno? ¿Es "premium" o "anti-genérica"?
     - Determinar la categoría más adecuada en el `README.md` (PACKS, Técnico, Herramientas, etc.).
 
-4.  **[ ] Fase de Catalogación**:
+5.  **[ ] Fase de Catalogación**:
     - Generar un titular SEO potente en español.
     - Redactar una descripción técnica concisa (formato: `[Nombre](URL): Descripción`).
-    - Insertar quirúrgicamente el nuevo recurso en la sección correspondiente.
+    - Insertar quirúrgicamente el nuevo recurso en la sección correspondiente del `README.md`.
 
-5.  **[ ] Fase de Finalización**:
+6.  **[ ] Fase de Finalización y PR**:
     - Ejecutar `scripts/format_helper.py` para asegurar la consistencia del markdown.
-    - Realizar el commit usando la habilidad `@/commits`.
+    - Realizar el commit siguiendo la skill `@/commits`.
+    - Crear un Pull Request usando `gh pr create` con:
+        - **Título**: `Discovery: YYYY-MM-DD`
+        - **Cuerpo**: Incluir resumen de la búsqueda, lista de recursos añadidos y links verificados.
 
 ## Fuentes y Criterios de Búsqueda
 Las fuentes están centralizadas en `resources/sources.json`. El agente debe priorizar herramientas que:
