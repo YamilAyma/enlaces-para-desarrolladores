@@ -245,6 +245,9 @@ para lanzar aplicaciones fullstack.
 - [Mevid](https://github.com/mevid-ai/mevid): Capa de memoria cognitiva de código abierto para agentes de IA, estructurada como un sistema de archivos inspeccionable para mejorar la retención de datos.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent): Framework de agentes de IA de Nous Research diseñado para evolucionar y adaptarse dinámicamente según el uso del desarrollador.
 - [DeepTutor](https://github.com/HKUDS/DeepTutor): Asistente de aprendizaje personalizado nativo para agentes, enfocado en optimizar el aprendizaje técnico mediante IA.
+- [Marimo Pair](https://github.com/marimo-team/marimo-pair): Extensión de pair programming para el cuaderno reactivo Marimo, integrada con agentes de IA.
+- [VigIA Orchestrator](https://github.com/JordanCT/VigIA-Orchestrator): Orquestador de agentes de IA para flujos de trabajo complejos y automatización de tareas técnicas.
+- [Druids](https://github.com/fulcrumresearch/druids): Framework de código abierto para construir aplicaciones complejas basadas en LLMs con soporte para múltiples modelos.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -477,6 +480,8 @@ para lanzar aplicaciones fullstack.
 - [Convert](https://github.com/p2r3/convert):  Convertidor de archivos en línea verdaderamente universal.
 - [Panel Cleaner](https://github.com/scottaw/panel-cleaner): Herramienta de ML diseñada para automatizar la limpieza de globos de texto en imágenes de manga, optimizando el flujo de traducción.
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): Ecosistema de OCR multilingüe de alto rendimiento que soporta más de 80 idiomas para aplicaciones industriales y de desarrollo.
+- [CSS Studio](https://cssstudio.ai): Generador y editor de CSS potenciado por Inteligencia Artificial para crear diseños premium rápidamente.
+- [MarkItDown](https://github.com/microsoft/markitdown): Herramienta oficial de Microsoft para convertir diversos formatos de archivo (Office, PDF, etc.) en Markdown limpio.
 
 #### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
