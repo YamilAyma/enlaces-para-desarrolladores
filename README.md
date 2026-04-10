@@ -190,6 +190,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [AI Agents Skills](https://github.com/hoodini/ai-agents-skills): Colección curada de habilidades especializadas para agentes de codificación. 
 - [Vercel Labs Agent Skills](https://github.com/vercel-labs/agent-skills): Habilidades empaquetadas para agentes de IA siguiendo el formato estándar de Agent Skills. 
 - [AI Agent Skills Library](https://github.com/maragudk/skills): Colección de habilidades variadas para agentes de IA (investigación, code review, etc.). 
+- [SEOMachine](https://github.com/TheCraigHewitt/seomachine): Espacio de trabajo especializado para Claude Code enfocado en la producción de contenido optimizado para SEO.
+- [Archon](https://github.com/coleam00/Archon): Framework para crear entornos de desarrollo con IA deterministas y repetibles.
 - [SQL MCP Server](https://github.com/Azure/data-api-builder): Servidor Model Context Protocol nativo de Microsoft (Data API builder) que permite a los agentes de IA acceder de forma segura a datos SQL sin exponer esquemas sensibles.
 - [Claude Agentic Framework](https://github.com/er4700345-coder/claude-agentic-framework): Marco especializado para Claude Code que aplica metodologías estructuradas de desarrollo de software. 
 - [InsForge](https://insforge.dev/): Proporcione a los agentes todo lo que necesitan.
@@ -245,6 +247,8 @@ para lanzar aplicaciones fullstack.
 - [DeepTutor](https://github.com/HKUDS/DeepTutor): Asistente de aprendizaje personalizado nativo para agentes, enfocado en optimizar el aprendizaje técnico mediante IA.
 
 ### 🛠️ HERRAMIENTAS:
+
+- [Claudian](https://github.com/YishenTu/claudian): Plugin para Obsidian que integra a Claude Code como colaborador de IA dentro de tu sistema de notas personales.
 
 - [Recordly](https://github.com/webadderall/Recordly): Crea grabaciones de pantalla profesionales gratis. Un grabador de pantalla de código abierto para Mac/Windows/Linux que añade zoom automático, cursores animados, subtítulos automáticos y mucho más a tus vídeos. 
 - [Ultramock](https://www.ultramock.io/): Crea mockups de alta calidad para tus productos digitales.
