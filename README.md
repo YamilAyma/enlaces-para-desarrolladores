@@ -176,6 +176,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 🖥️ Técnico:
 
+- [Liquid](https://github.com/shrihari-prakash/liquid): ✨ Servidor de autenticación y gestión de usuarios sin interrupciones y altamente personalizable para cualquier proyecto.
+- [Dropzone](https://github.com/dropzone/dropzone): Dropzone es una biblioteca de arrastrar y soltar fácil de usar. Admite vistas previas de imágenes y muestra barras de progreso muy útiles. 
 - [Pretext](https://github.com/chenglou/pretext): Medición y maquetación de texto rápidas, precisas y completas. 
 - [Django Modern Rest](https://github.com/wemake-services/django-modern-rest): ¡Moderno framework REST para Django con tipado y soporte asíncrono! 
 - [Beheader](https://github.com/p2r3/beheader): Herramienta de línea de comandos para unir múltiples archivos en uno solo.
@@ -481,6 +483,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
+- [ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI): Una colección de código abierto de componentes animados, interactivos y totalmente personalizables para crear interfaces de usuario impactantes y memorables. 
+- [Kutty](https://kutty.netlify.app/): Kutty es un plugin de Tailwind para la creación de aplicaciones web. Cuenta con un conjunto de componentes accesibles y reutilizables que se utilizan habitualmente en aplicaciones web. 
 - [WarcraftCN](https://www.warcraftcn.com/): Un conjunto de componentes inspirados en la estética clásica de la interfaz de usuario de Warcraft III RTS. Código abierto, listo para copiar y pegar. Compatible con tus frameworks favoritos. Creado por fans. Sin afiliación. 
 - [Retroui](https://www.retroui.dev/):Una librería de interfaz de usuario para React + TailwindCSS con estilo neobrutalista, ideal para crear aplicaciones web modernas y llamativas. Perfecta para cualquier proyecto que utilice Shadcn/ui.
 - [Bearnie](https://bearnie.dev/): Componentes accesibles para Astro y Tailwind CSS. 
