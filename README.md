@@ -105,7 +105,10 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Computer Vision Notebooks](https://github.com/roboflow/notebooks): Colección de notebooks de Roboflow para aprender y aplicar modelos de visión computacional.
 - [Top AI Newsletters](https://www.marktechpost.com/2023/01/15/top-artificial-intelligence-ai-newsletters-to-subscribe-in-2023): Listado de las mejores newsletters sobre Inteligencia Artificial para mantenerse al día.
 - [Applied ML](https://github.com/eugeneyan/applied-ml): Repositorio enfocado en la aplicación práctica de Machine Learning en entornos de producción.
-- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents): Recopilación de los mejores agentes de IA y frameworks para su desarrollo.
+- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents): Recopilación de los mejores agentes de IA y frameworks para su desarrollo. 
+- [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills): Directorio completo de tutoriales, guías y repositorios para habilidades de agentes de IA. 
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers): Lista curada y actualizada de servidores Model Context Protocol para expandir las capacidades de los agentes. 
+- [Best of MCP Servers](https://github.com/tolkonepiu/best-of-mcp-servers): Lista basada en métricas de GitHub para encontrar los servidores MCP más activos y confiables. 
 - [ChatGPT List of Lists](https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb): Una colección masiva de más de 1500 casos de uso sorprendentes para ChatGPT.
 - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs): Repositorio que recopila blogs de ingeniería de las empresas tecnológicas más importantes.
 - [79 Engineering Blogs](https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up): Una selección curada de blogs técnicos para elevar tu nivel como ingeniero.
@@ -181,6 +184,10 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 ### 🖥️ Técnico:
 
 - [Baoyu Skills](https://github.com/JimLiu/baoyu-skills): Habilidades compartidas por Baoyu para mejorar la eficiencia en el trabajo diario con Claude Code. 
+- [AI Agents Skills](https://github.com/hoodini/ai-agents-skills): Colección curada de habilidades especializadas para agentes de codificación. 
+- [Vercel Labs Agent Skills](https://github.com/vercel-labs/agent-skills): Habilidades empaquetadas para agentes de IA siguiendo el formato estándar de Agent Skills. 
+- [AI Agent Skills Library](https://github.com/maragudk/skills): Colección de habilidades variadas para agentes de IA (investigación, code review, etc.). 
+- [Claude Agentic Framework](https://github.com/er4700345-coder/claude-agentic-framework): Marco especializado para Claude Code que aplica metodologías estructuradas de desarrollo de software. 
 - [InsForge](https://insforge.dev/): Proporcione a los agentes todo lo que necesitan.
 para lanzar aplicaciones fullstack. 
 - [Liquid](https://github.com/shrihari-prakash/liquid): ✨ Servidor de autenticación y gestión de usuarios sin interrupciones y altamente personalizable para cualquier proyecto.
@@ -224,6 +231,9 @@ para lanzar aplicaciones fullstack.
 - [Claude Ads](https://github.com/AgriciDaniel/claude-ads): Auditoría integral de publicidad de pago y optimización para Claude Code. 186 comprobaciones en Google, Meta, YouTube, LinkedIn, TikTok y Microsoft Ads con puntuación ponderada, agentes paralelos y plantillas del sector. 
 - [Theme Toggle](https://theme-toggle.rdsx.dev/): Efecto de alternancia de tema.
 - [SEO Audit Skill](https://github.com/seo-skills/seo-audit-skill): Una completa herramienta de línea de comandos para auditorías SEO con 108 reglas de auditoría en 12 categorías. Analiza cualquier sitio web para detectar las mejores prácticas de SEO, Core Web Vitals, encabezados de seguridad, datos estructurados, accesibilidad y mucho más
+- [Crashcat](https://github.com/isaac-mason/crashcat): Motor de física para JavaScript, diseñado para juegos, simulaciones y sitios web creativos. 
+- [PayKit](https://paykit.sh/): El primer framework de facturación para TypeScript que gestiona planes, Stripe y webhooks directamente desde el código. 
+- [Geo Content Writer](https://github.com/GEO-SEO/geo-content-writer): Sistema de producción de contenido GEO/SEO basado en backlog que convierte oportunidades de prompts en artículos optimizados. 
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -712,6 +722,8 @@ desarrolladores
 - [Modern CSS](https://modern-css.com/): Blog técnico que explora técnicas de CSS moderno para soluciones de diseño reales.
 - [UI Playbook](https://uiplaybook.dev/): Guía interactiva sobre los componentes UI fundamentales y cuándo usarlos.
 - [Claude Howto](https://github.com/luongnv89/claude-howto): Una guía visual y basada en ejemplos para Claude Code, desde conceptos básicos hasta agentes avanzados, con plantillas que se pueden copiar y pegar y que aportan valor inmediato. 
+- [Frontend Slides](https://github.com/zarazhangrui/frontend-slides): Herramienta para crear hermosas presentaciones web aprovechando las habilidades de frontend de Claude. 
+- [Motion (Zajno)](https://motion.zajno.com/): Recurso interactivo que explora y demuestra los principios de animación y diseño gráfico en interfaces UI/UX. 
 
 ### 📒 CURSOS:
 
