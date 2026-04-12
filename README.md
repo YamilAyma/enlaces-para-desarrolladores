@@ -264,6 +264,11 @@ para lanzar aplicaciones fullstack.
 - [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch): Guía técnica y repositorio de código para construir modelos de lenguaje grandes (GPT-like) desde cero usando PyTorch.
 - [GSD (Get Shit Done)](https://github.com/gsd-build/get-shit-done): Framework de desarrollo guiado por especificaciones para agentes de IA que resuelve el "context rot" y permite la ejecución autónoma de tareas.
 - [NotebookLM Skill](https://github.com/PleasePrompto/notebooklm-skill): Automatización para agentes locales (como Claude Code) que permite consultar libretas de Google NotebookLM directamente desde la terminal con persistencia de sesión.
+- [Mem0](https://github.com/mem0ai/mem0): Capa inteligente de memoria para agentes de IA que aprende de las interacciones y mantiene el contexto a través de múltiples sesiones.
+- [E2B](https://github.com/e2b-dev/e2b): Sandbox seguro de código abierto para que los agentes de IA ejecuten código de forma segura en entornos aislados.
+- [Composio](https://github.com/ComposioHQ/composio): Infraestructura de herramientas para agentes de IA con soporte nativo para más de 250 aplicaciones y herramientas de productividad.
+- [Multica](https://github.com/multica-ai/multica): Plataforma de gestión de equipos de agentes de IA diseñada para orquestar tareas complejas y compounding de habilidades.
+- [HMPL](https://github.com/hmpl-language/hmpl): Moderno lenguaje de marcado para fetching distribuido que optimiza la carga de componentes en aplicaciones web modernas mediante un enfoque orientado al servidor.
 
 ### 🛠️ HERRAMIENTAS:
 
