@@ -271,6 +271,9 @@ para lanzar aplicaciones fullstack.
 - [HMPL](https://github.com/hmpl-language/hmpl): Moderno lenguaje de marcado para fetching distribuido que optimiza la carga de componentes en aplicaciones web modernas mediante un enfoque orientado al servidor.
 - [Markdown Viewer Skills](https://github.com/markdown-viewer/skills): Extensiones para agentes de IA que habilitan la renderización de diagramas y visualizaciones directamente dentro de Markdown.
 - [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph): Herramienta que genera grafos de conocimiento técnicos sobre proyectos de IA para facilitar la comprensión de arquitecturas complejas.
+- [motion-gpu](https://github.com/motion-core/motion-gpu): Framework minimalista para la creación de efectos visuales modernos y de alto rendimiento utilizando WebGPU.
+- [armada](https://github.com/armadasvc/armada): Framework nativo de Kubernetes para la orquestación masiva y escalable de bots y scrapers.
+- [pinchtab](https://github.com/pinchtab/pinchtab): Puente de automatización de navegadores de alto rendimiento con dashboard en tiempo real e inyección de stealth avanzada.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -285,6 +288,8 @@ para lanzar aplicaciones fullstack.
 - [Floci](https://github.com/floci-io/floci): Ligero, esponjoso y siempre gratuito: emulador local de AWS. 
 - [Stroke](https://stroke.abhii.space/): Animar archivos SVG. Hermosamente.
 - [MiniStack](https://github.com/Nahuel990/ministack): Emulador local de AWS gratuito y de código abierto: más de 35 servicios, compatible con Terraform, bases de datos reales. Gratis para siempre. Licencia MIT.
+- [startupslab](https://startupslab.site/): Plataforma para el lanzamiento y visibilización de startups que ayuda a fundadores a obtener tráfico verificado y backlinks de calidad.
+- [directory-submission-service](https://rankinpublic.xyz/directory-submission-service): Servicio de envío manual a más de 140 directorios de alta autoridad para potenciar el Domain Rating de proyectos SaaS.
 - [EmailMD](https://github.com/unmta/emailmd): Convierte archivos Markdown en correos electrónicos profesionales con un diseño limpio y moderno.
 - [GitHub Readme Stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow): Genera dinámicamente tu estado de StackOverflow en tus archivos README de GitHub
 - [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium): Genera dinámicamente tu último artículo de Medium en tus archivos README de GitHub
@@ -702,6 +707,8 @@ desarrolladores
 - [Tailkits](https://tailkits.com/): Conjunto de componentes y herramientas para acelerar el desarrollo con Tailwind.
 - [3D SVG](https://3dsvg.design/): Herramienta web intuitiva para transformar archivos SVG, texto y pixel art en elementos 3D dinámicos y exportables.
 - [Elementor](https://github.com/elementor/elementor): El maquetador visual de código abierto líder para WordPress, permitiendo crear sitios profesionales mediante drag-and-drop.
+- [randoma11y](https://randoma11y.com/): Generador de combinaciones cromáticas accesibles que cumple con los estándares WCAG para garantizar la legibilidad en interfaces.
+- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems): Lista curada y exhaustiva de los mejores sistemas de diseño del mundo para referencia técnica y visual.
 - [Free Templates (Cruip)](https://cruip.com/free-templates/): Plantillas de alta calidad gratuitas para landing pages y sitios de marketing.
 - [Themesberg](https://themesberg.com/): Suite de kits de UI, dashboards y plantillas de alta calidad basadas en Bootstrap y Tailwind.
 - [Radix UI](https://www.radix-ui.com/): Primitivas de componentes sin estilo para construir bibliotecas accesibles.
@@ -941,10 +948,21 @@ desarrolladores
 - [Can I Run AI](https://www.canirun.ai/): Herramienta que escanea tu hardware para determinar qué modelos de IA de código abierto puedes ejecutar localmente de forma fluida.
 - [Page Agent](https://github.com/alibaba/page-agent): Agente de IA autónomo desarrollado por Alibaba que permite controlar el navegador y realizar tareas web complejas mediante lenguaje natural.
 - [LLMFit](https://github.com/AlexsJones/llmfit): Herramienta para instalar y optimizar modelos LLM locales según tu hardware específico.
+- [mcp-toolbox](https://github.com/googleapis/mcp-toolbox): Servidor MCP de código abierto de Google que facilita la interacción de agentes de IA con bases de datos SQL.
+- [lightpanda](https://github.com/lightpanda-io/browser): Navegador headless escrito en Rust diseñado específicamente para el rendimiento extremo en automatización y agentes de IA.
+- [visual-explainer](https://github.com/nicobailon/visual-explainer): Habilidad para agentes que genera automáticamente páginas HTML o diapositivas para explicar diagramas, revisiones de código y resúmenes de proyectos.
+- [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude): Skill especializada para Claude Code enfocada en la optimización SEO local y análisis de autoridad de marca mediante IA.
+- [designer-skills](https://github.com/Owl-Listener/designer-skills): Repositorio de habilidades agénticas y plugins enfocados en la investigación, sistemas de diseño e interacción UI/UX.
 Habilidades de agente de IA para tu proyecto
 - [OpenMontage](https://github.com/calesthio/OpenMontage): Sistema de producción de video que permite a agentes de IA crear y editar contenido visual a partir de lenguaje natural.
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading): Plataforma multi-agente de finanzas que automatiza la investigación y ejecución de estrategias de trading mediante prompts.
 - [SharpML](https://suto.bex.jp/mac/mlsharp/index.html): Aplicación nativa de macOS para el diseño, entrenamiento y visualización de redes neuronales de forma gráfica e intuitiva.
+- [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases): Colección comunitaria de casos de uso prácticos para automatizar flujos de trabajo utilizando OpenClaw.
+
+#### 🧠 Modelos y Datos
+- [pocket-tts](https://github.com/kyutai-labs/pocket-tts): Sistema de Text-to-Speech extremadamente ligero que se ejecuta localmente en la CPU, ideal para dispositivos con recursos limitados.
+- [easy-dataset](https://github.com/ConardLi/easy-dataset): Herramienta potente para la creación sistemática de conjuntos de datos destinados al fine-tuning, RAG y evaluación de LLMs.
+- [airllm](https://github.com/lyogavin/airllm): Tecnología que permite la inferencia de modelos de 70B parámetros en GPUs domésticas de apenas 4GB mediante optimización de memoria.
 
 ### 🎙️ Podcast
 
