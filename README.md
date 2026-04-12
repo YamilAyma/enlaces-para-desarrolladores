@@ -167,6 +167,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): Un conjunto de habilidades de agente listas para usar en investigación, ciencia, ingeniería, análisis, finanzas y redacción. 
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills): Guía técnica en un solo archivo diseñada para corregir sesgos y mejorar el comportamiento de Claude Code en tareas de programación complejas.
 - [OpenSkills](https://github.com/numman-ali/openskills): Framework y CLI universal para hacer que las habilidades de codificación de IA sean portables entre diferentes agentes y frameworks.
+- [Awesome NotebookLM Prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts): Colección curada de prompts avanzados para NotebookLM diseñados para generar presentaciones, memos de decisión y hojas de ruta estratégicas.
 
 ### 📄 LISTAS
 
@@ -262,6 +263,7 @@ para lanzar aplicaciones fullstack.
 - [Database.build](https://database.build/): Plataforma intuitiva para diseñar y gestionar esquemas de bases de datos de forma visual y rápida.
 - [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch): Guía técnica y repositorio de código para construir modelos de lenguaje grandes (GPT-like) desde cero usando PyTorch.
 - [GSD (Get Shit Done)](https://github.com/gsd-build/get-shit-done): Framework de desarrollo guiado por especificaciones para agentes de IA que resuelve el "context rot" y permite la ejecución autónoma de tareas.
+- [NotebookLM Skill](https://github.com/PleasePrompto/notebooklm-skill): Automatización para agentes locales (como Claude Code) que permite consultar libretas de Google NotebookLM directamente desde la terminal con persistencia de sesión.
 
 ### 🛠️ HERRAMIENTAS:
 
