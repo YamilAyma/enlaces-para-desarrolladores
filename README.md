@@ -269,6 +269,8 @@ para lanzar aplicaciones fullstack.
 - [Composio](https://github.com/ComposioHQ/composio): Infraestructura de herramientas para agentes de IA con soporte nativo para más de 250 aplicaciones y herramientas de productividad.
 - [Multica](https://github.com/multica-ai/multica): Plataforma de gestión de equipos de agentes de IA diseñada para orquestar tareas complejas y compounding de habilidades.
 - [HMPL](https://github.com/hmpl-language/hmpl): Moderno lenguaje de marcado para fetching distribuido que optimiza la carga de componentes en aplicaciones web modernas mediante un enfoque orientado al servidor.
+- [Markdown Viewer Skills](https://github.com/markdown-viewer/skills): Extensiones para agentes de IA que habilitan la renderización de diagramas y visualizaciones directamente dentro de Markdown.
+- [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph): Herramienta que genera grafos de conocimiento técnicos sobre proyectos de IA para facilitar la comprensión de arquitecturas complejas.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -698,6 +700,8 @@ desarrolladores
 - [TailGrids](https://tailgrids.com/): Biblioteca de componentes de UI de bajo nivel y grids para Tailwind CSS.
 - [CuratedUIList](https://www.curateduilist.com/): Lista curada de los mejores recursos de UI y componentes para Tailwind.
 - [Tailkits](https://tailkits.com/): Conjunto de componentes y herramientas para acelerar el desarrollo con Tailwind.
+- [3D SVG](https://3dsvg.design/): Herramienta web intuitiva para transformar archivos SVG, texto y pixel art en elementos 3D dinámicos y exportables.
+- [Elementor](https://github.com/elementor/elementor): El maquetador visual de código abierto líder para WordPress, permitiendo crear sitios profesionales mediante drag-and-drop.
 - [Free Templates (Cruip)](https://cruip.com/free-templates/): Plantillas de alta calidad gratuitas para landing pages y sitios de marketing.
 - [Themesberg](https://themesberg.com/): Suite de kits de UI, dashboards y plantillas de alta calidad basadas en Bootstrap y Tailwind.
 - [Radix UI](https://www.radix-ui.com/): Primitivas de componentes sin estilo para construir bibliotecas accesibles.
@@ -798,6 +802,7 @@ desarrolladores
 - [RunSQL](https://runsql.com/r): Entorno interactivo basado en el navegador para ejecutar, probar y compartir consultas SQL sin configuración local.
 - [Algorithm Visualizer](https://algorithm-visualizer.org/): Plataforma interactiva que visualiza algoritmos de diversas estructuras de datos mediante animaciones paso a paso.
 - [Linux Security Guide](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): Guía completa de endurecimiento y seguridad para servidores Linux mantenida por la comunidad.
+- [Marp](https://github.com/marp-team/marp): Ecosistema para crear diapositivas profesionales utilizando Markdown, con soporte para PDF, PPTX y exportación web.
 
 ### 📒 CURSOS:
 
@@ -808,6 +813,7 @@ desarrolladores
 - [Anthropic Skilljar](https://anthropic.skilljar.com/): Plataforma educativa oficial de Anthropic con cursos gratuitos y certificados sobre el uso avanzado de Claude y sus servicios.
 - [Aprende SQL](https://www.aprendesql.dev/): Plataforma educativa interactiva diseñada para dominar el lenguaje SQL mediante ejercicios prácticos directos.
 - [Aprende Python](https://aprendepython.es/): Plataforma educativa en español con cursos estructurados desde fundamentos hasta manipulación de datos con Python.
+- [Udemy Downloader GUI](https://github.com/heliomarpm/udemy-downloader-gui): Aplicación de escritorio multiplataforma para descargar y gestionar cursos de Udemy para su visualización offline.
 
 ### 🔠 TIPOGRAFIAS:
 
@@ -936,6 +942,9 @@ desarrolladores
 - [Page Agent](https://github.com/alibaba/page-agent): Agente de IA autónomo desarrollado por Alibaba que permite controlar el navegador y realizar tareas web complejas mediante lenguaje natural.
 - [LLMFit](https://github.com/AlexsJones/llmfit): Herramienta para instalar y optimizar modelos LLM locales según tu hardware específico.
 Habilidades de agente de IA para tu proyecto
+- [OpenMontage](https://github.com/calesthio/OpenMontage): Sistema de producción de video que permite a agentes de IA crear y editar contenido visual a partir de lenguaje natural.
+- [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading): Plataforma multi-agente de finanzas que automatiza la investigación y ejecución de estrategias de trading mediante prompts.
+- [SharpML](https://suto.bex.jp/mac/mlsharp/index.html): Aplicación nativa de macOS para el diseño, entrenamiento y visualización de redes neuronales de forma gráfica e intuitiva.
 
 ### 🎙️ Podcast
 
