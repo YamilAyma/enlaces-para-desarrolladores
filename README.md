@@ -274,6 +274,7 @@ para lanzar aplicaciones fullstack.
 - [motion-gpu](https://github.com/motion-core/motion-gpu): Framework minimalista para la creación de efectos visuales modernos y de alto rendimiento utilizando WebGPU.
 - [armada](https://github.com/armadasvc/armada): Framework nativo de Kubernetes para la orquestación masiva y escalable de bots y scrapers.
 - [pinchtab](https://github.com/pinchtab/pinchtab): Puente de automatización de navegadores de alto rendimiento con dashboard en tiempo real e inyección de stealth avanzada.
+- [linux-android](https://github.com/mayukh4/linux-android): Script automatizado para configurar un entorno Linux completo dentro de dispositivos Android a través de Termux.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -821,6 +822,8 @@ desarrolladores
 - [Aprende SQL](https://www.aprendesql.dev/): Plataforma educativa interactiva diseñada para dominar el lenguaje SQL mediante ejercicios prácticos directos.
 - [Aprende Python](https://aprendepython.es/): Plataforma educativa en español con cursos estructurados desde fundamentos hasta manipulación de datos con Python.
 - [Udemy Downloader GUI](https://github.com/heliomarpm/udemy-downloader-gui): Aplicación de escritorio multiplataforma para descargar y gestionar cursos de Udemy para su visualización offline.
+- [AI For Beginners](https://github.com/microsoft/AI-For-Beginners): Curso oficial de Microsoft de 12 semanas y 24 lecciones que cubre desde los fundamentos hasta el uso avanzado de IA para todos los niveles.
+- [Top-Down Action Adventure Starter Kit](https://github.com/Nodragem/top-down-action-adventure-starter-kit): Prototipo educativo en Godot Engine para aprender la implementación de mecánicas de juego básicas.
 
 ### 🔠 TIPOGRAFIAS:
 
@@ -953,6 +956,8 @@ desarrolladores
 - [visual-explainer](https://github.com/nicobailon/visual-explainer): Habilidad para agentes que genera automáticamente páginas HTML o diapositivas para explicar diagramas, revisiones de código y resúmenes de proyectos.
 - [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude): Skill especializada para Claude Code enfocada en la optimización SEO local y análisis de autoridad de marca mediante IA.
 - [designer-skills](https://github.com/Owl-Listener/designer-skills): Repositorio de habilidades agénticas y plugins enfocados en la investigación, sistemas de diseño e interacción UI/UX.
+- [PSDesigner](https://github.com/FudanCVL/PSDesigner): Sistema de diseño gráfico automatizado de nivel profesional (CVPR 2026) que aplica un flujo de trabajo creativo similar al humano mediante IA.
+- [Davia](https://github.com/davialabs/davia): Documentación interactiva y editable diseñada específicamente para facilitar la navegación y el consumo de información por parte de agentes de IA.
 Habilidades de agente de IA para tu proyecto
 - [OpenMontage](https://github.com/calesthio/OpenMontage): Sistema de producción de video que permite a agentes de IA crear y editar contenido visual a partir de lenguaje natural.
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading): Plataforma multi-agente de finanzas que automatiza la investigación y ejecución de estrategias de trading mediante prompts.
