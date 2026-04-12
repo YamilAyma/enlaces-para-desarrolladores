@@ -275,6 +275,9 @@ para lanzar aplicaciones fullstack.
 - [armada](https://github.com/armadasvc/armada): Framework nativo de Kubernetes para la orquestación masiva y escalable de bots y scrapers.
 - [pinchtab](https://github.com/pinchtab/pinchtab): Puente de automatización de navegadores de alto rendimiento con dashboard en tiempo real e inyección de stealth avanzada.
 - [linux-android](https://github.com/mayukh4/linux-android): Script automatizado para configurar un entorno Linux completo dentro de dispositivos Android a través de Termux.
+- [playtranslate](https://github.com/dominostars/playtranslate): Aplicación de traducción de juegos en tiempo real para Android, ideal para el aprendizaje de idiomas y jugadores casuales.
+- [AnimeStudio](https://github.com/Escartem/AnimeStudio): Herramienta de extracción de activos para juegos desarrollados en Unity, con soporte para títulos populares como Genshin Impact y Honkai: Star Rail.
+- [rattles](https://github.com/vyfor/rattles): Biblioteca de indicadores de carga (spinners) minimalistas para la terminal desarrollados íntegramente en Rust.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -824,6 +827,7 @@ desarrolladores
 - [Udemy Downloader GUI](https://github.com/heliomarpm/udemy-downloader-gui): Aplicación de escritorio multiplataforma para descargar y gestionar cursos de Udemy para su visualización offline.
 - [AI For Beginners](https://github.com/microsoft/AI-For-Beginners): Curso oficial de Microsoft de 12 semanas y 24 lecciones que cubre desde los fundamentos hasta el uso avanzado de IA para todos los niveles.
 - [Top-Down Action Adventure Starter Kit](https://github.com/Nodragem/top-down-action-adventure-starter-kit): Prototipo educativo en Godot Engine para aprender la implementación de mecánicas de juego básicas.
+- [Harness Books](https://github.com/wquguru/harness-books): Colección de libros sobre ingeniería de "harness" para agentes de IA, comparando las arquitecturas de Claude Code y Codex.
 
 ### 🔠 TIPOGRAFIAS:
 
@@ -963,11 +967,15 @@ Habilidades de agente de IA para tu proyecto
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading): Plataforma multi-agente de finanzas que automatiza la investigación y ejecución de estrategias de trading mediante prompts.
 - [SharpML](https://suto.bex.jp/mac/mlsharp/index.html): Aplicación nativa de macOS para el diseño, entrenamiento y visualización de redes neuronales de forma gráfica e intuitiva.
 - [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases): Colección comunitaria de casos de uso prácticos para automatizar flujos de trabajo utilizando OpenClaw.
+- [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template): Plantilla para clonar cualquier sitio web mediante una única instrucción utilizando agentes de codificación con IA.
+- [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio): Toolkit de procesamiento de voz potenciado por IA que soporta mejora de audio, separación de fuentes y extracción de locutores específicos.
+- [Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI): Alternativa de código abierto a Higgsfield para la generación de imágenes y vídeos cinematográficos con soporte para más de 20 modelos.
 
 #### 🧠 Modelos y Datos
 - [pocket-tts](https://github.com/kyutai-labs/pocket-tts): Sistema de Text-to-Speech extremadamente ligero que se ejecuta localmente en la CPU, ideal para dispositivos con recursos limitados.
 - [easy-dataset](https://github.com/ConardLi/easy-dataset): Herramienta potente para la creación sistemática de conjuntos de datos destinados al fine-tuning, RAG y evaluación de LLMs.
 - [airllm](https://github.com/lyogavin/airllm): Tecnología que permite la inferencia de modelos de 70B parámetros en GPUs domésticas de apenas 4GB mediante optimización de memoria.
+- [Dataset Search](https://datasetsearch.research.google.com/): El motor de búsqueda especializado de Google que permite localizar y acceder a miles de conjuntos de datos alojados en toda la web.
 
 ### 🎙️ Podcast
 
