@@ -177,6 +177,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Actually Free APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/): Lista de APIs realmente gratuitas, abiertas y que no requieren autenticación.
 - [NEWSLETTERS G-Sheet](https://docs.google.com/spreadsheets/d/1LWHf_WVwK0wKAFBFjQxtM7OJokK7lb5SUPknw3Ebz_c/edit?gid=1533789385#gid=1533789385): Recopilación exhaustiva de newsletters sobre tecnología y emprendimiento.
 - [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file): Repositorio con las preguntas más comunes en entrevistas de trabajo para React.
+- [RepoInsider](https://repoinsider.com/): Plataforma que clasifica repositorios de GitHub por velocidad de crecimiento en lugar de estrellas, para descubrir proyectos emergentes antes de que se vuelvan virales.
 - [Gostack (Rocketseat)](https://github.com/rocketseat-education/bootcamp-gostack-desafios): Desafíos prácticos y proyectos para dominar el ecosistema Node.js, React y React Native.
 - [EverShop](https://github.com/evershopcommerce/evershop): Framework de comercio electrónico modular para Node.js construido con React y GraphQL.
 
@@ -536,6 +537,10 @@ para lanzar aplicaciones fullstack.
 - [The Coding Love](https://thecodinglove.com/): Blog clásico de humor para desarrolladores con memes y GIFs sobre la vida en IT.
 - [Git Wrapped](https://git-wrapped.com/): Genera un video resumen con las estadísticas más importantes de tu año en GitHub.
 - [Web Design Museum](https://www.webdesignmuseum.org): Museo digital interactivo que recorre la historia visual del diseño de interfaces web.
+- [Git Kingdom](https://github.com/rgourley/git-kingdom): Explora GitHub como un mundo de RPG de fantasía: reinos de pixel-art construidos a partir de datos reales de repositorios.
+- [Commitment Issues](https://commitmentissues.dev/): Genera certificados de defunción oficiales para repositorios de GitHub abandonados, incluyendo "últimas palabras" y estadísticas.
+- [GitCity](https://github.com/rishabhbhartiya/GitCity): Visualiza tus contribuciones de GitHub como un horizonte de ciudad en 3D interactivo y lleno de vida.
+- [Repo Roast](https://reporoast.app/): Deja que una IA critique y "rostice" tu repositorio de GitHub de forma humorística analizando tu código y actividad.
 
 ### 🌐 WEB:
 - [Rooks](https://github.com/imbhargav5/rooks): Colección masiva de hooks de React listos para usar y optimizar tus componentes.
@@ -685,7 +690,14 @@ desarrolladores
 - [Spectrum Icons (Framer)](https://spectrums.framer.website/): Set de iconos vectoriales optimizados para diseños en Framer y web.
 - [Raster Retro Icons](https://raster.saran13raj.com/): Colección de iconos con estética de píxel art y estilo retro de videojuegos.
 - [Rafty](https://rafty.rhinobase.io/): Suite de componentes de React y Tailwind con un enfoque en la accesibilidad.
+- [Sketchbook UI](https://github.com/SarthakRawat-1/sketchbook-ui): Librería de componentes de interfaz de usuario con un estilo artístico que parece dibujado a mano.
 - [Icoon 3D](https://www.icoon.co/): Repositorio de iconos 3D gratuitos y premium para interfaces de usuario modernas.
+- [rgitui](https://github.com/noahbclarkson/rgitui): Cliente de escritorio para Git acelerado por GPU, construido en Rust utilizando GPUI para un rendimiento extremo.
+- [GitHub Social Preview Generator](https://github.com/readme-SVG/github-social-preview-generator): Herramienta cliente para generar tarjetas de vista previa social (OG images) estilizadas al estilo de GitHub para cualquier repositorio público.
+- [Serie](https://github.com/lusingander/serie): Un gráfico de historial de commits enriquecido y visualmente atractivo directamente en tu terminal.
+- [Gitsugi](https://github.com/johnrbell/gitsugi): Extensión de Git inspirada en el arte del kintsugi para reparar rupturas en tu historial de commits.
+- [asciianimesvg](https://github.com/syi0808/asciianimesvg): Generador de SVGs de arte ASCII animados a partir de texto, con soporte para CLI, Rust, WASM y editor web.
+- [Zettlr](https://github.com/Zettlr/Zettlr): Un editor de Markdown profesional y workbench de publicación diseñado para la escritura académica y científica avanzada.
 - [Free React Components](https://reactcomponents.com/): Directorio de componentes gratuitos categorizados para React.
 - [HyperUI](https://www.hyperui.dev/): Colección gratuita de componentes de código abierto hechos con Tailwind CSS.
 - [Material Tailwind Blocks](https://www.material-tailwind.com/blocks): Bloques de construcción de UI basados en el estándar de Material Design.
