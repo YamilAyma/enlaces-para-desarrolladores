@@ -18,8 +18,8 @@ Esta habilidad permite al agente actuar como un curador autónomo de recursos t�
     - Crear una rama dedicada `agent/discovery-YYYYMMDD` antes de realizar cambios.
 
 2.  **[ ] Fase de Exploración**: 
-    - Consultar el archivo `resources/sources.json` para obtener los endpoints.
-    - Usar `browser_subagent` para navegar por las cuentas de X (`@GithubProjects`, `@GitHub_Daily`) y capturar los posts más recientes.
+    - Consultar el archivo `resources/sources.json` para obtener los endpoints (si existe).
+    - Usar `browser_subagent` para navegar por las cuentas de X (`@GithubProjects`, `@GitHub_Daily`) y el subreddit `r/coolgithubprojects` para capturar los posts más recientes.
     - Usar `read_url_content` para GitHub Trending y Product Hunt (Developer Tools).
     - Ejecutar búsquedas en Google usando queries avanzadas (Dorks) definidas en `sources.json`.
 

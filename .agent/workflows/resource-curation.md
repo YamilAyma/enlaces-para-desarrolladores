@@ -46,7 +46,7 @@ Identificar la sección más adecuada del `README.md` según la naturaleza del r
 - `🤖 IA`: Enlaces a modelos de IA directos (ChatGPT, Gemini, Claude, Mistral).
     - `#### ✨ Herramientas IA`: Agentes, clonadores de sitios, frameworks de agentes, herramientas locales (Ollama).
 - `🎙️ Podcast`: Contenido en audio sobre tecnología y ecosistemas de programación.
-- `🌐 Otros medios`: Foros, comunidades (Reddit), plataformas de feed de noticias (Hackertab).
+- `🌐 Otros medios`: Foros, comunidades (Reddit r/coolgithubprojects), plataformas de feed de noticias (Hackertab).
 - `💫 INSPIRACIÓN`: Galerías de diseño web, portafolios excepcionales, ejemplos de UI/UX de alto nivel (Bento Grids, Godly).
 
 ### 4. Implementación Quirúrgica
