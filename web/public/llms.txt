@@ -168,6 +168,20 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Pixeden](https://www.pixeden.com/free-graphics): Colección masiva de recursos gráficos gratuitos (mockups, vectores, plantillas) de alta calidad.
 - [Unblast](https://unblast.com/mockups/): Directorio de mockups gratuitos curados para presentaciones de diseño profesional.
 - [Resource Boy](https://resourceboy.com/mockups/book/): Mockups especializados de libros y elementos editoriales listos para descargar.
+- [unDraw](https://undraw.co/): Plataforma líder de ilustraciones vectoriales de código abierto con un sistema de personalización de color integrado para adaptarse a tu marca.
+- [ManyPixels](https://www.manypixels.co/gallery): Galería de ilustraciones vectoriales de alta calidad para marketing y diseño UI, con personalización de colores en tiempo real.
+- [Irasutoya](https://www.irasutoya.com/): El banco de ilustraciones gratuitas más famoso de Japón, con miles de dibujos detallados y un estilo "kawaii" inconfundible.
+- [Open Doodles](https://opendoodles.com/): Conjunto de ilustraciones de estilo boceto hechas a mano por Pablo Stanley, ideales para demostraciones y prototipos.
+- [Open Peeps](https://openpeeps.com/): Librería de personajes ilustrados a mano por Pablo Stanley que permite combinar poses, expresiones y vestimenta para crear escenas personalizadas.
+- [Tyoudoii Illust](https://tyoudoii-illust.com/): Colección de ilustraciones versátiles en estilos lineal, de color único y a todo color que se adaptan a cualquier contexto.
+- [Jitanda](https://jitanda.com/): Directorio japonés con una amplia variedad de ilustraciones y estilos gráficos para uso comercial y personal.
+- [Web Sozai](https://web-sozai.com/): Repositorio de materiales gráficos clásicos y modernos para la construcción de sitios web y aplicaciones.
+- [Enpitsu Sozai](https://enpitsu-sozai.com/): Ilustraciones con un acabado artístico de dibujo a lápiz, aportando una estética cálida y artesanal a tus proyectos.
+- [Illust Navi](https://illust-navi.com/): Portal de navegación para encontrar ilustraciones y recursos gráficos de alta calidad con un enfoque en el diseño moderno.
+- [Linustock](https://www.linustock.com/): Banco especializado en arte lineal vectorial estilizado, diseñado específicamente para ser fácil de procesar y editar por diseñadores.
+- [Soco-st](https://soco-st.com/): Ilustraciones de estilo plano y minimalista con un personalizador de colores web para descargar en formatos PNG, SVG y EPS.
+- [Shigureni](https://shigureni.com/): Colección de ilustraciones japonesas con un estilo peculiar y tierno, perfectas para blogs y redes sociales.
+- [Loose Drawing](https://loosedrawing.com/): Ilustraciones sencillas de trazo libre con una estética suave, ideales para proyectos que buscan un toque humano y accesible.
 ## 📄 LISTAS
 
 - [Startups Graveyard](https://loot-drop.vercel.app/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.

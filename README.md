@@ -187,17 +187,6 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Shigureni](https://shigureni.com/): Colección de ilustraciones japonesas con un estilo peculiar y tierno, perfectas para blogs y redes sociales.
 - [Loose Drawing](https://loosedrawing.com/): Ilustraciones sencillas de trazo libre con una estética suave, ideales para proyectos que buscan un toque humano y accesible.
 
-- [Open Doodles](https://opendoodles.com/): Conjunto de ilustraciones de estilo boceto hechas a mano por Pablo Stanley, ideales para demostraciones y prototipos.
-- [Open Peeps](https://openpeeps.com/): Librería de personajes ilustrados a mano por Pablo Stanley que permite combinar poses, expresiones y vestimenta para crear escenas personalizadas.
-- [Tyoudoii Illust](https://tyoudoii-illust.com/): Colección de ilustraciones versátiles en estilos lineal, de color único y a todo color que se adaptan a cualquier contexto.
-- [Jitanda](https://jitanda.com/): Directorio japonés con una amplia variedad de ilustraciones y estilos gráficos para uso comercial y personal.
-- [Web Sozai](https://web-sozai.com/): Repositorio de materiales gráficos clásicos y modernos para la construcción de sitios web y aplicaciones.
-- [Enpitsu Sozai](https://enpitsu-sozai.com/): Ilustraciones con un acabado artístico de dibujo a lápiz, aportando una estética cálida y artesanal a tus proyectos.
-- [Illust Navi](https://illust-navi.com/): Portal de navegación para encontrar ilustraciones y recursos gráficos de alta calidad con un enfoque en el diseño moderno.
-- [Linustock](https://www.linustock.com/): Banco especializado en arte lineal vectorial estilizado, diseñado específicamente para ser fácil de procesar y editar por diseñadores.
-- [Soco-st](https://soco-st.com/): Ilustraciones de estilo plano y minimalista con un personalizador de colores web para descargar en formatos PNG, SVG y EPS.
-- [Shigureni](https://shigureni.com/): Colección de ilustraciones japonesas con un estilo peculiar y tierno, perfectas para blogs y redes sociales.
-- [Loose Drawing](https://loosedrawing.com/): Ilustraciones sencillas de trazo libre con una estética suave, ideales para proyectos que buscan un toque humano y accesible.
 
 
 
