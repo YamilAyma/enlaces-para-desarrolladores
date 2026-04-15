@@ -168,6 +168,11 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills): Guía técnica en un solo archivo diseñada para corregir sesgos y mejorar el comportamiento de Claude Code en tareas de programación complejas.
 - [OpenSkills](https://github.com/numman-ali/openskills): Framework y CLI universal para hacer que las habilidades de codificación de IA sean portables entre diferentes agentes y frameworks.
 - [Awesome NotebookLM Prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts): Colección curada de prompts avanzados para NotebookLM diseñados para generar presentaciones, memos de decisión y hojas de ruta estratégicas.
+- [Design Dictionary](https://ui-design-dictionary.pages.dev/): Diccionario visual que explica terminología de diseño UI/UX de forma sencilla y directa.
+- [Pixeden](https://www.pixeden.com/free-graphics): Colección masiva de recursos gráficos gratuitos (mockups, vectores, plantillas) de alta calidad.
+- [Unblast](https://unblast.com/mockups/): Directorio de mockups gratuitos curados para presentaciones de diseño profesional.
+- [Resource Boy](https://resourceboy.com/mockups/book/): Mockups especializados de libros y elementos editoriales listos para descargar.
+
 
 ### 📄 LISTAS
 
@@ -180,6 +185,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [RepoInsider](https://repoinsider.com/): Plataforma que clasifica repositorios de GitHub por velocidad de crecimiento en lugar de estrellas, para descubrir proyectos emergentes antes de que se vuelvan virales.
 - [Gostack (Rocketseat)](https://github.com/rocketseat-education/bootcamp-gostack-desafios): Desafíos prácticos y proyectos para dominar el ecosistema Node.js, React y React Native.
 - [EverShop](https://github.com/evershopcommerce/evershop): Framework de comercio electrónico modular para Node.js construido con React y GraphQL.
+- [Open Source Projects](https://www.opensourceprojects.dev/): Directorio para descubrir y contribuir a proyectos de código abierto emergentes.
+
 
 ### 🧗 ROADMAPS:
 
@@ -279,6 +286,11 @@ para lanzar aplicaciones fullstack.
 - [playtranslate](https://github.com/dominostars/playtranslate): Aplicación de traducción de juegos en tiempo real para Android, ideal para el aprendizaje de idiomas y jugadores casuales.
 - [AnimeStudio](https://github.com/Escartem/AnimeStudio): Herramienta de extracción de activos para juegos desarrollados en Unity, con soporte para títulos populares como Genshin Impact y Honkai: Star Rail.
 - [rattles](https://github.com/vyfor/rattles): Biblioteca de indicadores de carga (spinners) minimalistas para la terminal desarrollados íntegramente en Rust.
+- [Hue](https://hueapp.io/): Skill avanzada para Claude Code que permite interactuar con paletas de colores y tokens de diseño.
+- [Great Docs](https://github.com/posit-dev/great-docs): Herramienta para generar documentación técnica excepcional a partir de código.
+- [Tegaki](https://github.com/KurtGokhan/tegaki): Motor de reconocimiento de escritura a mano integrado en el navegador para aplicaciones interactivas.
+- [Aesthetic Portfolio](https://github.com/Aayan15728/Aesthetic-Portfolio-Site): Plantilla de portafolio minimalista con animaciones premium lista para desplegar.
+
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -529,6 +541,10 @@ para lanzar aplicaciones fullstack.
 - [Unlighthouse](https://github.com/harlan-zw/unlighthouse): Herramienta para generar reportes de Google Lighthouse de forma masiva para todas las rutas de un sitio web automáticamente.
 - [Outerbase Studio](https://github.com/outerbase/studio): GUI de base de datos de código abierto para el navegador que permite gestionar esquemas y datos de forma visual en PostgreSQL, MySQL y SQLite.
 - [Port Killer](https://github.com/productdevbook/port-killer): Herramienta multiplataforma para gestionar puertos y procesos con soporte para Kubernetes port-forwarding y túneles de Cloudflare.
+- [PureMac](https://github.com/momenbasel/PureMac): Utilidad de limpieza y optimización para macOS con interfaz minimalista y potente línea de comandos.
+- [Barkod Studio](https://barkod.studio/): Generador artístico de códigos de barras y QR con opciones de personalización avanzadas.
+- [Linkwarden](https://github.com/linkwarden/linkwarden): Gestor de marcadores colaborativo y autoalojado que permite organizar enlaces y capturar páginas web.
+
 
 #### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
@@ -541,6 +557,8 @@ para lanzar aplicaciones fullstack.
 - [Commitment Issues](https://commitmentissues.dev/): Genera certificados de defunción oficiales para repositorios de GitHub abandonados, incluyendo "últimas palabras" y estadísticas.
 - [GitCity](https://github.com/rishabhbhartiya/GitCity): Visualiza tus contribuciones de GitHub como un horizonte de ciudad en 3D interactivo y lleno de vida.
 - [Repo Roast](https://reporoast.app/): Deja que una IA critique y "rostice" tu repositorio de GitHub de forma humorística analizando tu código y actividad.
+- [Meigen AI](https://www.meigen.ai/): Generador de citas inspiradoras y reflexiones diarias potenciado por Inteligencia Artificial.
+
 
 ### 🌐 WEB:
 - [Rooks](https://github.com/imbhargav5/rooks): Colección masiva de hooks de React listos para usar y optimizar tus componentes.
@@ -548,6 +566,8 @@ para lanzar aplicaciones fullstack.
 - [Krumzi Backgrounds](https://www.krumzi.com/tools/animated-background-generator): Generador de fondos animados y gradientes dinámicos impulsado por IA para crear interfaces inmersivas.
 - [simpleParallax.js](https://simpleparallax.com/): Librería de JavaScript ultra ligera y fácil de usar para añadir efectos de paralaje a cualquier imagen.
 - [Tailwind Animations](https://github.com/midudev/tailwind-animations): Librería de animaciones listas para usar en proyectos de Tailwind CSS, diseñada para mejorar la interactividad visual.
+- [Video Editor by Kimu](https://github.com/trykimu/videoeditor): Editor de video ligero basado en web que permite recortes y ediciones rápidas mediante ffmpeg.wasm.
+
 
 ### 🅰️ Iconos:
 
@@ -742,6 +762,10 @@ desarrolladores
 - [mapcn](https://github.com/AnmolSaini16/mapcn): Biblioteca de componentes de mapas interactivos y personalizables para React, estilizados con Tailwind CSS y listos para usar.
 - [Sileo](https://github.com/hiaaryan/sileo): Librería de notificaciones (toasts) para React basada en física de resortes y efectos visuales "gooey".
 - [Pragmatic Drag and Drop](https://github.com/atlassian/pragmatic-drag-and-drop): Primitivas de bajo nivel de Atlassian para construir experiencias de arrastre de alto rendimiento en cualquier framework.
+- [CC WF Studio](https://github.com/breaking-brake/cc-wf-studio): Herramienta de orquestación visual para flujos de trabajo técnicos.
+- [Nice Avatar](https://github.com/dapi-labs/react-nice-avatar): Librería de React para generar avatares estilizados y personalizables de forma dinámica.
+- [Fluid Functionalism](https://github.com/mickadesign/fluid-functionalism): Librería de componentes UI con una estética fluida y funcional diseñada para interfaces premium.
+
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
@@ -758,6 +782,8 @@ desarrolladores
 - [NextjsStarterKit (Catalyst)](https://github.com/kovrichard/catalyst): Starter kit de alto rendimiento para aplicaciones Next.js modernas.
 - [CloudflareVibeSDK](https://github.com/cloudflare/vibesdk): SDK oficial de Cloudflare para construir aplicaciones rápidas y seguras.
 - [UniWind Starter](https://www.native-templates.com/templates/uniwind-starter): El paquete de inicio Uniwind de React Native
+- [Last 30 Days Skill](https://github.com/mvanhorn/last30days-skill): Skill para agentes que analiza y resume tu actividad de los últimos 30 días para reportes rápidos.
+
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 
@@ -982,6 +1008,8 @@ Habilidades de agente de IA para tu proyecto
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template): Plantilla para clonar cualquier sitio web mediante una única instrucción utilizando agentes de codificación con IA.
 - [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio): Toolkit de procesamiento de voz potenciado por IA que soporta mejora de audio, separación de fuentes y extracción de locutores específicos.
 - [Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI): Alternativa de código abierto a Higgsfield para la generación de imágenes y vídeos cinematográficos con soporte para más de 20 modelos.
+- [Paseo](https://github.com/getpaseo/paseo): Orquesta agentes de codificación de forma remota desde tu teléfono, ordenador y línea de comandos.
+
 
 #### 🧠 Modelos y Datos
 - [pocket-tts](https://github.com/kyutai-labs/pocket-tts): Sistema de Text-to-Speech extremadamente ligero que se ejecuta localmente en la CPU, ideal para dispositivos con recursos limitados.
