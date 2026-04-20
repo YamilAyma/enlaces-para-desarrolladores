@@ -306,6 +306,8 @@ para lanzar aplicaciones fullstack.
 - [Great Docs](https://github.com/posit-dev/great-docs): Herramienta para generar documentación técnica excepcional a partir de código.
 - [Tegaki](https://github.com/KurtGokhan/tegaki): Motor de reconocimiento de escritura a mano integrado en el navegador para aplicaciones interactivas.
 - [Aesthetic Portfolio](https://github.com/Aayan15728/Aesthetic-Portfolio-Site): Plantilla de portafolio minimalista con animaciones premium lista para desplegar.
+- [LikeC4](https://github.com/likec4/likec4): Herramienta para visualizar y evolucionar la arquitectura de software con diagramas vivos generados desde el código.
+- [Simple FFmpegJS](https://github.com/Fats403/simple-ffmpegjs): Composición de video declarativa para Node.js que permite definir clips, transiciones y audio como objetos simples.
 
 
 ### 🛠️ HERRAMIENTAS:
@@ -560,10 +562,14 @@ para lanzar aplicaciones fullstack.
 - [PureMac](https://github.com/momenbasel/PureMac): Utilidad de limpieza y optimización para macOS con interfaz minimalista y potente línea de comandos.
 - [Barkod Studio](https://barkod.studio/): Generador artístico de códigos de barras y QR con opciones de personalización avanzadas.
 - [Linkwarden](https://github.com/linkwarden/linkwarden): Gestor de marcadores colaborativo y autoalojado que permite organizar enlaces y capturar páginas web.
+- [Convertify Pro](https://convertifypro.com/es/): Convertidor de archivos offline que soporta más de 180 formatos con procesamiento por lotes.
+- [Tooscut](https://tooscut.app/): Editor de video no lineal (NLE) basado en navegador para realizar recortes y ediciones rápidas.
+- [Diffs](https://diffs.com/): Herramienta web para crear, compartir y presentar fragmentos de código y comparaciones de cambios elegantes.
 
 
 #### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
+- [Xata](https://github.com/xataio/xata): Plataforma de base de datos serverless basada en PostgreSQL con búsqueda integrada y analíticas.
 
 ### 🤗 RELAX:
 - [The Coding Love](https://thecodinglove.com/): Blog clásico de humor para desarrolladores con memes y GIFs sobre la vida en IT.
@@ -583,6 +589,7 @@ para lanzar aplicaciones fullstack.
 - [simpleParallax.js](https://simpleparallax.com/): Librería de JavaScript ultra ligera y fácil de usar para añadir efectos de paralaje a cualquier imagen.
 - [Tailwind Animations](https://github.com/midudev/tailwind-animations): Librería de animaciones listas para usar en proyectos de Tailwind CSS, diseñada para mejorar la interactividad visual.
 - [Video Editor by Kimu](https://github.com/trykimu/videoeditor): Editor de video ligero basado en web que permite recortes y ediciones rápidas mediante ffmpeg.wasm.
+- [Heerich.js](https://meodai.github.io/heerich/): Motor minimalista para renderizar escenas 3D de vóxeles utilizando gráficos vectoriales SVG.
 
 
 ### 🅰️ Iconos:
@@ -618,6 +625,7 @@ desarrolladores
 - [Farm-Fresh](https://commons.wikimedia.org/wiki/Farm-Fresh_web_icons): Set masivo de iconos web con un estilo detallado y profesional.
 - [Vivid.js](https://webkul.github.io/vivid/): Librería de iconos SVG animados y personalizables para interfaces dinámicas.
 - [Minicons](https://unmatchedstyle.com/news/minicons-icon-pack-giveaway.php): Pack de iconos vectoriales minimalistas y geométricos para diseños modernos.
+- [Lucide Animated](https://lucide-animated.com/): Librería gratuita de más de 350 iconos animados para React basados en Lucide y Framer Motion.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
@@ -748,6 +756,7 @@ desarrolladores
 - [Tailwind Templates](https://tailwindtemplates.io/): Galería de plantillas y layouts listos para usar con Tailwind CSS.
 - [ApexCharts](https://apexcharts.com/): Librería de gráficos interactivos moderna para dashboards empresariales.
 - [Apache ECharts](https://echarts.apache.org/en/index.html): Potente motor de visualización de datos de código abierto para la web.
+- [theSVG](https://www.thesvg.org/): Repositorio de logos y marcas tecnológicas de alta calidad en formato SVG para desarrolladores.
 - [PrimeReact](https://primereact.org): Colección masiva de componentes de UI de alta calidad para React.
 - [FlyonUI](https://flyonui.com): Librería de componentes moderna construida sobre Tailwind CSS y JS nativo.
 - [Khagwal 3D](https://3d.khagwal.com/): Repositorio de activos 3D detallados para diseño de experiencias inmersivas.
@@ -979,6 +988,7 @@ desarrolladores
 - [ZeroByte](https://github.com/nicotsx/zerobyte): Herramienta de automatización para gestionar y optimizar backups de forma eficiente.
 - [Reclip](https://github.com/averygan/reclip): Descarga vídeos de casi cualquier sitio web. Descargador de contenido multimedia ligero y autoalojado con una interfaz web limpia.
 - [Dokploy](https://github.com/Dokploy/dokploy): Plataforma como servicio (PaaS) de código abierto y autoalojada que simplifica el despliegue de aplicaciones y bases de datos sobre Docker.
+- [BillionMail](https://github.com/Billionmail/BillionMail): Plataforma de email marketing y servidor de correo open-source totalmente autoalojado.
 
 ### 🤖 IA
 
@@ -1025,6 +1035,7 @@ Habilidades de agente de IA para tu proyecto
 - [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio): Toolkit de procesamiento de voz potenciado por IA que soporta mejora de audio, separación de fuentes y extracción de locutores específicos.
 - [Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI): Alternativa de código abierto a Higgsfield para la generación de imágenes y vídeos cinematográficos con soporte para más de 20 modelos.
 - [Paseo](https://github.com/getpaseo/paseo): Orquesta agentes de codificación de forma remota desde tu teléfono, ordenador y línea de comandos.
+- [PPT-Master](https://github.com/hugohe3/ppt-master): Herramienta de IA que genera presentaciones de PowerPoint editables a partir de documentos Markdown o PDF.
 
 
 #### 🧠 Modelos y Datos
