@@ -308,6 +308,7 @@ para lanzar aplicaciones fullstack.
 - [Aesthetic Portfolio](https://github.com/Aayan15728/Aesthetic-Portfolio-Site): Plantilla de portafolio minimalista con animaciones premium lista para desplegar.
 - [LikeC4](https://github.com/likec4/likec4): Herramienta para visualizar y evolucionar la arquitectura de software con diagramas vivos generados desde el código.
 - [Simple FFmpegJS](https://github.com/Fats403/simple-ffmpegjs): Composición de video declarativa para Node.js que permite definir clips, transiciones y audio como objetos simples.
+- [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal): Terminal financiera moderna de código abierto diseñada como alternativa a Bloomberg.
 
 
 ### 🛠️ HERRAMIENTAS:
@@ -565,6 +566,7 @@ para lanzar aplicaciones fullstack.
 - [Convertify Pro](https://convertifypro.com/es/): Convertidor de archivos offline que soporta más de 180 formatos con procesamiento por lotes.
 - [Tooscut](https://tooscut.app/): Editor de video no lineal (NLE) basado en navegador para realizar recortes y ediciones rápidas.
 - [Diffs](https://diffs.com/): Herramienta web para crear, compartir y presentar fragmentos de código y comparaciones de cambios elegantes.
+- [MD-This-Page](https://github.com/Ademking/MD-This-Page): Extensión de navegador para convertir cualquier página web en Markdown limpio listo para IA.
 
 
 #### Despliegue:
@@ -590,6 +592,7 @@ para lanzar aplicaciones fullstack.
 - [Tailwind Animations](https://github.com/midudev/tailwind-animations): Librería de animaciones listas para usar en proyectos de Tailwind CSS, diseñada para mejorar la interactividad visual.
 - [Video Editor by Kimu](https://github.com/trykimu/videoeditor): Editor de video ligero basado en web que permite recortes y ediciones rápidas mediante ffmpeg.wasm.
 - [Heerich.js](https://meodai.github.io/heerich/): Motor minimalista para renderizar escenas 3D de vóxeles utilizando gráficos vectoriales SVG.
+- [Hyperframes](https://github.com/heygen-com/hyperframes): Framework de HeyGen para generar videos usando HTML nativo y atributos de datos.
 
 
 ### 🅰️ Iconos:
@@ -626,6 +629,7 @@ desarrolladores
 - [Vivid.js](https://webkul.github.io/vivid/): Librería de iconos SVG animados y personalizables para interfaces dinámicas.
 - [Minicons](https://unmatchedstyle.com/news/minicons-icon-pack-giveaway.php): Pack de iconos vectoriales minimalistas y geométricos para diseños modernos.
 - [Lucide Animated](https://lucide-animated.com/): Librería gratuita de más de 350 iconos animados para React basados en Lucide y Framer Motion.
+- [Lobe Icons](https://github.com/lobehub/lobe-icons): Colección de logos de marcas de IA (OpenAI, Claude, etc.) como iconos SVG y PNG ligeros.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
@@ -790,6 +794,7 @@ desarrolladores
 - [CC WF Studio](https://github.com/breaking-brake/cc-wf-studio): Herramienta de orquestación visual para flujos de trabajo técnicos.
 - [Nice Avatar](https://github.com/dapi-labs/react-nice-avatar): Librería de React para generar avatares estilizados y personalizables de forma dinámica.
 - [Fluid Functionalism](https://github.com/mickadesign/fluid-functionalism): Librería de componentes UI con una estética fluida y funcional diseñada para interfaces premium.
+- [Jiro Build](https://www.jiro.build/): Biblioteca de componentes UI y extensión de Chrome optimizada para "Vibe Coding" y herramientas de IA.
 
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
@@ -891,6 +896,7 @@ desarrolladores
 - [AI For Beginners](https://github.com/microsoft/AI-For-Beginners): Curso oficial de Microsoft de 12 semanas y 24 lecciones que cubre desde los fundamentos hasta el uso avanzado de IA para todos los niveles.
 - [Top-Down Action Adventure Starter Kit](https://github.com/Nodragem/top-down-action-adventure-starter-kit): Prototipo educativo en Godot Engine para aprender la implementación de mecánicas de juego básicas.
 - [Harness Books](https://github.com/wquguru/harness-books): Colección de libros sobre ingeniería de "harness" para agentes de IA, comparando las arquitecturas de Claude Code y Codex.
+- [AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch): Curso gratuito y completo para aprender IA construyendo algoritmos desde cero.
 
 ### 🔠 TIPOGRAFIAS:
 
@@ -1098,6 +1104,10 @@ Habilidades de agente de IA para tu proyecto
 - [Brutalist Websites](https://brutalistwebsites.com/): Colección de sitios web que adoptan la estética cruda, honesta y sin adornos del brutalismo digital.
 - [60fps Design](https://60fps.design/): Repositorio que destaca los mejores detalles, animaciones y micro-interacciones de la web.
 - [Handheld Design](https://handheld.design/): Galería de inspiración enfocada específicamente en el diseño de aplicaciones móviles excepcionales.
+- [Curations Supply](https://curations.supply/): Directorio curado de recursos de diseño y herramientas para creativos.
+- [PageFlows](https://pageflows.com/): Biblioteca de flujos de usuario de aplicaciones populares para inspiración UX.
+- [SaaSFrame](https://www.saasframe.io/): Biblioteca de investigación de diseño enfocada en productos SaaS, marketing e interfaces.
+- [Lapa Ninja](https://www.lapa.ninja/): Galería masiva de landing pages y recursos gratuitos para diseñadores web.
 - [Asset Gallery](https://assetgallery.co/): Directorio de sitios web que destacan por su uso creativo de activos visuales y multimedia.
 - [Screens Design](https://screensdesign.com/): Vistas de aplicaciones reales para estudiar su arquitectura de información y diseño visual.
 - [Dark Design](https://www.dark.design/): La mejor fuente de inspiración para sitios web y aplicaciones con tema oscuro de alta calidad.
