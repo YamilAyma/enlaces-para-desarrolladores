@@ -215,6 +215,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Aptoide API](https://ws75.aptoide.com/api/7/apps/search?info=1): Documentación para acceder a los datos de aplicaciones de la tienda Aptoide.
 - [IPQuery](https://ipquery.io/): API gratuita centrada en desarrolladores para obtener datos de geolocalización e inteligencia de IPs en JSON.
 - [Free LLM APIs](https://github.com/cheahjs/free-llm-api-resources): Lista curada de servicios que ofrecen acceso gratuito o créditos de prueba para APIs de inferencia de modelos de lenguaje grandes.
+- [Scraping APIs for Devs](https://github.com/cporter202/scraping-apis-for-devs): Colección curada de APIs de scraping listas para usar en automatizaciones y apps de IA sin configurar infraestructura propia.
 
 ### 🖥️ Técnico:
 
@@ -309,6 +310,7 @@ para lanzar aplicaciones fullstack.
 - [LikeC4](https://github.com/likec4/likec4): Herramienta para visualizar y evolucionar la arquitectura de software con diagramas vivos generados desde el código.
 - [Simple FFmpegJS](https://github.com/Fats403/simple-ffmpegjs): Composición de video declarativa para Node.js que permite definir clips, transiciones y audio como objetos simples.
 - [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal): Terminal financiera moderna de código abierto diseñada como alternativa a Bloomberg.
+- [Hatchet](https://github.com/hatchet-dev/hatchet): Plataforma de orquestación de tareas en segundo plano distribuida y de baja latencia para flujos de trabajo complejos y alta escala.
 
 
 ### 🛠️ HERRAMIENTAS:
@@ -567,6 +569,11 @@ para lanzar aplicaciones fullstack.
 - [Tooscut](https://tooscut.app/): Editor de video no lineal (NLE) basado en navegador para realizar recortes y ediciones rápidas.
 - [Diffs](https://diffs.com/): Herramienta web para crear, compartir y presentar fragmentos de código y comparaciones de cambios elegantes.
 - [MD-This-Page](https://github.com/Ademking/MD-This-Page): Extensión de navegador para convertir cualquier página web en Markdown limpio listo para IA.
+- [RevPDF](https://revpdf.com/): Editor de PDF offline gratuito para editar, anotar, firmar, comprimir y convertir documentos de forma privada.
+- [Omniget](https://github.com/tonhowtf/omniget): Aplicación de escritorio en Rust para descargar videos y cursos de múltiples plataformas usando patrones eficientes de red.
+- [MentionDrop](https://www.mentiondrop.com/): Monitor de web en tiempo real con resúmenes de IA para seguimiento de marca, productos y competidores.
+- [CursorClip](https://cursorclip.com/): Grabadora de pantalla para macOS que utiliza zoom inteligente y seguimiento de cursor para demos de producto cinematográficas.
+- [Tolaria](https://github.com/refactoringhq/tolaria): Aplicación de gestión de conocimiento offline-first en Markdown, optimizada para velocidad y contexto de agentes de IA.
 
 
 #### Despliegue:
@@ -795,6 +802,7 @@ desarrolladores
 - [Nice Avatar](https://github.com/dapi-labs/react-nice-avatar): Librería de React para generar avatares estilizados y personalizables de forma dinámica.
 - [Fluid Functionalism](https://github.com/mickadesign/fluid-functionalism): Librería de componentes UI con una estética fluida y funcional diseñada para interfaces premium.
 - [Jiro Build](https://www.jiro.build/): Biblioteca de componentes UI y extensión de Chrome optimizada para "Vibe Coding" y herramientas de IA.
+- [Coss UI](https://coss.com/ui): Biblioteca de componentes React accesible y modular orientada al modelo de "copiar y pegar" con Tailwind CSS.
 
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
@@ -813,6 +821,8 @@ desarrolladores
 - [CloudflareVibeSDK](https://github.com/cloudflare/vibesdk): SDK oficial de Cloudflare para construir aplicaciones rápidas y seguras.
 - [UniWind Starter](https://www.native-templates.com/templates/uniwind-starter): El paquete de inicio Uniwind de React Native
 - [Last 30 Days Skill](https://github.com/mvanhorn/last30days-skill): Skill para agentes que analiza y resume tu actividad de los últimos 30 días para reportes rápidos.
+- [Hyperbrowser App Examples](https://github.com/hyperbrowserai/hyperbrowser-app-examples): Repositorio de ejemplos full-stack para automatización de navegadores, scraping y extracción de datos avanzada.
+- [Astrae](https://www.astrae.design/): Biblioteca de plantillas de landing pages modernas y componentes animados listos para producción con React y Framer Motion.
 
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
@@ -995,6 +1005,7 @@ desarrolladores
 - [Reclip](https://github.com/averygan/reclip): Descarga vídeos de casi cualquier sitio web. Descargador de contenido multimedia ligero y autoalojado con una interfaz web limpia.
 - [Dokploy](https://github.com/Dokploy/dokploy): Plataforma como servicio (PaaS) de código abierto y autoalojada que simplifica el despliegue de aplicaciones y bases de datos sobre Docker.
 - [BillionMail](https://github.com/Billionmail/BillionMail): Plataforma de email marketing y servidor de correo open-source totalmente autoalojado.
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma): Herramienta de monitoreo autoalojada con dashboard moderno para servicios HTTP/S, TCP y alertas multiplataforma.
 
 ### 🤖 IA
 
@@ -1042,6 +1053,7 @@ Habilidades de agente de IA para tu proyecto
 - [Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI): Alternativa de código abierto a Higgsfield para la generación de imágenes y vídeos cinematográficos con soporte para más de 20 modelos.
 - [Paseo](https://github.com/getpaseo/paseo): Orquesta agentes de codificación de forma remota desde tu teléfono, ordenador y línea de comandos.
 - [PPT-Master](https://github.com/hugohe3/ppt-master): Herramienta de IA que genera presentaciones de PowerPoint editables a partir de documentos Markdown o PDF.
+- [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video): Framework de generación de video basado en IA para la creación y manipulación de contenido visual dinámico.
 
 
 #### 🧠 Modelos y Datos
