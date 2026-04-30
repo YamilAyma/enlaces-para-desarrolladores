@@ -312,6 +312,7 @@ para lanzar aplicaciones fullstack.
 - [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal): Terminal financiera moderna de código abierto diseñada como alternativa a Bloomberg.
 - [Hatchet](https://github.com/hatchet-dev/hatchet): Plataforma de orquestación de tareas en segundo plano distribuida y de baja latencia para flujos de trabajo complejos y alta escala.
 - [Sentrux](https://github.com/sentrux/sentrux): Sensor arquitectónico en tiempo real para agentes de IA. Proporciona métricas de calidad y visualizaciones para cerrar el ciclo de retroalimentación en el desarrollo.
+- [unioffice](https://github.com/unidoc/unioffice): Librería robusta en Go para la creación y manipulación de documentos de Microsoft Office (Word, Excel, PowerPoint) de forma programática.
 
 
 ### 🛠️ HERRAMIENTAS:
@@ -578,6 +579,10 @@ para lanzar aplicaciones fullstack.
 - [Telegram-Drive](https://github.com/caamer20/Telegram-Drive): Aplicación de escritorio multiplataforma que utiliza la API de Telegram para convertir mensajes guardados y canales en almacenamiento en la nube ilimitado.
 - [Search by Image](https://github.com/dessant/search-by-image): Extensión de navegador para búsqueda inversa de imágenes en más de 30 motores. Soporta captura de áreas, carga de archivos y selección directa en web.
 - [Converseen](https://github.com/Faster3ck/Converseen): Procesador y redimensionador de imágenes por lotes basado en ImageMagick. Soporta más de 100 formatos y permite conversiones masivas, rotaciones y compresión.
+- [ASCII Magic](https://www.ascii-magic.com/): Potente herramienta para convertir imágenes en arte ASCII con alta precisión y opciones de personalización para desarrolladores y creativos.
+- [BrandBird OG Image Generator](https://www.brandbird.app/tools/og-image-generator): Utilidad especializada para crear imágenes de Open Graph atractivas y optimizadas para redes sociales de forma rápida.
+- [BrandBird Mobile Mockup Grid](https://www.brandbird.app/tools/mobile-mockup-grid): Herramienta para generar cuadrículas de mockups móviles elegantes, ideal para presentar capturas de pantalla de apps de forma profesional.
+- [EasyCopy](https://github.com/joeseesun/EasyCopy): Extensión inteligente para la gestión del portapapeles que facilita la organización y recuperación de fragmentos de código y texto.
 
 
 #### Despliegue:
@@ -642,6 +647,7 @@ desarrolladores
 - [Minicons](https://unmatchedstyle.com/news/minicons-icon-pack-giveaway.php): Pack de iconos vectoriales minimalistas y geométricos para diseños modernos.
 - [Lucide Animated](https://lucide-animated.com/): Librería gratuita de más de 350 iconos animados para React basados en Lucide y Framer Motion.
 - [Lobe Icons](https://github.com/lobehub/lobe-icons): Colección de logos de marcas de IA (OpenAI, Claude, etc.) como iconos SVG y PNG ligeros.
+- [getillustrations](https://getillustrations.com/): Extensa librería de ilustraciones vectoriales de alta calidad, escenas y kits de UI para potenciar el diseño visual de tus proyectos.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
@@ -898,6 +904,7 @@ desarrolladores
 - [Algorithm Visualizer](https://algorithm-visualizer.org/): Plataforma interactiva que visualiza algoritmos de diversas estructuras de datos mediante animaciones paso a paso.
 - [Linux Security Guide](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): Guía completa de endurecimiento y seguridad para servidores Linux mantenida por la comunidad.
 - [Marp](https://github.com/marp-team/marp): Ecosistema para crear diapositivas profesionales utilizando Markdown, con soporte para PDF, PPTX y exportación web.
+- [Swiss Design System](https://swiss.ziki.boo/): Sistema de diseño minimalista inspirado en el estilo suizo, optimizado para la creación de interfaces de agentes de IA y herramientas técnicas.
 
 ### 📒 CURSOS:
 
@@ -1012,6 +1019,9 @@ desarrolladores
 - [Dokploy](https://github.com/Dokploy/dokploy): Plataforma como servicio (PaaS) de código abierto y autoalojada que simplifica el despliegue de aplicaciones y bases de datos sobre Docker.
 - [BillionMail](https://github.com/Billionmail/BillionMail): Plataforma de email marketing y servidor de correo open-source totalmente autoalojado.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma): Herramienta de monitoreo autoalojada con dashboard moderno para servicios HTTP/S, TCP y alertas multiplataforma.
+- [Leantime](https://github.com/Leantime/leantime): Sistema de gestión de proyectos de código abierto centrado en el pensamiento estratégico y la ejecución ágil para equipos de producto.
+- [Nocodb](https://github.com/nocodb/nocodb): La alternativa de código abierto a Airtable que transforma cualquier base de datos SQL en una hoja de cálculo inteligente y colaborativa.
+- [OpnForm](https://github.com/OpnForm/OpnForm): Constructor de formularios de código abierto potente y sencillo de usar, con integraciones nativas y enfoque en la privacidad.
 
 ### 🤖 IA
 
@@ -1061,6 +1071,8 @@ Habilidades de agente de IA para tu proyecto
 - [PPT-Master](https://github.com/hugohe3/ppt-master): Herramienta de IA que genera presentaciones de PowerPoint editables a partir de documentos Markdown o PDF.
 - [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video): Framework de generación de video basado en IA para la creación y manipulación de contenido visual dinámico.
 - [Voice Pro](https://github.com/abus-aikorea/voice-pro): Gradio WebUI multifuncional para creadores. Integra modelos de IA para clonación de voz zero-shot, texto a voz, aislamiento de voces y traducción.
+- [Open-Codesign](https://github.com/OpenCoworkAI/open-codesign): Plataforma de diseño colaborativo impulsada por IA que permite la creación y edición de interfaces de forma local y segura.
+- [AI Designer](https://www.aidesigner.ai/): Generador de interfaces de usuario (UI) mediante IA que transforma descripciones en lenguaje natural en maquetas visuales profesionales.
 
 
 #### 🧠 Modelos y Datos
@@ -1158,6 +1170,7 @@ Habilidades de agente de IA para tu proyecto
 - [Toools.design](https://www.toools.design/ui-web-design-inspiration-websites): Galería técnica que destaca los mejores diseños web.
 - [Httpster](https://httpster.net/): Galería técnica que destaca los mejores diseños web de estética brutalista y minimalismo.
 - [CSS Zen Garden](https://csszengarden.com/pages/alldesigns/): Galería de sitios web influenciados por el CSS.
+- [ogfolio](https://ogfolio.com/): Galería de inspiración curada que recopila los mejores diseños de imágenes de Open Graph (OG) para elevar la presencia social de tu web.
 
 ---
 
