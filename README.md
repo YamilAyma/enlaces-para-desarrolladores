@@ -311,6 +311,7 @@ para lanzar aplicaciones fullstack.
 - [Simple FFmpegJS](https://github.com/Fats403/simple-ffmpegjs): Composición de video declarativa para Node.js que permite definir clips, transiciones y audio como objetos simples.
 - [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal): Terminal financiera moderna de código abierto diseñada como alternativa a Bloomberg.
 - [Hatchet](https://github.com/hatchet-dev/hatchet): Plataforma de orquestación de tareas en segundo plano distribuida y de baja latencia para flujos de trabajo complejos y alta escala.
+- [Sentrux](https://github.com/sentrux/sentrux): Sensor arquitectónico en tiempo real para agentes de IA. Proporciona métricas de calidad y visualizaciones para cerrar el ciclo de retroalimentación en el desarrollo.
 
 
 ### 🛠️ HERRAMIENTAS:
@@ -574,6 +575,9 @@ para lanzar aplicaciones fullstack.
 - [MentionDrop](https://www.mentiondrop.com/): Monitor de web en tiempo real con resúmenes de IA para seguimiento de marca, productos y competidores.
 - [CursorClip](https://cursorclip.com/): Grabadora de pantalla para macOS que utiliza zoom inteligente y seguimiento de cursor para demos de producto cinematográficas.
 - [Tolaria](https://github.com/refactoringhq/tolaria): Aplicación de gestión de conocimiento offline-first en Markdown, optimizada para velocidad y contexto de agentes de IA.
+- [Telegram-Drive](https://github.com/caamer20/Telegram-Drive): Aplicación de escritorio multiplataforma que utiliza la API de Telegram para convertir mensajes guardados y canales en almacenamiento en la nube ilimitado.
+- [Search by Image](https://github.com/dessant/search-by-image): Extensión de navegador para búsqueda inversa de imágenes en más de 30 motores. Soporta captura de áreas, carga de archivos y selección directa en web.
+- [Converseen](https://github.com/Faster3ck/Converseen): Procesador y redimensionador de imágenes por lotes basado en ImageMagick. Soporta más de 100 formatos y permite conversiones masivas, rotaciones y compresión.
 
 
 #### Despliegue:
@@ -600,6 +604,7 @@ para lanzar aplicaciones fullstack.
 - [Video Editor by Kimu](https://github.com/trykimu/videoeditor): Editor de video ligero basado en web que permite recortes y ediciones rápidas mediante ffmpeg.wasm.
 - [Heerich.js](https://meodai.github.io/heerich/): Motor minimalista para renderizar escenas 3D de vóxeles utilizando gráficos vectoriales SVG.
 - [Hyperframes](https://github.com/heygen-com/hyperframes): Framework de HeyGen para generar videos usando HTML nativo y atributos de datos.
+- [Transitions.dev](https://transitions.dev/): Colección interactiva de transiciones y animaciones CSS portátiles y listas para usar. Incluye efectos de redimensionamiento de tarjetas y elementos de UI modernos.
 
 
 ### 🅰️ Iconos:
@@ -803,6 +808,7 @@ desarrolladores
 - [Fluid Functionalism](https://github.com/mickadesign/fluid-functionalism): Librería de componentes UI con una estética fluida y funcional diseñada para interfaces premium.
 - [Jiro Build](https://www.jiro.build/): Biblioteca de componentes UI y extensión de Chrome optimizada para "Vibe Coding" y herramientas de IA.
 - [Coss UI](https://coss.com/ui): Biblioteca de componentes React accesible y modular orientada al modelo de "copiar y pegar" con Tailwind CSS.
+- [Bejamas UI Create](https://ui.bejamas.com/create): Herramienta avanzada para la generación de componentes de interfaz modernos. Facilita el diseño y desarrollo de layouts visualmente potentes para la web.
 
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
@@ -1054,6 +1060,7 @@ Habilidades de agente de IA para tu proyecto
 - [Paseo](https://github.com/getpaseo/paseo): Orquesta agentes de codificación de forma remota desde tu teléfono, ordenador y línea de comandos.
 - [PPT-Master](https://github.com/hugohe3/ppt-master): Herramienta de IA que genera presentaciones de PowerPoint editables a partir de documentos Markdown o PDF.
 - [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video): Framework de generación de video basado en IA para la creación y manipulación de contenido visual dinámico.
+- [Voice Pro](https://github.com/abus-aikorea/voice-pro): Gradio WebUI multifuncional para creadores. Integra modelos de IA para clonación de voz zero-shot, texto a voz, aislamiento de voces y traducción.
 
 
 #### 🧠 Modelos y Datos
