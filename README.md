@@ -313,6 +313,7 @@ para lanzar aplicaciones fullstack.
 - [Hatchet](https://github.com/hatchet-dev/hatchet): Plataforma de orquestación de tareas en segundo plano distribuida y de baja latencia para flujos de trabajo complejos y alta escala.
 - [Sentrux](https://github.com/sentrux/sentrux): Sensor arquitectónico en tiempo real para agentes de IA. Proporciona métricas de calidad y visualizaciones para cerrar el ciclo de retroalimentación en el desarrollo.
 - [unioffice](https://github.com/unidoc/unioffice): Librería robusta en Go para la creación y manipulación de documentos de Microsoft Office (Word, Excel, PowerPoint) de forma programática.
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101): Guía visual e integral sobre los fundamentos de diseño de sistemas distribuidos, bases de datos y arquitectura de software.
 
 
 ### 🛠️ HERRAMIENTAS:
@@ -586,6 +587,8 @@ para lanzar aplicaciones fullstack.
 - [witr](https://github.com/pranshuparmar/witr): Herramienta de diagnóstico en Go que mapea la información de procesos para revelar su origen y cadenas de causalidad mediante puertos o PIDs.
 - [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd): Lanzador para macOS compatible con extensiones de Raycast, que incluye historial de portapapeles, flujos de voz y funciones potenciadas por IA.
 - [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
+- [Refero Styles](https://styles.refero.design/): Biblioteca curada de estilos visuales y patrones de diseño extraídos de productos reales para inspirar y guiar la creación de interfaces.
+- [Easy UI](https://github.com/DarkInventor/easy-ui): Colección de componentes y plantillas web premium construidos con TypeScript y MDX para acelerar el desarrollo frontend.
 
 
 #### Despliegue:
@@ -1080,6 +1083,7 @@ Habilidades de agente de IA para tu proyecto
 - [AI Designer](https://www.aidesigner.ai/): Generador de interfaces de usuario (UI) mediante IA que transforma descripciones en lenguaje natural en maquetas visuales profesionales.
 - [open-slide](https://github.com/1weiho/open-slide): Framework de presentaciones diseñado específicamente para ser utilizado por agentes de IA, permitiendo la creación programática de diapositivas.
 - [TaxHacker](https://github.com/vas3k/TaxHacker): Aplicación de contabilidad impulsada por IA para freelancers que categoriza automáticamente recibos y facturas mediante LLMs.
+- [muload](https://muload.dev/): Colección de 38 indicadores de carga (loaders) de matriz de puntos diseñados específicamente para interfaces de IA (token streams, attention heads).
 
 
 #### 🧠 Modelos y Datos
