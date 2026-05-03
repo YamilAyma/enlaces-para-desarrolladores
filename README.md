@@ -583,6 +583,9 @@ para lanzar aplicaciones fullstack.
 - [BrandBird OG Image Generator](https://www.brandbird.app/tools/og-image-generator): Utilidad especializada para crear imágenes de Open Graph atractivas y optimizadas para redes sociales de forma rápida.
 - [BrandBird Mobile Mockup Grid](https://www.brandbird.app/tools/mobile-mockup-grid): Herramienta para generar cuadrículas de mockups móviles elegantes, ideal para presentar capturas de pantalla de apps de forma profesional.
 - [EasyCopy](https://github.com/joeseesun/EasyCopy): Extensión inteligente para la gestión del portapapeles que facilita la organización y recuperación de fragmentos de código y texto.
+- [witr](https://github.com/pranshuparmar/witr): Herramienta de diagnóstico en Go que mapea la información de procesos para revelar su origen y cadenas de causalidad mediante puertos o PIDs.
+- [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd): Lanzador para macOS compatible con extensiones de Raycast, que incluye historial de portapapeles, flujos de voz y funciones potenciadas por IA.
+- [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
 
 
 #### Despliegue:
@@ -1022,6 +1025,8 @@ desarrolladores
 - [Leantime](https://github.com/Leantime/leantime): Sistema de gestión de proyectos de código abierto centrado en el pensamiento estratégico y la ejecución ágil para equipos de producto.
 - [Nocodb](https://github.com/nocodb/nocodb): La alternativa de código abierto a Airtable que transforma cualquier base de datos SQL en una hoja de cálculo inteligente y colaborativa.
 - [OpnForm](https://github.com/OpnForm/OpnForm): Constructor de formularios de código abierto potente y sencillo de usar, con integraciones nativas y enfoque en la privacidad.
+- [faved](https://github.com/denho/faved): Aplicación autohospedada para guardar y organizar marcadores web con etiquetas anidadas personalizables y almacenamiento local.
+- [Syncthing](https://syncthing.net/): Herramienta de sincronización de archivos entre pares (P2P), gratuita y de código abierto, que prioriza la privacidad y la seguridad sin servidores centrales.
 
 ### 🤖 IA
 
@@ -1073,6 +1078,8 @@ Habilidades de agente de IA para tu proyecto
 - [Voice Pro](https://github.com/abus-aikorea/voice-pro): Gradio WebUI multifuncional para creadores. Integra modelos de IA para clonación de voz zero-shot, texto a voz, aislamiento de voces y traducción.
 - [Open-Codesign](https://github.com/OpenCoworkAI/open-codesign): Plataforma de diseño colaborativo impulsada por IA que permite la creación y edición de interfaces de forma local y segura.
 - [AI Designer](https://www.aidesigner.ai/): Generador de interfaces de usuario (UI) mediante IA que transforma descripciones en lenguaje natural en maquetas visuales profesionales.
+- [open-slide](https://github.com/1weiho/open-slide): Framework de presentaciones diseñado específicamente para ser utilizado por agentes de IA, permitiendo la creación programática de diapositivas.
+- [TaxHacker](https://github.com/vas3k/TaxHacker): Aplicación de contabilidad impulsada por IA para freelancers que categoriza automáticamente recibos y facturas mediante LLMs.
 
 
 #### 🧠 Modelos y Datos
