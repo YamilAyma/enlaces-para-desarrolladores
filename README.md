@@ -202,6 +202,8 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Gostack (Rocketseat)](https://github.com/rocketseat-education/bootcamp-gostack-desafios): Desafíos prácticos y proyectos para dominar el ecosistema Node.js, React y React Native.
 - [EverShop](https://github.com/evershopcommerce/evershop): Framework de comercio electrónico modular para Node.js construido con React y GraphQL.
 - [Open Source Projects](https://www.opensourceprojects.dev/): Directorio para descubrir y contribuir a proyectos de código abierto emergentes.
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): Repositorio comunitario que recopila y comparte diariamente los proyectos de código abierto y herramientas para desarrolladores más interesantes de GitHub.
+
 
 
 ### 🧗 ROADMAPS:
@@ -587,6 +589,9 @@ para lanzar aplicaciones fullstack.
 - [witr](https://github.com/pranshuparmar/witr): Herramienta de diagnóstico en Go que mapea la información de procesos para revelar su origen y cadenas de causalidad mediante puertos o PIDs.
 - [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd): Lanzador para macOS compatible con extensiones de Raycast, que incluye historial de portapapeles, flujos de voz y funciones potenciadas por IA.
 - [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
+- [Snapframe](https://github.com/Pawandeep-prog/Snapframe): Generador web profesional de capturas de pantalla para crear mockups listos para el App Store y Google Play Store con temas personalizables.
+- [leaf](https://github.com/RivoLink/leaf): Visor de archivos Markdown para la terminal que ofrece una experiencia visual similar a una interfaz gráfica (GUI-like).
+
 - [lawnicons](https://github.com/LawnchairLauncher/lawnicons): Pack de iconos monocromáticos y minimalistas para Android basados en los principios de Material You.
 - [megapattern](https://tools.madebyvishesh.com/megapattern/): Generador procedimental de patrones (LEGO, ASCII, puntos) que permite exportar efectos visuales en SVG y otros formatos.
 - [ossium](https://ossium.live/): Plataforma de descubrimiento para encontrar y gestionar los mejores proyectos de código abierto en GitHub rápidamente.
@@ -1038,6 +1043,8 @@ desarrolladores
 - [faved](https://github.com/denho/faved): Aplicación autohospedada para guardar y organizar marcadores web con etiquetas anidadas personalizables y almacenamiento local.
 - [Syncthing](https://syncthing.net/): Herramienta de sincronización de archivos entre pares (P2P), gratuita y de código abierto, que prioriza la privacidad y la seguridad sin servidores centrales.
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): Aplicación web robusta y autohospedada para la gestión integral de archivos PDF (dividir, unir, OCR, firmar) con total privacidad.
+- [Mafl](https://github.com/hywax/mafl): Dashboard minimalista y flexible para el autoalojamiento de servicios personales, configurable mediante YAML y optimizado para Docker.
+
 
 
 ### 🤖 IA
@@ -1138,6 +1145,8 @@ Habilidades de agente de IA para tu proyecto
 - [Design Systems Surf](https://designsystems.surf/): Directorio para explorar y navegar a través de sistemas de diseño de empresas líderes.
 - [a1 Gallery](https://www.a1.gallery/): Galería de diseño web minimalista y brutalista que desafía las convenciones modernas.
 - [Refero](https://refero.design/): Enorme base de datos de capturas de pantalla de interfaces de usuario de las mejores apps del mundo.
+- [sleek.design](https://sleek.design/references): Plataforma de inspiración que ofrece una colección curada de referencias de diseño de aplicaciones y layouts de alta calidad.
+
 - [Viewport UI](https://viewport-ui.design/): Colección de componentes UI enfocada en la usabilidad y el diseño responsivo.
 - [Same Energy](https://same.energy/): Buscador visual de imágenes basado en la estética y el sentimiento, perfecto para moodboards.
 - [Headers Club](https://headers.club/): Galería especializada en el diseño de encabezados y banners de impacto para sitios web.
