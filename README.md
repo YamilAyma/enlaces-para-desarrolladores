@@ -589,6 +589,13 @@ para lanzar aplicaciones fullstack.
 - [witr](https://github.com/pranshuparmar/witr): Herramienta de diagnóstico en Go que mapea la información de procesos para revelar su origen y cadenas de causalidad mediante puertos o PIDs.
 - [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd): Lanzador para macOS compatible con extensiones de Raycast, que incluye historial de portapapeles, flujos de voz y funciones potenciadas por IA.
 - [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
+- [Formisch](https://formisch.dev/): Biblioteca de formularios modular y agnóstica al framework que utiliza un enfoque basado en esquemas (Valibot) para una validación ultra rápida y reactividad optimizada.
+- [pino-redact](https://github.com/pinojs/redact): Herramienta de alto rendimiento para Node.js que permite la edición selectiva (redacción) de datos sensibles en objetos y logs antes de ser procesados.
+- [Crashcat](https://crashcat.dev/): Motor de física de cuerpos rígidos en 3D escrito en JavaScript puro, diseñado para simulaciones y juegos web ligeros y altamente optimizados.
+- [OfficeParser](https://officeparser.harshankur.com/): Librería robusta para Node.js y navegador que extrae texto, metadatos e imágenes de archivos de Microsoft Office y OpenOffice transformándolos en una estructura jerárquica limpia.
+- [Front Matter CMS](https://www.frontmatter.tech/): CMS de código abierto que se ejecuta directamente dentro de Visual Studio Code, permitiendo gestionar contenido estático (Markdown) con una interfaz visual intuitiva y herramientas SEO.
+- [minimal-pwa](https://github.com/chr15m/minimal-pwa): La implementación más pequeña posible para convertir cualquier aplicación web en una PWA instalable, incluyendo solo lo esencial para activar el flujo de instalación.
+
 - [Snapframe](https://github.com/Pawandeep-prog/Snapframe): Generador web profesional de capturas de pantalla para crear mockups listos para el App Store y Google Play Store con temas personalizables.
 - [leaf](https://github.com/RivoLink/leaf): Visor de archivos Markdown para la terminal que ofrece una experiencia visual similar a una interfaz gráfica (GUI-like).
 
@@ -1100,6 +1107,8 @@ Habilidades de agente de IA para tu proyecto
 - [open-slide](https://github.com/1weiho/open-slide): Framework de presentaciones diseñado específicamente para ser utilizado por agentes de IA, permitiendo la creación programática de diapositivas.
 - [TaxHacker](https://github.com/vas3k/TaxHacker): Aplicación de contabilidad impulsada por IA para freelancers que categoriza automáticamente recibos y facturas mediante LLMs.
 - [muload](https://muload.dev/): Colección de 38 indicadores de carga (loaders) de matriz de puntos diseñados específicamente para interfaces de IA (token streams, attention heads).
+- [Davia](https://davia.ai/): Herramienta para agentes de IA que genera documentación interna interactiva y visual de un codebase, integrando diagramas y pizarras editables.
+
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything): Herramienta que permite a agentes de IA controlar software de escritorio complejo (Blender, GIMP) mediante una interfaz de línea de comandos generada automáticamente.
 
 
