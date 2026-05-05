@@ -589,7 +589,7 @@ para lanzar aplicaciones fullstack.
 - [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
 - [Refero Styles](https://styles.refero.design/): Biblioteca curada de estilos visuales y patrones de diseño extraídos de productos reales para inspirar y guiar la creación de interfaces.
 - [Easy UI](https://github.com/DarkInventor/easy-ui): Colección de componentes y plantillas web premium construidos con TypeScript y MDX para acelerar el desarrollo frontend.
-
+- [TextLab](https://textlab.javii.es/): Generador de mockups precisos para redes sociales y mensajería como iMessage, WhatsApp e Instagram. Permite exportar capturas realistas de texto.
 
 #### Despliegue:
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
@@ -821,7 +821,7 @@ desarrolladores
 - [Jiro Build](https://www.jiro.build/): Biblioteca de componentes UI y extensión de Chrome optimizada para "Vibe Coding" y herramientas de IA.
 - [Coss UI](https://coss.com/ui): Biblioteca de componentes React accesible y modular orientada al modelo de "copiar y pegar" con Tailwind CSS.
 - [Bejamas UI Create](https://ui.bejamas.com/create): Herramienta avanzada para la generación de componentes de interfaz modernos. Facilita el diseño y desarrollo de layouts visualmente potentes para la web.
-
+- [Nexus UI](https://nexus-ui.dev/): Biblioteca de componentes open-source para construir interfaces nativas de IA con primitivas para chats, streaming y experiencias multimodales.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
