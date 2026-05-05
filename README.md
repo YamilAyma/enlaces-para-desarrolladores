@@ -587,6 +587,13 @@ para lanzar aplicaciones fullstack.
 - [witr](https://github.com/pranshuparmar/witr): Herramienta de diagnóstico en Go que mapea la información de procesos para revelar su origen y cadenas de causalidad mediante puertos o PIDs.
 - [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd): Lanzador para macOS compatible con extensiones de Raycast, que incluye historial de portapapeles, flujos de voz y funciones potenciadas por IA.
 - [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
+- [lawnicons](https://github.com/LawnchairLauncher/lawnicons): Pack de iconos monocromáticos y minimalistas para Android basados en los principios de Material You.
+- [megapattern](https://tools.madebyvishesh.com/megapattern/): Generador procedimental de patrones (LEGO, ASCII, puntos) que permite exportar efectos visuales en SVG y otros formatos.
+- [ossium](https://ossium.live/): Plataforma de descubrimiento para encontrar y gestionar los mejores proyectos de código abierto en GitHub rápidamente.
+- [docker-android](https://github.com/budtmo/docker-android): Entorno de emulación Android en contenedores Docker con soporte para noVNC, grabación de pruebas y automatización.
+- [pdfcraft](https://github.com/PDFCraftTool/pdfcraft): Toolkit de PDF de código abierto y privado que procesa archivos en el navegador mediante WebAssembly sin enviar datos al servidor.
+- [it-tools](https://github.com/CorentinTh/it-tools): Colección masiva de herramientas útiles para desarrolladores (conversores, generadores, criptografía) en una sola interfaz web ligera.
+
 - [Refero Styles](https://styles.refero.design/): Biblioteca curada de estilos visuales y patrones de diseño extraídos de productos reales para inspirar y guiar la creación de interfaces.
 - [Easy UI](https://github.com/DarkInventor/easy-ui): Colección de componentes y plantillas web premium construidos con TypeScript y MDX para acelerar el desarrollo frontend.
 - [TextLab](https://textlab.javii.es/): Generador de mockups precisos para redes sociales y mensajería como iMessage, WhatsApp e Instagram. Permite exportar capturas realistas de texto.
@@ -1030,6 +1037,8 @@ desarrolladores
 - [OpnForm](https://github.com/OpnForm/OpnForm): Constructor de formularios de código abierto potente y sencillo de usar, con integraciones nativas y enfoque en la privacidad.
 - [faved](https://github.com/denho/faved): Aplicación autohospedada para guardar y organizar marcadores web con etiquetas anidadas personalizables y almacenamiento local.
 - [Syncthing](https://syncthing.net/): Herramienta de sincronización de archivos entre pares (P2P), gratuita y de código abierto, que prioriza la privacidad y la seguridad sin servidores centrales.
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): Aplicación web robusta y autohospedada para la gestión integral de archivos PDF (dividir, unir, OCR, firmar) con total privacidad.
+
 
 ### 🤖 IA
 
@@ -1084,6 +1093,8 @@ Habilidades de agente de IA para tu proyecto
 - [open-slide](https://github.com/1weiho/open-slide): Framework de presentaciones diseñado específicamente para ser utilizado por agentes de IA, permitiendo la creación programática de diapositivas.
 - [TaxHacker](https://github.com/vas3k/TaxHacker): Aplicación de contabilidad impulsada por IA para freelancers que categoriza automáticamente recibos y facturas mediante LLMs.
 - [muload](https://muload.dev/): Colección de 38 indicadores de carga (loaders) de matriz de puntos diseñados específicamente para interfaces de IA (token streams, attention heads).
+- [CLI-Anything](https://github.com/HKUDS/CLI-Anything): Herramienta que permite a agentes de IA controlar software de escritorio complejo (Blender, GIMP) mediante una interfaz de línea de comandos generada automáticamente.
+
 
 
 #### 🧠 Modelos y Datos
