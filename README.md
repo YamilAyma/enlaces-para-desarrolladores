@@ -6,14 +6,17 @@
 por ello guardo enlaces que me parecen útiles como interesantes para visitar, me gusta, no prefiero guardarlo solo para mí y puede que encuentres tu próxima
 herramienta favorita 😉.
 
-He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré una pagina web con todas ellas para que queden geniales.
+He separado mi lista en categorías para que puedas buscarlo mejor.
+
+⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
+Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
 
-- [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): Esta es una base de datos con más de 300.000 símbolos que incluyen acciones, ETF, fondos, índices, divisas, criptomonedas y mercados monetarios. 
-- [GetDesign](https://getdesign.md/): Diseños inspirados en sitios web populares. Incorpóralo a tu proyecto y deja que los agentes de codificación creen la interfaz de usuario correspondiente. 
-- [Prompts.chat](https://github.com/f/prompts.chat): Comparte, descubre y recopila prompts de la comunidad. Gratuito y de código abierto: autoaloja tu organización con total privacidad. 
-- [Clawflows](https://github.com/nikilster/clawflows): ⚡️ Superpoderes para tu Openclaw. Potentes flujos de trabajo de agentes predefinidos. 
+- [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): Esta es una base de datos con más de 300.000 símbolos que incluyen acciones, ETF, fondos, índices, divisas, criptomonedas y mercados monetarios.
+- [GetDesign](https://getdesign.md/): Diseños inspirados en sitios web populares. Incorpóralo a tu proyecto y deja que los agentes de codificación creen la interfaz de usuario correspondiente.
+- [Prompts.chat](https://github.com/f/prompts.chat): Comparte, descubre y recopila prompts de la comunidad. Gratuito y de código abierto: autoaloja tu organización con total privacidad.
+- [Clawflows](https://github.com/nikilster/clawflows): ⚡️ Superpoderes para tu Openclaw. Potentes flujos de trabajo de agentes predefinidos.
 - [PlaceCats](https://placecats.com/): Marcadores de posición con imágenes de gatos.
 - [Awesome Copilot](https://awesome-copilot.github.com/): Recopilación curada de instrucciones de sistema, agentes y ganchos personalizados para potenciar GitHub Copilot.
 - [Shadcn Shoogle](https://shoogle.dev/): Explorador interactivo para componentes Shadcn/ui.
@@ -107,10 +110,10 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Computer Vision Notebooks](https://github.com/roboflow/notebooks): Colección de notebooks de Roboflow para aprender y aplicar modelos de visión computacional.
 - [Top AI Newsletters](https://www.marktechpost.com/2023/01/15/top-artificial-intelligence-ai-newsletters-to-subscribe-in-2023): Listado de las mejores newsletters sobre Inteligencia Artificial para mantenerse al día.
 - [Applied ML](https://github.com/eugeneyan/applied-ml): Repositorio enfocado en la aplicación práctica de Machine Learning en entornos de producción.
-- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents): Recopilación de los mejores agentes de IA y frameworks para su desarrollo. 
-- [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills): Directorio completo de tutoriales, guías y repositorios para habilidades de agentes de IA. 
-- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers): Lista curada y actualizada de servidores Model Context Protocol para expandir las capacidades de los agentes. 
-- [Best of MCP Servers](https://github.com/tolkonepiu/best-of-mcp-servers): Lista basada en métricas de GitHub para encontrar los servidores MCP más activos y confiables. 
+- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents): Recopilación de los mejores agentes de IA y frameworks para su desarrollo.
+- [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills): Directorio completo de tutoriales, guías y repositorios para habilidades de agentes de IA.
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers): Lista curada y actualizada de servidores Model Context Protocol para expandir las capacidades de los agentes.
+- [Best of MCP Servers](https://github.com/tolkonepiu/best-of-mcp-servers): Lista basada en métricas de GitHub para encontrar los servidores MCP más activos y confiables.
 - [ChatGPT List of Lists](https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb): Una colección masiva de más de 1500 casos de uso sorprendentes para ChatGPT.
 - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs): Repositorio que recopila blogs de ingeniería de las empresas tecnológicas más importantes.
 - [79 Engineering Blogs](https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up): Una selección curada de blogs técnicos para elevar tu nivel como ingeniero.
@@ -164,7 +167,7 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Skills Sh](https://skills.sh/): Directorio para acceder a 'skills' de IA.
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges): Un repositorio de badges de markdown para usar en tus proyectos.
 - [Claude SEO](https://github.com/AgriciDaniel/claude-seo): Competencia SEO universal para Claude Code. 19 subcompetencias, 12 subagentes, 3 extensiones (DataForSEO, Firecrawl, Banana). SEO técnico, EEAT, schema, GEO/AEO, backlinks, SEO local, inteligencia de mapas, API de Google e informes en PDF/Excel.
-- [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): Un conjunto de habilidades de agente listas para usar en investigación, ciencia, ingeniería, análisis, finanzas y redacción. 
+- [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): Un conjunto de habilidades de agente listas para usar en investigación, ciencia, ingeniería, análisis, finanzas y redacción.
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills): Guía técnica en un solo archivo diseñada para corregir sesgos y mejorar el comportamiento de Claude Code en tareas de programación complejas.
 - [OpenSkills](https://github.com/numman-ali/openskills): Framework y CLI universal para hacer que las habilidades de codificación de IA sean portables entre diferentes agentes y frameworks.
 - [Awesome NotebookLM Prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts): Colección curada de prompts avanzados para NotebookLM diseñados para generar presentaciones, memos de decisión y hojas de ruta estratégicas.
@@ -187,9 +190,6 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [Shigureni](https://shigureni.com/): Colección de ilustraciones japonesas con un estilo peculiar y tierno, perfectas para blogs y redes sociales.
 - [Loose Drawing](https://loosedrawing.com/): Ilustraciones sencillas de trazo libre con una estética suave, ideales para proyectos que buscan un toque humano y accesible.
 
-
-
-
 ### 📄 LISTAS
 
 - [Startups Graveyard](https://loot-drop.vercel.app/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.
@@ -203,8 +203,6 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 - [EverShop](https://github.com/evershopcommerce/evershop): Framework de comercio electrónico modular para Node.js construido con React y GraphQL.
 - [Open Source Projects](https://www.opensourceprojects.dev/): Directorio para descubrir y contribuir a proyectos de código abierto emergentes.
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): Repositorio comunitario que recopila y comparte diariamente los proyectos de código abierto y herramientas para desarrolladores más interesantes de GitHub.
-
-
 
 ### 🧗 ROADMAPS:
 
@@ -221,20 +219,20 @@ He separado mi lista en categorías para que puedas buscarlo mejor, pronto haré
 
 ### 🖥️ Técnico:
 
-- [Baoyu Skills](https://github.com/JimLiu/baoyu-skills): Habilidades compartidas por Baoyu para mejorar la eficiencia en el trabajo diario con Claude Code. 
-- [AI Agents Skills](https://github.com/hoodini/ai-agents-skills): Colección curada de habilidades especializadas para agentes de codificación. 
-- [Vercel Labs Agent Skills](https://github.com/vercel-labs/agent-skills): Habilidades empaquetadas para agentes de IA siguiendo el formato estándar de Agent Skills. 
-- [AI Agent Skills Library](https://github.com/maragudk/skills): Colección de habilidades variadas para agentes de IA (investigación, code review, etc.). 
+- [Baoyu Skills](https://github.com/JimLiu/baoyu-skills): Habilidades compartidas por Baoyu para mejorar la eficiencia en el trabajo diario con Claude Code.
+- [AI Agents Skills](https://github.com/hoodini/ai-agents-skills): Colección curada de habilidades especializadas para agentes de codificación.
+- [Vercel Labs Agent Skills](https://github.com/vercel-labs/agent-skills): Habilidades empaquetadas para agentes de IA siguiendo el formato estándar de Agent Skills.
+- [AI Agent Skills Library](https://github.com/maragudk/skills): Colección de habilidades variadas para agentes de IA (investigación, code review, etc.).
 - [SEOMachine](https://github.com/TheCraigHewitt/seomachine): Espacio de trabajo especializado para Claude Code enfocado en la producción de contenido optimizado para SEO.
 - [Archon](https://github.com/coleam00/Archon): Framework para crear entornos de desarrollo con IA deterministas y repetibles.
 - [SQL MCP Server](https://github.com/Azure/data-api-builder): Servidor Model Context Protocol nativo de Microsoft (Data API builder) que permite a los agentes de IA acceder de forma segura a datos SQL sin exponer esquemas sensibles.
-- [Claude Agentic Framework](https://github.com/er4700345-coder/claude-agentic-framework): Marco especializado para Claude Code que aplica metodologías estructuradas de desarrollo de software. 
+- [Claude Agentic Framework](https://github.com/er4700345-coder/claude-agentic-framework): Marco especializado para Claude Code que aplica metodologías estructuradas de desarrollo de software.
 - [InsForge](https://insforge.dev/): Proporcione a los agentes todo lo que necesitan.
-para lanzar aplicaciones fullstack. 
+  para lanzar aplicaciones fullstack.
 - [Liquid](https://github.com/shrihari-prakash/liquid): ✨ Servidor de autenticación y gestión de usuarios sin interrupciones y altamente personalizable para cualquier proyecto.
-- [Dropzone](https://github.com/dropzone/dropzone): Dropzone es una biblioteca de arrastrar y soltar fácil de usar. Admite vistas previas de imágenes y muestra barras de progreso muy útiles. 
-- [Pretext](https://github.com/chenglou/pretext): Medición y maquetación de texto rápidas, precisas y completas. 
-- [Django Modern Rest](https://github.com/wemake-services/django-modern-rest): ¡Moderno framework REST para Django con tipado y soporte asíncrono! 
+- [Dropzone](https://github.com/dropzone/dropzone): Dropzone es una biblioteca de arrastrar y soltar fácil de usar. Admite vistas previas de imágenes y muestra barras de progreso muy útiles.
+- [Pretext](https://github.com/chenglou/pretext): Medición y maquetación de texto rápidas, precisas y completas.
+- [Django Modern Rest](https://github.com/wemake-services/django-modern-rest): ¡Moderno framework REST para Django con tipado y soporte asíncrono!
 - [Beheader](https://github.com/p2r3/beheader): Herramienta de línea de comandos para unir múltiples archivos en uno solo.
 - [Agentation](https://github.com/benjitaylor/agentation): Sistema de feedback para elementos visuales basado en agentes de IA.
 - [Clipboardy](https://github.com/sindresorhus/clipboardy): Librería de Node.js para interactuar fácilmente con el portapapeles del sistema.
@@ -264,17 +262,17 @@ para lanzar aplicaciones fullstack.
 - [Numpy TS](https://github.com/dupontcyborg/numpy-ts): Versión de la librería NumPy portada a TypeScript y JavaScript para cálculos numéricos.
 - [Cheerio](https://github.com/cheeriojs/cheerio/): Librería rápida y flexible para el análisis y manipulación de HTML/XML con sintaxis estilo jQuery.
 - [Dj-Urls-Panel](https://github.com/yassi/dj-urls-panel): Visualiza el enrutamiento de URL de Django dentro del panel de administración de Django, incluyendo patrones, vistas, espacios de nombres y conflictos.
-- [FaceHash](https://www.facehash.dev/): Un componente de React que genera rostros de avatar únicos a partir de cualquier cadena de texto. Sin dependencias. Funciona con Next.js, Vite y Remix. 
+- [FaceHash](https://www.facehash.dev/): Un componente de React que genera rostros de avatar únicos a partir de cualquier cadena de texto. Sin dependencias. Funciona con Next.js, Vite y Remix.
 - [Sonar](https://github.com/RasKrebs/sonar): Herramienta de línea de comandos para inspeccionar y administrar servicios que escuchan en puertos locales.
 - [NotebookLM Py](https://github.com/teng-lin/notebooklm-py): API de Python no oficial y funcionalidades de agente para Google NotebookLM. Acceso programático completo a las funciones de NotebookLM, incluidas las capacidades que la interfaz web no expone, a través de Python, la línea de comandos y agentes de IA como Claude Code, Codex y OpenClaw.
 - [Docmd](https://github.com/docmd-io/docmd): Genera documentación minimalista, rápida y elegante a partir de Markdown. Sin React, sin código innecesario, solo contenido. Diseñado para desarrolladores.
 - [PixiJS](https://github.com/pixijs/pixijs): El motor de creación HTML5: Crea contenido digital atractivo con el renderizador WebGL 2D más rápido y flexible.
-- [Claude Ads](https://github.com/AgriciDaniel/claude-ads): Auditoría integral de publicidad de pago y optimización para Claude Code. 186 comprobaciones en Google, Meta, YouTube, LinkedIn, TikTok y Microsoft Ads con puntuación ponderada, agentes paralelos y plantillas del sector. 
+- [Claude Ads](https://github.com/AgriciDaniel/claude-ads): Auditoría integral de publicidad de pago y optimización para Claude Code. 186 comprobaciones en Google, Meta, YouTube, LinkedIn, TikTok y Microsoft Ads con puntuación ponderada, agentes paralelos y plantillas del sector.
 - [Theme Toggle](https://theme-toggle.rdsx.dev/): Efecto de alternancia de tema.
 - [SEO Audit Skill](https://github.com/seo-skills/seo-audit-skill): Una completa herramienta de línea de comandos para auditorías SEO con 108 reglas de auditoría en 12 categorías. Analiza cualquier sitio web para detectar las mejores prácticas de SEO, Core Web Vitals, encabezados de seguridad, datos estructurados, accesibilidad y mucho más
-- [Crashcat](https://github.com/isaac-mason/crashcat): Motor de física para JavaScript, diseñado para juegos, simulaciones y sitios web creativos. 
-- [PayKit](https://paykit.sh/): El primer framework de facturación para TypeScript que gestiona planes, Stripe y webhooks directamente desde el código. 
-- [Geo Content Writer](https://github.com/GEO-SEO/geo-content-writer): Sistema de producción de contenido GEO/SEO basado en backlog que convierte oportunidades de prompts en artículos optimizados. 
+- [Crashcat](https://github.com/isaac-mason/crashcat): Motor de física para JavaScript, diseñado para juegos, simulaciones y sitios web creativos.
+- [PayKit](https://paykit.sh/): El primer framework de facturación para TypeScript que gestiona planes, Stripe y webhooks directamente desde el código.
+- [Geo Content Writer](https://github.com/GEO-SEO/geo-content-writer): Sistema de producción de contenido GEO/SEO basado en backlog que convierte oportunidades de prompts en artículos optimizados.
 - [OpenClaw](https://github.com/openclaw/openclaw): Asistente de IA residente con memoria persistente nativa que permite mantener el contexto detallado entre sesiones de trabajo.
 - [OpenCLI-RS Skill](https://github.com/nashsu/opencli-rs-skill): Herramienta avanzada de crawling para agentes de IA que permite extraer datos estructurados de más de 55 fuentes (X, Reddit, etc.).
 - [Mevid](https://github.com/mevid-ai/mevid): Capa de memoria cognitiva de código abierto para agentes de IA, estructurada como un sistema de archivos inspeccionable para mejorar la retención de datos.
@@ -317,18 +315,16 @@ para lanzar aplicaciones fullstack.
 - [unioffice](https://github.com/unidoc/unioffice): Librería robusta en Go para la creación y manipulación de documentos de Microsoft Office (Word, Excel, PowerPoint) de forma programática.
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101): Guía visual e integral sobre los fundamentos de diseño de sistemas distribuidos, bases de datos y arquitectura de software.
 
-
 ### 🛠️ HERRAMIENTAS:
 
 - [Claudian](https://github.com/YishenTu/claudian): Plugin para Obsidian que integra a Claude Code como colaborador de IA dentro de tu sistema de notas personales.
-
-- [Recordly](https://github.com/webadderall/Recordly): Crea grabaciones de pantalla profesionales gratis. Un grabador de pantalla de código abierto para Mac/Windows/Linux que añade zoom automático, cursores animados, subtítulos automáticos y mucho más a tus vídeos. 
+- [Recordly](https://github.com/webadderall/Recordly): Crea grabaciones de pantalla profesionales gratis. Un grabador de pantalla de código abierto para Mac/Windows/Linux que añade zoom automático, cursores animados, subtítulos automáticos y mucho más a tus vídeos.
 - [Ultramock](https://www.ultramock.io/): Crea mockups de alta calidad para tus productos digitales.
-- [Rowboat](https://github.com/rowboatlabs/rowboat): Compañero de trabajo de IA de código abierto, con memoria 
+- [Rowboat](https://github.com/rowboatlabs/rowboat): Compañero de trabajo de IA de código abierto, con memoria
 - [Openvid](https://github.com/CristianOlivera1/openvid): Crea demos profesionales en segundos, directamente en tu navegador
-- [Omni Search](https://github.com/Eul45/omni-search): Búsqueda de archivos de alto rendimiento para Windows + detector de duplicados mediante NTFS USN/MFT (Tauri + Rust + C++). 
-- [PWAScore](https://pwascore.com/): Compara las capacidades de las aplicaciones web progresivas (PWA) en los navegadores móviles y de escritorio más populares. 
-- [Floci](https://github.com/floci-io/floci): Ligero, esponjoso y siempre gratuito: emulador local de AWS. 
+- [Omni Search](https://github.com/Eul45/omni-search): Búsqueda de archivos de alto rendimiento para Windows + detector de duplicados mediante NTFS USN/MFT (Tauri + Rust + C++).
+- [PWAScore](https://pwascore.com/): Compara las capacidades de las aplicaciones web progresivas (PWA) en los navegadores móviles y de escritorio más populares.
+- [Floci](https://github.com/floci-io/floci): Ligero, esponjoso y siempre gratuito: emulador local de AWS.
 - [Stroke](https://stroke.abhii.space/): Animar archivos SVG. Hermosamente.
 - [MiniStack](https://github.com/Nahuel990/ministack): Emulador local de AWS gratuito y de código abierto: más de 35 servicios, compatible con Terraform, bases de datos reales. Gratis para siempre. Licencia MIT.
 - [startupslab](https://startupslab.site/): Plataforma para el lanzamiento y visibilización de startups que ayuda a fundadores a obtener tráfico verificado y backlinks de calidad.
@@ -544,7 +540,7 @@ para lanzar aplicaciones fullstack.
 - [Shapen](https://shapen.com/): Herramienta de IA para generar modelos 3D complejos a partir de imágenes simples.
 - [Flexbox Labs](https://flexboxlabs.netlify.app/): Constructor interactivo que te ayuda a entender y diseñar layouts con Flexbox.
 - [Gitlogue](https://github.com/unhappychoice/gitlogue): Una herramienta cinematográfica para reproducir commits de Git en la terminal, que convierte tu historial de Git en una historia animada y viviente.
-- [CollabMD](https://github.com/andes90/collabmd): Colaboración en tiempo real para carpetas Markdown, diagramas y documentos respaldados por Git. 
+- [CollabMD](https://github.com/andes90/collabmd): Colaboración en tiempo real para carpetas Markdown, diagramas y documentos respaldados por Git.
 - [Monosketch](https://monosketch.io/): Potente aplicación de dibujo y diagramación ASCII que te permite transformar sin esfuerzo tus Convertidas en diseños visualmente impactantes.
 - [Cloudflare Error Page Editor](https://virt.moe/cferr/editor/): Cloudflare Error Page Editor
 - [Convert](https://github.com/p2r3/convert):  Convertidor de archivos en línea verdaderamente universal.
@@ -595,26 +591,25 @@ para lanzar aplicaciones fullstack.
 - [OfficeParser](https://officeparser.harshankur.com/): Librería robusta para Node.js y navegador que extrae texto, metadatos e imágenes de archivos de Microsoft Office y OpenOffice transformándolos en una estructura jerárquica limpia.
 - [Front Matter CMS](https://www.frontmatter.tech/): CMS de código abierto que se ejecuta directamente dentro de Visual Studio Code, permitiendo gestionar contenido estático (Markdown) con una interfaz visual intuitiva y herramientas SEO.
 - [minimal-pwa](https://github.com/chr15m/minimal-pwa): La implementación más pequeña posible para convertir cualquier aplicación web en una PWA instalable, incluyendo solo lo esencial para activar el flujo de instalación.
-
 - [Snapframe](https://github.com/Pawandeep-prog/Snapframe): Generador web profesional de capturas de pantalla para crear mockups listos para el App Store y Google Play Store con temas personalizables.
 - [leaf](https://github.com/RivoLink/leaf): Visor de archivos Markdown para la terminal que ofrece una experiencia visual similar a una interfaz gráfica (GUI-like).
-
 - [lawnicons](https://github.com/LawnchairLauncher/lawnicons): Pack de iconos monocromáticos y minimalistas para Android basados en los principios de Material You.
 - [megapattern](https://tools.madebyvishesh.com/megapattern/): Generador procedimental de patrones (LEGO, ASCII, puntos) que permite exportar efectos visuales en SVG y otros formatos.
 - [ossium](https://ossium.live/): Plataforma de descubrimiento para encontrar y gestionar los mejores proyectos de código abierto en GitHub rápidamente.
 - [docker-android](https://github.com/budtmo/docker-android): Entorno de emulación Android en contenedores Docker con soporte para noVNC, grabación de pruebas y automatización.
 - [pdfcraft](https://github.com/PDFCraftTool/pdfcraft): Toolkit de PDF de código abierto y privado que procesa archivos en el navegador mediante WebAssembly sin enviar datos al servidor.
 - [it-tools](https://github.com/CorentinTh/it-tools): Colección masiva de herramientas útiles para desarrolladores (conversores, generadores, criptografía) en una sola interfaz web ligera.
-
 - [Refero Styles](https://styles.refero.design/): Biblioteca curada de estilos visuales y patrones de diseño extraídos de productos reales para inspirar y guiar la creación de interfaces.
 - [Easy UI](https://github.com/DarkInventor/easy-ui): Colección de componentes y plantillas web premium construidos con TypeScript y MDX para acelerar el desarrollo frontend.
 - [TextLab](https://textlab.javii.es/): Generador de mockups precisos para redes sociales y mensajería como iMessage, WhatsApp e Instagram. Permite exportar capturas realistas de texto.
 
 #### Despliegue:
+
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
 - [Xata](https://github.com/xataio/xata): Plataforma de base de datos serverless basada en PostgreSQL con búsqueda integrada y analíticas.
 
 ### 🤗 RELAX:
+
 - [The Coding Love](https://thecodinglove.com/): Blog clásico de humor para desarrolladores con memes y GIFs sobre la vida en IT.
 - [Git Wrapped](https://git-wrapped.com/): Genera un video resumen con las estadísticas más importantes de tu año en GitHub.
 - [Web Design Museum](https://www.webdesignmuseum.org): Museo digital interactivo que recorre la historia visual del diseño de interfaces web.
@@ -624,8 +619,8 @@ para lanzar aplicaciones fullstack.
 - [Repo Roast](https://reporoast.app/): Deja que una IA critique y "rostice" tu repositorio de GitHub de forma humorística analizando tu código y actividad.
 - [Meigen AI](https://www.meigen.ai/): Generador de citas inspiradoras y reflexiones diarias potenciado por Inteligencia Artificial.
 
-
 ### 🌐 WEB:
+
 - [Rooks](https://github.com/imbhargav5/rooks): Colección masiva de hooks de React listos para usar y optimizar tus componentes.
 - [MagicPattern CSS](https://www.magicpattern.design/tools/css-backgrounds): Generador de patrones y fondos CSS geométricos personalizables para añadir textura visual a proyectos web.
 - [Krumzi Backgrounds](https://www.krumzi.com/tools/animated-background-generator): Generador de fondos animados y gradientes dinámicos impulsado por IA para crear interfaces inmersivas.
@@ -636,12 +631,11 @@ para lanzar aplicaciones fullstack.
 - [Hyperframes](https://github.com/heygen-com/hyperframes): Framework de HeyGen para generar videos usando HTML nativo y atributos de datos.
 - [Transitions.dev](https://transitions.dev/): Colección interactiva de transiciones y animaciones CSS portátiles y listas para usar. Incluye efectos de redimensionamiento de tarjetas y elementos de UI modernos.
 
-
 ### 🅰️ Iconos:
 
-- [Streamline](https://www.streamlinehq.com/): Tu biblioteca definitiva de iconos. Descarga o copia iconos SVG y PNG.   
+- [Streamline](https://www.streamlinehq.com/): Tu biblioteca definitiva de iconos. Descarga o copia iconos SVG y PNG.
 - [Boxicons](https://boxicons.com/): Iconos sencillamente hermosos, elaborados con esmero. Para diseñadores y
-desarrolladores
+  desarrolladores
 - [Toolbar Icons](https://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/): Set de 30 iconos clásicos diseñados específicamente para interfaces de barras de herramientas.
 - [Itshover](https://www.itshover.com/): Galería de inspiración enfocada en efectos de hover y micro-interacciones innovadoras.
 - [Cotyledon Icons](https://www.webappers.com/2011/05/30/cotyledon-mini-icons-free-for-download/): Pack de mini iconos gratuitos con un diseño limpio y profesional para descarga directa.
@@ -676,14 +670,14 @@ desarrolladores
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
-- [ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI): Una colección de código abierto de componentes animados, interactivos y totalmente personalizables para crear interfaces de usuario impactantes y memorables. 
-- [Kutty](https://kutty.netlify.app/): Kutty es un plugin de Tailwind para la creación de aplicaciones web. Cuenta con un conjunto de componentes accesibles y reutilizables que se utilizan habitualmente en aplicaciones web. 
-- [WarcraftCN](https://www.warcraftcn.com/): Un conjunto de componentes inspirados en la estética clásica de la interfaz de usuario de Warcraft III RTS. Código abierto, listo para copiar y pegar. Compatible con tus frameworks favoritos. Creado por fans. Sin afiliación. 
+- [ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI): Una colección de código abierto de componentes animados, interactivos y totalmente personalizables para crear interfaces de usuario impactantes y memorables.
+- [Kutty](https://kutty.netlify.app/): Kutty es un plugin de Tailwind para la creación de aplicaciones web. Cuenta con un conjunto de componentes accesibles y reutilizables que se utilizan habitualmente en aplicaciones web.
+- [WarcraftCN](https://www.warcraftcn.com/): Un conjunto de componentes inspirados en la estética clásica de la interfaz de usuario de Warcraft III RTS. Código abierto, listo para copiar y pegar. Compatible con tus frameworks favoritos. Creado por fans. Sin afiliación.
 - [Retroui](https://www.retroui.dev/): Una librería de interfaz de usuario para React + TailwindCSS con estilo neobrutalista, ideal para crear aplicaciones web modernas y llamativas. Perfecta para cualquier proyecto que utilice Shadcn/ui.
-- [Bearnie](https://bearnie.dev/): Componentes accesibles para Astro y Tailwind CSS. 
+- [Bearnie](https://bearnie.dev/): Componentes accesibles para Astro y Tailwind CSS.
 - [Starwind](https://starwind.dev/): Componentes animados, personalizables y accesibles para Astro, creados exclusivamente con Astro y JavaScript puro. Inspirados en shadcn/ui, con instalación sencilla mediante la línea de comandos.
 - [Shadcn Studio](https://shadcnstudio.com/): Crea interfaces de usuario futuristas con Shadcn.
-- [Dayflow Calendar](https://calendar.dayflow.studio/): Un componente de calendario completo, ligero y elegante. 
+- [Dayflow Calendar](https://calendar.dayflow.studio/): Un componente de calendario completo, ligero y elegante.
 - [Oat](https://github.com/knadh/oat): Sistema de autenticación de código abierto para aplicaciones web.
 - [CliSpinners](https://github.com/sindresorhus/cli-spinners): Librería de spinners para aplicaciones de línea de comandos.
 - [Kodo7](https://www.kodo7.com/): Sistema de generación de texturas visuales.
@@ -715,7 +709,7 @@ desarrolladores
 - [EasyFrontend](https://easyfrontend.com/): Repositorio de componentes y plantillas listas para usar en cualquier proyecto web.
 - [BeerCSS](https://www.beercss.com/): Framework de diseño basado en Material Design 3 con una sintaxis extremadamente simple.
 - [FlyonUI](https://flyonui.com/): Librería de componentes moderna construida sobre Tailwind CSS y JS nativo.
-- [Drag & Drop (FormKit)](https://drag-and-drop.formkit.com/): La solución definitiva para implementar drag and drop accesible en formularios.
+- [Drag &amp; Drop (FormKit)](https://drag-and-drop.formkit.com/): La solución definitiva para implementar drag and drop accesible en formularios.
 - [Ninja Backgrounds](https://ui.bootstrap.ninja/ninja-backgrounds/): Colección de fondos dinámicos y patrones visuales para proyectos Bootstrap.
 - [Mielo UI](https://mielo-ui.github.io/): Conjunto de componentes ligeros con una estética minimalista y moderna.
 - [Buttons Cool](https://www.buttons.cool/buttons): Galería de inspiración y generador de estilos de botones interactivos de alta calidad.
@@ -861,7 +855,6 @@ desarrolladores
 - [Hyperbrowser App Examples](https://github.com/hyperbrowserai/hyperbrowser-app-examples): Repositorio de ejemplos full-stack para automatización de navegadores, scraping y extracción de datos avanzada.
 - [Astrae](https://www.astrae.design/): Biblioteca de plantillas de landing pages modernas y componentes animados listos para producción con React y Framer Motion.
 
-
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 
 - [Diseño de sistemas](https://kps.hashnode.dev/system-design-the-complete-course): Guía completa sobre el diseño de sistemas escalables y arquitectura de software.
@@ -870,7 +863,7 @@ desarrolladores
 - [Whimsical Animations](https://www.joshwcomeau.com/blog/whimsical-animations): Guía interactiva sobre cómo crear animaciones encantadoras y lúdicas en la web.
 - [Art of README](https://github.com/hackergrrl/art-of-readme): El arte de los archivos README.
 - [Mejores prácticas README](https://github.com/jehna/readme-best-practices): Mejores prácticas para archivos README.
-- [Tauri Tanstack Start React Template](https://github.com/kvnxiao/tauri-tanstack-start-react-template): Una plantilla Tauri 2.0 + TanStack Start React, con TailwindCSS, análisis de código con opiniones propias y GitHub Actions preconfigurado. 
+- [Tauri Tanstack Start React Template](https://github.com/kvnxiao/tauri-tanstack-start-react-template): Una plantilla Tauri 2.0 + TanStack Start React, con TailwindCSS, análisis de código con opiniones propias y GitHub Actions preconfigurado.
 - [React SaaS Template](https://www.react-saas-template.com/): Ahorra meses a tu equipo al crear aplicaciones SaaS B2B y B2C con esta gratuita de la comunidad React Router. plantilla
 
 ### 📚 DOCUMENTACIÓN UTIL
@@ -920,9 +913,9 @@ desarrolladores
 - [Hacksplaining](https://www.hacksplaining.com/lessons): Lecciones interactivas para aprender sobre vulnerabilidades web y cómo prevenirlas.
 - [Modern CSS](https://modern-css.com/): Blog técnico que explora técnicas de CSS moderno para soluciones de diseño reales.
 - [UI Playbook](https://uiplaybook.dev/): Guía interactiva sobre los componentes UI fundamentales y cuándo usarlos.
-- [Claude Howto](https://github.com/luongnv89/claude-howto): Una guía visual y basada en ejemplos para Claude Code, desde conceptos básicos hasta agentes avanzados, con plantillas que se pueden copiar y pegar y que aportan valor inmediato. 
-- [Frontend Slides](https://github.com/zarazhangrui/frontend-slides): Herramienta para crear hermosas presentaciones web aprovechando las habilidades de frontend de Claude. 
-- [Motion (Zajno)](https://motion.zajno.com/): Recurso interactivo que explora y demuestra los principios de animación y diseño gráfico en interfaces UI/UX. 
+- [Claude Howto](https://github.com/luongnv89/claude-howto): Una guía visual y basada en ejemplos para Claude Code, desde conceptos básicos hasta agentes avanzados, con plantillas que se pueden copiar y pegar y que aportan valor inmediato.
+- [Frontend Slides](https://github.com/zarazhangrui/frontend-slides): Herramienta para crear hermosas presentaciones web aprovechando las habilidades de frontend de Claude.
+- [Motion (Zajno)](https://motion.zajno.com/): Recurso interactivo que explora y demuestra los principios de animación y diseño gráfico en interfaces UI/UX.
 - [alg0.dev](https://www.alg0.dev/): Herramienta interactiva para aprender y visualizar el funcionamiento de algoritmos paso a paso.
 - [Python Tutor](https://pythontutor.com/): Visualizador educativo que muestra la ejecución de código paso a paso para Python, JS, C, C++ y Java.
 - [RunSQL](https://runsql.com/r): Entorno interactivo basado en el navegador para ejecutar, probar y compartir consultas SQL sin configuración local.
@@ -979,7 +972,7 @@ desarrolladores
 - [DevTools Academy](https://www.devtoolsacademy.com/): Portal de aprendizaje con posts y tutoriales enfocados en herramientas de desarrollo.
 - [Karpathy Jobs](https://karpathy.ai/jobs/): Tablero de anuncios y recursos de carrera enfocados en roles de alto nivel en el sector de la Inteligencia Artificial.
 - [Ned Batchelder](https://nedbatchelder.com/blog/): Blog de uno de los desarrolladores de Python más experimentados del ecosistema.
-- [Sobolev's Blog](https://sobolevn.me/): Artículos técnicos de alta calidad centrados en Python, Django y buenas prácticas.
+- [Sobolev&#39;s Blog](https://sobolevn.me/): Artículos técnicos de alta calidad centrados en Python, Django y buenas prácticas.
 - [PythonProgramming](https://pythonprogramming.net/): Tutoriales de Python prácticos que cubren desde lo básico hasta robótica.
 - [Full Stack Python](https://www.fullstackpython.com/): Todo lo necesario para construir y desplegar aplicaciones reales de Python.
 - [Import Python](https://importpython.com/newsletter/): Una de las newsletters de Python más longevas y completas de la comunidad.
@@ -1032,7 +1025,7 @@ desarrolladores
 - [CSS Weekly](https://css-weekly.com/): Selección semanal de los mejores artículos y recursos sobre CSS y diseño web.
 - [Bytes](https://bytes.dev/): Newsletter divertida e informativa que resume las noticias de JavaScript de forma amena.
 - [Frontend Focus](https://frontendfoc.us/): Newsletter semanal sobre HTML, CSS, WebGL y desarrollo del lado del cliente.
-- [PyCoder's Weekly](https://pycoders.com/): La newsletter de Python más querida, enfocada en tutoriales y proyectos open source.
+- [PyCoder&#39;s Weekly](https://pycoders.com/): La newsletter de Python más querida, enfocada en tutoriales y proyectos open source.
 - [Python Weekly](https://www.pythonweekly.com/): Resumen semanal con noticias sobre Python, empleos y recursos educativos de alta calidad.
 
 ### 🏠 Self-Hosted (Autoalojado)
@@ -1052,8 +1045,6 @@ desarrolladores
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): Aplicación web robusta y autohospedada para la gestión integral de archivos PDF (dividir, unir, OCR, firmar) con total privacidad.
 - [Mafl](https://github.com/hywax/mafl): Dashboard minimalista y flexible para el autoalojamiento de servicios personales, configurable mediante YAML y optimizado para Docker.
 
-
-
 ### 🤖 IA
 
 - [ChatGPT](https://chatgpt.com/): El modelo de lenguaje a gran escala de OpenAI que revolucionó la interacción con la IA.
@@ -1065,8 +1056,8 @@ desarrolladores
 
 #### ✨ Herramientas IA
 
-- [Aura](https://www.aura.build/): Crea hermosos diseños 
-- [AI Website Cloner Template](https://github.com/JCodesMore/ai-website-cloner-template): Clona cualquier sitio web con un solo comando usando agentes de codificación de IA. 
+- [Aura](https://www.aura.build/): Crea hermosos diseños
+- [AI Website Cloner Template](https://github.com/JCodesMore/ai-website-cloner-template): Clona cualquier sitio web con un solo comando usando agentes de codificación de IA.
 - [DeepAgents](https://github.com/langchain-ai/deepagents): Plataforma experimental para el desarrollo y despliegue de agentes de IA autónomos.
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw): Herramienta automatizada para realizar investigaciones técnicas profundas con IA.
 - [Ollama](https://ollama.com/): La forma más sencilla de ejecutar y administrar modelos de lenguaje locales en tu máquina.
@@ -1078,7 +1069,7 @@ desarrolladores
 - [NanoClaw](https://github.com/qwibitai/nanoclaw): Se ejecuta en contenedores para mayor seguridad. Se conecta a WhatsApp, Telegram, Slack, Discord, Gmail y otras aplicaciones de mensajería, tiene memoria, tareas programadas y se ejecuta directamente en el SDK de agentes de Anthropic.
 - [Lemonade](https://github.com/lemonade-sdk/lemonade): Lemonade ayuda a los usuarios a descubrir y ejecutar aplicaciones de IA locales, ofreciendo modelos LLM optimizados directamente desde sus propias GPU y NPU.
 - [InsForge](https://github.com/InsForge/InsForge): Brinda a los agentes todo lo que necesitan para lanzar aplicaciones full-stack.
-- [Promptfoo](https://github.com/promptfoo/promptfoo): Prueba tus indicaciones, agentes y RAG. Red teaming/pentesting/escaneo de vulnerabilidades para IA. Compara el rendimiento de GPT, Claude, Gemini, Llama y más. Configuraciones declarativas sencillas con línea de comandos e integración CI/CD. Utilizado por OpenAI y Anthropic. 
+- [Promptfoo](https://github.com/promptfoo/promptfoo): Prueba tus indicaciones, agentes y RAG. Red teaming/pentesting/escaneo de vulnerabilidades para IA. Compara el rendimiento de GPT, Claude, Gemini, Llama y más. Configuraciones declarativas sencillas con línea de comandos e integración CI/CD. Utilizado por OpenAI y Anthropic.
 - [AutoSkills](https://www.autoskills.sh/): Detecta automáticamente tu pila tecnológica e instala la mejor.
 - [Can I Run AI](https://www.canirun.ai/): Herramienta que escanea tu hardware para determinar qué modelos de IA de código abierto puedes ejecutar localmente de forma fluida.
 - [Page Agent](https://github.com/alibaba/page-agent): Agente de IA autónomo desarrollado por Alibaba que permite controlar el navegador y realizar tareas web complejas mediante lenguaje natural.
@@ -1090,7 +1081,7 @@ desarrolladores
 - [designer-skills](https://github.com/Owl-Listener/designer-skills): Repositorio de habilidades agénticas y plugins enfocados en la investigación, sistemas de diseño e interacción UI/UX.
 - [PSDesigner](https://github.com/FudanCVL/PSDesigner): Sistema de diseño gráfico automatizado de nivel profesional (CVPR 2026) que aplica un flujo de trabajo creativo similar al humano mediante IA.
 - [Davia](https://github.com/davialabs/davia): Documentación interactiva y editable diseñada específicamente para facilitar la navegación y el consumo de información por parte de agentes de IA.
-Habilidades de agente de IA para tu proyecto
+  Habilidades de agente de IA para tu proyecto
 - [OpenMontage](https://github.com/calesthio/OpenMontage): Sistema de producción de video que permite a agentes de IA crear y editar contenido visual a partir de lenguaje natural.
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading): Plataforma multi-agente de finanzas que automatiza la investigación y ejecución de estrategias de trading mediante prompts.
 - [SharpML](https://suto.bex.jp/mac/mlsharp/index.html): Aplicación nativa de macOS para el diseño, entrenamiento y visualización de redes neuronales de forma gráfica e intuitiva.
@@ -1108,12 +1099,10 @@ Habilidades de agente de IA para tu proyecto
 - [TaxHacker](https://github.com/vas3k/TaxHacker): Aplicación de contabilidad impulsada por IA para freelancers que categoriza automáticamente recibos y facturas mediante LLMs.
 - [muload](https://muload.dev/): Colección de 38 indicadores de carga (loaders) de matriz de puntos diseñados específicamente para interfaces de IA (token streams, attention heads).
 - [Davia](https://davia.ai/): Herramienta para agentes de IA que genera documentación interna interactiva y visual de un codebase, integrando diagramas y pizarras editables.
-
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything): Herramienta que permite a agentes de IA controlar software de escritorio complejo (Blender, GIMP) mediante una interfaz de línea de comandos generada automáticamente.
 
-
-
 #### 🧠 Modelos y Datos
+
 - [pocket-tts](https://github.com/kyutai-labs/pocket-tts): Sistema de Text-to-Speech extremadamente ligero que se ejecuta localmente en la CPU, ideal para dispositivos con recursos limitados.
 - [easy-dataset](https://github.com/ConardLi/easy-dataset): Herramienta potente para la creación sistemática de conjuntos de datos destinados al fine-tuning, RAG y evaluación de LLMs.
 - [airllm](https://github.com/lyogavin/airllm): Tecnología que permite la inferencia de modelos de 70B parámetros en GPUs domésticas de apenas 4GB mediante optimización de memoria.
@@ -1134,7 +1123,7 @@ Habilidades de agente de IA para tu proyecto
 
 ### 💫 INSPIRACIÓN
 
-- [Netfolio](https://www.netfolio.io/websites): Explora los mejores sitios web Actualizado diariamente. 
+- [Netfolio](https://www.netfolio.io/websites): Explora los mejores sitios web Actualizado diariamente.
 - [VeryGoodComponents](https://www.goodcomponents.io/): Galería de componentes UI excepcionales y bien diseñados para inspirar tus proyectos.
 - [UX Snaps](https://www.uxsnaps.com/): Colección de capturas de pantalla de interfaces reales enfocada en flujos de UX específicos.
 - [A/B Test Design](https://abtest.design/): Directorio de casos reales y lecciones aprendidas de experimentos de tests A/B.
@@ -1155,7 +1144,6 @@ Habilidades de agente de IA para tu proyecto
 - [a1 Gallery](https://www.a1.gallery/): Galería de diseño web minimalista y brutalista que desafía las convenciones modernas.
 - [Refero](https://refero.design/): Enorme base de datos de capturas de pantalla de interfaces de usuario de las mejores apps del mundo.
 - [sleek.design](https://sleek.design/references): Plataforma de inspiración que ofrece una colección curada de referencias de diseño de aplicaciones y layouts de alta calidad.
-
 - [Viewport UI](https://viewport-ui.design/): Colección de componentes UI enfocada en la usabilidad y el diseño responsivo.
 - [Same Energy](https://same.energy/): Buscador visual de imágenes basado en la estética y el sentimiento, perfecto para moodboards.
 - [Headers Club](https://headers.club/): Galería especializada en el diseño de encabezados y banners de impacto para sitios web.
@@ -1214,5 +1202,4 @@ Habilidades de agente de IA para tu proyecto
 
 ---
 
-⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
-Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
+Increíble, llegaste hasta aquí 🔍. Si te interesa, puedes visitar mi [proyecto de curación de prompts de NotebookLM](https://github.com/YamilAyma/notebooklm-prompt-styles), personaliza tus diapositivas con estilo 💫.
