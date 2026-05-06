@@ -203,6 +203,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [EverShop](https://github.com/evershopcommerce/evershop): Framework de comercio electrónico modular para Node.js construido con React y GraphQL.
 - [Open Source Projects](https://www.opensourceprojects.dev/): Directorio para descubrir y contribuir a proyectos de código abierto emergentes.
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): Repositorio comunitario que recopila y comparte diariamente los proyectos de código abierto y herramientas para desarrolladores más interesantes de GitHub.
+- [Web-to-Desktop Framework Comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): Tabla comparativa exhaustiva de frameworks para convertir aplicaciones web en aplicaciones de escritorio (Electron, Tauri, NW.js, Neutralinojs, etc.).
 
 ### 🧗 ROADMAPS:
 
@@ -317,6 +318,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Jimp](https://jimp-dev.github.io/jimp/): Biblioteca de procesamiento de imágenes para Node.js escrita completamente en JavaScript, sin dependencias nativas, ideal para entornos donde la compilación es un problema.
+- [Sharp](https://sharp.pixelplumbing.com/): El módulo de procesamiento de imágenes para Node.js más rápido, basado en la librería libvips, diseñado para redimensionar imágenes JPEG, PNG, WebP, AVIF y TIFF de forma eficiente.
 - [Claudian](https://github.com/YishenTu/claudian): Plugin para Obsidian que integra a Claude Code como colaborador de IA dentro de tu sistema de notas personales.
 - [Recordly](https://github.com/webadderall/Recordly): Crea grabaciones de pantalla profesionales gratis. Un grabador de pantalla de código abierto para Mac/Windows/Linux que añade zoom automático, cursores animados, subtítulos automáticos y mucho más a tus vídeos.
 - [Ultramock](https://www.ultramock.io/): Crea mockups de alta calidad para tus productos digitales.
@@ -706,6 +709,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [LLM React UI](https://llm-ui.com/): Componentes especializados para construir interfaces de usuario para modelos de lenguaje.
 - [FrankenUI](https://franken-ui.dev/docs/2.1/installation): Adaptación de UIkit al ecosistema de Tailwind CSS con un diseño elegante.
 - [FastBootstrap](https://fastbootstrap.com/): Versión optimizada y más rápida de los componentes tradicionales de Bootstrap.
+- [Bootstrap](https://getbootstrap.com/): El framework de CSS más popular del mundo para construir sitios responsivos y móviles primero con componentes pre-diseñados y un potente sistema de cuadrícula.
 - [EasyFrontend](https://easyfrontend.com/): Repositorio de componentes y plantillas listas para usar en cualquier proyecto web.
 - [BeerCSS](https://www.beercss.com/): Framework de diseño basado en Material Design 3 con una sintaxis extremadamente simple.
 - [FlyonUI](https://flyonui.com/): Librería de componentes moderna construida sobre Tailwind CSS y JS nativo.
