@@ -248,6 +248,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Reactylon](https://www.reactylon.com/): Framework de alto nivel para crear experiencias 3D envolventes con React.
 - [Waveform Playlist](https://github.com/naomiaro/waveform-playlist): Editor de audio multipista en el navegador basado en Web Audio API.
 - [Image.js](https://github.com/image-js/image-js): Potente librería de procesamiento de imágenes para JavaScript.
+- [Zoneless](https://zoneless.com/): Alternativa open-source a Stripe Connect para gestionar pagos globales con USDC y sin bloqueos de proveedor.
 - [JSON Editor](https://github.com/json-editor/json-editor): Generador de formularios dinámicos basados en esquemas JSON (JSON Schema).
 - [Typewriter Web Component](https://codepen.io/luis-lessrain/pen/EaKjXwB): Componente web nativo para crear efectos de máquina de escribir animados.
 - [Triplex](https://triplex.dev/): Editor visual de escenas 2D y 3D nativo para proyectos de React.
@@ -610,6 +611,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [SlitScanner](https://www.slitscanner.app/): Aplicación web creativa para generar efectos visuales de "slit-scan" en tiempo real usando la cámara o videos.
 - [PNG to ICO](https://png-to-ico.com/): Conversor gratuito y sencillo de archivos PNG a formato ICO para iconos de aplicaciones y sitios web.
 - [Pixotter](https://pixotter.com/): Una herramienta todo en uno para convertir, comprimir y editar imágenes, con funciones para redimensionar, recortar, ver o eliminar metadatos, añadir marcas de agua, rotar y mucho más, con soporte para hasta 20 formatos de imagen, incluido el GIF animado.
+- [Email.md](https://www.emailmd.dev/): Herramienta que convierte Markdown en HTML responsivo y seguro para correos electrónicos, optimizada para IA y MJML.
+- [ToolMateX](https://toolmatex.com/): Colección de herramientas online gratuitas y privadas para desarrolladores que funcionan directamente en el navegador.
+- [OpenFlowKit](https://openflowkit.com/): Motor de diagramación local-first y open-source para ingenieros, con soporte para Mermaid.js y exportación a Figma.
 
 
 #### Despliegue:
@@ -639,6 +643,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Heerich.js](https://meodai.github.io/heerich/): Motor minimalista para renderizar escenas 3D de vóxeles utilizando gráficos vectoriales SVG.
 - [Hyperframes](https://github.com/heygen-com/hyperframes): Framework de HeyGen para generar videos usando HTML nativo y atributos de datos.
 - [Transitions.dev](https://transitions.dev/): Colección interactiva de transiciones y animaciones CSS portátiles y listas para usar. Incluye efectos de redimensionamiento de tarjetas y elementos de UI modernos.
+- [VTBag](https://vtbag.dev/vtbag/): Suite de herramientas y librerías agnósticas al framework para trabajar con la API nativa de View Transitions del navegador.
 
 ### 🅰️ Iconos:
 
@@ -694,6 +699,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [8bitUI](https://www.8bitcn.com/): Biblioteca de componentes con una estética retro de 8 bits para proyectos nostálgicos.
 - [ReactLogoSoup](https://github.com/sanity-labs/react-logo-soup): Utilidad para integrar y gestionar fácilmente logos de marcas en aplicaciones React.
 - [BetterAuthUI](https://better-auth-ui.com/): Conjunto de componentes de interfaz listos para implementar sistemas de autenticación modernos.
+- [Logto](https://logto.io/): Plataforma de gestión de identidad (IAM) de código abierto para añadir autenticación y autorización profesional a aplicaciones SaaS.
 - [Soundcn](https://github.com/kapishdima/soundcn): Versión experimental de componentes Shadcn enfocada en la integración de audio y sonido.
 - [FusionCharts](https://www.fusioncharts.com/blog/fusioncharts-free-now-open-source/): Poderosa librería de gráficos empresariales ahora disponible como código abierto.
 - [Park UI](https://park-ui.com/): Sistema de diseño moderno basado en Panda CSS y Ark UI para componentes de alta calidad.
@@ -940,6 +946,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Linux Security Guide](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): Guía completa de endurecimiento y seguridad para servidores Linux mantenida por la comunidad.
 - [Marp](https://github.com/marp-team/marp): Ecosistema para crear diapositivas profesionales utilizando Markdown, con soporte para PDF, PPTX y exportación web.
 - [Swiss Design System](https://swiss.ziki.boo/): Sistema de diseño minimalista inspirado en el estilo suizo, optimizado para la creación de interfaces de agentes de IA y herramientas técnicas.
+- [Web Features Explorer](https://web-platform-dx.github.io/web-features-explorer/): Explorador visual de las características de la plataforma web y su estado de soporte en navegadores.
 
 ### 📒 CURSOS:
 
