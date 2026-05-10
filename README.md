@@ -70,6 +70,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile): Herramientas y recursos para mejorar la apariencia de tu perfil de GitHub.
 - [Programming Best Practices](https://github.com/dereknguyen269/programing-best-practices): Guía fundamental sobre las mejores prácticas en el desarrollo de software.
 - [Tools UI](https://tools.ui-layouts.com/): Librería de componentes y herramientas para diseño de interfaces de usuario.
+- [Tool UI](https://www.tool-ui.com/): Biblioteca de componentes especializada en la creación de herramientas internas y paneles de administración de forma rápida.
 - [Programming Fonts](https://www.programmingfonts.org/): Catálogo interactivo para probar y elegir tipografías para programadores.
 - [Resourcle](https://resourcle.com/): Un "pack de packs" que recopila las mejores listas de recursos para devs.
 - [GitHub Issue Templates](https://github.com/stevemao/github-issue-templates): Plantillas listas para usar en tus reportes de errores y sugerencias.
@@ -605,6 +606,11 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Refero Styles](https://styles.refero.design/): Biblioteca curada de estilos visuales y patrones de diseño extraídos de productos reales para inspirar y guiar la creación de interfaces.
 - [Easy UI](https://github.com/DarkInventor/easy-ui): Colección de componentes y plantillas web premium construidos con TypeScript y MDX para acelerar el desarrollo frontend.
 - [TextLab](https://textlab.javii.es/): Generador de mockups precisos para redes sociales y mensajería como iMessage, WhatsApp e Instagram. Permite exportar capturas realistas de texto.
+- [MindPic](https://www.mindpic.ai/): Herramienta de IA para generar y editar imágenes con precisión, ideal para creadores de contenido.
+- [SlitScanner](https://www.slitscanner.app/): Aplicación web creativa para generar efectos visuales de "slit-scan" en tiempo real usando la cámara o videos.
+- [PNG to ICO](https://png-to-ico.com/): Conversor gratuito y sencillo de archivos PNG a formato ICO para iconos de aplicaciones y sitios web.
+- [Pixotter](https://pixotter.com/): Una herramienta todo en uno para convertir, comprimir y editar imágenes, con funciones para redimensionar, recortar, ver o eliminar metadatos, añadir marcas de agua, rotar y mucho más, con soporte para hasta 20 formatos de imagen, incluido el GIF animado.
+
 
 #### Despliegue:
 
@@ -670,6 +676,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Lucide Animated](https://lucide-animated.com/): Librería gratuita de más de 350 iconos animados para React basados en Lucide y Framer Motion.
 - [Lobe Icons](https://github.com/lobehub/lobe-icons): Colección de logos de marcas de IA (OpenAI, Claude, etc.) como iconos SVG y PNG ligeros.
 - [getillustrations](https://getillustrations.com/): Extensa librería de ilustraciones vectoriales de alta calidad, escenas y kits de UI para potenciar el diseño visual de tus proyectos.
+- [SustyIcons](https://sustyicons.com/): Colección de iconos sostenibles y ligeros diseñados para minimizar el impacto ambiental y optimizar el rendimiento web.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
@@ -710,6 +717,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [FrankenUI](https://franken-ui.dev/docs/2.1/installation): Adaptación de UIkit al ecosistema de Tailwind CSS con un diseño elegante.
 - [FastBootstrap](https://fastbootstrap.com/): Versión optimizada y más rápida de los componentes tradicionales de Bootstrap.
 - [Bootstrap](https://getbootstrap.com/): El framework de CSS más popular del mundo para construir sitios responsivos y móviles primero con componentes pre-diseñados y un potente sistema de cuadrícula.
+- [muCSS](https://mucss.org/): Librería de CSS ultra ligera y minimalista para crear interfaces rápidas y eficientes sin el peso de frameworks grandes.
 - [EasyFrontend](https://easyfrontend.com/): Repositorio de componentes y plantillas listas para usar en cualquier proyecto web.
 - [BeerCSS](https://www.beercss.com/): Framework de diseño basado en Material Design 3 con una sintaxis extremadamente simple.
 - [FlyonUI](https://flyonui.com/): Librería de componentes moderna construida sobre Tailwind CSS y JS nativo.
@@ -750,6 +758,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Metallic Buttons](https://button.lakshb.dev/): Generador visual de botones con efectos metálicos realistas usando CSS.
 - [OpenPropsUI](https://open-props-ui.netlify.app/): Librería de componentes construida exclusivamente con variables CSS de Open Props.
 - [Reka UI](https://reka-ui.com/): Colección de componentes sin estilo y accesibles para aplicaciones de Vue.js.
+- [REUI](https://reui.io/): Conjunto de componentes UI de código abierto para React que prioriza la simplicidad y el rendimiento.
 - [React Bits](https://www.reactbits.dev/): Repositorio masivo de efectos visuales y animaciones listas para proyectos React.
 - [TW Components](https://www.creative-tim.com/twcomponents/): Directorio que recopila cientos de componentes gratuitos para Tailwind CSS.
 - [Prompt-Kit](https://www.prompt-kit.com/): Conjunto de componentes UI especializados para construir aplicaciones de IA generativa.
@@ -771,6 +780,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [GlowUI Icons](https://www.glowui.com/icons): Set de iconos modernos con efectos de brillo y gradientes integrados.
 - [RizzUI](https://www.rizzui.com/): Sistema de diseño robusto y flexible para aplicaciones web modernas a escala.
 - [MagicUI](https://magicui.design): Biblioteca de componentes animados y efectos visuales de alta calidad para React.
+- [Hexta UI](https://www.hextaui.com/): Biblioteca de componentes de React y Tailwind CSS con diseños modernos, minimalistas y altamente personalizables.
 - [Lukacho UI](https://ui.lukacho.com/components): Colección de componentes de interfaz con un diseño audaz y contemporáneo.
 - [Volt (PrimeVue)](https://volt.primevue.org/): Plantilla de panel de administración premium y potente para Vue.js.
 - [98.CSS](https://jdan.github.io/98.css/): Framework CSS para construir interfaces con la estética clásica de Windows 98.
@@ -842,6 +852,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
+- [Shadcn Dashboard Landing Template](https://github.com/shadcnstore/shadcn-dashboard-landing-template): Una plantilla de página de aterrizaje (landing page) profesional y moderna para dashboards, construida con Shadcn UI.
+- [Shadcn Admin Kit](https://marmelab.com/shadcn-admin-kit/): Un kit de herramientas completo para construir dashboards administrativos elegantes utilizando Shadcn UI.
+- [Next.js Commerce (Bagisto)](https://github.com/bagisto/nextjs-commerce): Una potente solución de comercio electrónico de código abierto construida con Next.js y Bagisto para experiencias de compra ultrarrápidas.
 - [NG-Matero](https://github.com/ng-matero/ng-matero): Panel de administración robusto para Angular basado en Material Design.
 - [Windy Toolbox](https://windytoolbox.com/): Conjunto de herramientas y componentes esenciales para usuarios de Tailwind CSS.
 - [FlatLogic Plantillas](https://flatlogic.com/templates): Biblioteca de plantillas de administración y dashboards premium para diversos frameworks.
