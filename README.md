@@ -317,6 +317,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Sentrux](https://github.com/sentrux/sentrux): Sensor arquitectónico en tiempo real para agentes de IA. Proporciona métricas de calidad y visualizaciones para cerrar el ciclo de retroalimentación en el desarrollo.
 - [unioffice](https://github.com/unidoc/unioffice): Librería robusta en Go para la creación y manipulación de documentos de Microsoft Office (Word, Excel, PowerPoint) de forma programática.
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101): Guía visual e integral sobre los fundamentos de diseño de sistemas distribuidos, bases de datos y arquitectura de software.
+- [next-seo](https://github.com/garmeeh/next-seo): Librería para Next.js que simplifica la gestión de meta-tags y SEO de forma centralizada.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -615,7 +616,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [ToolMateX](https://toolmatex.com/): Colección de herramientas online gratuitas y privadas para desarrolladores que funcionan directamente en el navegador.
 - [OpenFlowKit](https://openflowkit.com/): Motor de diagramación local-first y open-source para ingenieros, con soporte para Mermaid.js y exportación a Figma.
 
-
 #### Despliegue:
 
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
@@ -855,6 +855,12 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Coss UI](https://coss.com/ui): Biblioteca de componentes React accesible y modular orientada al modelo de "copiar y pegar" con Tailwind CSS.
 - [Bejamas UI Create](https://ui.bejamas.com/create): Herramienta avanzada para la generación de componentes de interfaz modernos. Facilita el diseño y desarrollo de layouts visualmente potentes para la web.
 - [Nexus UI](https://nexus-ui.dev/): Biblioteca de componentes open-source para construir interfaces nativas de IA con primitivas para chats, streaming y experiencias multimodales.
+- [OpenSEO](https://openseo.so/): Herramienta SEO de código abierto para investigación de palabras clave y análisis de dominios.
+- [CloakBrowser](https://cloakbrowser.dev/): Navegador basado en Chromium modificado para bypass de anti-bot y web scraping profesional.
+- [AirPipe](https://airpipe.sanyamgarg.com/): Herramienta de transferencia de archivos P2P zero-knowledge mediante CLI y web.
+- [bottom](https://bottom.pages.dev/stable/): Monitor de procesos de sistema interactivo y gráfico para la terminal, escrito en Rust.
+- [bat](https://github.com/sharkdp/bat): Clon moderno de cat con resaltado de sintaxis, integración con Git y paginación automática.
+- [PasteBar](https://github.com/PasteBar/PasteBarApp): Gestor de portapapeles open-source para organizar historial de clips con almacenamiento local.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
@@ -1068,6 +1074,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Syncthing](https://syncthing.net/): Herramienta de sincronización de archivos entre pares (P2P), gratuita y de código abierto, que prioriza la privacidad y la seguridad sin servidores centrales.
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): Aplicación web robusta y autohospedada para la gestión integral de archivos PDF (dividir, unir, OCR, firmar) con total privacidad.
 - [Mafl](https://github.com/hywax/mafl): Dashboard minimalista y flexible para el autoalojamiento de servicios personales, configurable mediante YAML y optimizado para Docker.
+- [whisper.money](https://whisper.money/): App de finanzas personales open-source con cifrado de extremo a extremo y autoalojamiento.
+- [Invidious](https://invidious.io/): Frontend alternativo para YouTube, ligero y privado, sin anuncios ni rastreo de Google.
 
 ### 🤖 IA
 
@@ -1124,6 +1132,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [muload](https://muload.dev/): Colección de 38 indicadores de carga (loaders) de matriz de puntos diseñados específicamente para interfaces de IA (token streams, attention heads).
 - [Davia](https://davia.ai/): Herramienta para agentes de IA que genera documentación interna interactiva y visual de un codebase, integrando diagramas y pizarras editables.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything): Herramienta que permite a agentes de IA controlar software de escritorio complejo (Blender, GIMP) mediante una interfaz de línea de comandos generada automáticamente.
+- [OpenUI](https://www.openui.com/): Herramienta de IA para generar componentes UI web en tiempo real mediante lenguaje natural.
 
 #### 🧠 Modelos y Datos
 
@@ -1223,6 +1232,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Httpster](https://httpster.net/): Galería técnica que destaca los mejores diseños web de estética brutalista y minimalismo.
 - [CSS Zen Garden](https://csszengarden.com/pages/alldesigns/): Galería de sitios web influenciados por el CSS.
 - [ogfolio](https://ogfolio.com/): Galería de inspiración curada que recopila los mejores diseños de imágenes de Open Graph (OG) para elevar la presencia social de tu web.
+- [Deck Gallery](https://www.deck.gallery/): Galería curada de presentaciones, decks y guías de marca para inspiración visual.
 
 ---
 
