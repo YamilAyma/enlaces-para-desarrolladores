@@ -318,6 +318,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [unioffice](https://github.com/unidoc/unioffice): Librería robusta en Go para la creación y manipulación de documentos de Microsoft Office (Word, Excel, PowerPoint) de forma programática.
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101): Guía visual e integral sobre los fundamentos de diseño de sistemas distribuidos, bases de datos y arquitectura de software.
 - [next-seo](https://github.com/garmeeh/next-seo): Librería para Next.js que simplifica la gestión de meta-tags y SEO de forma centralizada.
+- [Needle](https://github.com/cactus-compute/needle): Modelo de lenguaje especializado en llamadas a herramientas (tool calling) y razonamiento complejo para agentes.
+- [Statewright](https://github.com/statewright/statewright): Framework de orquestación de agentes basado en máquinas de estado para garantizar flujos deterministas.
+- [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): Colección de habilidades predefinidas para agentes especializados en investigación científica y análisis de datos.
+- [Supervision](https://github.com/roboflow/supervision): Utilidades esenciales para flujos de trabajo de Computer Vision, incluyendo detección de objetos y seguimiento.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -615,6 +619,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Email.md](https://www.emailmd.dev/): Herramienta que convierte Markdown en HTML responsivo y seguro para correos electrónicos, optimizada para IA y MJML.
 - [ToolMateX](https://toolmatex.com/): Colección de herramientas online gratuitas y privadas para desarrolladores que funcionan directamente en el navegador.
 - [OpenFlowKit](https://openflowkit.com/): Motor de diagramación local-first y open-source para ingenieros, con soporte para Mermaid.js y exportación a Figma.
+- [Hopper](https://www.hypercubic.ai/hopper): Interfaz moderna impulsada por IA para interactuar y automatizar tareas en sistemas mainframe antiguos.
 
 #### Despliegue:
 
