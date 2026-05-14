@@ -30,7 +30,7 @@ def main():
     
     for url in urls:
         is_valid = check_url(url)
-        results[url] = "VÁLIDO ✅" if is_valid else "CAÍDO ❌"
+        results[url] = "VALIDO" if is_valid else "CAIDO"
         print(f"[{results[url]}] {url}")
 
     # Si se detectan caídos, el script puede ser usado para filtrar en el flujo del agente
