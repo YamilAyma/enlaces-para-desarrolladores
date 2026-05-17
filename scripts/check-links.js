@@ -16,28 +16,29 @@ const uniqueLinks = [...new Set(links)];
 console.log(`Encontrados ${uniqueLinks.length} enlaces únicos. Empezando validación...`);
 
 async function checkLink(url) {
-    return new Promise((resolve) => {
-        const client = url.startsWith('https') ? https : http;
-        const request = client.get(url, { 
-            timeout: 10000,
-            headers: { 'User-Agent': 'Mozilla/5.0 (Link Checker Bot)' } 
-        }, (res) => {
-            if (res.statusCode >= 200 && res.statusCode < 400) {
-                resolve({ url, ok: true });
-            } else {
-                resolve({ url, ok: false, status: res.statusCode });
-            }
+    try {
+        const response = await fetch(url, {
+            method: 'GET',
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+                'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+            },
+            signal: AbortSignal.timeout(15000)
         });
 
-        request.on('error', (err) => {
-            resolve({ url, ok: false, error: err.message });
-        });
-
-        request.on('timeout', () => {
-            request.destroy();
-            resolve({ url, ok: false, error: 'Timeout' });
-        });
-    });
+        if (response.ok) {
+            return { url, ok: true };
+        } else {
+            return { url, ok: false, status: response.status };
+        }
+    } catch (err) {
+        return { 
+            url, 
+            ok: false, 
+            error: err.name === 'TimeoutError' ? 'Timeout' : err.message 
+        };
+    }
 }
 
 async function run() {
