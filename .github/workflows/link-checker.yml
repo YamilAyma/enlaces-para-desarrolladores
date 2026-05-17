@@ -13,22 +13,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Link Checker (Lychee)
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
         with:
-          node-version: '20'
-
-      - name: Run Link Checker
-        id: checker
-        run: node scripts/check-links.js
-        continue-on-error: true
+          args: --verbose --no-progress --timeout 15 --max-retries 3 --accept 200..299,301,302,308 "README.md"
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
       - name: Create Issue if links are broken
-        if: steps.checker.outcome == 'failure'
+        if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: "Enlaces rotos detectados en el README"
-          content-filepath: ./broken_links.json
+          content-filepath: ./lychee/out.md
           labels: |
             bug
             automated-report
