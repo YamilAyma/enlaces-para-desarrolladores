@@ -20,6 +20,7 @@ jobs:
           args: --verbose --no-progress --timeout 15 --max-retries 3 --accept 200..299,301,302,308 "README.md"
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        continue-on-error: true
 
       - name: Create Issue if links are broken
         if: steps.lychee.outputs.exit_code != 0
