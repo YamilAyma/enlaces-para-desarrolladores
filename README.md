@@ -866,6 +866,12 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [bottom](https://bottom.pages.dev/stable/): Monitor de procesos de sistema interactivo y gráfico para la terminal, escrito en Rust.
 - [bat](https://github.com/sharkdp/bat): Clon moderno de cat con resaltado de sintaxis, integración con Git y paginación automática.
 - [PasteBar](https://github.com/PasteBar/PasteBarApp): Gestor de portapapeles open-source para organizar historial de clips con almacenamiento local.
+- [RepoStars](https://www.repostars.dev/): Herramienta web para generar gráficos interactivos y visuales del historial de estrellas de repositorios de GitHub con múltiples temas listos para compartir o exportar.
+- [ASCII Sketch](https://files.littlebird.com.au/ascii-sketch.html): Editor web minimalista para crear diagramas y bocetos utilizando caracteres de texto (arte ASCII) directamente en el navegador.
+- [CSS Generators](https://css-generators.com/): Colección completa de generadores visuales de CSS moderno para bordes ondulados, esquinas personalizadas, cintas, sombras y efectos de fondo sin esfuerzo.
+- [BEMoji](https://tomhayes.github.io/BEMoji/): Framework CSS y conjunto de herramientas que implementa la metodología BEM (Block-Element-Modifier) utilizando emojis como nombres de clases con soporte de compilación y plugins.
+- [Cascade by DesignSurface](https://designsurface.dev/cascade): Colección de 97 iconos meticulosamente diseñados para representar visualmente propiedades y valores de CSS, disponibles como SVGs y componentes React.
+- [Ratty](https://ratty-term.org/): Emulador de terminal experimental y acelerado por GPU escrito en Rust que permite renderizar gráficos 3D y sprites en tiempo real en la línea de comandos.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
@@ -973,6 +979,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Top-Down Action Adventure Starter Kit](https://github.com/Nodragem/top-down-action-adventure-starter-kit): Prototipo educativo en Godot Engine para aprender la implementación de mecánicas de juego básicas.
 - [Harness Books](https://github.com/wquguru/harness-books): Colección de libros sobre ingeniería de "harness" para agentes de IA, comparando las arquitecturas de Claude Code y Codex.
 - [AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch): Curso gratuito y completo para aprender IA construyendo algoritmos desde cero.
+- [Flexboxle](https://flexboxle.com/): Juego de rompecabezas diario en el navegador al estilo Wordle diseñado para dominar y practicar el posicionamiento de elementos con CSS Flexbox y Tailwind CSS.
 
 ### 🔠 TIPOGRAFIAS:
 
@@ -1138,6 +1145,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Davia](https://davia.ai/): Herramienta para agentes de IA que genera documentación interna interactiva y visual de un codebase, integrando diagramas y pizarras editables.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything): Herramienta que permite a agentes de IA controlar software de escritorio complejo (Blender, GIMP) mediante una interfaz de línea de comandos generada automáticamente.
 - [OpenUI](https://www.openui.com/): Herramienta de IA para generar componentes UI web en tiempo real mediante lenguaje natural.
+- [RepoGrep](https://repogrep.com/): Buscador de código semántico y basado en IA que indexa millones de repositorios públicos de GitHub para encontrar patrones de código y casos de uso al instante.
+- [Typescale AI](https://typescale.ai/): Generador inteligente de escalas tipográficas asistido por IA que crea jerarquías visuales armoniosas y exporta variables CSS, clases de Tailwind CSS y tokens de diseño.
 
 #### 🧠 Modelos y Datos
 
