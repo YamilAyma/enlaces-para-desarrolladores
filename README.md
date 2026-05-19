@@ -322,6 +322,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Statewright](https://github.com/statewright/statewright): Framework de orquestación de agentes basado en máquinas de estado para garantizar flujos deterministas.
 - [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): Colección de habilidades predefinidas para agentes especializados en investigación científica y análisis de datos.
 - [Supervision](https://github.com/roboflow/supervision): Utilidades esenciales para flujos de trabajo de Computer Vision, incluyendo detección de objetos y seguimiento.
+- [zero-native](https://github.com/vercel-labs/zero-native): Shell de aplicación multiplataforma desarrollado por Vercel Labs en Zig, optimizado para envolver frontends web en WebViews nativos ultraligeros.
+- [PrettyTable](https://github.com/prettytable/prettytable): Biblioteca de Python ligera para representar de forma sencilla datos tabulares visualmente estructurados y formateados en la terminal.
+- [Google Maps Scrapper](https://github.com/zohaibbashir/Google-Maps-Scrapper): Herramienta en Python basada en Playwright que automatiza la extracción de datos de negocios en Google Maps y los exporta limpios a formato CSV.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -620,6 +623,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [ToolMateX](https://toolmatex.com/): Colección de herramientas online gratuitas y privadas para desarrolladores que funcionan directamente en el navegador.
 - [OpenFlowKit](https://openflowkit.com/): Motor de diagramación local-first y open-source para ingenieros, con soporte para Mermaid.js y exportación a Figma.
 - [Hopper](https://www.hypercubic.ai/hopper): Interfaz moderna impulsada por IA para interactuar y automatizar tareas en sistemas mainframe antiguos.
+- [ASCIImotion](https://asciimotion.gx2-studio.com/): Utilidad web para convertir imágenes y videos en representaciones artísticas de caracteres ASCII procesados en tiempo real y 100% en el cliente.
+- [design-extract](https://github.com/Manavarya09/design-extract): CLI y servidor MCP para extraer de forma automática sistemas de diseño desde el DOM, exportando a variables Figma, tokens de diseño y temas de Tailwind o shadcn/ui.
+- [Quarkdown](https://github.com/iamgio/quarkdown): Sistema de maquetación basado en Markdown enriquecido con scripting Turing-completo para compilar a múltiples formatos como PDF, HTML y presentaciones.
+- [Printing Press](https://printingpress.dev/): Framework en Go para generar interfaces de línea de comandos (CLIs) altamente eficientes en tokens y optimizadas para la interacción directa de agentes de IA.
 
 #### Despliegue:
 
@@ -872,6 +879,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [BEMoji](https://tomhayes.github.io/BEMoji/): Framework CSS y conjunto de herramientas que implementa la metodología BEM (Block-Element-Modifier) utilizando emojis como nombres de clases con soporte de compilación y plugins.
 - [Cascade by DesignSurface](https://designsurface.dev/cascade): Colección de 97 iconos meticulosamente diseñados para representar visualmente propiedades y valores de CSS, disponibles como SVGs y componentes React.
 - [Ratty](https://ratty-term.org/): Emulador de terminal experimental y acelerado por GPU escrito en Rust que permite renderizar gráficos 3D y sprites en tiempo real en la línea de comandos.
+- [labb.io](https://labb.io/): Biblioteca de componentes de UI accesibles para Django que utiliza Tailwind CSS, daisyUI y Alpine.js, ofreciendo alto rendimiento con cero JavaScript por defecto.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
@@ -980,6 +988,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Harness Books](https://github.com/wquguru/harness-books): Colección de libros sobre ingeniería de "harness" para agentes de IA, comparando las arquitecturas de Claude Code y Codex.
 - [AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch): Curso gratuito y completo para aprender IA construyendo algoritmos desde cero.
 - [Flexboxle](https://flexboxle.com/): Juego de rompecabezas diario en el navegador al estilo Wordle diseñado para dominar y practicar el posicionamiento de elementos con CSS Flexbox y Tailwind CSS.
+- [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/es/): Curso práctico y basado en proyectos en español para aprender a construir y securizar entornos controlados y fiables para agentes de IA coding.
 
 ### 🔠 TIPOGRAFIAS:
 
@@ -1147,6 +1156,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [OpenUI](https://www.openui.com/): Herramienta de IA para generar componentes UI web en tiempo real mediante lenguaje natural.
 - [RepoGrep](https://repogrep.com/): Buscador de código semántico y basado en IA que indexa millones de repositorios públicos de GitHub para encontrar patrones de código y casos de uso al instante.
 - [Typescale AI](https://typescale.ai/): Generador inteligente de escalas tipográficas asistido por IA que crea jerarquías visuales armoniosas y exporta variables CSS, clases de Tailwind CSS y tokens de diseño.
+- [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi): Proxy de API compatible con OpenAI que centraliza y rota claves gratuitas de 14 proveedores de LLM, con failover automático y cifrado AES-256.
+- [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI): Estudio de IA generativa autoalojable y open-source con Next.js y Electron que unifica la generación de imagen, video y sincronización labial para más de 200 modelos.
 
 #### 🧠 Modelos y Datos
 
@@ -1154,6 +1165,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [easy-dataset](https://github.com/ConardLi/easy-dataset): Herramienta potente para la creación sistemática de conjuntos de datos destinados al fine-tuning, RAG y evaluación de LLMs.
 - [airllm](https://github.com/lyogavin/airllm): Tecnología que permite la inferencia de modelos de 70B parámetros en GPUs domésticas de apenas 4GB mediante optimización de memoria.
 - [Dataset Search](https://datasetsearch.research.google.com/): El motor de búsqueda especializado de Google que permite localizar y acceder a miles de conjuntos de datos alojados en toda la web.
+- [Sana](https://github.com/NVlabs/Sana): Framework de NVIDIA de difusión lineal por Transformers (DiT) para generación ultraeficiente de imágenes hasta 4K y video, ejecutable en GPUs locales de laptops.
 
 ### 🎙️ Podcast
 
