@@ -1,3 +1,7 @@
 todo.txt
 build_log.txt
 web/build_log.txt
+
+# Scripts de pruebas y datos temporales
+scripts/README.test.md
+scripts/urls_to_remove.json

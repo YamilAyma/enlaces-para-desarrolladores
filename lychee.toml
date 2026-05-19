@@ -1,0 +1,27 @@
+# Configuración personalizada de Lychee para evitar falsos positivos
+# Documentación: https://github.com/lycheeverse/lychee#configuration
+
+# Lista de URLs o patrones regex a excluir de la validación
+exclude = [
+  'https://shoogle\.dev/.*',
+  'https://www\.freeimages\.com/.*',
+  'https://simpleicons\.org/.*',
+  'https://www\.reshot\.com/.*',
+  'https://medium\.com/.*'
+]
+
+# Códigos de estado HTTP aceptables
+accept = [
+  '200..299',
+  '301',
+  '302',
+  '308'
+]
+
+# Aumentar la resiliencia de las peticiones
+timeout = 15
+max_retries = 3
+max_concurrency = 10
+
+# Admitir redirecciones de forma segura
+max_redirects = 5
