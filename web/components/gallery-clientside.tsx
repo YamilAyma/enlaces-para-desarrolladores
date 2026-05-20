@@ -8,6 +8,7 @@ import { slugify } from "@/lib/utils";
 import Link from "next/link";
 import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import { Loader2, Search } from "lucide-react";
+import { createSearchIndex } from "@/lib/search";
 
 interface Category {
   name: string;
@@ -48,19 +49,35 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
     setVisibleCount(prev => prev + 20);
   };
 
+  // Memoize search index creation
+  const searchIndex = useMemo(() => {
+    return createSearchIndex(initialCategories);
+  }, [initialCategories]);
+
   // Memoized Filtering
   const filteredCategories = useMemo(() => {
     let categories = initialCategories;
 
-    // 1. Filter by Search Query
-    if (searchQuery) {
-      const lowerQuery = searchQuery.toLowerCase();
-      categories = categories.map(cat => ({
+    // 1. Filter by Search Query (Semantic/Fuzzy using MiniSearch)
+    if (searchQuery.trim()) {
+      const searchResults = searchIndex.search(searchQuery.trim());
+      
+      const categoryMap: { [key: string]: any[] } = {};
+      searchResults.forEach(result => {
+        const catName = result.category;
+        if (!categoryMap[catName]) {
+          categoryMap[catName] = [];
+        }
+        categoryMap[catName].push({
+          title: result.title,
+          url: result.url,
+          description: result.description,
+        });
+      });
+
+      categories = initialCategories.map(cat => ({
         ...cat,
-        links: cat.links.filter(link => 
-          link.title.toLowerCase().includes(lowerQuery) || 
-          link.url.toLowerCase().includes(lowerQuery)
-        )
+        links: categoryMap[cat.name] || [],
       })).filter(cat => cat.links.length > 0);
     }
 
@@ -70,7 +87,7 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
     }
 
     return categories;
-  }, [initialCategories, searchQuery, activeCategory]);
+  }, [initialCategories, searchQuery, activeCategory, searchIndex]);
 
   return (
     <div className="space-y-12" id="gallery">
