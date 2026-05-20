@@ -11,7 +11,7 @@ export interface SearchableItem {
 /**
  * Creates and indexes a new MiniSearch instance using the categories data.
  */
-export function createSearchIndex(categories: { name: string; links: any[] }[]): MiniSearch<SearchableItem> {
+export function createSearchIndex(categories: { name: string; links: { title: string; url: string; description?: string }[] }[]): MiniSearch<SearchableItem> {
   const miniSearch = new MiniSearch<SearchableItem>({
     fields: ['title', 'description', 'category'], // Fields to index for searching
     storeFields: ['title', 'url', 'description', 'category'], // Fields to include in search results

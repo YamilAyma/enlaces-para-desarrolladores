@@ -23,6 +23,7 @@ function SiteHeaderContent() {
   }, []);
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setTerm(searchParams.get("q") || "");
   }, [searchParams]);
 

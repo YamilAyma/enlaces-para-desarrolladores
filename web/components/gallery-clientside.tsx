@@ -7,12 +7,18 @@ import { getCategoryIcon } from "@/lib/icons";
 import { slugify } from "@/lib/utils";
 import Link from "next/link";
 import { useSearchParams, useRouter, usePathname } from "next/navigation";
-import { Loader2, Search } from "lucide-react";
+import { Loader2, Search, Star, Download, Copy, Trash2, Check } from "lucide-react";
 import { createSearchIndex } from "@/lib/search";
+
+interface LinkItem {
+  title: string;
+  url: string;
+  description?: string;
+}
 
 interface Category {
   name: string;
-  links: any[];
+  links: LinkItem[];
 }
 
 export function GalleryClientSide({ initialCategories }: { initialCategories: Category[] }) {
@@ -25,6 +31,47 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
   const activeCategory = searchParams.get("category") || "All";
   const [visibleCount, setVisibleCount] = useState(20);
   const [isFiltering, setIsFiltering] = useState(false);
+
+  // Favorites (Toolkit) State
+  const [favorites, setFavorites] = useState<LinkItem[]>([]);
+  const [isLoaded, setIsLoaded] = useState(false);
+  const [copied, setCopied] = useState(false);
+
+  // Safely load favorites on client mount
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      try {
+        const stored = localStorage.getItem("toolkit_favorites");
+        if (stored) {
+          // eslint-disable-next-line react-hooks/set-state-in-effect
+          setFavorites(JSON.parse(stored));
+        }
+      } catch (e) {
+        console.error("Failed to load favorites", e);
+      }
+      setIsLoaded(true);
+    }
+  }, []);
+
+  const saveFavorites = (newFavs: typeof favorites) => {
+    setFavorites(newFavs);
+    if (typeof window !== "undefined") {
+      try {
+        localStorage.setItem("toolkit_favorites", JSON.stringify(newFavs));
+      } catch (e) {
+        console.error("Failed to save favorites", e);
+      }
+    }
+  };
+
+  const toggleFavorite = (item: LinkItem) => {
+    const exists = favorites.some(fav => fav.url === item.url);
+    if (exists) {
+      saveFavorites(favorites.filter(fav => fav.url !== item.url));
+    } else {
+      saveFavorites([...favorites, { title: item.title, url: item.url, description: item.description }]);
+    }
+  };
 
   // Helper to sync URL w/ feedback
   const updateCategory = (cat: string) => {
@@ -42,6 +89,7 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
 
   // Reset pagination when filter changes
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setVisibleCount(20);
   }, [searchQuery, activeCategory]);
 
@@ -54,15 +102,50 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
     return createSearchIndex(initialCategories);
   }, [initialCategories]);
 
+  // Toolkit Export Handlers
+  const copyMarkdown = () => {
+    const md = favorites
+      .map(fav => `- [${fav.title}](${fav.url})${fav.description ? `: ${fav.description}` : ""}`)
+      .join("\n");
+    navigator.clipboard.writeText(md).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    });
+  };
+
+  const downloadJson = () => {
+    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(favorites, null, 2));
+    const downloadAnchor = document.createElement('a');
+    downloadAnchor.setAttribute("href", dataStr);
+    downloadAnchor.setAttribute("download", "developer-toolkit.json");
+    document.body.appendChild(downloadAnchor);
+    downloadAnchor.click();
+    downloadAnchor.remove();
+  };
+
+  const clearFavorites = () => {
+    if (confirm("¿Estás seguro de que deseas limpiar todo tu kit de herramientas?")) {
+      saveFavorites([]);
+      if (activeCategory === "⭐ Mi Toolkit") {
+        updateCategory("All");
+      }
+    }
+  };
+
   // Memoized Filtering
   const filteredCategories = useMemo(() => {
     let categories = initialCategories;
+
+    // Prepend favorites as a synthetic category if loaded and not empty
+    if (isLoaded && favorites.length > 0) {
+      categories = [{ name: "⭐ Mi Toolkit", links: favorites }, ...initialCategories];
+    }
 
     // 1. Filter by Search Query (Semantic/Fuzzy using MiniSearch)
     if (searchQuery.trim()) {
       const searchResults = searchIndex.search(searchQuery.trim());
       
-      const categoryMap: { [key: string]: any[] } = {};
+      const categoryMap: { [key: string]: LinkItem[] } = {};
       searchResults.forEach(result => {
         const catName = result.category;
         if (!categoryMap[catName]) {
@@ -75,7 +158,20 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
         });
       });
 
-      categories = initialCategories.map(cat => ({
+      // Filter favorites manually too
+      if (isLoaded && favorites.length > 0) {
+        const matchedUrls = new Set(searchResults.map(r => r.url));
+        const filteredFavs = favorites.filter(fav => 
+          matchedUrls.has(fav.url) || 
+          fav.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+          (fav.description && fav.description.toLowerCase().includes(searchQuery.toLowerCase()))
+        );
+        if (filteredFavs.length > 0) {
+          categoryMap["⭐ Mi Toolkit"] = filteredFavs;
+        }
+      }
+
+      categories = categories.map(cat => ({
         ...cat,
         links: categoryMap[cat.name] || [],
       })).filter(cat => cat.links.length > 0);
@@ -87,7 +183,7 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
     }
 
     return categories;
-  }, [initialCategories, searchQuery, activeCategory, searchIndex]);
+  }, [initialCategories, searchQuery, activeCategory, searchIndex, favorites, isLoaded]);
 
   return (
     <div className="space-y-12" id="gallery">
@@ -104,6 +200,20 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
                 >
                     Todos
                 </Link>
+
+                {isLoaded && favorites.length > 0 && (
+                    <button
+                        onClick={() => updateCategory("⭐ Mi Toolkit")}
+                        className={`flex-shrink-0 rounded-full px-6 py-2.5 text-base font-bold transition-all duration-300 border shadow-sm cursor-pointer ${
+                            activeCategory === "⭐ Mi Toolkit" 
+                            ? "bg-[var(--primary)] text-black border-[var(--primary)] shadow-[0_0_20px_rgba(202,252,0,0.4)] scale-105" 
+                            : "bg-zinc-900/60 text-zinc-300 border-white/10 hover:bg-zinc-800 hover:text-white hover:border-white/20"
+                        }`}
+                    >
+                        ⭐ Mi Toolkit ({favorites.length})
+                    </button>
+                )}
+
                 {initialCategories.map(cat => (
                     <Link
                         key={cat.name}
@@ -145,28 +255,71 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
             </div>
         ) : (
             filteredCategories.map((category) => {
-              const Icon = getCategoryIcon(category.name);
+              const isToolkit = category.name === "⭐ Mi Toolkit";
+              const Icon = isToolkit ? Star : getCategoryIcon(category.name);
               const displayedLinks = category.links.slice(0, visibleCount);
 
               return (
                 <section key={category.name} id={category.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}>
-                    <div className="mb-6 flex items-center gap-3">
-                        <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-zinc-900 border border-white/10 text-[var(--primary)] shadow-[0_0_15px_rgba(202,252,0,0.1)]">
-                            <Icon className="h-6 w-6" />
+                    <div className="mb-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-white/5 pb-4">
+                        <div className="flex items-center gap-3">
+                            <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-zinc-900 border border-white/10 text-[var(--primary)] shadow-[0_0_15px_rgba(202,252,0,0.1)]">
+                                <Icon className="h-6 w-6 animate-[pulse_3s_infinite]" />
+                            </div>
+                            <h2 className="text-3xl font-bold font-heading tracking-tight">{category.name}</h2>
+                            <span className="rounded-full bg-zinc-900 px-3 py-1 text-sm font-bold text-[var(--primary)] border border-white/10">
+                                {category.links.length}
+                            </span>
                         </div>
-                        <h2 className="text-3xl font-bold font-heading tracking-tight">{category.name}</h2>
-                        <span className="ml-auto rounded-full bg-zinc-900 px-3 py-1 text-sm font-bold text-[var(--primary)] border border-white/10">
-                            {category.links.length}
-                        </span>
+
+                        {isToolkit && (
+                            <div className="flex items-center gap-2 self-start sm:self-auto">
+                                <button
+                                    onClick={copyMarkdown}
+                                    className="flex items-center gap-1.5 rounded-full bg-zinc-900 border border-white/10 px-4 py-2 text-xs font-bold text-zinc-300 hover:text-[var(--primary)] hover:border-[var(--primary)]/30 transition-all cursor-pointer"
+                                    title="Copiar lista en Markdown para tu README"
+                                >
+                                    {copied ? (
+                                        <>
+                                            <Check className="h-3.5 w-3.5 text-green-500 animate-in zoom-in" />
+                                            <span>¡Copiado!</span>
+                                        </>
+                                    ) : (
+                                        <>
+                                            <Copy className="h-3.5 w-3.5" />
+                                            <span>Copiar Markdown</span>
+                                        </>
+                                    )}
+                                </button>
+                                <button
+                                    onClick={downloadJson}
+                                    className="flex items-center gap-1.5 rounded-full bg-zinc-900 border border-white/10 px-4 py-2 text-xs font-bold text-zinc-300 hover:text-[var(--primary)] hover:border-[var(--primary)]/30 transition-all cursor-pointer"
+                                    title="Descargar Kit en JSON"
+                                >
+                                    <Download className="h-3.5 w-3.5" />
+                                    <span>JSON</span>
+                                </button>
+                                <button
+                                    onClick={clearFavorites}
+                                    className="flex items-center gap-1.5 rounded-full bg-red-950/20 border border-red-500/10 px-4 py-2 text-xs font-bold text-red-400 hover:bg-red-950/50 hover:border-red-500/30 transition-all cursor-pointer"
+                                    title="Limpiar todos los favoritos"
+                                >
+                                    <Trash2 className="h-3.5 w-3.5" />
+                                    <span>Vaciar</span>
+                                </button>
+                            </div>
+                        )}
                     </div>
 
                     <BentoGrid>
-                        {displayedLinks.map((link: any, index: number) => (
+                        {displayedLinks.map((link: LinkItem, index: number) => (
                             <LinkCard
                                 key={`${link.url}-${index}`}
                                 title={link.title}
                                 url={link.url}
                                 description={link.description}
+                                isFavorite={favorites.some(fav => fav.url === link.url)}
+                                onToggleFavorite={() => toggleFavorite(link)}
                             />
                         ))}
                     </BentoGrid>

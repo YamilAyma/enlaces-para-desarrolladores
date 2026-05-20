@@ -34,8 +34,6 @@ function parseReadme(content: string): Category[] {
   const categories: Category[] = [];
   let currentCategory: Category | null = null;
 
-  const urlRegex = /(https?:\/\/[^\s]+)/g;
-
   for (let line of lines) {
     line = line.trim();
 
@@ -67,7 +65,7 @@ function parseReadme(content: string): Category[] {
         
         if (match) {
           const url = match[0];
-          let titleLine = line.substring(1).trim();
+          const titleLine = line.substring(1).trim();
           
           // Try to extract title if bracketed
           let title = '';
