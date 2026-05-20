@@ -4,6 +4,7 @@ import { slugify } from '@/lib/utils';
 import { notFound } from 'next/navigation';
 import { LinkCard } from '@/components/link-card';
 import { SiteHeader } from '@/components/site-header';
+import { SiteFooter } from '@/components/site-footer';
 import Link from 'next/link';
 import { ChevronLeft } from 'lucide-react';
 
@@ -92,7 +93,7 @@ export default async function CategoryPage({ params }: Props) {
           </p>
         </header>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
           {category.links.map((link, index) => (
             <LinkCard
               key={`${link.url}-${index}`}
@@ -103,6 +104,8 @@ export default async function CategoryPage({ params }: Props) {
           ))}
         </div>
       </div>
+
+      <SiteFooter />
     </main>
   );
 }

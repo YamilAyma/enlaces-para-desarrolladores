@@ -3,6 +3,7 @@ import { getLinks } from "@/lib/data";
 import { Hero } from "@/components/hero";
 import { SiteHeader } from "@/components/site-header";
 import { GalleryClientSide } from "@/components/gallery-clientside";
+import { SiteFooter } from "@/components/site-footer";
 
 // Revalidate every hour (if we want to pick up README changes without rebuild on Vercel/ISR)
 export const revalidate = 3600;
@@ -49,6 +50,8 @@ export default async function Home() {
             <GalleryClientSide initialCategories={categories} />
          </Suspense>
       </div>
+
+      <SiteFooter />
     </main>
   );
 }
