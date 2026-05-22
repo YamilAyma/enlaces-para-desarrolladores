@@ -22,11 +22,11 @@ export function Hero() {
       </div>
       
       <h1 className="text-4xl md:text-6xl font-black tracking-tight mb-4 bg-gradient-to-b from-white via-zinc-100 to-zinc-400 bg-clip-text text-transparent">
-        Recursos Premium para <span className="text-[var(--primary)] drop-shadow-[0_0_20px_rgba(202,252,0,0.2)]">Desarrolladores</span>
+        Recursos de <span className="text-[var(--primary)] drop-shadow-[0_0_20px_rgba(202,252,0,0.2)]">Código Abierto</span> para Desarrolladores
       </h1>
       
       <p className="max-w-2xl text-lg md:text-xl text-zinc-400 font-sans leading-relaxed mb-8">
-        Una colección curada con cientos de recursos de vanguardia, herramientas de código abierto y utilidades seleccionadas cuidadosamente para potenciar y acelerar tu flujo de trabajo de programación.
+        Una lista curada con cientos de aplicaciones web, herramientas de código abierto, recursos de Tailwind CSS y agentes de IA de vanguardia seleccionados minuciosamente para potenciar tu flujo de trabajo de programación.
       </p>
 
       <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-zinc-900/80 border border-white/5 text-zinc-400 text-sm font-semibold shadow-inner mb-2 animate-pulse duration-[3000ms]">

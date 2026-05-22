@@ -12,7 +12,7 @@ const roboto = Roboto({
 
 export const metadata: Metadata = {
   title: {
-    default: "Enlaces para Desarrolladores",
+    default: "Enlaces para Desarrolladores | Recursos de Código Abierto",
     template: "%s | Enlaces para Desarrolladores",
   },
   description: "Una colección curada de cientos de recursos, herramientas y bibliotecas para potenciar tu flujo de trabajo como desarrollador. Packs, UI Kits, Iconos y más.",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "es_ES",
     url: "https://enlaces-para-desarrolladores.netlify.app",
-    title: "Enlaces para Desarrolladores",
+    title: "Enlaces para Desarrolladores | Recursos de Código Abierto",
     description: "Descubre cientos de recursos cuidadosamente seleccionados para llevar tu desarrollo al siguiente nivel.",
     siteName: "Enlaces para Desarrolladores",
     images: [
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Enlaces para Desarrolladores",
+    title: "Enlaces para Desarrolladores | Recursos de Código Abierto",
     description: "Colección curada de recursos y herramientas para desarrolladores.",
     images: ["/logo.png"],
     creator: "@yamilayma", 
