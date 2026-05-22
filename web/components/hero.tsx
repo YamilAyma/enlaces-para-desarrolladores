@@ -1,40 +1,37 @@
 import Image from "next/image";
-import { Github } from "lucide-react";
+import { Sparkles } from "lucide-react";
 
 export function Hero() {
   return (
-    <section className="relative flex flex-col items-center justify-center pt-32 pb-20 text-center">
+    <section className="relative flex flex-col items-center justify-center pt-8 pb-12 text-center max-w-4xl mx-auto">
+      {/* Resplandor radial de fondo */}
+      <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_center,_var(--color-primary)/0.03,_transparent_60%)] pointer-events-none" />
       
-      {/* Replaced Text with Logo - INCREASED SIZE */}
-      <div className="relative h-32 w-96 md:h-40 md:w-[600px] mb-8 animate-in fade-in zoom-in duration-500">
-        <Image 
-            src="/logo.png" 
-            alt="Enlaces para Desarrolladores" 
-            fill 
-            className="object-contain" 
-            priority
-        />
+      {/* Elemento de Marca Visual (Logotipo Premium) */}
+      <div className="relative mb-6 animate-in fade-in zoom-in duration-700">
+        <div className="absolute inset-0 bg-[var(--primary)]/10 blur-[50px] rounded-full scale-75" />
+        <div className="relative h-28 w-80 md:h-36 md:w-[480px]">
+          <Image 
+              src="/logo.png" 
+              alt="Logotipo de Enlaces para Desarrolladores" 
+              fill 
+              className="object-contain filter drop-shadow-[0_0_15px_rgba(202,252,0,0.1)]" 
+              priority
+          />
+        </div>
       </div>
       
-      <p className="mt-4 max-w-2xl text-xl text-muted-foreground font-sans leading-relaxed">
-        Discover hundreds of carefully selected resources, tools, and libraries to power up your development workflow.
+      <h1 className="text-4xl md:text-6xl font-black tracking-tight mb-4 bg-gradient-to-b from-white via-zinc-100 to-zinc-400 bg-clip-text text-transparent">
+        Recursos Premium para <span className="text-[var(--primary)] drop-shadow-[0_0_20px_rgba(202,252,0,0.2)]">Desarrolladores</span>
+      </h1>
+      
+      <p className="max-w-2xl text-lg md:text-xl text-zinc-400 font-sans leading-relaxed mb-8">
+        Una colección curada con cientos de recursos de vanguardia, herramientas de código abierto y utilidades seleccionadas cuidadosamente para potenciar y acelerar tu flujo de trabajo de programación.
       </p>
 
-      <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
-        <a 
-            href="#gallery"
-            className="rounded-full bg-[var(--primary)] px-8 py-4 text-lg font-bold text-black transition-all hover:scale-105 hover:shadow-[0_0_20px_rgba(202,252,0,0.3)]"
-        >
-            Explore Resources
-        </a>
-        <a 
-            href="https://github.com/YamilAyma/enlaces-para-desarrolladores"
-            target="_blank"
-            className="flex items-center gap-2 rounded-full border border-white/10 bg-zinc-900 px-8 py-4 text-lg font-bold text-zinc-100 transition-all hover:bg-zinc-800 hover:border-white/20"
-        >
-            <Github className="h-5 w-5" />
-            <span>Submit Link</span>
-        </a>
+      <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-zinc-900/80 border border-white/5 text-zinc-400 text-sm font-semibold shadow-inner mb-2 animate-pulse duration-[3000ms]">
+        <Sparkles className="h-4 w-4 text-[var(--primary)]" />
+        <span>Acceso libre e inmediato a cientos de herramientas y APIs</span>
       </div>
     </section>
   );

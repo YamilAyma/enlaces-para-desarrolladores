@@ -32,24 +32,37 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
   const [visibleCount, setVisibleCount] = useState(20);
   const [isFiltering, setIsFiltering] = useState(false);
 
-  // Favorites (Toolkit) State
+  // Favorites 
   const [favorites, setFavorites] = useState<LinkItem[]>([]);
   const [isLoaded, setIsLoaded] = useState(false);
   const [copied, setCopied] = useState(false);
 
-  // Safely load favorites on client mount
+  // Safely load favorites on client mount and listen for synchronization
   useEffect(() => {
     if (typeof window !== "undefined") {
-      try {
-        const stored = localStorage.getItem("toolkit_favorites");
-        if (stored) {
-          // eslint-disable-next-line react-hooks/set-state-in-effect
-          setFavorites(JSON.parse(stored));
+      const handleSync = () => {
+        try {
+          const stored = localStorage.getItem("toolkit_favorites");
+          if (stored) {
+            setFavorites(JSON.parse(stored));
+          } else {
+            setFavorites([]);
+          }
+        } catch (e) {
+          console.error("Failed to sync favorites", e);
         }
-      } catch (e) {
-        console.error("Failed to load favorites", e);
-      }
+      };
+
+      handleSync();
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setIsLoaded(true);
+
+      window.addEventListener("toolkit-updated", handleSync);
+      window.addEventListener("storage", handleSync);
+      return () => {
+        window.removeEventListener("toolkit-updated", handleSync);
+        window.removeEventListener("storage", handleSync);
+      };
     }
   }, []);
 
@@ -58,6 +71,7 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
     if (typeof window !== "undefined") {
       try {
         localStorage.setItem("toolkit_favorites", JSON.stringify(newFavs));
+        window.dispatchEvent(new Event("toolkit-updated"));
       } catch (e) {
         console.error("Failed to save favorites", e);
       }

@@ -34,6 +34,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title,
     description,
+    alternates: {
+      canonical: `https://enlaces-para-desarrolladores.netlify.app/categoria/${slug}`,
+    },
     openGraph: {
       title,
       description,
@@ -71,8 +74,25 @@ export default async function CategoryPage({ params }: Props) {
     notFound();
   }
 
+  const categoryJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "@id": `https://enlaces-para-desarrolladores.netlify.app/categoria/${slug}/#webpage`,
+    "url": `https://enlaces-para-desarrolladores.netlify.app/categoria/${slug}`,
+    "name": `${category.name} - Recursos para Desarrolladores`,
+    "description": `Explora las mejores herramientas y enlaces de ${category.name} curados para desarrolladores.`,
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://enlaces-para-desarrolladores.netlify.app/#website"
+    }
+  };
+
   return (
     <main className="min-h-screen bg-black text-zinc-100 selection:bg-[var(--primary)] selection:text-black">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(categoryJsonLd) }}
+      />
       <SiteHeader />
       
       <div className="pt-32 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-20">

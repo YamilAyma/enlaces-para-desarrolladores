@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Roboto } from "next/font/google"; // Changed to Roboto
 import "./globals.css";
+import { getLinks } from "@/lib/data";
+import { CommandPalette } from "@/components/command-palette";
 
 const roboto = Roboto({
   subsets: ["latin"],
@@ -18,6 +20,9 @@ export const metadata: Metadata = {
   authors: [{ name: "Yamil Ayma", url: "https://github.com/YamilAyma" }],
   creator: "Yamil Ayma",
   metadataBase: new URL("https://enlaces-para-desarrolladores.netlify.app"), 
+  alternates: {
+    canonical: "https://enlaces-para-desarrolladores.netlify.app",
+  },
   openGraph: {
     type: "website",
     locale: "es_ES",
@@ -62,17 +67,70 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const categories = await getLinks();
+
+  const jsonLdGraph = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://enlaces-para-desarrolladores.netlify.app/#website",
+        "url": "https://enlaces-para-desarrolladores.netlify.app",
+        "name": "Enlaces para Desarrolladores",
+        "description": "Una colección curada de cientos de recursos, herramientas y bibliotecas para potenciar tu flujo de trabajo como desarrollador.",
+        "publisher": {
+          "@id": "https://enlaces-para-desarrolladores.netlify.app/#creator"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "Person",
+        "@id": "https://enlaces-para-desarrolladores.netlify.app/#creator",
+        "name": "Yamil Ayma",
+        "url": "https://github.com/YamilAyma",
+        "sameAs": [
+          "https://x.com/yamilayma"
+        ],
+        "jobTitle": "Software Developer"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://enlaces-para-desarrolladores.netlify.app/#webpage",
+        "url": "https://enlaces-para-desarrolladores.netlify.app",
+        "name": "Enlaces para Desarrolladores - Recursos y Herramientas",
+        "isPartOf": {
+          "@id": "https://enlaces-para-desarrolladores.netlify.app/#website"
+        },
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Desarrollo Web"
+          },
+          {
+            "@type": "Thing",
+            "name": "Herramientas de programación"
+          }
+        ]
+      }
+    ]
+  };
+
   return (
     <html lang="es">
       <body
         className={`${roboto.variable} font-sans antialiased`}
       >
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdGraph) }}
+        />
         {children}
+        <CommandPalette categories={categories} />
       </body>
     </html>
   );

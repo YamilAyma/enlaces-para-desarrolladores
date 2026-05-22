@@ -46,7 +46,8 @@ export default async function Home() {
       />
 
       <div className="pt-32 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-20">
-         <Suspense fallback={<div className="h-96 flex items-center justify-center text-muted-foreground animate-pulse">Loading developer resources...</div>}>
+         <Hero />
+         <Suspense fallback={<div className="h-96 flex items-center justify-center text-muted-foreground animate-pulse">Cargando recursos de desarrollo...</div>}>
             <GalleryClientSide initialCategories={categories} />
          </Suspense>
       </div>
