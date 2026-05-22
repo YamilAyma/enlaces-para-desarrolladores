@@ -327,6 +327,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [zero-native](https://github.com/vercel-labs/zero-native): Shell de aplicación multiplataforma desarrollado por Vercel Labs en Zig, optimizado para envolver frontends web en WebViews nativos ultraligeros.
 - [PrettyTable](https://github.com/prettytable/prettytable): Biblioteca de Python ligera para representar de forma sencilla datos tabulares visualmente estructurados y formateados en la terminal.
 - [Google Maps Scrapper](https://github.com/zohaibbashir/Google-Maps-Scrapper): Herramienta en Python basada en Playwright que automatiza la extracción de datos de negocios en Google Maps y los exporta limpios a formato CSV.
+- [SurrealDB](https://surrealdb.com/): Base de datos multi-modelo en la nube y local-first que unifica relaciones, documentos, grafos y búsquedas estructuradas en una plataforma de alto rendimiento y baja latencia.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -598,7 +599,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [BrandBird Mobile Mockup Grid](https://www.brandbird.app/tools/mobile-mockup-grid): Herramienta para generar cuadrículas de mockups móviles elegantes, ideal para presentar capturas de pantalla de apps de forma profesional.
 - [EasyCopy](https://github.com/joeseesun/EasyCopy): Extensión inteligente para la gestión del portapapeles que facilita la organización y recuperación de fragmentos de código y texto.
 - [witr](https://github.com/pranshuparmar/witr): Herramienta de diagnóstico en Go que mapea la información de procesos para revelar su origen y cadenas de causalidad mediante puertos o PIDs.
-- [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd): Lanzador para macOS compatible con extensiones de Raycast, que incluye historial de portapapeles, flujos de voz y funciones potenciadas por IA.
+- [SuperCmd](https://supercmd.sh/): Lanzador altamente personalizable para macOS compatible con extensiones de Raycast, que incluye un historial avanzado de portapapeles, flujos de voz y funciones de IA.
 - [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
 - [Formisch](https://formisch.dev/): Biblioteca de formularios modular y agnóstica al framework que utiliza un enfoque basado en esquemas (Valibot) para una validación ultra rápida y reactividad optimizada.
 - [pino-redact](https://github.com/pinojs/redact): Herramienta de alto rendimiento para Node.js que permite la edición selectiva (redacción) de datos sensibles en objetos y logs antes de ser procesados.
@@ -630,6 +631,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Quarkdown](https://github.com/iamgio/quarkdown): Sistema de maquetación basado en Markdown enriquecido con scripting Turing-completo para compilar a múltiples formatos como PDF, HTML y presentaciones.
 - [Printing Press](https://printingpress.dev/): Framework en Go para generar interfaces de línea de comandos (CLIs) altamente eficientes en tokens y optimizadas para la interacción directa de agentes de IA.
 - [Penpot](https://github.com/penpot/penpot): Plataforma de diseño y creación de prototipos de código abierto pensada para equipos multidisciplinares, basada en estándares web (SVG) y autoalojable.
+- [snapd](https://github.com/canonical/snapd): Motor de empaquetado y despliegue de aplicaciones para Linux desarrollado por Canonical, que permite instalar y actualizar paquetes snap de forma segura y automatizada.
 
 #### Despliegue:
 
@@ -660,6 +662,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Hyperframes](https://github.com/heygen-com/hyperframes): Framework de HeyGen para generar videos usando HTML nativo y atributos de datos.
 - [Transitions.dev](https://transitions.dev/): Colección interactiva de transiciones y animaciones CSS portátiles y listas para usar. Incluye efectos de redimensionamiento de tarjetas y elementos de UI modernos.
 - [VTBag](https://vtbag.dev/vtbag/): Suite de herramientas y librerías agnósticas al framework para trabajar con la API nativa de View Transitions del navegador.
+- [ColorFlow](https://colorflow.ls.graphics/): Herramienta de diseño web interactiva y visual para explorar, generar e integrar paletas de colores fluidas y gradientes dinámicos en proyectos digitales de alto impacto.
 
 ### 🅰️ Iconos:
 
@@ -885,6 +888,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Ratty](https://ratty-term.org/): Emulador de terminal experimental y acelerado por GPU escrito en Rust que permite renderizar gráficos 3D y sprites en tiempo real en la línea de comandos.
 - [labb.io](https://labb.io/): Biblioteca de componentes de UI accesibles para Django que utiliza Tailwind CSS, daisyUI y Alpine.js, ofreciendo alto rendimiento con cero JavaScript por defecto.
 - [Animata](https://github.com/codse/animata): Biblioteca de componentes y efectos de animación listos para usar en React y Tailwind CSS, ideal para enriquecer interfaces visuales.
+- [RosenCharts](https://rosencharts.com/): Biblioteca de componentes de gráficos interactivos y altamente personalizables para Tailwind CSS, diseñada para integrarse sin esfuerzo y mejorar la visualización de datos en la web.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
@@ -1167,6 +1171,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Typescale AI](https://typescale.ai/): Generador inteligente de escalas tipográficas asistido por IA que crea jerarquías visuales armoniosas y exporta variables CSS, clases de Tailwind CSS y tokens de diseño.
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi): Proxy de API compatible con OpenAI que centraliza y rota claves gratuitas de 14 proveedores de LLM, con failover automático y cifrado AES-256.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI): Estudio de IA generativa autoalojable y open-source con Next.js y Electron que unifica la generación de imagen, video y sincronización labial para más de 200 modelos.
+- [Context7](https://context7.com/): Herramienta inteligente diseñada para simplificar y automatizar la gestión y estructuración de contextos complejos en interacciones con modelos de lenguaje grandes.
+- [Midscene.js](https://midscenejs.com/): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
+- [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
+- [book-to-skill](https://github.com/virgiliojr94/book-to-skill): Herramienta que analiza textos y libros técnicos para extraer conocimiento estructurado y convertirlo de forma automatizada en habilidades prácticas ejecutables por agentes de IA.
 
 #### 🧠 Modelos y Datos
 
