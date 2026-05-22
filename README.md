@@ -219,6 +219,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Free LLM APIs](https://github.com/cheahjs/free-llm-api-resources): Lista curada de servicios que ofrecen acceso gratuito o créditos de prueba para APIs de inferencia de modelos de lenguaje grandes.
 - [Scraping APIs for Devs](https://github.com/cporter202/scraping-apis-for-devs): Colección curada de APIs de scraping listas para usar en automatizaciones y apps de IA sin configurar infraestructura propia.
 - [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator permite generar automáticamente bibliotecas cliente de API (generación de SDK), stubs de servidor, documentación y configuración a partir de una especificación OpenAPI (v2, v3).
+- [Magisk](https://github.com/topjohnwu/Magisk): Magisk es un conjunto de software de código abierto para personalizar Android, compatible con dispositivos con versiones de Android superiores a la 6.0. 
 
 ### 🖥️ Técnico:
 
@@ -628,11 +629,13 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [design-extract](https://github.com/Manavarya09/design-extract): CLI y servidor MCP para extraer de forma automática sistemas de diseño desde el DOM, exportando a variables Figma, tokens de diseño y temas de Tailwind o shadcn/ui.
 - [Quarkdown](https://github.com/iamgio/quarkdown): Sistema de maquetación basado en Markdown enriquecido con scripting Turing-completo para compilar a múltiples formatos como PDF, HTML y presentaciones.
 - [Printing Press](https://printingpress.dev/): Framework en Go para generar interfaces de línea de comandos (CLIs) altamente eficientes en tokens y optimizadas para la interacción directa de agentes de IA.
+- [Penpot](https://github.com/penpot/penpot): Plataforma de diseño y creación de prototipos de código abierto pensada para equipos multidisciplinares, basada en estándares web (SVG) y autoalojable.
 
 #### Despliegue:
 
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
 - [Xata](https://github.com/xataio/xata): Plataforma de base de datos serverless basada en PostgreSQL con búsqueda integrada y analíticas.
+- [Coolify](https://github.com/coollabsio/coolify): Alternativa de código abierto a Vercel, Netlify o Heroku. Permite alojar aplicaciones, bases de datos y servicios en tus propios servidores.
 
 ### 🤗 RELAX:
 
@@ -881,6 +884,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Cascade by DesignSurface](https://designsurface.dev/cascade): Colección de 97 iconos meticulosamente diseñados para representar visualmente propiedades y valores de CSS, disponibles como SVGs y componentes React.
 - [Ratty](https://ratty-term.org/): Emulador de terminal experimental y acelerado por GPU escrito en Rust que permite renderizar gráficos 3D y sprites en tiempo real en la línea de comandos.
 - [labb.io](https://labb.io/): Biblioteca de componentes de UI accesibles para Django que utiliza Tailwind CSS, daisyUI y Alpine.js, ofreciendo alto rendimiento con cero JavaScript por defecto.
+- [Animata](https://github.com/codse/animata): Biblioteca de componentes y efectos de animación listos para usar en React y Tailwind CSS, ideal para enriquecer interfaces visuales.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
@@ -1184,6 +1188,14 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [v2EX](https://www.v2ex.com/): Comunidad creativa donde los desarrolladores comparten ideas y proyectos innovadores.
 - [elHacker.net](https://elhacker.net/): Uno de los portales de seguridad informática y hacking ético más legendarios en español.
 - [Hackertab](https://now.hackertab.dev/): Extensión de navegador que convierte tu nueva pestaña en un feed de noticias tech.
+
+### 🏠 Self-Hosted (Autoalojado)
+
+- [Plausible Analytics](https://github.com/plausible/analytics): Alternativa de código abierto a Google Analytics, ligera y enfocada en la privacidad. Sin cookies y totalmente autoalojable.
+- [n8n](https://github.com/n8n-io/n8n): Plataforma de automatización de flujos de trabajo orientada a nodos. Permite integrar APIs y servicios de forma visual y es totalmente autoalojable.
+- [Medusa](https://github.com/medusajs/medusa): Framework de comercio electrónico headless escrito en Node.js. Orientado a desarrolladores para crear tiendas personalizables y autoalojables.
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): Alternativa de código abierto a Notion, construida con Flutter y Rust. Enfocada en la privacidad de datos y control total del espacio de trabajo.
+- [Listmonk](https://github.com/knadh/listmonk): Gestor de listas de correo y newsletters autónomo, independiente y rápido, escrito en Go y con panel en Vue.js.
 
 ### 💫 INSPIRACIÓN
 
