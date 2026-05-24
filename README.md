@@ -328,6 +328,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [PrettyTable](https://github.com/prettytable/prettytable): Biblioteca de Python ligera para representar de forma sencilla datos tabulares visualmente estructurados y formateados en la terminal.
 - [Google Maps Scrapper](https://github.com/zohaibbashir/Google-Maps-Scrapper): Herramienta en Python basada en Playwright que automatiza la extracción de datos de negocios en Google Maps y los exporta limpios a formato CSV.
 - [SurrealDB](https://surrealdb.com/): Base de datos multi-modelo en la nube y local-first que unifica relaciones, documentos, grafos y búsquedas estructuradas en una plataforma de alto rendimiento y baja latencia.
+- [badge-maker](https://github.com/dsibilio/badge-maker): Librería ligera y eficiente en Java para la generación programática de insignias (badges/shields) en formato SVG de forma local.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -632,6 +633,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Printing Press](https://printingpress.dev/): Framework en Go para generar interfaces de línea de comandos (CLIs) altamente eficientes en tokens y optimizadas para la interacción directa de agentes de IA.
 - [Penpot](https://github.com/penpot/penpot): Plataforma de diseño y creación de prototipos de código abierto pensada para equipos multidisciplinares, basada en estándares web (SVG) y autoalojable.
 - [snapd](https://github.com/canonical/snapd): Motor de empaquetado y despliegue de aplicaciones para Linux desarrollado por Canonical, que permite instalar y actualizar paquetes snap de forma segura y automatizada.
+- [Badgie](https://badgie.me/): Herramienta de línea de comandos en Python que analiza tu repositorio de forma automática y le añade insignias (badges) estilizadas de Shields.io en base a las herramientas detectadas.
+- [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr): Herramienta CLI de código abierto para automatizar la inserción y actualización de insignias personalizadas y dinámicas en descripciones de Pull/Merge Requests (GitHub/GitLab).
 
 #### Despliegue:
 
@@ -701,6 +704,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Lobe Icons](https://github.com/lobehub/lobe-icons): Colección de logos de marcas de IA (OpenAI, Claude, etc.) como iconos SVG y PNG ligeros.
 - [getillustrations](https://getillustrations.com/): Extensa librería de ilustraciones vectoriales de alta calidad, escenas y kits de UI para potenciar el diseño visual de tus proyectos.
 - [SustyIcons](https://sustyicons.com/): Colección de iconos sostenibles y ligeros diseñados para minimizar el impacto ambiental y optimizar el rendimiento web.
+- [Made by Human](https://madebyhuman.iamjarl.com/): Colección de insignias gratuitas de código abierto bajo licencia MIT para indicar de forma transparente el nivel de intervención humana y de IA en un proyecto.
+- [shieldcn](https://shieldcn.dev/): Generador y proveedor de insignias (badges) para README elegantes e inspiradas en la estética visual y los botones de shadcn/ui.
+- [Markdown Buttons](https://gist.github.com/cxmeel/b3af232eba0ace022e2fba8b7b286520): Colección de botones y badges estilizados en formato SVG diseñados específicamente para ser insertados en archivos Markdown (README, wikis).
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
@@ -981,6 +987,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Marp](https://github.com/marp-team/marp): Ecosistema para crear diapositivas profesionales utilizando Markdown, con soporte para PDF, PPTX y exportación web.
 - [Swiss Design System](https://swiss.ziki.boo/): Sistema de diseño minimalista inspirado en el estilo suizo, optimizado para la creación de interfaces de agentes de IA y herramientas técnicas.
 - [Web Features Explorer](https://web-platform-dx.github.io/web-features-explorer/): Explorador visual de las características de la plataforma web y su estado de soporte en navegadores.
+- [GitHub Emoji Cheat Sheet](https://phw198.github.io/github-emoji-cheatsheet/): Lista categorizada e interactiva de todos los emojis oficiales de GitHub, ideal para enriquecer el diseño y la documentación en Markdown.
 
 ### 📒 CURSOS:
 
