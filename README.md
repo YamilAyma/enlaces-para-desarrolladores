@@ -332,6 +332,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [SurrealDB](https://surrealdb.com/): Base de datos multi-modelo en la nube y local-first que unifica relaciones, documentos, grafos y búsquedas estructuradas en una plataforma de alto rendimiento y baja latencia.
 - [badge-maker](https://github.com/dsibilio/badge-maker): Librería ligera y eficiente en Java para la generación programática de insignias (badges/shields) en formato SVG de forma local.
 - [stop-slop](https://github.com/hardikpandya/stop-slop): Archivo de habilidad (skill) para agentes de IA diseñado para auditar, depurar y eliminar las muletillas, clichés y palabras típicas generadas por modelos de lenguaje en textos.
+- [Malt](https://malt3d.com/): Un framework de renderizado en tiempo real y no fotorrealista para animación y arte estilizado, integrado con Blender y programable mediante GLSL y Python.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -638,6 +639,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Badgie](https://badgie.me/): Herramienta de línea de comandos en Python que analiza tu repositorio de forma automática y le añade insignias (badges) estilizadas de Shields.io en base a las herramientas detectadas.
 - [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr): Herramienta CLI de código abierto para automatizar la inserción y actualización de insignias personalizadas y dinámicas en descripciones de Pull/Merge Requests (GitHub/GitLab).
 - [removerized](https://github.com/yossTheDev/removerized): Una herramienta web interactiva extremadamente rápida y local para eliminar fondos de imágenes directamente en el navegador preservando la privacidad.
+- [dura](https://github.com/tkellogg/dura): Una herramienta de fondo escrita en Rust que realiza copias de seguridad de tu trabajo de forma automática y transparente en commits de Git no destructivos.
+- [Jujutsu VCS](https://www.jj-vcs.dev/latest/): Un sistema de control de versiones (VCS) moderno y ultrarrápido compatible con Git, que introduce ramas virtuales y flujos de trabajo concurrentes seguros.
+- [systeminformer](https://github.com/winsiderss/systeminformer): Una herramienta gratuita, potente y multipropósito para Windows que permite monitorear recursos del sistema, depurar software y detectar malware.
+- [huh](https://github.com/charmbracelet/huh): Una librería en Go simple y potente para construir formularios y prompts interactivos y estilizados en la terminal con soporte de accesibilidad.
 
 #### Despliegue:
 
@@ -655,6 +660,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [GitCity](https://github.com/rishabhbhartiya/GitCity): Visualiza tus contribuciones de GitHub como un horizonte de ciudad en 3D interactivo y lleno de vida.
 - [Repo Roast](https://reporoast.app/): Deja que una IA critique y "rostice" tu repositorio de GitHub de forma humorística analizando tu código y actividad.
 - [Meigen AI](https://www.meigen.ai/): Generador de citas inspiradoras y reflexiones diarias potenciado por Inteligencia Artificial.
+- [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books): Un popular y divertido repositorio que recopila imágenes e ilustraciones de chicas de anime sosteniendo libros reales o ficticios sobre programación y ciencias de la computación.
+- [Dockercraft](https://github.com/docker-archive-public/docker.dockercraft): Una implementación extremadamente creativa que permite visualizar y gestionar tus contenedores Docker activos en 3D dentro de un mundo de Minecraft.
+- [HTML as a programming language](https://github.com/HTML-as-programming-language/HTML-as-programming-language): Un compilador y set de herramientas satírico pero completamente funcional que permite escribir lógica compleja utilizando etiquetas HTML y XML.
 
 ### 🌐 WEB:
 
@@ -670,6 +678,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [VTBag](https://vtbag.dev/vtbag/): Suite de herramientas y librerías agnósticas al framework para trabajar con la API nativa de View Transitions del navegador.
 - [ColorFlow](https://colorflow.ls.graphics/): Herramienta de diseño web interactiva y visual para explorar, generar e integrar paletas de colores fluidas y gradientes dinámicos en proyectos digitales de alto impacto.
 - [comimi](https://github.com/yui540/comimi): Un micro-framework CSS experimental diseñado para crear interfaces web estéticas inspiradas en layouts de mangas y novelas visuales japonesas.
+- [daedalOS](https://github.com/DustinBrett/daedalOS): Un entorno de escritorio completo y altamente funcional simulado directamente en el navegador, desarrollado con React y TypeScript.
+- [voxel.css](http://voxelcss.com/): Una biblioteca de JavaScript ligera diseñada para renderizar y manipular gráficos y mundos 3D de vóxeles en la web utilizando únicamente HTML5 y CSS3.
 
 ### 🅰️ Iconos:
 
@@ -1123,6 +1133,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [whisper.money](https://whisper.money/): App de finanzas personales open-source con cifrado de extremo a extremo y autoalojamiento.
 - [Invidious](https://invidious.io/): Frontend alternativo para YouTube, ligero y privado, sin anuncios ni rastreo de Google.
 - [Nango](https://github.com/NangoHQ/nango): Plataforma de código abierto para gestionar la autenticación OAuth y sincronizar integraciones de API de dos vías de forma robusta y simplificada.
+- [docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless): Una imagen Docker para desplegar Steam en modo headless con soporte para aceleración por GPU, accesible vía navegador web y compatible con streaming por Sunshine o Moonlight.
 
 ### 🤖 IA
 
@@ -1188,6 +1199,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Midscene.js](https://midscenejs.com/): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
 - [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill): Herramienta que analiza textos y libros técnicos para extraer conocimiento estructurado y convertirlo de forma automatizada en habilidades prácticas ejecutables por agentes de IA.
+- [seedance2-skill](https://github.com/dexhunter/seedance2-skill): Archivo de habilidad (skill) para agentes de IA optimizado para estructurar y redactar prompts de alta calidad para el modelo de generación de video Jimeng Seedance 2.0 de ByteDance.
 
 #### 🧠 Modelos y Datos
 
