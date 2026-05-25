@@ -643,6 +643,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Jujutsu VCS](https://www.jj-vcs.dev/latest/): Un sistema de control de versiones (VCS) moderno y ultrarrápido compatible con Git, que introduce ramas virtuales y flujos de trabajo concurrentes seguros.
 - [systeminformer](https://github.com/winsiderss/systeminformer): Una herramienta gratuita, potente y multipropósito para Windows que permite monitorear recursos del sistema, depurar software y detectar malware.
 - [huh](https://github.com/charmbracelet/huh): Una librería en Go simple y potente para construir formularios y prompts interactivos y estilizados en la terminal con soporte de accesibilidad.
+- [scrcpy](https://github.com/Genymobile/scrcpy): Una herramienta de alto rendimiento que permite visualizar y controlar dispositivos Android desde tu ordenador vía USB o Wi-Fi sin necesidad de acceso root.
 
 #### Despliegue:
 
@@ -680,6 +681,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [comimi](https://github.com/yui540/comimi): Un micro-framework CSS experimental diseñado para crear interfaces web estéticas inspiradas en layouts de mangas y novelas visuales japonesas.
 - [daedalOS](https://github.com/DustinBrett/daedalOS): Un entorno de escritorio completo y altamente funcional simulado directamente en el navegador, desarrollado con React y TypeScript.
 - [voxel.css](http://voxelcss.com/): Una biblioteca de JavaScript ligera diseñada para renderizar y manipular gráficos y mundos 3D de vóxeles en la web utilizando únicamente HTML5 y CSS3.
+- [Theatre.js](https://github.com/theatre-js/theatre): Una biblioteca de animación para JS que permite diseñar movimientos web complejos y cinemáticos en DOM, Three.js o Canvas mediante un editor visual e interactivo en tiempo real.
 
 ### 🅰️ Iconos:
 
@@ -1020,6 +1022,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch): Curso gratuito y completo para aprender IA construyendo algoritmos desde cero.
 - [Flexboxle](https://flexboxle.com/): Juego de rompecabezas diario en el navegador al estilo Wordle diseñado para dominar y practicar el posicionamiento de elementos con CSS Flexbox y Tailwind CSS.
 - [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/es/): Curso práctico y basado en proyectos en español para aprender a construir y securizar entornos controlados y fiables para agentes de IA coding.
+- [wtfpython](https://github.com/satwikkansal/wtfpython): Una fascinante y educativa colección de fragmentos de código e incongruencias de Python diseñada para explorar el funcionamiento interno del lenguaje y desmitificar comportamientos inesperados.
 
 ### 🔠 TIPOGRAFIAS:
 
