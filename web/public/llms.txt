@@ -183,6 +183,8 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Soco-st](https://soco-st.com/): Ilustraciones de estilo plano y minimalista con un personalizador de colores web para descargar en formatos PNG, SVG y EPS.
 - [Shigureni](https://shigureni.com/): Colección de ilustraciones japonesas con un estilo peculiar y tierno, perfectas para blogs y redes sociales.
 - [Loose Drawing](https://loosedrawing.com/): Ilustraciones sencillas de trazo libre con una estética suave, ideales para proyectos que buscan un toque humano y accesible.
+- [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins): Repositorio oficial de Anthropic con plugins de código abierto diseñados para potenciar la productividad y automatización de tareas en Claude.
+- [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills): Colección de 754 habilidades estructuradas de ciberseguridad para agentes de IA (como Claude Code), mapeadas bajo marcos de la industria como MITRE ATT&CK y NIST.
 ## 📄 LISTAS
 
 - [Startups Graveyard](https://loot-drop.vercel.app/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.
@@ -209,6 +211,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Free LLM APIs](https://github.com/cheahjs/free-llm-api-resources): Lista curada de servicios que ofrecen acceso gratuito o créditos de prueba para APIs de inferencia de modelos de lenguaje grandes.
 - [Scraping APIs for Devs](https://github.com/cporter202/scraping-apis-for-devs): Colección curada de APIs de scraping listas para usar en automatizaciones y apps de IA sin configurar infraestructura propia.
 - [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator permite generar automáticamente bibliotecas cliente de API (generación de SDK), stubs de servidor, documentación y configuración a partir de una especificación OpenAPI (v2, v3).
+- [Magisk](https://github.com/topjohnwu/Magisk): Magisk es un conjunto de software de código abierto para personalizar Android, compatible con dispositivos con versiones de Android superiores a la 6.0.
 ## 🖥️ Técnico:
 
 - [Baoyu Skills](https://github.com/JimLiu/baoyu-skills): Habilidades compartidas por Baoyu para mejorar la eficiencia en el trabajo diario con Claude Code.
@@ -314,6 +317,9 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [zero-native](https://github.com/vercel-labs/zero-native): Shell de aplicación multiplataforma desarrollado por Vercel Labs en Zig, optimizado para envolver frontends web en WebViews nativos ultraligeros.
 - [PrettyTable](https://github.com/prettytable/prettytable): Biblioteca de Python ligera para representar de forma sencilla datos tabulares visualmente estructurados y formateados en la terminal.
 - [Google Maps Scrapper](https://github.com/zohaibbashir/Google-Maps-Scrapper): Herramienta en Python basada en Playwright que automatiza la extracción de datos de negocios en Google Maps y los exporta limpios a formato CSV.
+- [SurrealDB](https://surrealdb.com/): Base de datos multi-modelo en la nube y local-first que unifica relaciones, documentos, grafos y búsquedas estructuradas en una plataforma de alto rendimiento y baja latencia.
+- [badge-maker](https://github.com/dsibilio/badge-maker): Librería ligera y eficiente en Java para la generación programática de insignias (badges/shields) en formato SVG de forma local.
+- [stop-slop](https://github.com/hardikpandya/stop-slop): Archivo de habilidad (skill) para agentes de IA diseñado para auditar, depurar y eliminar las muletillas, clichés y palabras típicas generadas por modelos de lenguaje en textos.
 ## 🛠️ HERRAMIENTAS:
 
 - [Jimp](https://jimp-dev.github.io/jimp/): Biblioteca de procesamiento de imágenes para Node.js escrita completamente en JavaScript, sin dependencias nativas, ideal para entornos donde la compilación es un problema.
@@ -389,7 +395,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Image Elf](https://www.image-elf.com/): Herramienta sencilla para crear imágenes de plantilla y placeholders rápidamente.
 - [Text to SVG](https://text-to-svg.com/): Conversor online de texto a trazados vectoriales SVG con soporte para varias fuentes.
 - [Try Venz](https://try.venz.dev/): Generador de gráficos y visualizaciones de datos a partir de números brutos.
-- [Next Bunny](https://nextbunny.co/editor?projectId=default-project): Editor visual para construir aplicaciones Next.js de forma rápida e intuitiva.
 - [HelloCSV](https://hellocsv.github.io/HelloCSV/): Librería para integrar la carga y el procesamiento de archivos CSV en tus aplicaciones.
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/): Herramienta de línea de comandos para convertir imágenes en siluetas de arte ASCII.
 - [URL To Any](https://www.urltoany.com/): Colección de utilidades interesantes para manipular y transformar URLs.
@@ -584,7 +589,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [BrandBird Mobile Mockup Grid](https://www.brandbird.app/tools/mobile-mockup-grid): Herramienta para generar cuadrículas de mockups móviles elegantes, ideal para presentar capturas de pantalla de apps de forma profesional.
 - [EasyCopy](https://github.com/joeseesun/EasyCopy): Extensión inteligente para la gestión del portapapeles que facilita la organización y recuperación de fragmentos de código y texto.
 - [witr](https://github.com/pranshuparmar/witr): Herramienta de diagnóstico en Go que mapea la información de procesos para revelar su origen y cadenas de causalidad mediante puertos o PIDs.
-- [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd): Lanzador para macOS compatible con extensiones de Raycast, que incluye historial de portapapeles, flujos de voz y funciones potenciadas por IA.
+- [SuperCmd](https://supercmd.sh/): Lanzador altamente personalizable para macOS compatible con extensiones de Raycast, que incluye un historial avanzado de portapapeles, flujos de voz y funciones de IA.
 - [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
 - [Formisch](https://formisch.dev/): Biblioteca de formularios modular y agnóstica al framework que utiliza un enfoque basado en esquemas (Valibot) para una validación ultra rápida y reactividad optimizada.
 - [pino-redact](https://github.com/pinojs/redact): Herramienta de alto rendimiento para Node.js que permite la edición selectiva (redacción) de datos sensibles en objetos y logs antes de ser procesados.
@@ -615,8 +620,14 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [design-extract](https://github.com/Manavarya09/design-extract): CLI y servidor MCP para extraer de forma automática sistemas de diseño desde el DOM, exportando a variables Figma, tokens de diseño y temas de Tailwind o shadcn/ui.
 - [Quarkdown](https://github.com/iamgio/quarkdown): Sistema de maquetación basado en Markdown enriquecido con scripting Turing-completo para compilar a múltiples formatos como PDF, HTML y presentaciones.
 - [Printing Press](https://printingpress.dev/): Framework en Go para generar interfaces de línea de comandos (CLIs) altamente eficientes en tokens y optimizadas para la interacción directa de agentes de IA.
+- [Penpot](https://github.com/penpot/penpot): Plataforma de diseño y creación de prototipos de código abierto pensada para equipos multidisciplinares, basada en estándares web (SVG) y autoalojable.
+- [snapd](https://github.com/canonical/snapd): Motor de empaquetado y despliegue de aplicaciones para Linux desarrollado por Canonical, que permite instalar y actualizar paquetes snap de forma segura y automatizada.
+- [Badgie](https://badgie.me/): Herramienta de línea de comandos en Python que analiza tu repositorio de forma automática y le añade insignias (badges) estilizadas de Shields.io en base a las herramientas detectadas.
+- [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr): Herramienta CLI de código abierto para automatizar la inserción y actualización de insignias personalizadas y dinámicas en descripciones de Pull/Merge Requests (GitHub/GitLab).
+- [removerized](https://github.com/yossTheDev/removerized): Una herramienta web interactiva extremadamente rápida y local para eliminar fondos de imágenes directamente en el navegador preservando la privacidad.
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
 - [Xata](https://github.com/xataio/xata): Plataforma de base de datos serverless basada en PostgreSQL con búsqueda integrada y analíticas.
+- [Coolify](https://github.com/coollabsio/coolify): Alternativa de código abierto a Vercel, Netlify o Heroku. Permite alojar aplicaciones, bases de datos y servicios en tus propios servidores.
 ## 🤗 RELAX:
 
 - [The Coding Love](https://thecodinglove.com/): Blog clásico de humor para desarrolladores con memes y GIFs sobre la vida en IT.
@@ -639,6 +650,8 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Hyperframes](https://github.com/heygen-com/hyperframes): Framework de HeyGen para generar videos usando HTML nativo y atributos de datos.
 - [Transitions.dev](https://transitions.dev/): Colección interactiva de transiciones y animaciones CSS portátiles y listas para usar. Incluye efectos de redimensionamiento de tarjetas y elementos de UI modernos.
 - [VTBag](https://vtbag.dev/vtbag/): Suite de herramientas y librerías agnósticas al framework para trabajar con la API nativa de View Transitions del navegador.
+- [ColorFlow](https://colorflow.ls.graphics/): Herramienta de diseño web interactiva y visual para explorar, generar e integrar paletas de colores fluidas y gradientes dinámicos en proyectos digitales de alto impacto.
+- [comimi](https://github.com/yui540/comimi): Un micro-framework CSS experimental diseñado para crear interfaces web estéticas inspiradas en layouts de mangas y novelas visuales japonesas.
 ## 🅰️ Iconos:
 
 - [Streamline](https://www.streamlinehq.com/): Tu biblioteca definitiva de iconos. Descarga o copia iconos SVG y PNG.
@@ -675,6 +688,9 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Lobe Icons](https://github.com/lobehub/lobe-icons): Colección de logos de marcas de IA (OpenAI, Claude, etc.) como iconos SVG y PNG ligeros.
 - [getillustrations](https://getillustrations.com/): Extensa librería de ilustraciones vectoriales de alta calidad, escenas y kits de UI para potenciar el diseño visual de tus proyectos.
 - [SustyIcons](https://sustyicons.com/): Colección de iconos sostenibles y ligeros diseñados para minimizar el impacto ambiental y optimizar el rendimiento web.
+- [Made by Human](https://madebyhuman.iamjarl.com/): Colección de insignias gratuitas de código abierto bajo licencia MIT para indicar de forma transparente el nivel de intervención humana y de IA en un proyecto.
+- [shieldcn](https://shieldcn.dev/): Generador y proveedor de insignias (badges) para README elegantes e inspiradas en la estética visual y los botones de shadcn/ui.
+- [Markdown Buttons](https://gist.github.com/cxmeel/b3af232eba0ace022e2fba8b7b286520): Colección de botones y badges estilizados en formato SVG diseñados específicamente para ser insertados en archivos Markdown (README, wikis).
 ## ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
 - [ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI): Una colección de código abierto de componentes animados, interactivos y totalmente personalizables para crear interfaces de usuario impactantes y memorables.
@@ -788,7 +804,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Raster Retro Icons](https://raster.saran13raj.com/): Colección de iconos con estética de píxel art y estilo retro de videojuegos.
 - [Rafty](https://rafty.rhinobase.io/): Suite de componentes de React y Tailwind con un enfoque en la accesibilidad.
 - [Sketchbook UI](https://github.com/SarthakRawat-1/sketchbook-ui): Librería de componentes de interfaz de usuario con un estilo artístico que parece dibujado a mano.
-- [Icoon 3D](https://www.icoon.co/): Repositorio de iconos 3D gratuitos y premium para interfaces de usuario modernas.
 - [rgitui](https://github.com/noahbclarkson/rgitui): Cliente de escritorio para Git acelerado por GPU, construido en Rust utilizando GPUI para un rendimiento extremo.
 - [GitHub Social Preview Generator](https://github.com/readme-SVG/github-social-preview-generator): Herramienta cliente para generar tarjetas de vista previa social (OG images) estilizadas al estilo de GitHub para cualquier repositorio público.
 - [Serie](https://github.com/lusingander/serie): Un gráfico de historial de commits enriquecido y visualmente atractivo directamente en tu terminal.
@@ -860,6 +875,9 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Cascade by DesignSurface](https://designsurface.dev/cascade): Colección de 97 iconos meticulosamente diseñados para representar visualmente propiedades y valores de CSS, disponibles como SVGs y componentes React.
 - [Ratty](https://ratty-term.org/): Emulador de terminal experimental y acelerado por GPU escrito en Rust que permite renderizar gráficos 3D y sprites en tiempo real en la línea de comandos.
 - [labb.io](https://labb.io/): Biblioteca de componentes de UI accesibles para Django que utiliza Tailwind CSS, daisyUI y Alpine.js, ofreciendo alto rendimiento con cero JavaScript por defecto.
+- [Animata](https://github.com/codse/animata): Biblioteca de componentes y efectos de animación listos para usar en React y Tailwind CSS, ideal para enriquecer interfaces visuales.
+- [RosenCharts](https://rosencharts.com/): Biblioteca de componentes de gráficos interactivos y altamente personalizables para Tailwind CSS, diseñada para integrarse sin esfuerzo y mejorar la visualización de datos en la web.
+- [Animal Island UI](https://guokaigdg.github.io/animal-island-ui/): Una preciosa librería de componentes UI interactivos inspirados en la estética lúdica y colorida del juego Animal Crossing.
 ## 🧩 PLANTILLAS Y EJEMPLOS:
 
 - [Shadcn Dashboard Landing Template](https://github.com/shadcnstore/shadcn-dashboard-landing-template): Una plantilla de página de aterrizaje (landing page) profesional y moderna para dashboards, construida con Shadcn UI.
@@ -948,6 +966,8 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Marp](https://github.com/marp-team/marp): Ecosistema para crear diapositivas profesionales utilizando Markdown, con soporte para PDF, PPTX y exportación web.
 - [Swiss Design System](https://swiss.ziki.boo/): Sistema de diseño minimalista inspirado en el estilo suizo, optimizado para la creación de interfaces de agentes de IA y herramientas técnicas.
 - [Web Features Explorer](https://web-platform-dx.github.io/web-features-explorer/): Explorador visual de las características de la plataforma web y su estado de soporte en navegadores.
+- [GitHub Emoji Cheat Sheet](https://phw198.github.io/github-emoji-cheatsheet/): Lista categorizada e interactiva de todos los emojis oficiales de GitHub, ideal para enriquecer el diseño y la documentación en Markdown.
+- [First Contributions](https://github.com/firstcontributions/first-contributions): Una guía práctica y repositorio interactivo diseñado para ayudar a principiantes a realizar su primera contribución de código abierto en GitHub paso a paso.
 ## 📒 CURSOS:
 
 - [CSS mediante lecciones](https://anchoreum.com/#es): Plataforma educativa interactiva para aprender CSS a través de desafíos prácticos.
@@ -1074,6 +1094,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Mafl](https://github.com/hywax/mafl): Dashboard minimalista y flexible para el autoalojamiento de servicios personales, configurable mediante YAML y optimizado para Docker.
 - [whisper.money](https://whisper.money/): App de finanzas personales open-source con cifrado de extremo a extremo y autoalojamiento.
 - [Invidious](https://invidious.io/): Frontend alternativo para YouTube, ligero y privado, sin anuncios ni rastreo de Google.
+- [Nango](https://github.com/NangoHQ/nango): Plataforma de código abierto para gestionar la autenticación OAuth y sincronizar integraciones de API de dos vías de forma robusta y simplificada.
 ## 🤖 IA
 
 - [ChatGPT](https://chatgpt.com/): El modelo de lenguaje a gran escala de OpenAI que revolucionó la interacción con la IA.
@@ -1130,6 +1151,10 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Typescale AI](https://typescale.ai/): Generador inteligente de escalas tipográficas asistido por IA que crea jerarquías visuales armoniosas y exporta variables CSS, clases de Tailwind CSS y tokens de diseño.
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi): Proxy de API compatible con OpenAI que centraliza y rota claves gratuitas de 14 proveedores de LLM, con failover automático y cifrado AES-256.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI): Estudio de IA generativa autoalojable y open-source con Next.js y Electron que unifica la generación de imagen, video y sincronización labial para más de 200 modelos.
+- [Context7](https://context7.com/): Herramienta inteligente diseñada para simplificar y automatizar la gestión y estructuración de contextos complejos en interacciones con modelos de lenguaje grandes.
+- [Midscene.js](https://midscenejs.com/): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
+- [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
+- [book-to-skill](https://github.com/virgiliojr94/book-to-skill): Herramienta que analiza textos y libros técnicos para extraer conocimiento estructurado y convertirlo de forma automatizada en habilidades prácticas ejecutables por agentes de IA.
 - [pocket-tts](https://github.com/kyutai-labs/pocket-tts): Sistema de Text-to-Speech extremadamente ligero que se ejecuta localmente en la CPU, ideal para dispositivos con recursos limitados.
 - [easy-dataset](https://github.com/ConardLi/easy-dataset): Herramienta potente para la creación sistemática de conjuntos de datos destinados al fine-tuning, RAG y evaluación de LLMs.
 - [airllm](https://github.com/lyogavin/airllm): Tecnología que permite la inferencia de modelos de 70B parámetros en GPUs domésticas de apenas 4GB mediante optimización de memoria.
@@ -1146,6 +1171,13 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [v2EX](https://www.v2ex.com/): Comunidad creativa donde los desarrolladores comparten ideas y proyectos innovadores.
 - [elHacker.net](https://elhacker.net/): Uno de los portales de seguridad informática y hacking ético más legendarios en español.
 - [Hackertab](https://now.hackertab.dev/): Extensión de navegador que convierte tu nueva pestaña en un feed de noticias tech.
+## 🏠 Self-Hosted (Autoalojado)
+
+- [Plausible Analytics](https://github.com/plausible/analytics): Alternativa de código abierto a Google Analytics, ligera y enfocada en la privacidad. Sin cookies y totalmente autoalojable.
+- [n8n](https://github.com/n8n-io/n8n): Plataforma de automatización de flujos de trabajo orientada a nodos. Permite integrar APIs y servicios de forma visual y es totalmente autoalojable.
+- [Medusa](https://github.com/medusajs/medusa): Framework de comercio electrónico headless escrito en Node.js. Orientado a desarrolladores para crear tiendas personalizables y autoalojables.
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): Alternativa de código abierto a Notion, construida con Flutter y Rust. Enfocada en la privacidad de datos y control total del espacio de trabajo.
+- [Listmonk](https://github.com/knadh/listmonk): Gestor de listas de correo y newsletters autónomo, independiente y rápido, escrito en Go y con panel en Vue.js.
 ## 💫 INSPIRACIÓN
 
 - [Netfolio](https://www.netfolio.io/websites): Explora los mejores sitios web Actualizado diariamente.

@@ -190,6 +190,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Soco-st](https://soco-st.com/): Ilustraciones de estilo plano y minimalista con un personalizador de colores web para descargar en formatos PNG, SVG y EPS.
 - [Shigureni](https://shigureni.com/): Colección de ilustraciones japonesas con un estilo peculiar y tierno, perfectas para blogs y redes sociales.
 - [Loose Drawing](https://loosedrawing.com/): Ilustraciones sencillas de trazo libre con una estética suave, ideales para proyectos que buscan un toque humano y accesible.
+- [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins): Repositorio oficial de Anthropic con plugins de código abierto diseñados para potenciar la productividad y automatización de tareas en Claude.
+- [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills): Colección de 754 habilidades estructuradas de ciberseguridad para agentes de IA (como Claude Code), mapeadas bajo marcos de la industria como MITRE ATT&CK y NIST.
 
 ### 📄 LISTAS
 
@@ -329,6 +331,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Google Maps Scrapper](https://github.com/zohaibbashir/Google-Maps-Scrapper): Herramienta en Python basada en Playwright que automatiza la extracción de datos de negocios en Google Maps y los exporta limpios a formato CSV.
 - [SurrealDB](https://surrealdb.com/): Base de datos multi-modelo en la nube y local-first que unifica relaciones, documentos, grafos y búsquedas estructuradas en una plataforma de alto rendimiento y baja latencia.
 - [badge-maker](https://github.com/dsibilio/badge-maker): Librería ligera y eficiente en Java para la generación programática de insignias (badges/shields) en formato SVG de forma local.
+- [stop-slop](https://github.com/hardikpandya/stop-slop): Archivo de habilidad (skill) para agentes de IA diseñado para auditar, depurar y eliminar las muletillas, clichés y palabras típicas generadas por modelos de lenguaje en textos.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -634,6 +637,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [snapd](https://github.com/canonical/snapd): Motor de empaquetado y despliegue de aplicaciones para Linux desarrollado por Canonical, que permite instalar y actualizar paquetes snap de forma segura y automatizada.
 - [Badgie](https://badgie.me/): Herramienta de línea de comandos en Python que analiza tu repositorio de forma automática y le añade insignias (badges) estilizadas de Shields.io en base a las herramientas detectadas.
 - [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr): Herramienta CLI de código abierto para automatizar la inserción y actualización de insignias personalizadas y dinámicas en descripciones de Pull/Merge Requests (GitHub/GitLab).
+- [removerized](https://github.com/yossTheDev/removerized): Una herramienta web interactiva extremadamente rápida y local para eliminar fondos de imágenes directamente en el navegador preservando la privacidad.
 
 #### Despliegue:
 
@@ -665,6 +669,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Transitions.dev](https://transitions.dev/): Colección interactiva de transiciones y animaciones CSS portátiles y listas para usar. Incluye efectos de redimensionamiento de tarjetas y elementos de UI modernos.
 - [VTBag](https://vtbag.dev/vtbag/): Suite de herramientas y librerías agnósticas al framework para trabajar con la API nativa de View Transitions del navegador.
 - [ColorFlow](https://colorflow.ls.graphics/): Herramienta de diseño web interactiva y visual para explorar, generar e integrar paletas de colores fluidas y gradientes dinámicos en proyectos digitales de alto impacto.
+- [comimi](https://github.com/yui540/comimi): Un micro-framework CSS experimental diseñado para crear interfaces web estéticas inspiradas en layouts de mangas y novelas visuales japonesas.
 
 ### 🅰️ Iconos:
 
@@ -893,6 +898,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [labb.io](https://labb.io/): Biblioteca de componentes de UI accesibles para Django que utiliza Tailwind CSS, daisyUI y Alpine.js, ofreciendo alto rendimiento con cero JavaScript por defecto.
 - [Animata](https://github.com/codse/animata): Biblioteca de componentes y efectos de animación listos para usar en React y Tailwind CSS, ideal para enriquecer interfaces visuales.
 - [RosenCharts](https://rosencharts.com/): Biblioteca de componentes de gráficos interactivos y altamente personalizables para Tailwind CSS, diseñada para integrarse sin esfuerzo y mejorar la visualización de datos en la web.
+- [Animal Island UI](https://guokaigdg.github.io/animal-island-ui/): Una preciosa librería de componentes UI interactivos inspirados en la estética lúdica y colorida del juego Animal Crossing.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
@@ -986,6 +992,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Swiss Design System](https://swiss.ziki.boo/): Sistema de diseño minimalista inspirado en el estilo suizo, optimizado para la creación de interfaces de agentes de IA y herramientas técnicas.
 - [Web Features Explorer](https://web-platform-dx.github.io/web-features-explorer/): Explorador visual de las características de la plataforma web y su estado de soporte en navegadores.
 - [GitHub Emoji Cheat Sheet](https://phw198.github.io/github-emoji-cheatsheet/): Lista categorizada e interactiva de todos los emojis oficiales de GitHub, ideal para enriquecer el diseño y la documentación en Markdown.
+- [First Contributions](https://github.com/firstcontributions/first-contributions): Una guía práctica y repositorio interactivo diseñado para ayudar a principiantes a realizar su primera contribución de código abierto en GitHub paso a paso.
 
 ### 📒 CURSOS:
 
@@ -1115,6 +1122,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Mafl](https://github.com/hywax/mafl): Dashboard minimalista y flexible para el autoalojamiento de servicios personales, configurable mediante YAML y optimizado para Docker.
 - [whisper.money](https://whisper.money/): App de finanzas personales open-source con cifrado de extremo a extremo y autoalojamiento.
 - [Invidious](https://invidious.io/): Frontend alternativo para YouTube, ligero y privado, sin anuncios ni rastreo de Google.
+- [Nango](https://github.com/NangoHQ/nango): Plataforma de código abierto para gestionar la autenticación OAuth y sincronizar integraciones de API de dos vías de forma robusta y simplificada.
 
 ### 🤖 IA
 
