@@ -405,7 +405,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Image Elf](https://www.image-elf.com/): Herramienta sencilla para crear imágenes de plantilla y placeholders rápidamente.
 - [Text to SVG](https://text-to-svg.com/): Conversor online de texto a trazados vectoriales SVG con soporte para varias fuentes.
 - [Try Venz](https://try.venz.dev/): Generador de gráficos y visualizaciones de datos a partir de números brutos.
-- [Next Bunny](https://nextbunny.co/editor?projectId=default-project): Editor visual para construir aplicaciones Next.js de forma rápida e intuitiva.
 - [HelloCSV](https://hellocsv.github.io/HelloCSV/): Librería para integrar la carga y el procesamiento de archivos CSV en tus aplicaciones.
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/): Herramienta de línea de comandos para convertir imágenes en siluetas de arte ASCII.
 - [URL To Any](https://www.urltoany.com/): Colección de utilidades interesantes para manipular y transformar URLs.
@@ -821,7 +820,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Raster Retro Icons](https://raster.saran13raj.com/): Colección de iconos con estética de píxel art y estilo retro de videojuegos.
 - [Rafty](https://rafty.rhinobase.io/): Suite de componentes de React y Tailwind con un enfoque en la accesibilidad.
 - [Sketchbook UI](https://github.com/SarthakRawat-1/sketchbook-ui): Librería de componentes de interfaz de usuario con un estilo artístico que parece dibujado a mano.
-- [Icoon 3D](https://www.icoon.co/): Repositorio de iconos 3D gratuitos y premium para interfaces de usuario modernas.
 - [rgitui](https://github.com/noahbclarkson/rgitui): Cliente de escritorio para Git acelerado por GPU, construido en Rust utilizando GPUI para un rendimiento extremo.
 - [GitHub Social Preview Generator](https://github.com/readme-SVG/github-social-preview-generator): Herramienta cliente para generar tarjetas de vista previa social (OG images) estilizadas al estilo de GitHub para cualquier repositorio público.
 - [Serie](https://github.com/lusingander/serie): Un gráfico de historial de commits enriquecido y visualmente atractivo directamente en tu terminal.
