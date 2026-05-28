@@ -4,19 +4,23 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node ../scripts/generate-llms-txt.mjs && next build",
+    "build": "node ../scripts/generate-llms-txt.mjs && node ./scripts/generate-post-covers.mjs && next build",
     "start": "next start",
     "lint": "eslint",
-    "generate-llms": "node ../scripts/generate-llms-txt.mjs"
+    "generate-llms": "node ../scripts/generate-llms-txt.mjs",
+    "generate-covers": "node ./scripts/generate-post-covers.mjs"
   },
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^12.28.1",
+    "gray-matter": "^4.0.3",
     "lucide-react": "^0.562.0",
+    "marked": "^18.0.4",
     "minisearch": "^7.2.0",
     "next": "16.1.4",
     "react": "19.2.3",
     "react-dom": "19.2.3",
+    "sharp": "^0.34.5",
     "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {
