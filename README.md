@@ -1,3 +1,5 @@
+![Banner del proyect](banner.png)
+
 # Mi lista de recursos para desarrolladores 💻🔥
 
 ---
@@ -207,6 +209,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Open Source Projects](https://www.opensourceprojects.dev/): Directorio para descubrir y contribuir a proyectos de código abierto emergentes.
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): Repositorio comunitario que recopila y comparte diariamente los proyectos de código abierto y herramientas para desarrolladores más interesantes de GitHub.
 - [Web-to-Desktop Framework Comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): Tabla comparativa exhaustiva de frameworks para convertir aplicaciones web en aplicaciones de escritorio (Electron, Tauri, NW.js, Neutralinojs, etc.).
+- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers): Lista seleccionada de recursos de diseño e interfaz de usuario, desde fotos de archivo, plantillas web, marcos CSS, bibliotecas de interfaz de usuario, herramientas y mucho más. 
 
 ### 🧗 ROADMAPS:
 
@@ -1137,6 +1140,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Invidious](https://invidious.io/): Frontend alternativo para YouTube, ligero y privado, sin anuncios ni rastreo de Google.
 - [Nango](https://github.com/NangoHQ/nango): Plataforma de código abierto para gestionar la autenticación OAuth y sincronizar integraciones de API de dos vías de forma robusta y simplificada.
 - [docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless): Una imagen Docker para desplegar Steam en modo headless con soporte para aceleración por GPU, accesible vía navegador web y compatible con streaming por Sunshine o Moonlight.
+- [Daytona](https://www.daytona.io/): Daytona es una infraestructura segura y elástica para ejecutar código generado por IA. 
 
 ### 🤖 IA
 

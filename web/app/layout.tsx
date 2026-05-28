@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     siteName: "Enlaces para Desarrolladores",
     images: [
       {
-        url: "/logo.png", 
+        url: "/banner.png", 
         width: 1200,
         height: 630,
         alt: "Enlaces para Desarrolladores Logo",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Enlaces para Desarrolladores | Recursos de Código Abierto",
     description: "Colección curada de recursos y herramientas para desarrolladores.",
-    images: ["/logo.png"],
+    images: ["/banner.png"],
     creator: "@yamilayma", 
   },
   icons: {
