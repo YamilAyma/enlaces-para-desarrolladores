@@ -66,6 +66,14 @@ function SiteHeaderContent() {
                 <span className="text-lg font-black font-heading text-white tracking-tight">Desarrolladores</span>
              </div>
         </Link>
+        <nav className="hidden md:flex items-center gap-6 ml-4 border-l border-white/10 pl-6">
+          <Link
+            href="/blog"
+            className="text-sm font-semibold text-zinc-400 hover:text-[var(--primary)] transition-colors duration-200"
+          >
+            Artículos
+          </Link>
+        </nav>
       </div>
 
       <div />
