@@ -209,7 +209,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Open Source Projects](https://www.opensourceprojects.dev/): Directorio para descubrir y contribuir a proyectos de código abierto emergentes.
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): Repositorio comunitario que recopila y comparte diariamente los proyectos de código abierto y herramientas para desarrolladores más interesantes de GitHub.
 - [Web-to-Desktop Framework Comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): Tabla comparativa exhaustiva de frameworks para convertir aplicaciones web en aplicaciones de escritorio (Electron, Tauri, NW.js, Neutralinojs, etc.).
-- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers): Lista seleccionada de recursos de diseño e interfaz de usuario, desde fotos de archivo, plantillas web, marcos CSS, bibliotecas de interfaz de usuario, herramientas y mucho más. 
+- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers): Lista seleccionada de recursos de diseño e interfaz de usuario, desde fotos de archivo, plantillas web, marcos CSS, bibliotecas de interfaz de usuario, herramientas y mucho más.
 
 ### 🧗 ROADMAPS:
 
@@ -224,7 +224,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Free LLM APIs](https://github.com/cheahjs/free-llm-api-resources): Lista curada de servicios que ofrecen acceso gratuito o créditos de prueba para APIs de inferencia de modelos de lenguaje grandes.
 - [Scraping APIs for Devs](https://github.com/cporter202/scraping-apis-for-devs): Colección curada de APIs de scraping listas para usar en automatizaciones y apps de IA sin configurar infraestructura propia.
 - [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator permite generar automáticamente bibliotecas cliente de API (generación de SDK), stubs de servidor, documentación y configuración a partir de una especificación OpenAPI (v2, v3).
-- [Magisk](https://github.com/topjohnwu/Magisk): Magisk es un conjunto de software de código abierto para personalizar Android, compatible con dispositivos con versiones de Android superiores a la 6.0. 
+- [Magisk](https://github.com/topjohnwu/Magisk): Magisk es un conjunto de software de código abierto para personalizar Android, compatible con dispositivos con versiones de Android superiores a la 6.0.
 
 ### 🖥️ Técnico:
 
@@ -339,6 +339,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [hexyl](https://github.com/sharkdp/hexyl): Visor hexadecimal para la terminal.
+- [Codereel](https://reelcode.fayaz.workers.dev/): Anima código y comparte en video, altamente personalizable.
+- [Snapdown](https://snapdom.dev/): Motor de alto rendimiento para capturar, modificar y convertir elementos DOM a cualquier formato.
 - [Jimp](https://jimp-dev.github.io/jimp/): Biblioteca de procesamiento de imágenes para Node.js escrita completamente en JavaScript, sin dependencias nativas, ideal para entornos donde la compilación es un problema.
 - [Sharp](https://sharp.pixelplumbing.com/): El módulo de procesamiento de imágenes para Node.js más rápido, basado en la librería libvips, diseñado para redimensionar imágenes JPEG, PNG, WebP, AVIF y TIFF de forma eficiente.
 - [Claudian](https://github.com/YishenTu/claudian): Plugin para Obsidian que integra a Claude Code como colaborador de IA dentro de tu sistema de notas personales.
@@ -726,6 +729,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Made by Human](https://madebyhuman.iamjarl.com/): Colección de insignias gratuitas de código abierto bajo licencia MIT para indicar de forma transparente el nivel de intervención humana y de IA en un proyecto.
 - [shieldcn](https://shieldcn.dev/): Generador y proveedor de insignias (badges) para README elegantes e inspiradas en la estética visual y los botones de shadcn/ui.
 - [Markdown Buttons](https://gist.github.com/cxmeel/b3af232eba0ace022e2fba8b7b286520): Colección de botones y badges estilizados en formato SVG diseñados específicamente para ser insertados en archivos Markdown (README, wikis).
+- [Whimsically](https://www.whimsically.app/): Loaders bonitos y agradables con sonido que puedes copiar y pegar, con soporte de React.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
@@ -1117,6 +1121,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Python Weekly](https://www.pythonweekly.com/): Resumen semanal con noticias sobre Python, empleos y recursos educativos de alta calidad.
 
 ### 🏠 Self-Hosted (Autoalojado)
+
+- [Atomic CRM](https://marmelab.com/atomic-crm/): Un CRM completo desarrollado con React, shadcn/ui y Supabase.
 - [streambert](https://github.com/truelockmc/streambert): Una aplicación de escritorio Electron multiplataforma para reproducir en streaming y descargar cualquier película, serie de televisión o anime del mundo. Sin anuncios ni seguimiento.
 - [OpenWA](https://www.open-wa.org/): Puerta de enlace API de WhatsApp gratuita, de código abierto y autohospedada
 - [Ghost](https://github.com/TryGhost/Ghost): Tecnología independiente para la publicación moderna, membresías, suscripciones y boletines informativos.
@@ -1140,7 +1146,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Invidious](https://invidious.io/): Frontend alternativo para YouTube, ligero y privado, sin anuncios ni rastreo de Google.
 - [Nango](https://github.com/NangoHQ/nango): Plataforma de código abierto para gestionar la autenticación OAuth y sincronizar integraciones de API de dos vías de forma robusta y simplificada.
 - [docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless): Una imagen Docker para desplegar Steam en modo headless con soporte para aceleración por GPU, accesible vía navegador web y compatible con streaming por Sunshine o Moonlight.
-- [Daytona](https://www.daytona.io/): Daytona es una infraestructura segura y elástica para ejecutar código generado por IA. 
+- [Daytona](https://www.daytona.io/): Daytona es una infraestructura segura y elástica para ejecutar código generado por IA.
 
 ### 🤖 IA
 
