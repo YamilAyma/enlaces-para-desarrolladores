@@ -663,6 +663,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [nanobrew](https://nanobrew.trilok.ai/): un gestor de paquetes rápido para macOS escrito en Zig que incluye descargas paralelas, extracción, reubicación y resolución de dependencias, entre otras funciones. 
 - [Alchemy](https://alchemy.run/): Biblioteca de infraestructura como código (IaC) integrable y nativa de TypeScript para modelar recursos que se crean, actualizan y eliminan automáticamente. 
 - [Skir](https://skir.build/): Lenguaje declarativo para definir tipos de datos, constantes y API, de modo que puedas escribir tu esquema una sola vez en un archivo .skir y generar código idiomático y con tipado seguro en TypeScript, Python, Java, Go, C++ y más. 
+- [CodeBoarding](https://www.codeboarding.org/): Herramienta de código abierto y extensión de VS Code que genera mapas visuales e interactivos de arquitecturas complejas usando análisis estático e IA.
 
 #### Despliegue:
 
@@ -1164,6 +1165,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Nango](https://github.com/NangoHQ/nango): Plataforma de código abierto para gestionar la autenticación OAuth y sincronizar integraciones de API de dos vías de forma robusta y simplificada.
 - [docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless): Una imagen Docker para desplegar Steam en modo headless con soporte para aceleración por GPU, accesible vía navegador web y compatible con streaming por Sunshine o Moonlight.
 - [Daytona](https://www.daytona.io/): Daytona es una infraestructura segura y elástica para ejecutar código generado por IA.
+- [Feloxi](https://github.com/thesaadmirza/feloxi): Plataforma de monitoreo autoalojada y de código abierto para colas de tareas Celery. Escrita en Rust y Next.js, utiliza ClickHouse y no requiere SDK ni agentes.
 
 ### 🤖 IA
 
@@ -1230,6 +1232,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill): Herramienta que analiza textos y libros técnicos para extraer conocimiento estructurado y convertirlo de forma automatizada en habilidades prácticas ejecutables por agentes de IA.
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill): Archivo de habilidad (skill) para agentes de IA optimizado para estructurar y redactar prompts de alta calidad para el modelo de generación de video Jimeng Seedance 2.0 de ByteDance.
+- [Semble](https://minish.ai/packages/semble/introduction/): Librería de búsqueda de código rápida y local en CPU optimizada para agentes de IA. Combina embeddings semánticos y BM25, reduciendo drásticamente el consumo de tokens.
+- [Claude for Legal](https://github.com/anthropics/claude-for-legal): Suite open-source de Anthropic que incluye agentes, plugins legales y conectores MCP para automatizar flujos de trabajo y tareas legales sobre Claude.
+- [Articraft](https://github.com/mattzh72/articraft): Sistema agéntico escrito en Python para la generación de modelos 3D articulados a partir de prompts en lenguaje natural, creando geometría con físicas funcionales.
+- [RAIW](https://raiw.cc/): Herramienta web y CLI en Python para detectar y eliminar metadatos, marcas de agua invisibles (SynthID, StableSignature) y etiquetas C2PA en imágenes generadas por IA.
 
 #### 🧠 Modelos y Datos
 
