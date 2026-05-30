@@ -5,3 +5,6 @@ web/build_log.txt
 # Scripts de pruebas y datos temporales
 scripts/README.test.md
 scripts/urls_to_remove.json
+
+# Skills locales ignoradas por Git
+.agent/skills/blog-writer/
