@@ -346,6 +346,12 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [TSRX](https://tsrx.dev/): Extensión del lenguaje TypeScript para crear interfaces de usuario declarativas en la era de los agentes, que permite escribir código de componentes de interfaz de usuario que se mantiene legible y en la misma ubicación, donde la estructura, el estilo y el flujo de control conviven. 
 - [Warper](https://warper.tech/): Biblioteca de virtualización de React ultrarrápida, basada en Rust y WebAssembly, con capacidad para manejar más de 10 000 000 de filas y más de 120 FPS.
 - [React Query Key Manager](https://github.com/draftswithea/react-query-key-manager): Gestión de claves de consulta segura en cuanto a tipos, componible y sin colisiones para @tanstack/react-query, para ayudar a gestionar las claves de consulta en grandes aplicaciones de consulta de React. 
+- [React Trace](https://react-trace.js.org/): Inspector de desarrollo para React que permite identificar componentes renderizados al pasar el ratón, ver sus props y abrir directamente su código fuente en tu editor.
+- [LiveMock](https://alingmail.github.io/LiveMockDoc/): Herramienta de mocking multiplataforma y web para APIs. Genera datos dinámicos mediante MockJS, realiza proxy de peticiones y registra logs sin reiniciar el servidor.
+- [Portless](https://portless.sh/): Proxy local de Vercel Labs que reemplaza puertos numéricos de localhost por nombres de dominio .localhost legibles. Evita conflictos de puertos y soporta HTTPS local.
+- [Hucre](https://hucre.productdevbook.com/): Motor de hojas de cálculo en TypeScript puro sin dependencias para leer y escribir XLSX, CSV y ODS. Soporta streaming, validación y tablas dinámicas.
+- [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid): Librería en TypeScript para renderizar diagramas Mermaid a SVG o arte ASCII síncronamente en terminales o interfaces, sin dependencias del DOM.
+- [Pushduck](https://pushduck.dev/): Librería universal para subir archivos directamente a almacenamiento compatible con S3. Soporta +16 frameworks, entornos Edge y evita el pesado SDK de AWS.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -1236,6 +1242,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Claude for Legal](https://github.com/anthropics/claude-for-legal): Suite open-source de Anthropic que incluye agentes, plugins legales y conectores MCP para automatizar flujos de trabajo y tareas legales sobre Claude.
 - [Articraft](https://github.com/mattzh72/articraft): Sistema agéntico escrito en Python para la generación de modelos 3D articulados a partir de prompts en lenguaje natural, creando geometría con físicas funcionales.
 - [RAIW](https://raiw.cc/): Herramienta web y CLI en Python para detectar y eliminar metadatos, marcas de agua invisibles (SynthID, StableSignature) y etiquetas C2PA en imágenes generadas por IA.
+- [ZipTyPrompt](https://ziptyprompt.com/): Herramienta web y local que permite redactar y sanitizar información confidencial, PII y credenciales de tus logs y configuraciones antes de enviarlos a IAs.
+- [AIMock](https://aimock.copilotkit.dev/): Servidor de mocks open-source para simular la pila agéntica de IA completa (LLMs, servidores MCP, DBs vectoriales), asegurando pruebas deterministas en CI/CD.
 
 #### 🧠 Modelos y Datos
 
