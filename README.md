@@ -670,6 +670,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Alchemy](https://alchemy.run/): Biblioteca de infraestructura como código (IaC) integrable y nativa de TypeScript para modelar recursos que se crean, actualizan y eliminan automáticamente. 
 - [Skir](https://skir.build/): Lenguaje declarativo para definir tipos de datos, constantes y API, de modo que puedas escribir tu esquema una sola vez en un archivo .skir y generar código idiomático y con tipado seguro en TypeScript, Python, Java, Go, C++ y más. 
 - [CodeBoarding](https://www.codeboarding.org/): Herramienta de código abierto y extensión de VS Code que genera mapas visuales e interactivos de arquitecturas complejas usando análisis estático e IA.
+- [AudioMass](https://github.com/pkalogiros/AudioMass): Editor de audio y forma de onda web multipista, open-source y ultraligero (65 KB). Funciona 100% en el navegador vía Web Audio API, sin dependencias de backend.
 
 #### Despliegue:
 
@@ -1244,6 +1245,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [RAIW](https://raiw.cc/): Herramienta web y CLI en Python para detectar y eliminar metadatos, marcas de agua invisibles (SynthID, StableSignature) y etiquetas C2PA en imágenes generadas por IA.
 - [ZipTyPrompt](https://ziptyprompt.com/): Herramienta web y local que permite redactar y sanitizar información confidencial, PII y credenciales de tus logs y configuraciones antes de enviarlos a IAs.
 - [AIMock](https://aimock.copilotkit.dev/): Servidor de mocks open-source para simular la pila agéntica de IA completa (LLMs, servidores MCP, DBs vectoriales), asegurando pruebas deterministas en CI/CD.
+- [Webwright](https://github.com/microsoft/Webwright): Framework de Microsoft Research para agentes de IA terminal-native. Permite al modelo escribir y ejecutar su propio código de Playwright para resolver tareas web complejas.
 
 #### 🧠 Modelos y Datos
 
