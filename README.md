@@ -352,6 +352,11 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Hucre](https://hucre.productdevbook.com/): Motor de hojas de cálculo en TypeScript puro sin dependencias para leer y escribir XLSX, CSV y ODS. Soporta streaming, validación y tablas dinámicas.
 - [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid): Librería en TypeScript para renderizar diagramas Mermaid a SVG o arte ASCII síncronamente en terminales o interfaces, sin dependencias del DOM.
 - [Pushduck](https://pushduck.dev/): Librería universal para subir archivos directamente a almacenamiento compatible con S3. Soporta +16 frameworks, entornos Edge y evita el pesado SDK de AWS.
+- [dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant): Librería en Python para Django que implementa arquitectura multi-inquilino (multi-tenant) sobre bases de datos SQLite individuales con soporte para caché LRU.
+- [Manifest](https://manifest.build/docs/introduction): Plataforma de Backend-as-a-Service (BaaS) de código abierto que permite definir la lógica, bases de datos y paneles de administración con un archivo YAML.
+- [SandDance](https://microsoft.github.io/SandDance/): Visualizador interactivo de datos en 2D y 3D creado por Microsoft, que utiliza transiciones animadas para analizar agrupaciones y patrones complejos.
+- [Remocn](https://www.remocn.dev/): Colección de componentes y primitivas de animación listas para copiar y pegar en Remotion, facilitando la creación de videos dinámicos con código React.
+- [Tiks](https://rexa-developer.github.io/tiks/): Biblioteca de audio para la web que genera sonidos de interfaz de usuario de forma procedimental con Web Audio API, eliminando archivos de audio.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -1144,6 +1149,21 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Frontend Focus](https://frontendfoc.us/): Newsletter semanal sobre HTML, CSS, WebGL y desarrollo del lado del cliente.
 - [PyCoder&#39;s Weekly](https://pycoders.com/): La newsletter de Python más querida, enfocada en tutoriales y proyectos open source.
 - [Python Weekly](https://www.pythonweekly.com/): Resumen semanal con noticias sobre Python, empleos y recursos educativos de alta calidad.
+- [Font Changer Pro](https://www.fontchangerpro.com/): Generador web de texto estilizado basado en caracteres Unicode para personalizar perfiles y biografías de forma directa.
+- [Delopsu Draw](https://www.delopsu.com/draw): Tablero de dibujo interactivo en web para crear arte con caracteres ASCII y Unicode, que incluye pinceles personalizables y exportación a texto plano.
+- [font-size-adjust Sandbox](https://clagnut.com/sandbox/font-size-adjust.html): Caja de arena interactiva para experimentar con la propiedad CSS font-size-adjust, permitiendo calcular proporciones y evitar cambios de diseño.
+- [Graphite](https://graphite.art/): Editor gráfico vectorial y de diseño procedimental 2D de código abierto en la web, que combina flujos tradicionales de capas con nodos generativos.
+- [Pixelate Image](https://www.pixelateimage.co/): Herramienta web gratuita que pixeliza imágenes de manera local en el navegador mediante HTML5 Canvas, garantizando la privacidad de los archivos.
+- [Colorflow](https://colorflow.ls.graphics/): Generador y editor avanzado de gradientes de malla (mesh gradients) interactivos con previsualización en tiempo real para interfaces web y diseños.
+
+### 🤗 RELAX
+
+- [CSS or BS?](https://www.keithcirkel.co.uk/css-or-bs/): Juego interactivo de trivia en la web para poner a prueba conocimientos de CSS, donde se debe adivinar si una propiedad es real o inventada.
+
+### ⭐ PACKS DE COMPONENTES y LIBRERIAS
+
+- [phantom-ui](https://github.com/Aejkatappaja/phantom-ui): Componente web ligero (~8 KB) e independiente de framework que genera skeleton loaders automáticos midiendo el DOM real en tiempo de ejecución.
+- [dev.css](https://tangled.org/devins.page/dev.css/): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 
 ### 🏠 Self-Hosted (Autoalojado)
 
