@@ -3,10 +3,9 @@ title: "Interacciones memorables: 5 librerías de componentes y efectos para dar
 imageAlt: "Formas geométricas flotantes y elementos de UI brillantes con efectos de iluminación sobre fondo oscuro"
 copy: "¿Quieres que tu interfaz web deje de verse plana y estática? Te compartimos 5 recursos para implementar componentes visuales, loaders modernos y micro-animaciones excepcionales."
 category: "Diseño"
-date: "2026-06-05"
+date: "2026-06-07"
 published: true
 ---
-
 El éxito de una interfaz web moderna no radica únicamente en su funcionalidad o su velocidad de carga, sino también en las pequeñas sensaciones que experimenta el usuario al interactuar con ella. Los pequeños detalles, conocidos en el diseño como micro-interacciones (un hover bien calibrado, una transición suave o un indicador de carga elegante), son los que transforman un sitio común en una experiencia memorable.
 
 A menudo, los desarrolladores evitan incorporar estas mejoras visuales por miedo a sobrecargar el bundle de producción con librerías de animación masivas o por falta de tiempo para diseñar efectos desde cero con CSS puro.
