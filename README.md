@@ -194,7 +194,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Loose Drawing](https://loosedrawing.com/): Ilustraciones sencillas de trazo libre con una estética suave, ideales para proyectos que buscan un toque humano y accesible.
 - [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins): Repositorio oficial de Anthropic con plugins de código abierto diseñados para potenciar la productividad y automatización de tareas en Claude.
 - [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills): Colección de 754 habilidades estructuradas de ciberseguridad para agentes de IA (como Claude Code), mapeadas bajo marcos de la industria como MITRE ATT&CK y NIST.
-- [Turtletoy](https://turtletoy.net/): Plataforma para crear arte codificado a mano y trazable en línea mediante una API gráfica de JavaScript Turtle. 
+- [Turtletoy](https://turtletoy.net/): Plataforma para crear arte codificado a mano y trazable en línea mediante una API gráfica de JavaScript Turtle.
 
 ### 📄 LISTAS
 
@@ -340,12 +340,12 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Qite.js](https://qitejs.qount25.dev/): Framework de frontend para quienes odian React y aman HTML, sin pasos de compilación, sin DOM virtual, sin mezclar JS con HTML, con SSR prioritario y compatible con API web estándar.
 - [Kiru](https://kirujs.dev/): Biblioteca de renderizado completa y fácil de usar, con un tamaño mínimo, gestión de estado basada en señales sin sobrecarga, utilidades de enrutamiento y CSR integrales por defecto, y control granular de la reactividad y el estado.
 - [Elena](https://elenajs.com/): Biblioteca sencilla y compacta para crear componentes web progresivos que no obliga a usar JavaScript para todo y permite cargar primero HTML y CSS, para luego usar JavaScript para añadir interactividad de forma progresiva.
-- [Edge.js](https://edgejs.org/): Entorno de ejecución de JavaScript seguro, diseñado para la computación perimetral y las cargas de trabajo de IA, que utiliza WebAssembly para el aislamiento de procesos cuando está en modo --safe, y es totalmente compatible con Node.js. 
+- [Edge.js](https://edgejs.org/): Entorno de ejecución de JavaScript seguro, diseñado para la computación perimetral y las cargas de trabajo de IA, que utiliza WebAssembly para el aislamiento de procesos cuando está en modo --safe, y es totalmente compatible con Node.js.
 - [WarpDrive](https://canary.warp-drive.io/): biblioteca de datos ligera y compatible con renderizado del lado del servidor (SSR), basada en Ember.js, que facilita la creación de aplicaciones escalables, rápidas y con muchas funciones.
-- [Workflow SDK](https://workflow-sdk.dev/): Conjunto de herramientas que permite agregar fácilmente durabilidad, confiabilidad y observabilidad a JavaScript asíncrono, y crear aplicaciones y agentes de IA que puedan suspender, reanudar y mantener el estado con facilidad. 
-- [TSRX](https://tsrx.dev/): Extensión del lenguaje TypeScript para crear interfaces de usuario declarativas en la era de los agentes, que permite escribir código de componentes de interfaz de usuario que se mantiene legible y en la misma ubicación, donde la estructura, el estilo y el flujo de control conviven. 
+- [Workflow SDK](https://workflow-sdk.dev/): Conjunto de herramientas que permite agregar fácilmente durabilidad, confiabilidad y observabilidad a JavaScript asíncrono, y crear aplicaciones y agentes de IA que puedan suspender, reanudar y mantener el estado con facilidad.
+- [TSRX](https://tsrx.dev/): Extensión del lenguaje TypeScript para crear interfaces de usuario declarativas en la era de los agentes, que permite escribir código de componentes de interfaz de usuario que se mantiene legible y en la misma ubicación, donde la estructura, el estilo y el flujo de control conviven.
 - [Warper](https://warper.tech/): Biblioteca de virtualización de React ultrarrápida, basada en Rust y WebAssembly, con capacidad para manejar más de 10 000 000 de filas y más de 120 FPS.
-- [React Query Key Manager](https://github.com/draftswithea/react-query-key-manager): Gestión de claves de consulta segura en cuanto a tipos, componible y sin colisiones para @tanstack/react-query, para ayudar a gestionar las claves de consulta en grandes aplicaciones de consulta de React. 
+- [React Query Key Manager](https://github.com/draftswithea/react-query-key-manager): Gestión de claves de consulta segura en cuanto a tipos, componible y sin colisiones para @tanstack/react-query, para ayudar a gestionar las claves de consulta en grandes aplicaciones de consulta de React.
 - [React Trace](https://react-trace.js.org/): Inspector de desarrollo para React que permite identificar componentes renderizados al pasar el ratón, ver sus props y abrir directamente su código fuente en tu editor.
 - [LiveMock](https://alingmail.github.io/LiveMockDoc/): Herramienta de mocking multiplataforma y web para APIs. Genera datos dinámicos mediante MockJS, realiza proxy de peticiones y registra logs sin reiniciar el servidor.
 - [Portless](https://portless.sh/): Proxy local de Vercel Labs que reemplaza puertos numéricos de localhost por nombres de dominio .localhost legibles. Evita conflictos de puertos y soporta HTTPS local.
@@ -356,7 +356,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Manifest](https://manifest.build/docs/introduction): Plataforma de Backend-as-a-Service (BaaS) de código abierto que permite definir la lógica, bases de datos y paneles de administración con un archivo YAML.
 - [SandDance](https://microsoft.github.io/SandDance/): Visualizador interactivo de datos en 2D y 3D creado por Microsoft, que utiliza transiciones animadas para analizar agrupaciones y patrones complejos.
 - [Remocn](https://www.remocn.dev/): Colección de componentes y primitivas de animación listas para copiar y pegar en Remotion, facilitando la creación de videos dinámicos con código React.
-- [Tiks](https://rexa-developer.github.io/tiks/): Biblioteca de audio para la web que genera sonidos de interfaz de usuario de forma procedimental con Web Audio API, eliminando archivos de audio.
+- [Tiks](https://rexa-developer.github.io/tiks/): Biblioteca de audio para la web que genera sonidos de interfaz de usuario de forma procedimental con Web Audio API, eliminando archivos de audio
+- [docmd](https://docmd.io/): Conversión de Markdown a documentos de producción. Útil para documentación técnica.
+- [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/): Motor de efectos visuales para terminal. No requiere módulos de terceros.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -671,18 +673,21 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [systeminformer](https://github.com/winsiderss/systeminformer): Una herramienta gratuita, potente y multipropósito para Windows que permite monitorear recursos del sistema, depurar software y detectar malware.
 - [huh](https://github.com/charmbracelet/huh): Una librería en Go simple y potente para construir formularios y prompts interactivos y estilizados en la terminal con soporte de accesibilidad.
 - [scrcpy](https://github.com/Genymobile/scrcpy): Una herramienta de alto rendimiento que permite visualizar y controlar dispositivos Android desde tu ordenador vía USB o Wi-Fi sin necesidad de acceso root.
-- [nanobrew](https://nanobrew.trilok.ai/): un gestor de paquetes rápido para macOS escrito en Zig que incluye descargas paralelas, extracción, reubicación y resolución de dependencias, entre otras funciones. 
-- [Alchemy](https://alchemy.run/): Biblioteca de infraestructura como código (IaC) integrable y nativa de TypeScript para modelar recursos que se crean, actualizan y eliminan automáticamente. 
-- [Skir](https://skir.build/): Lenguaje declarativo para definir tipos de datos, constantes y API, de modo que puedas escribir tu esquema una sola vez en un archivo .skir y generar código idiomático y con tipado seguro en TypeScript, Python, Java, Go, C++ y más. 
+- [nanobrew](https://nanobrew.trilok.ai/): un gestor de paquetes rápido para macOS escrito en Zig que incluye descargas paralelas, extracción, reubicación y resolución de dependencias, entre otras funciones.
+- [Alchemy](https://alchemy.run/): Biblioteca de infraestructura como código (IaC) integrable y nativa de TypeScript para modelar recursos que se crean, actualizan y eliminan automáticamente.
+- [Skir](https://skir.build/): Lenguaje declarativo para definir tipos de datos, constantes y API, de modo que puedas escribir tu esquema una sola vez en un archivo .skir y generar código idiomático y con tipado seguro en TypeScript, Python, Java, Go, C++ y más.
 - [CodeBoarding](https://www.codeboarding.org/): Herramienta de código abierto y extensión de VS Code que genera mapas visuales e interactivos de arquitecturas complejas usando análisis estático e IA.
 - [AudioMass](https://github.com/pkalogiros/AudioMass): Editor de audio y forma de onda web multipista, open-source y ultraligero (65 KB). Funciona 100% en el navegador vía Web Audio API, sin dependencias de backend.
+- [SVG Gobbler](https://svggobbler.com/): Una extensión de navegador de código abierto que encuentra, optimiza y exporta contenido SVG de cualquier página web.
+- [pake](https://github.com/tw93/pake): Convierte cualquier página web en una aplicación de escritorio con un solo comando; compatible con macOS, Windows y Linux.
+- [Cate](https://cate.cero-ai.com/): Un lienzo con zoom infinito para programar. Paneles de editor, terminal y navegador en un espacio de trabajo espacial.	
 
 #### Despliegue:
 
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
 - [Xata](https://github.com/xataio/xata): Plataforma de base de datos serverless basada en PostgreSQL con búsqueda integrada y analíticas.
 - [Coolify](https://github.com/coollabsio/coolify): Alternativa de código abierto a Vercel, Netlify o Heroku. Permite alojar aplicaciones, bases de datos y servicios en tus propios servidores.
-- [Findfont](https://www.findfont.co/): Permite explorar y comparar más de 5000 fuentes gratuitas seleccionadas en más de 50 categorías, con la posibilidad de comparar hasta 10 fuentes en la misma vista. 
+- [Findfont](https://www.findfont.co/): Permite explorar y comparar más de 5000 fuentes gratuitas seleccionadas en más de 50 categorías, con la posibilidad de comparar hasta 10 fuentes en la misma vista.
 
 ### 🤗 RELAX:
 
@@ -760,8 +765,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
-- [Shadcn Phone Input](https://shadcn-phone-input-five.vercel.app/): Componente de entrada de teléfono simple y formateado para Next.js, creado con shadcn/ui y libphonenumber-js. 
-- [gooey-toast](https://goey-toast.vercel.app/): Componente de pan tostado pegajoso y transformable para React, construido sobre Sonner con animaciones Framer Motion. 
+- [Shadcn Phone Input](https://shadcn-phone-input-five.vercel.app/): Componente de entrada de teléfono simple y formateado para Next.js, creado con shadcn/ui y libphonenumber-js.
+- [gooey-toast](https://goey-toast.vercel.app/): Componente de pan tostado pegajoso y transformable para React, construido sobre Sonner con animaciones Framer Motion.
 - [ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI): Una colección de código abierto de componentes animados, interactivos y totalmente personalizables para crear interfaces de usuario impactantes y memorables.
 - [Kutty](https://kutty.netlify.app/): Kutty es un plugin de Tailwind para la creación de aplicaciones web. Cuenta con un conjunto de componentes accesibles y reutilizables que se utilizan habitualmente en aplicaciones web.
 - [WarcraftCN](https://www.warcraftcn.com/): Un conjunto de componentes inspirados en la estética clásica de la interfaz de usuario de Warcraft III RTS. Código abierto, listo para copiar y pegar. Compatible con tus frameworks favoritos. Creado por fans. Sin afiliación.
@@ -969,7 +974,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Last 30 Days Skill](https://github.com/mvanhorn/last30days-skill): Skill para agentes que analiza y resume tu actividad de los últimos 30 días para reportes rápidos.
 - [Hyperbrowser App Examples](https://github.com/hyperbrowserai/hyperbrowser-app-examples): Repositorio de ejemplos full-stack para automatización de navegadores, scraping y extracción de datos avanzada.
 - [Astrae](https://www.astrae.design/): Biblioteca de plantillas de landing pages modernas y componentes animados listos para producción con React y Framer Motion.
-- [Realtime Chat Supabase React](https://random-chat.netlify.app/): Componente de chat en tiempo real de pila completa para React, con datos PostgreSQL gestionados por Supabase y Vite en el front-end. 
+- [Realtime Chat Supabase React](https://random-chat.netlify.app/): Componente de chat en tiempo real de pila completa para React, con datos PostgreSQL gestionados por Supabase y Vite en el front-end.
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 
@@ -1266,6 +1271,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [ZipTyPrompt](https://ziptyprompt.com/): Herramienta web y local que permite redactar y sanitizar información confidencial, PII y credenciales de tus logs y configuraciones antes de enviarlos a IAs.
 - [AIMock](https://aimock.copilotkit.dev/): Servidor de mocks open-source para simular la pila agéntica de IA completa (LLMs, servidores MCP, DBs vectoriales), asegurando pruebas deterministas en CI/CD.
 - [Webwright](https://github.com/microsoft/Webwright): Framework de Microsoft Research para agentes de IA terminal-native. Permite al modelo escribir y ejecutar su propio código de Playwright para resolver tareas web complejas.
+- [Impeccable](https://github.com/pbakaus/impeccable): Kit para agentes de IA a orientarlos para que puedan ser más eficaces en el diseño frontend. 1 Skill.
 
 #### 🧠 Modelos y Datos
 
