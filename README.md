@@ -680,7 +680,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [AudioMass](https://github.com/pkalogiros/AudioMass): Editor de audio y forma de onda web multipista, open-source y ultraligero (65 KB). Funciona 100% en el navegador vía Web Audio API, sin dependencias de backend.
 - [SVG Gobbler](https://svggobbler.com/): Una extensión de navegador de código abierto que encuentra, optimiza y exporta contenido SVG de cualquier página web.
 - [pake](https://github.com/tw93/pake): Convierte cualquier página web en una aplicación de escritorio con un solo comando; compatible con macOS, Windows y Linux.
-- [Cate](https://cate.cero-ai.com/): Un lienzo con zoom infinito para programar. Paneles de editor, terminal y navegador en un espacio de trabajo espacial.	
+- [Cate](https://cate.cero-ai.com/): Un lienzo con zoom infinito para programar. Paneles de editor, terminal y navegador en un espacio de trabajo espacial.
+- [SVG dot icon animator](https://konvert.design/tools/svg-to-dot-animation): Animador de iconos svg pero con puntitos.
 
 #### Despliegue:
 
@@ -975,6 +976,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Hyperbrowser App Examples](https://github.com/hyperbrowserai/hyperbrowser-app-examples): Repositorio de ejemplos full-stack para automatización de navegadores, scraping y extracción de datos avanzada.
 - [Astrae](https://www.astrae.design/): Biblioteca de plantillas de landing pages modernas y componentes animados listos para producción con React y Framer Motion.
 - [Realtime Chat Supabase React](https://random-chat.netlify.app/): Componente de chat en tiempo real de pila completa para React, con datos PostgreSQL gestionados por Supabase y Vite en el front-end.
+- [Tabler](https://tabler.io/admin-template): Kit de interfaz de usuario para paneles de control HTML gratuito y de código abierto, basado en Bootstrap.
 
 ### 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 
@@ -1381,6 +1383,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [CSS Zen Garden](https://csszengarden.com/pages/alldesigns/): Galería de sitios web influenciados por el CSS.
 - [ogfolio](https://ogfolio.com/): Galería de inspiración curada que recopila los mejores diseños de imágenes de Open Graph (OG) para elevar la presencia social de tu web.
 - [Deck Gallery](https://www.deck.gallery/): Galería curada de presentaciones, decks y guías de marca para inspiración visual.
+- [ui.live](https://ui.live/): Colección de diseño para inspiración visual.
+- [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Una selección de ideas geniales para sitios web de portafolio para que desarrolladores y diseñadores se inspiren.
 
 ---
 
