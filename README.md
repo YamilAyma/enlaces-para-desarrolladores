@@ -359,6 +359,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Tiks](https://rexa-developer.github.io/tiks/): Biblioteca de audio para la web que genera sonidos de interfaz de usuario de forma procedimental con Web Audio API, eliminando archivos de audio
 - [docmd](https://docmd.io/): Conversión de Markdown a documentos de producción. Útil para documentación técnica.
 - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/): Motor de efectos visuales para terminal. No requiere módulos de terceros.
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/): Restauración y escalado de imágenes como vídeo.
+- [gifsicle](https://github.com/kohler/gifsicle): Crea, manipula y optimiza imágenes y animaciones GIF.
+- [svgo](https://svgo.dev/): Herramienta para optimizar gráficos vectoriales escalables (SVG).
+- [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 
 ### 🛠️ HERRAMIENTAS:
 
@@ -1385,6 +1389,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Deck Gallery](https://www.deck.gallery/): Galería curada de presentaciones, decks y guías de marca para inspiración visual.
 - [ui.live](https://ui.live/): Colección de diseño para inspiración visual.
 - [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Una selección de ideas geniales para sitios web de portafolio para que desarrolladores y diseñadores se inspiren.
+- [CollectUI](https://collectui.com/): Colección de diseño de interfaces de usuario para inspiración visual.
 
 ---
 
