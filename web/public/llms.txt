@@ -342,7 +342,13 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Manifest](https://manifest.build/docs/introduction): Plataforma de Backend-as-a-Service (BaaS) de código abierto que permite definir la lógica, bases de datos y paneles de administración con un archivo YAML.
 - [SandDance](https://microsoft.github.io/SandDance/): Visualizador interactivo de datos en 2D y 3D creado por Microsoft, que utiliza transiciones animadas para analizar agrupaciones y patrones complejos.
 - [Remocn](https://www.remocn.dev/): Colección de componentes y primitivas de animación listas para copiar y pegar en Remotion, facilitando la creación de videos dinámicos con código React.
-- [Tiks](https://rexa-developer.github.io/tiks/): Biblioteca de audio para la web que genera sonidos de interfaz de usuario de forma procedimental con Web Audio API, eliminando archivos de audio.
+- [Tiks](https://rexa-developer.github.io/tiks/): Biblioteca de audio para la web que genera sonidos de interfaz de usuario de forma procedimental con Web Audio API, eliminando archivos de audio
+- [docmd](https://docmd.io/): Conversión de Markdown a documentos de producción. Útil para documentación técnica.
+- [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/): Motor de efectos visuales para terminal. No requiere módulos de terceros.
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/): Restauración y escalado de imágenes como vídeo.
+- [gifsicle](https://github.com/kohler/gifsicle): Crea, manipula y optimiza imágenes y animaciones GIF.
+- [svgo](https://svgo.dev/): Herramienta para optimizar gráficos vectoriales escalables (SVG).
+- [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 ## 🛠️ HERRAMIENTAS:
 
 - [hexyl](https://github.com/sharkdp/hexyl): Visor hexadecimal para la terminal.
@@ -661,6 +667,10 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Skir](https://skir.build/): Lenguaje declarativo para definir tipos de datos, constantes y API, de modo que puedas escribir tu esquema una sola vez en un archivo .skir y generar código idiomático y con tipado seguro en TypeScript, Python, Java, Go, C++ y más.
 - [CodeBoarding](https://www.codeboarding.org/): Herramienta de código abierto y extensión de VS Code que genera mapas visuales e interactivos de arquitecturas complejas usando análisis estático e IA.
 - [AudioMass](https://github.com/pkalogiros/AudioMass): Editor de audio y forma de onda web multipista, open-source y ultraligero (65 KB). Funciona 100% en el navegador vía Web Audio API, sin dependencias de backend.
+- [SVG Gobbler](https://svggobbler.com/): Una extensión de navegador de código abierto que encuentra, optimiza y exporta contenido SVG de cualquier página web.
+- [pake](https://github.com/tw93/pake): Convierte cualquier página web en una aplicación de escritorio con un solo comando; compatible con macOS, Windows y Linux.
+- [Cate](https://cate.cero-ai.com/): Un lienzo con zoom infinito para programar. Paneles de editor, terminal y navegador en un espacio de trabajo espacial.
+- [SVG dot icon animator](https://konvert.design/tools/svg-to-dot-animation): Animador de iconos svg pero con puntitos.
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
 - [Xata](https://github.com/xataio/xata): Plataforma de base de datos serverless basada en PostgreSQL con búsqueda integrada y analíticas.
 - [Coolify](https://github.com/coollabsio/coolify): Alternativa de código abierto a Vercel, Netlify o Heroku. Permite alojar aplicaciones, bases de datos y servicios en tus propios servidores.
@@ -946,6 +956,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Hyperbrowser App Examples](https://github.com/hyperbrowserai/hyperbrowser-app-examples): Repositorio de ejemplos full-stack para automatización de navegadores, scraping y extracción de datos avanzada.
 - [Astrae](https://www.astrae.design/): Biblioteca de plantillas de landing pages modernas y componentes animados listos para producción con React y Framer Motion.
 - [Realtime Chat Supabase React](https://random-chat.netlify.app/): Componente de chat en tiempo real de pila completa para React, con datos PostgreSQL gestionados por Supabase y Vite en el front-end.
+- [Tabler](https://tabler.io/admin-template): Kit de interfaz de usuario para paneles de control HTML gratuito y de código abierto, basado en Bootstrap.
 ## 📖 ARTICULOS INTERESANTES (hay muchos en Internet):
 
 - [Diseño de sistemas](https://kps.hashnode.dev/system-design-the-complete-course): Guía completa sobre el diseño de sistemas escalables y arquitectura de software.
@@ -1228,6 +1239,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [ZipTyPrompt](https://ziptyprompt.com/): Herramienta web y local que permite redactar y sanitizar información confidencial, PII y credenciales de tus logs y configuraciones antes de enviarlos a IAs.
 - [AIMock](https://aimock.copilotkit.dev/): Servidor de mocks open-source para simular la pila agéntica de IA completa (LLMs, servidores MCP, DBs vectoriales), asegurando pruebas deterministas en CI/CD.
 - [Webwright](https://github.com/microsoft/Webwright): Framework de Microsoft Research para agentes de IA terminal-native. Permite al modelo escribir y ejecutar su propio código de Playwright para resolver tareas web complejas.
+- [Impeccable](https://github.com/pbakaus/impeccable): Kit para agentes de IA a orientarlos para que puedan ser más eficaces en el diseño frontend. 1 Skill.
 - [pocket-tts](https://github.com/kyutai-labs/pocket-tts): Sistema de Text-to-Speech extremadamente ligero que se ejecuta localmente en la CPU, ideal para dispositivos con recursos limitados.
 - [easy-dataset](https://github.com/ConardLi/easy-dataset): Herramienta potente para la creación sistemática de conjuntos de datos destinados al fine-tuning, RAG y evaluación de LLMs.
 - [airllm](https://github.com/lyogavin/airllm): Tecnología que permite la inferencia de modelos de 70B parámetros en GPUs domésticas de apenas 4GB mediante optimización de memoria.
@@ -1330,6 +1342,9 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [CSS Zen Garden](https://csszengarden.com/pages/alldesigns/): Galería de sitios web influenciados por el CSS.
 - [ogfolio](https://ogfolio.com/): Galería de inspiración curada que recopila los mejores diseños de imágenes de Open Graph (OG) para elevar la presencia social de tu web.
 - [Deck Gallery](https://www.deck.gallery/): Galería curada de presentaciones, decks y guías de marca para inspiración visual.
+- [ui.live](https://ui.live/): Colección de diseño para inspiración visual.
+- [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Una selección de ideas geniales para sitios web de portafolio para que desarrolladores y diseñadores se inspiren.
+- [CollectUI](https://collectui.com/): Colección de diseño de interfaces de usuario para inspiración visual.
 
 ## Optional
 
