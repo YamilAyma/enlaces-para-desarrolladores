@@ -3,7 +3,7 @@ title: "Domina la Inteligencia Artificial: 6 recursos de prompt engineering para
 imageAlt: "Diagrama conceptual de prompts estructurados interactuando con redes neuronales artificiales en color verde neón"
 copy: "Obtén mejores respuestas de los modelos de lenguaje y optimiza tus asistentes de código. Te compartimos 6 directorios y guías avanzadas de prompts para IA."
 category: "Técnico"
-date: "2026-07-11"
+date: "2026-07-25"
 published: true
 ---
 La Inteligencia Artificial y los modelos de lenguaje de gran escala (LLMs) se han convertido en asistentes indispensables para la escritura de código, la generación de documentación y la resolución de problemas técnicos complejos. Sin embargo, la calidad del código o de las explicaciones que devuelven estas herramientas depende directamente de las instrucciones que les proporcionamos. Un prompt mal formulado o ambiguo puede llevar a respuestas incorrectas o alucinaciones molestas.

@@ -3,7 +3,7 @@ title: "Proyectos que entran por los ojos: 6 recursos para mejorar tus READMEs y
 imageAlt: "Interfaz de GitHub con un archivo README.md perfectamente estructurado con badges e ilustraciones premium sobre fondo oscuro"
 copy: "La primera impresión de tu código abierto es el README. Te compartimos 6 recursos y plantillas para documentar tus proyectos y estilizar tu perfil de GitHub de forma profesional."
 category: "Comunidad"
-date: "2026-07-05"
+date: "2026-07-19"
 published: true
 ---
 Muchos desarrolladores pasan semanas puliendo la arquitectura de su código, escribiendo tests exhaustivos y optimizando el rendimiento de sus librerías de código abierto, para luego publicar el repositorio en GitHub con una sola línea de descripción en el archivo de texto principal. Este es un error habitual: en la comunidad de software, la documentación es la cara visible de tu trabajo. Si tu README no es claro o carece de una presentación ordenada, la mayoría de los desarrolladores abandonarán tu repositorio antes de clonarlo.

@@ -3,7 +3,7 @@ title: "APIs públicas y directorios de recursos: el motor para tus prototipos r
 imageAlt: "Diagrama abstracto de conexión de datos y peticiones HTTP en tono verde neón sobre fondo oscuro"
 copy: "Acelera el desarrollo de tus aplicaciones con datos reales e inmediatos. Te presentamos 5 directorios masivos de APIs y alternativas de código abierto listas para integrar."
 category: "APIs"
-date: "2026-06-17"
+date: "2026-07-01"
 published: true
 ---
 Uno de los mayores obstáculos cuando empezamos a prototipar una nueva idea es la falta de datos reales. Configurar bases de datos dummy o inventar registros a mano no solo consume tiempo valioso, sino que tampoco representa con fidelidad el comportamiento de una aplicación en producción. Para resolver esto, recurrir a fuentes externas de datos mediante llamadas rápidas es la opción preferida de los desarrolladores ágiles.

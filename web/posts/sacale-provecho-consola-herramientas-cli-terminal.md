@@ -3,7 +3,7 @@ title: "Sácale provecho a tu consola: 5 herramientas CLI para mejorar tu termin
 imageAlt: "Terminal de Linux con gráficos de rendimiento y listados de archivos resaltados con sintaxis colorida sobre fondo negro"
 copy: "La terminal no tiene por qué ser aburrida ni monocromática. Te presentamos 5 utilidades modernas en CLI para monitorizar sistemas, ver archivos y gestionar Git con velocidad."
 category: "Técnico"
-date: "2026-06-23"
+date: "2026-07-07"
 published: true
 ---
 Pasamos una parte sustancial de nuestra jornada laboral interactuando con la línea de comandos. Ya sea instalando dependencias, corriendo servidores locales o empujando cambios a repositorios remotos, la terminal es la herramienta de cabecera de todo desarrollador. Sin embargo, muchas de las utilidades integradas por defecto en nuestros sistemas operativos fueron diseñadas hace décadas y carecen de características modernas como el resaltado de sintaxis, la navegación interactiva o el rendimiento acelerado.

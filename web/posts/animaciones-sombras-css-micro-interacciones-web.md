@@ -3,7 +3,7 @@ title: "Micro-interacciones premium: 6 recursos de animaciones y sombras en CSS"
 imageAlt: "Elementos de UI con sombras realistas e iluminaciones sutiles y efectos de interacción en verde neón"
 copy: "Haz que tu interfaz web se sienta viva y fluida. Te compartimos 6 bibliotecas y herramientas interactivas de CSS para aplicar animaciones y sombras profesionales."
 category: "Diseño"
-date: "2026-07-02"
+date: "2026-07-16"
 published: true
 ---
 El diseño web moderno se define por el feedback visual. Cuando un usuario interactúa con un botón, abre un menú o hace scroll por una landing page, la interfaz debe responder con fluidez. Sin embargo, no hace falta recurrir a librerías masivas de JavaScript para añadir animaciones complejas o efectos de profundidad realistas. Las capacidades nativas de CSS3 son más que suficientes para crear experiencias premium con un rendimiento excelente.

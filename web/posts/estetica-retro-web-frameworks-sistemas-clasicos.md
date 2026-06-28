@@ -3,7 +3,7 @@ title: "Estética retro en la web: 5 recursos para recrear interfaces nostálgic
 imageAlt: "Interfaz gráfica clásica de sistema operativo retro con ventanas grises, bordes biselados y tipografía pixelada"
 copy: "Dale un toque nostálgico y único a tus proyectos web. Te presentamos 5 frameworks de CSS y colecciones visuales inspiradas en la informática clásica."
 category: "Diseño"
-date: "2026-06-20"
+date: "2026-07-04"
 published: true
 ---
 En una web dominada por el minimalismo plano, los bordes redondeados y los gradientes fluidos, las interfaces que se atreven a romper con la norma destacan de forma inmediata. La nostalgia es un recurso de diseño sumamente potente que no solo despierta emociones en los usuarios que vivieron las épocas doradas de la informática personal, sino que también resulta sumamente atractiva para las nuevas generaciones que buscan una estética alternativa y atrevida.

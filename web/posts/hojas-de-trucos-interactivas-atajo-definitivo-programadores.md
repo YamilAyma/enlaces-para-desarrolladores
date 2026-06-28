@@ -3,7 +3,7 @@ title: "Hojas de trucos interactivas: 5 recursos rápidos para tener la document
 imageAlt: "Diagrama conceptual de hojas de trucos interactivas y fragmentos de código ordenados sobre fondo oscuro"
 copy: "Deja de perder tiempo buscando sintaxis en Google. Te compartimos 5 repositorios y herramientas de hojas de referencia rápida que te ahorrarán horas de lectura."
 category: "Técnico"
-date: "2026-06-29"
+date: "2026-07-13"
 published: true
 ---
 Incluso los ingenieros de software más experimentados recurren a la documentación técnica varias veces al día. Nadie puede memorizar cada método, parámetro de configuración o sintaxis exacta de todos los lenguajes, frameworks o utilidades de línea de comandos que utiliza. Sin embargo, tener que leer guías interminables o tutoriales de introducción cada vez que olvidamos el nombre de una propiedad de CSS o un comando de Git puede ralentizar nuestro flujo de trabajo de forma considerable.

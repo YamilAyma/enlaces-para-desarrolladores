@@ -3,7 +3,7 @@ title: "Detalles que marcan la diferencia: 6 recursos de tipografía e iconos pa
 imageAlt: "Composición abstracta de glifos tipográficos y símbolos de marcas de tecnología brillantes en verde neón"
 copy: "Eleva la calidad de tus proyectos eligiendo los recursos gráficos correctos. Te compartimos 6 bibliotecas y buscadores de tipografías e iconos que darán carácter a tu web."
 category: "Diseño"
-date: "2026-06-26"
+date: "2026-07-10"
 published: true
 ---
 Cuando navegamos por un sitio web premium, a menudo nos cuesta definir exactamente qué es lo que lo hace ver tan profesional. Solemos atribuirlo al diseño general, pero la realidad es que el secreto está en la consistencia de los pequeños elementos. La elección de la tipografía adecuada para la lectura de código y el uso de iconos unificados son factores determinantes para elevar la estética y la experiencia de usuario de cualquier interfaz digital.

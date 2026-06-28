@@ -3,7 +3,7 @@ title: "Colecciones masivas: 6 directorios y packs de recursos indispensables pa
 imageAlt: "Diagrama abstracto de directorios anidados y listas de recursos organizadas en color verde neón sobre fondo oscuro"
 copy: "Ahorra tiempo de investigación en tu próximo proyecto. Te compartimos 6 listas curadas y directorios masivos que agrupan miles de recursos, plantillas y servicios gratuitos."
 category: "Comunidad"
-date: "2026-07-14"
+date: "2026-07-28"
 published: true
 ---
 Uno de los mayores tesoros en internet para un programador es una lista bien organizada. Cuando nos enfrentamos a una nueva disciplina (como aprender un lenguaje de programación, lanzar una startup o buscar servidores de hosting gratuitos), perderse en foros o blogs aleatorios en busca de recomendaciones de software puede consumir días enteros. Tener a mano colecciones consolidadas de recursos, conocidas habitualmente como "listas de listas", nos da un acceso instantáneo al conocimiento acumulado por la comunidad global.
