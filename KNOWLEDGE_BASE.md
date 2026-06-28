@@ -25,13 +25,13 @@ Este archivo es la única fuente de verdad viva del proyecto. Contiene el contex
 
 ---
 
-## 📝 Estado Actual del Blog y Publicador (17/06/2026)
-*   Se han creado y confirmado (committed) en Git 10 nuevas entradas de blog, programadas cada 3 días comenzando desde el `2026-06-17` hasta el `2026-07-14`.
+## 📝 Estado Actual del Blog y Publicador (28/06/2026)
+*   Se han creado y confirmado (committed) en Git 10 nuevas entradas de blog, programadas cada 3 días comenzando desde el `2026-07-01` hasta el `2026-07-28`.
 *   Se ejecutó con éxito la generación de portadas y la compilación estática de Next.js, verificando que no existan errores.
 *   Todo el trabajo ha sido persistido en el repositorio con un estado de Git limpio.
 
 ---
 
 ## 🤝 Handover (Entrega de Turnos)
-*   **Fase Actual:** Finalizada y sincronizada con Git.
+*   **Fase Actual:** Finalizada y sincronizada con Git (posts reprogramados para julio de 2026).
 *   **Siguiente Paso:** Listo para despliegue automático/producción por parte de Vercel/Netlify. Ninguna acción de desarrollo pendiente.
