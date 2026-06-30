@@ -46,14 +46,23 @@ export async function getAllPosts(): Promise<Post[]> {
         imageAlt: data.imageAlt || "",
         copy: data.copy || "",
         category: data.category || "",
-        date: data.date ? String(data.date) : "",
+        date: data.date
+          ? data.date instanceof Date
+            ? data.date.toISOString().split("T")[0]
+            : String(data.date)
+          : "",
         published: typeof data.published === "boolean" ? data.published : false,
         content: "", // No convertimos el Markdown a HTML aquí por rendimiento en listados
         rawContent: content,
       };
     })
-    // Filtrar para mostrar solo los publicados
-    .filter((post) => post.published)
+    // Filtrar para mostrar solo los publicados y cuya fecha sea igual o anterior a hoy (UTC)
+    .filter((post) => {
+      if (!post.published) return false;
+      if (!post.date) return false;
+      const todayStr = new Date().toISOString().split("T")[0]; // "YYYY-MM-DD"
+      return post.date <= todayStr;
+    })
     // Ordenar posts por fecha de forma descendente
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 
@@ -78,6 +87,17 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
       return null;
     }
 
+    // Si la fecha de publicación es futura, no se debe retornar públicamente
+    if (data.date) {
+      const postDateStr = data.date instanceof Date
+        ? data.date.toISOString().split("T")[0]
+        : String(data.date);
+      const todayStr = new Date().toISOString().split("T")[0]; // "YYYY-MM-DD"
+      if (postDateStr > todayStr) {
+        return null;
+      }
+    }
+
     // Convertir Markdown a HTML usando marked de forma segura
     const processedContent = await marked.parse(content);
 
@@ -88,7 +108,11 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
       imageAlt: data.imageAlt || "",
       copy: data.copy || "",
       category: data.category || "",
-      date: data.date ? String(data.date) : "",
+      date: data.date
+        ? data.date instanceof Date
+          ? data.date.toISOString().split("T")[0]
+          : String(data.date)
+        : "",
       published: typeof data.published === "boolean" ? data.published : false,
       content: processedContent,
       rawContent: content,
