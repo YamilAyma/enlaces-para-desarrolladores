@@ -1,0 +1,16 @@
+name: Daily Netlify Rebuild
+
+on:
+  schedule:
+    # Ejecutar todos los días a las 00:05 UTC (7:05 PM local del día anterior en GMT-5)
+    - cron: '5 0 * * *'
+  workflow_dispatch: # Permite activar la reconstrucción manualmente desde la pestaña Actions en GitHub
+
+jobs:
+  rebuild:
+    name: Trigger Netlify Build Hook
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send POST request to Netlify Build Hook
+        run: |
+          curl -X POST -d {} "${{ secrets.NETLIFY_BUILD_HOOK_URL }}"
