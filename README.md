@@ -456,6 +456,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Tweakcn](https://tweakcn.com/): Herramienta para construir y personalizar temas para el ecosistema de Shadcn UI.
 - [Addy Osmani Recorder](https://github.com/addyosmani/recorder): Utilidad web de código abierto para grabar la pantalla directamente desde el navegador.
 - [Bekuto 3D](https://bekuto3d.ayaka.io/): Conversor experimental de gráficos vectoriales SVG a modelos 3D sencillos.
+- [gottrix](https://gottrix.app/): Más de 500 herramientas gratuitas de PDF, imagen, audio, video y datos que funcionan al 100% en el navegador mediante WebAssembly; los archivos nunca salen del dispositivo, sin registro, con soporte offline tras la primera visita y disponible en más de 25 idiomas.
 - [Vert Sh](https://vert.sh/): El "convertidor universal" definitivo para transformar casi cualquier tipo de archivo.
 - [Typographic Scale Generator](https://dkwebsolutions.co.uk/our-tools/responsive-typographic-scale-generator): Generador de escalas tipográficas responsivas para diseño web consistente.
 - [Colorize Design](https://colorize.design/): Extrae paletas de colores completas a partir de cualquier sitio web existente.
