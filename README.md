@@ -940,6 +940,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Animata](https://github.com/codse/animata): Biblioteca de componentes y efectos de animación listos para usar en React y Tailwind CSS, ideal para enriquecer interfaces visuales.
 - [RosenCharts](https://rosencharts.com/): Biblioteca de componentes de gráficos interactivos y altamente personalizables para Tailwind CSS, diseñada para integrarse sin esfuerzo y mejorar la visualización de datos en la web.
 - [Animal Island UI](https://guokaigdg.github.io/animal-island-ui/): Una preciosa librería de componentes UI interactivos inspirados en la estética lúdica y colorida del juego Animal Crossing.
+- [Hyperiux Vault](https://vault.hyperiux.com/): Colección de efectos de animación y componentes interactivos para Next.js, instalables mediante una CLI que copia el código fuente directamente en tu proyecto.
 
 ### 🧩 PLANTILLAS Y EJEMPLOS:
 
