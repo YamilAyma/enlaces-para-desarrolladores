@@ -524,6 +524,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [MeshGradient In](https://meshgradient.in/): Generador de fondos de gradiente de malla sofisticados y de alta calidad.
 - [Remove.bg](https://www.remove.bg/es): La herramienta líder para eliminar automáticamente el fondo de cualquier imagen.
 - [Jimpl](https://jimpl.com/): Herramienta para visualizar y limpiar metadatos ocultos (EXIF) de tus fotografías.
+- [Metadata Remover](https://metadataremover.ai/metadata-viewer): Visualiza metadatos EXIF, GPS, XMP, IPTC y campos de IA compatibles directamente en el navegador, sin subir archivos ni crear una cuenta.
 - [Object Remover](https://objectremover.com/): Utilidad de IA para eliminar objetos no deseados de tus fotos de forma limpia.
 - [Website Planet Compressor](https://www.websiteplanet.com/webtools/imagecompressor/): Herramienta de compresión de imágenes online que mantiene la calidad visual.
 - [CompressImage Io](https://compressimage.io/): Compresor de imágenes rápido y eficiente para optimizar el rendimiento web.
