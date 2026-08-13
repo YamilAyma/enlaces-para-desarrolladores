@@ -15,7 +15,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
 
-- [TheJeffDeanFacts](https://github.com/LRitzdorf/TheJeffDeanFacts): Lista recopilatoria de datos y hechos curiosos sobre Jeff Dean.
 - [shaper](https://github.com/taleshape-com/shaper): Plataforma para visualizar y compartir datos mediante consultas SQL con DuckDB.
 - [ML Visualized](https://ml-visualized.com/#): Guía visual e interactiva para aprender conceptos de Machine Learning.
 
@@ -1211,6 +1210,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 ### 🤗 RELAX
 
 - [CSS or BS?](https://www.keithcirkel.co.uk/css-or-bs/): Juego interactivo de trivia en la web para poner a prueba conocimientos de CSS, donde se debe adivinar si una propiedad es real o inventada.
+- [TheJeffDeanFacts](https://github.com/LRitzdorf/TheJeffDeanFacts): Lista recopilatoria de datos y hechos curiosos sobre Jeff Dean.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS
 
