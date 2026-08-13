@@ -1232,6 +1232,11 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🏠 Self-Hosted (Autoalojado)
 
+- [GeoLibre](https://geolibre.app/): Sistema de información geográfica (GIS) de escritorio construido con Tauri v2 y React.
+- [dreeve](https://dreeve.app/): Panel de control autoalojable para datos de deportes y condición física.
+- [atomic](https://atomicapp.ai/): Base de conocimientos personal autoalojable con conexiones semánticas.
+- [fakecloud](https://fakecloud.dev/): Emulador de servicios de AWS de código abierto para pruebas locales.
+
 - [Atomic CRM](https://marmelab.com/atomic-crm/): Un CRM completo desarrollado con React, shadcn/ui y Supabase.
 - [streambert](https://github.com/truelockmc/streambert): Una aplicación de escritorio Electron multiplataforma para reproducir en streaming y descargar cualquier película, serie de televisión o anime del mundo. Sin anuncios ni seguimiento.
 - [OpenWA](https://www.open-wa.org/): Puerta de enlace API de WhatsApp gratuita, de código abierto y autohospedada
