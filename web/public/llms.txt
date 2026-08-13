@@ -1179,6 +1179,67 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Mistral](https://chat.mistral.ai/chat): Plataforma de chat para interactuar con los potentes y eficientes modelos de IA de Mistral.
 - [Claude](https://claude.ai/login): IA de Anthropic enfocada en la seguridad, razonamiento complejo y generación de código de alta calidad.
 - [Qwen](https://chat.qwen.ai/): Familia de modelos de lenguaje avanzados desarrollados por Alibaba Cloud.
+- [brownies](https://github.com/franciscop/brownies): Gestor ligero de almacenamiento local, de sesión y cookies con suscripción a eventos en tiempo real.
+- [loopx](https://github.com/huangruiteng/loopx): Kernel de estado ligero para la gestión de bucles y flujos con equipos de agentes de IA.
+- [esp32-ai](https://github.com/slvDev/esp32-ai): Repositorio y proyecto de código abierto para desarrollo de IA en ESP32.
+- [ADR](https://github.com/uber/ADR): Plataforma de observabilidad, auditoría de seguridad y detección de amenazas para agentes de IA.
+- [kaneo](https://kaneo.app/): Gestión de proyectos de código abierto orientada a la simplicidad y eficiencia.
+- [hubble.md](https://www.hubble.md/): El bloc de notas definitivo diseñado para desarrolladores y agentes de IA.
+- [xberg](https://docs.xberg.io/): Framework políglota con núcleo en Rust para extracción inteligente de texto e información estructurada.
+- [qm](https://github.com/yc-software/qm): Entorno de desarrollo y orquestación multi-agente para flujos de trabajo colaborativos.
+- [autoharness](https://github.com/tigerless-labs/autoharness): Capa de habilidades con autoaprendizaje para Claude Code que extrae nuevos comandos de tus sesiones.
+- [Graft](https://github.com/nanonets/graft): Herramienta para optimizar el rendimiento y comprensión contextual de agentes de codificación.
+- [chatbot-template](https://github.com/shadcn-ui/chatbot-template): Plantilla minimalista de chatbot para Next.js integrada con Vercel AI SDK.
+- [cactus](https://cactuscompute.com/): Motor de IA de baja latencia diseñado para dispositivos móviles y wearables.
+- [langchainjs](https://github.com/langchain-ai/langchainjs): Plataforma integral de ingeniería para la creación de agentes autónomos.
+- [alook](https://alook.ai/): Capa de colaboración para gestionar y coordinar equipos de agentes de IA.
+- [prompt-cache](https://messkan.github.io/prompt-cache/): Proxy de LLMs en Go para reducir costos mediante almacenamiento en caché semántico.
+- [commerce](https://github.com/Spwig/commerce): Plataforma de comercio electrónico modular de código abierto con configurador 3D.
+- [LightRAG](https://github.com/HKUDS/LightRAG): Sistema RAG (Generación Aumentada por Recuperación) simple, rápido y ligero.
+- [Windows-MCP](https://github.com/CursorTouch/Windows-MCP): Servidor MCP para automatizar el control de entorno Windows desde agentes de IA.
+- [OpenContext](https://0xranx.github.io/OpenContext/en/): Almacén de contexto e interfaz gráfica para compartir conocimiento entre agentes de código.
+- [awesome-gpt-image-2](https://gpt-image2.canghe.ai/): Motor de ingeniería de prompts y plantilla de habilidades avanzadas para generación de imágenes.
+- [DeepCode](https://github.com/HKUDS/DeepCode): Plataforma de desarrollo autónomo con IA para generación de código web y backend.
+- [pullmd](https://github.com/AeternaLabsHQ/pullmd): Servicio autoalojable para convertir páginas web a Markdown limpio optimizado para IA.
+- [comp](https://github.com/trycompai/comp): Plataforma de IA para la automatización del cumplimiento normativo en empresas.
+- [humanizer](https://github.com/jooray/humanizer): Habilidad para Claude Code que elimina las muletillas y patrones habituales de redacción por IA.
+- [skills](https://github.com/browser-act/skills): CLI de automatización de navegadores optimizado para agentes de IA.
+- [ODS](https://github.com/Osmantic/ODS): Transforma cualquier equipo en un servidor local de IA con soporte para LLMs y RAG.
+- [drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server): Servidor MCP para manipular diagramas de Draw.io desde asistentes de IA.
+- [skills](https://github.com/google/skills): Colección de habilidades para agentes de IA enfocadas en tecnologías y APIs de Google.
+- [palmier-pro](https://www.palmier.io/): Editor de video para macOS optimizado para flujos de trabajo con IA.
+- [Chat2DB](https://chat2db.ai/es-ES): Cliente de bases de datos relacionales y NoSQL con asistente SQL de IA.
+- [Adrian](https://github.com/secureagentics/Adrian): Monitoreo y control de seguridad en tiempo real para agentes de IA.
+- [optio](https://optio.host/): Orquestación de flujos de trabajo para agentes de código desde la tarea hasta el PR.
+- [relaticle](https://relaticle.com/): CRM autoalojable de código abierto con soporte nativo para 30 herramientas MCP.
+- [no-ai-slop](https://github.com/petergyang/no-ai-slop): Herramienta que identifica y elimina muletillas y frases genéricas generadas por IA.
+- [train-llm-from-scratch](https://fareedkhan-dev.github.io/train-llm-from-scratch/): Método sencillo y práctico para entrenar tu propio LLM desde cero.
+- [VibeThinker](https://github.com/WeiboAI/VibeThinker): Modelo ligero optimizado para elevar las capacidades de razonamiento lógico.
+- [axi](https://axi.md/): Principios de diseño ergonómico para agentes de IA con menor costo de tokens.
+- [styleseed](https://styleseed-demo.vercel.app/): Sistema de diseño para Claude Code y Cursor con componentes de shadcn/ui.
+- [flint-chart](https://microsoft.github.io/flint-chart/): Lenguaje de visualización para que agentes de IA generen gráficos personalizables.
+- [oh-my-pi](https://omp.sh/): Agente de codificación para la terminal con edición anclada e integración con navegador.
+- [orca](https://www.onorca.dev/): Entorno de desarrollo de nueva generación para operar flotas de agentes en paralelo.
+- [repowise](https://www.repowise.dev/): Inteligencia de código para equipos con IA mediante métricas y decisiones vía MCP.
+- [reactbench](https://www.reactbench.com/): Evaluación comparativa para medir la eficacia de agentes de codificación en React.
+- [agent-device](https://agent-device.dev/): CLI para controlar dispositivos móviles iOS y Android desde agentes de IA.
+- [docbank](https://www.docbank.ai/): Almacén local de documentos para desarrolladores y agentes de IA.
+- [WrenAI](https://www.getwren.ai/en/open-core): Capa de contexto para que agentes de IA consulten bases de datos con SQL gobernado.
+- [terax-ai](https://terax.app/): Entorno de desarrollo ultraligero (7MB) e intuitivo para la terminal impulsado por IA.
+- [mgrep](https://github.com/mixedbread-ai/mgrep): Búsqueda semántica en CLI para código, imágenes y documentos PDF.
+- [openreview](https://openreview.labs.vercel.dev/): Bot de revisión de código con IA autoalojable e impulsado por Vercel.
+- [emdash](https://emdash.com/): Entorno de desarrollo para ejecutar múltiples agentes de código en paralelo.
+- [agentfield](https://www.agentfield.ai/): Plataforma para construir y escalar agentes de IA como microservicios auditables.
+- [openwiki](https://github.com/langchain-ai/openwiki): CLI que genera y mantiene la documentación del repositorio para agentes de IA.
+- [mindwalk](https://github.com/cosmtrek/mindwalk): Herramienta de visualización para reproducir sesiones de agentes de código en 3D.
+- [code-review-graph](https://code-review-graph.com/): Grafo de inteligencia de código local para MCP y CLI que optimiza el consumo de contexto.
+- [wigolo](https://knockoutez.github.io/wigolo/): Herramienta de búsqueda y rastreo local sobre MCP para agentes de codificación.
+- [strix](https://www.strix.ai/): Agentes de IA de código abierto para encontrar y corregir vulnerabilidades en aplicaciones.
+- [hippo-memory](https://hippo-memory.com/): Memoria con inspiración biológica para agentes de IA sin dependencias.
+- [openhare](https://sjjian.github.io/openhare/): Cliente SQL de escritorio impulsado por IA y construido en Flutter.
+- [claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty): Herramienta de auditoría y búsqueda de vulnerabilidades desde la terminal con Claude Code.
+- [full-stack-ai-agent-template](https://vstorm-co.github.io/full-stack-ai-agent-template/): Generador de aplicaciones full-stack con agentes de IA, RAG y autenticación.
+- [whichllm](https://github.com/Andyyyy64/whichllm): Herramienta para encontrar el modelo LLM local que ofrece mejor rendimiento en tu equipo.
 - [Aura](https://www.aura.build/): Crea hermosos diseños
 - [AI Website Cloner Template](https://github.com/JCodesMore/ai-website-cloner-template): Clona cualquier sitio web con un solo comando usando agentes de codificación de IA.
 - [DeepAgents](https://github.com/langchain-ai/deepagents): Plataforma experimental para el desarrollo y despliegue de agentes de IA autónomos.
@@ -1240,6 +1301,15 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [AIMock](https://aimock.copilotkit.dev/): Servidor de mocks open-source para simular la pila agéntica de IA completa (LLMs, servidores MCP, DBs vectoriales), asegurando pruebas deterministas en CI/CD.
 - [Webwright](https://github.com/microsoft/Webwright): Framework de Microsoft Research para agentes de IA terminal-native. Permite al modelo escribir y ejecutar su propio código de Playwright para resolver tareas web complejas.
 - [Impeccable](https://github.com/pbakaus/impeccable): Kit para agentes de IA a orientarlos para que puedan ser más eficaces en el diseño frontend. 1 Skill.
+- [speech-to-speech](https://github.com/huggingface/speech-to-speech): Construcción de agentes de voz locales mediante modelos de código abierto.
+- [sie](https://superlinked.com/): Servidor de inferencia de código abierto para procesamiento de embeddings y reordenamiento.
+- [Sana](https://nvlabs.github.io/Sana/docs/): Framework para generación eficiente de imágenes en alta resolución mediante Transformers.
+- [nativ](https://blaizzy.github.io/nativ/): Aplicación macOS nativa para chatear, ejecutar y monitorear modelos MLX locales.
+- [img2threejs](https://github.com/hoainho/img2threejs): Reconstruye objetos de imágenes de referencia en modelos Three.js procedimentales.
+- [lingbot-map](https://github.com/Robbyant/lingbot-map): Modelo 3D de base para reconstrucción de escenas a partir de datos en tiempo real.
+- [FunClip](https://github.com/modelscope/FunClip): Herramienta de reconocimiento de voz y recorte de video asistida por LLMs.
+- [pocket-tts](https://github.com/kyutai-labs/pocket-tts): Sistema Text-to-Speech extremadamente ligero ejecutable en CPU.
+- [airllm](https://github.com/lyogavin/airllm): Tecnología para inferencia de modelos de 70B parámetros en GPUs domésticas de 4GB.
 - [pocket-tts](https://github.com/kyutai-labs/pocket-tts): Sistema de Text-to-Speech extremadamente ligero que se ejecuta localmente en la CPU, ideal para dispositivos con recursos limitados.
 - [easy-dataset](https://github.com/ConardLi/easy-dataset): Herramienta potente para la creación sistemática de conjuntos de datos destinados al fine-tuning, RAG y evaluación de LLMs.
 - [airllm](https://github.com/lyogavin/airllm): Tecnología que permite la inferencia de modelos de 70B parámetros en GPUs domésticas de apenas 4GB mediante optimización de memoria.
