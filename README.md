@@ -15,6 +15,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 📦 PACKS (Colección de recursos, prepara tiempo libre si quieres profundizar)
 
+- [TheJeffDeanFacts](https://github.com/LRitzdorf/TheJeffDeanFacts): Lista recopilatoria de datos y hechos curiosos sobre Jeff Dean.
+- [shaper](https://github.com/taleshape-com/shaper): Plataforma para visualizar y compartir datos mediante consultas SQL con DuckDB.
+- [ML Visualized](https://ml-visualized.com/#): Guía visual e interactiva para aprender conceptos de Machine Learning.
+
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): Esta es una base de datos con más de 300.000 símbolos que incluyen acciones, ETF, fondos, índices, divisas, criptomonedas y mercados monetarios.
 - [GetDesign](https://getdesign.md/): Diseños inspirados en sitios web populares. Incorpóralo a tu proyecto y deja que los agentes de codificación creen la interfaz de usuario correspondiente.
 - [Prompts.chat](https://github.com/f/prompts.chat): Comparte, descubre y recopila prompts de la comunidad. Gratuito y de código abierto: autoaloja tu organización con total privacidad.
