@@ -710,6 +710,13 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🌐 WEB:
 
+- [Web Interface Guidelines](https://interfaces.rauno.me/): Lista curada de detalles e interacciones que elevan la calidad de una interfaz web.
+- [Invisible Details](https://rauno.me/craft/interaction-design): Análisis sobre los detalles sutiles que hacen que las interacciones digitales sean naturales.
+- [Details That Make Interfaces Feel Better](https://jakub.kr/writing/details-that-make-interfaces-feel-better): Selección de micro-interacciones y detalles que mejoran la experiencia en la web.
+- [Transitions](https://transitions.dev/): Colección de transiciones de interfaz listas para copiar y pegar en proyectos web.
+- [remediate](https://www.remediate.ski/): Widget sencillo para capturar opiniones y comentarios en sitios web.
+- [maizzle](https://maizzle.com/): Framework moderno de desarrollo para correos electrónicos responsivos con Tailwind.
+
 - [Rooks](https://github.com/imbhargav5/rooks): Colección masiva de hooks de React listos para usar y optimizar tus componentes.
 - [MagicPattern CSS](https://www.magicpattern.design/tools/css-backgrounds): Generador de patrones y fondos CSS geométricos personalizables para añadir textura visual a proyectos web.
 - [Krumzi Backgrounds](https://www.krumzi.com/tools/animated-background-generator): Generador de fondos animados y gradientes dinámicos impulsado por IA para crear interfaces inmersivas.
@@ -769,6 +776,40 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Whimsically](https://www.whimsically.app/): Loaders bonitos y agradables con sonido que puedes copiar y pegar, con soporte de React.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+
+- [legend-motion](https://github.com/LegendApp/legend-motion): Biblioteca de animaciones declarativas para React Native.
+- [react-native-enriched-html](https://enriched.swmansion.com/html/): Componente de texto enriquecido basado en HTML para aplicaciones React Native.
+- [react-native-true-sheet](https://sheet.lodev09.com/): Experiencia nativa de menú inferior (bottom sheet) para desarrollo móvil.
+- [maplibre-react-native](https://maplibre.org/maplibre-react-native/): Mapas interactivos de vectores y mapas de teselas para React Native y Expo.
+- [Libraries](https://beam.jakubantalik.com/): Colección de efectos visuales y animaciones fluidas para componentes React.
+- [TanStack Charts](https://tanstack.com/charts/latest): Librería ligera en TypeScript para gráficos responsivos renderizados en servidor.
+- [shadcn-templ](https://shadcn-templ.com/): Colección de componentes accesibles y estilizados para Go y Templ.
+- [GreatUI](https://www.great-ui.com/): Componentes animadas para React creadas con TypeScript, Tailwind CSS y Motion.
+- [morphicons](https://www.morphicons.com/): Librería ligera para metamorfosis y transiciones fluidas entre iconos SVG.
+- [Watermelon UI](https://ui.watermelon.sh/home): Colección de componentes UI, paneles y bloques listos para aplicaciones React.
+- [sonner](https://sonner.emilkowal.ski/): Librería de notificaciones tipo toast elegante y ligera para aplicaciones React.
+- [web-haptics](https://haptics.lochie.me/): Biblioteca para añadir respuestas táctiles y hápticas en la web móvil.
+- [cmdk](https://github.com/dip/cmdk): Componente de menú de comandos rápido y sin estilos para React.
+- [liveline](https://benji.org/liveline): Gráficos de líneas animados en tiempo real con alto rendimiento para React.
+- [calligraph](https://calligraph.raphaelsalaja.com/): Biblioteca para transiciones de texto fluidas impulsadas por Motion.
+- [dialkit](https://github.com/joshpuckett/dialkit): Herramienta para ajustar y calibrar parámetros visuales e interactivos en tiempo real.
+- [impeccable](https://github.com/pbakaus/impeccable): Sistema de reglas de diseño para guiar a los agentes de IA hacia interfaces estéticas.
+- [fancy](https://www.fancycomponents.dev/): Colección de componentes visuales avanzados para aplicaciones web.
+- [torph](https://torph.lochie.me/): Componente de texto animado ligero y sin dependencias externas.
+- [number-flow](https://number-flow.barvian.me/): Componente para la animación de números y contadores en múltiples frameworks.
+- [dither-kit](https://github.com/Boring-Software-Inc/dither-kit): Componentes de gráficos con estilo tramado (dithered) diseñados para shadcn/ui.
+- [evilcharts](https://evilcharts.com/): Biblioteca de gráficos de código abierto construida sobre shadcn y Recharts.
+- [audio](https://audio.raphaelsalaja.com/): Motor de síntesis de audio declarativo mediante Web Audio API.
+- [crd-ui](https://crd-ui.juanda.co/): Componente ligero y personalizable para tarjetas de crédito/débito.
+- [rare-ui](https://www.rareui.com/): Colección de componentes y animaciones UI poco comunes listos para usar.
+- [takumi](https://takumi.kane.tw/): Renderizador de JSX, HTML y CSS a SVG sin navegador headless.
+- [circle](https://circle.lndev.me/): Interfaz de gestión de proyectos inspirada en Linear construida con Next.js y shadcn/ui.
+- [xy](https://reflex.dev/docs/xy/): Gráficos componibles y acelerados por GPU para entornos web y notebooks.
+- [react-css-highlight](https://yaireo.github.io/react-css-highlight/?path=/story/compare--two-elements): Componente React para resaltado de texto ultra rápido mediante CSS Custom Highlight API.
+- [Componentry](https://componentry.dev/): Componentes UI para React animados y construidos con Tailwind CSS.
+- [animations](https://sv-animations.vercel.app/): Librería de animaciones para Svelte 5 con Tailwind CSS y Motion.
+- [Gamification UI Kit](https://ui.trophy.so/): Kit de componentes de ludificación (logros, rachas, tablas) basados en shadcn/ui.
+- [CSS Toggle Library](https://toggles.colorion.co/): Librería de componentes de selección (toggles, interruptores) hechos puramente en CSS.
 
 - [Shadcn Phone Input](https://shadcn-phone-input-five.vercel.app/): Componente de entrada de teléfono simple y formateado para Next.js, creado con shadcn/ui y libphonenumber-js.
 - [gooey-toast](https://goey-toast.vercel.app/): Componente de pan tostado pegajoso y transformable para React, construido sobre Sonner con animaciones Framer Motion.
