@@ -366,6 +366,19 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [zdoc](https://www.zdoc.app/es): Herramienta gratuita para traducir READMEs de GitHub a múltiples idiomas y mantenerlos actualizados.
+- [muJS](https://mujs.org/): Librería de navegación AJAX de 5KB como alternativa ligera a Turbo y htmx.
+- [Antra](https://github.com/anandprtp/Antra): Aplicación de escritorio para convertir enlaces de música en descargas locales etiquetadas.
+- [voice-pro](https://github.com/abus-aikorea/voice-pro): Interfaz web para síntesis de voz, clonación de voz y procesamiento de audio.
+- [gh-stack](https://docs.github.com/en/pull-requests/how-tos/stacked-pull-requests): Herramienta para la gestión y flujo de Pull Requests apilados en GitHub.
+- [letsseal](https://letsseal.org/): Estándar abierto para verificar la autenticidad e integridad de archivos digitales.
+- [Kittysploit-framework](https://kittysploit.com/): Framework de ciberseguridad, depuración e inspección de código en Python.
+- [build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package): Acción de GitHub para compilar e inspeccionar paquetes de Python.
+- [superfile](https://superfile.dev/): Gestor de archivos para la terminal moderno, rápido y elegante.
+- [anydoc](https://firecrawl.github.io/anydoc/): Herramienta en Rust para convertir documentos Office, PDF y datos a Markdown limpio.
+- [witr](https://pranshuparmar.github.io/witr/): Herramienta CLI para identificar el origen y la razón de ejecución de procesos.
+- [cnsplots](https://cnsplots.farid.one/latest/): Toolkit para la creación de gráficos científicos de calidad de publicación.
+
 - [hexyl](https://github.com/sharkdp/hexyl): Visor hexadecimal para la terminal.
 - [Codereel](https://reelcode.fayaz.workers.dev/): Anima código y comparte en video, altamente personalizable.
 - [Snapdown](https://snapdom.dev/): Motor de alto rendimiento para capturar, modificar y convertir elementos DOM a cualquier formato.
