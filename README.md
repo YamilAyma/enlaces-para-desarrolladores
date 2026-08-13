@@ -1445,6 +1445,15 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 💫 INSPIRACIÓN
 
+- [Family Values](https://benji.org/family-values): Colección de reflexiones sobre cultura y diseño de producto.
+- [Interactive SVG Animations](https://www.svg.guide/): Curso interactivo para dominar la creación y manipulación de animaciones SVG.
+- [oklch-skill](https://github.com/jakubkrehel/oklch-skill): Habilidad de agente para trabajar con el espacio de color moderno OKLCH en proyectos web.
+- [Easing Graphs](https://www.easing.dev/): Colección seleccionada de curvas de suavizado (easing) para animaciones web.
+- [Laws of UX](https://lawsofux.com/): Colección de leyes y mejores prácticas de experiencia de usuario para diseñar interfaces.
+- [Design System Checklist](https://www.designsystemchecklist.com/): Lista de comprobación open-source para planificar y estructurar sistemas de diseño.
+- [Design Books](https://designbooks.org/): Recopilación de libros esenciales sobre diseño gráfico, UX y producto.
+- [abtest.design](https://abtest.design/): Colección de aprendizajes y datos de tests A/B en productos digitales líderes.
+
 - [Netfolio](https://www.netfolio.io/websites): Explora los mejores sitios web Actualizado diariamente.
 - [VeryGoodComponents](https://www.goodcomponents.io/): Galería de componentes UI excepcionales y bien diseñados para inspirar tus proyectos.
 - [UX Snaps](https://www.uxsnaps.com/): Colección de capturas de pantalla de interfaces reales enfocada en flujos de UX específicos.
