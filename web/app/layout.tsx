@@ -7,7 +7,7 @@ import { SITE_CONFIG } from "@/lib/site-config";
 
 const roboto = Roboto({
   subsets: ["latin"],
-  weight: ["300", "400", "500", "700", "900"],
+  weight: "400",
   variable: "--font-roboto",
 });
 
