@@ -32,7 +32,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [System Prompts IA](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): Prompts de sistema de los modelos de IA más populares.
 - [Freesets](https://freesets.dev/): Conjuntos de recursos gráficos gratuitos para diseño.
 - [Ufreetools](https://www.ufreetools.com/es/): Herramientas web gratuitas y utilidades varias.
-- [Tailwind Animations](https://tailwindcss-animations.vercel.app/): Librería de animaciones lista para copiar y pegar en Tailwind CSS.
+- [Tailwind Animations](https://tailwind-animations.com/): Librería de animaciones lista para copiar y pegar en Tailwind CSS.
 - [Starterkit Pro Blocks](https://blocks.starterkitpro.com/): Bloques de interfaz de usuario para aplicaciones web.
 - [FreeMediaGoo](https://www.freemediagoo.com/): Stock gratuito de imágenes, texturas y backgrounds.
 - [FreeImages](https://www.freeimages.com/): Repositorio global de fotografías de stock libres.
@@ -85,14 +85,13 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Open Alternative](https://openalternative.co): Directorio de alternativas de código abierto a herramientas SaaS propietarias.
 - [Colors and Fonts](https://www.colorsandfonts.com/): Herramienta curada para encontrar paletas de colores y tipografías web.
 - [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss): Repositorio principal con plugins, kits de UI y herramientas para Tailwind.
-- [Toolfolio](https://toolfolio.io/): Directorio de herramientas de productividad y utilidades para el ecosistema tech.
+- [Toolfolio](https://toolfolio.com/): Directorio de herramientas de productividad y utilidades para el ecosistema tech.
 - [YesIcon](https://yesicon.app): Buscador masivo de iconos con soporte para múltiples librerías populares.
 - [Vertex42 Templates](https://www.vertex42.com/): Plantillas profesionales para documentos de Word y hojas de cálculo.
 - [1001 Fonts](https://www.1001fonts.com/): Repositorio con miles de fuentes gratuitas listas para descargar y usar.
 - [3D Icons](https://www.3dicons.com/): Set de iconos 3D gratuitos y de alta calidad para interfaces modernas.
 - [Unheap](https://www.unheap.com/): Un catálogo categorizado de plugins de jQuery y componentes web clásicos.
 - [Branding Website](https://www.brandingwebsite.com/): Galería de inspiración enfocada específicamente en sitios web de branding.
-- [LazyWeb](https://app.lazyweb.rocks/): Herramienta para navegar rápidamente por recursos útiles sin distracciones.
 - [Pixelums Wallpapers](https://www.pixelums.com/): Fondos de pantalla minimalistas y artísticos en alta resolución.
 - [Component Libraries](https://componentlibraries.com/): Base de datos exhaustiva para comparar librerías de componentes UI.
 - [Pixels Market](https://pixels.market/): Repositorio de ilustraciones gratuitas para proyectos comerciales y personales.
@@ -103,7 +102,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [DevUtilities by Jam](https://jam.dev/utilities): Herramientas web rápidas para depurar y optimizar el flujo de trabajo.
 - [Built At Lightspeed](https://www.builtatlightspeed.com/): Galería de sitios web rápidos y kits de UI optimizados.
 - [Startups Gallery](https://startups.gallery/): Repositorio visual de las mejores startups y sus diseños web.
-- [Shapes by Framer](https://shapes.framer.website/): Colección de formas SVG personalizables para tus diseños en Framer o Web.
+- [Shapes by Framer](https://www.shapes.gallery/): Colección de formas SVG personalizables para tus diseños en Framer o Web.
 - [Web Curate](https://webcurate.co/): Descubre las mejores aplicaciones y páginas web sobre herramientas digitales.
 - [OSChina](https://www.oschina.net/): Portal de noticias y comunidad de código abierto líder en la región de China.
 - [SkillsMP](https://skillsmp.com):  Explora las habilidades del agente
@@ -132,10 +131,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Best of Web Python](https://github.com/ml-tooling/best-of-web-python?tab=readme-ov-file): Selección de las mejores herramientas y librerías del ecosistema Python para web.
 - [Web Tools Weekly Feed](https://us5.campaign-archive.com/home/?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d): Feed interactivo con las últimas herramientas recomendadas para desarrolladores.
 - [Best React UI Libraries](https://bestwebdesigntools.com/blog/20-best-free-paid-react-ui-libraries-for-developers-in-2025): Comparativa de las 20 mejores librerías de componentes UI para React en 2025.
-- [AI Agent Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks): Artículo técnico sobre los frameworks líderes para la creación de agentes autónomos.
+- [AI Agent Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/): Artículo técnico sobre los frameworks líderes para la creación de agentes autónomos.
 - [UIverse](https://uiverse.io/elements): Biblioteca de elementos de interfaz hechos por la comunidad listos para copiar y pegar.
 - [My AI Hub](https://www.myaihub.ai/): Directorio exhaustivo de herramientas de IA clasificadas por utilidad y sector.
-- [Free IT Certifications](https://www.classcentral.com/report/free-developer-it-certifications): Reporte sobre certificaciones gratuitas de IT y desarrollo para impulsar tu carrera.
+- [Free IT Certifications](https://www.classcentral.com/report/free-developer-it-certifications/): Reporte sobre certificaciones gratuitas de IT y desarrollo para impulsar tu carrera.
 - [HTMLRev](https://htmlrev.com/): Catálogo de plantillas HTML y componentes gratuitos para sitios web estáticos.
 - [IconBuddy](https://iconbuddy.com/): Buscador y gestor de iconos con soporte para múltiples formatos y estilos.
 - [Free Icons](https://iconstore.co/): Colección de packs de iconos gratuitos creados por diseñadores de primer nivel.
@@ -154,7 +153,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [MCP So](https://mcp.so/): Directorio de servidores para el Model Context Protocol (MCP) que expanden las capacidades de IA.
 - [UI Hut](https://uihut.com/free-assets): Plataforma con miles de recursos de diseño UI gratuitos como plantillas y kits.
 - [Codeburst Newsletters](https://codeburst.io/newsletters-for-web-developers-c6d6590f7f55): Selección de las mejores newsletters para estar al día en desarrollo web.
-- [Smashing Magazine Newsletters](https://www.smashingmagazine.com/2024/06/useful-email-newsletters-for-designers): Email newsletters recomendadas específicamente para diseñadores y frontends.
+- [Smashing Magazine Newsletters](https://www.smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/): Email newsletters recomendadas específicamente para diseñadores y frontends.
 - [Thiings](https://www.thiings.co/things): Buscador visual y directorio de objetos y recursos inspiradores.
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/): Galería clásica de patrones y texturas sutiles para fondos web.
 - [Profile Badges](https://github.com/Thinkright20/Profile-Badges): Repositorio de insignias y badges para personalizar tu perfil de GitHub.
@@ -169,11 +168,11 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted): Lista exhaustiva de software que puedes alojar en tus propios servidores.
 - [LibHunt](https://www.libhunt.com/): Descubre las mejores librerías y comparativas de software basadas en popularidad.
 - [React Native Directory](https://reactnative.directory/): El lugar definitivo para encontrar y comparar librerías de React Native.
-- [Skills Sh](https://skills.sh/): Directorio para acceder a 'skills' de IA.
+- [Skills Sh](https://www.skills.sh/): Directorio para acceder a 'skills' de IA.
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges): Un repositorio de badges de markdown para usar en tus proyectos.
 - [Claude SEO](https://github.com/AgriciDaniel/claude-seo): Competencia SEO universal para Claude Code. 19 subcompetencias, 12 subagentes, 3 extensiones (DataForSEO, Firecrawl, Banana). SEO técnico, EEAT, schema, GEO/AEO, backlinks, SEO local, inteligencia de mapas, API de Google e informes en PDF/Excel.
 - [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): Un conjunto de habilidades de agente listas para usar en investigación, ciencia, ingeniería, análisis, finanzas y redacción.
-- [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills): Guía técnica en un solo archivo diseñada para corregir sesgos y mejorar el comportamiento de Claude Code en tareas de programación complejas.
+- [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills): Guía técnica en un solo archivo diseñada para corregir sesgos y mejorar el comportamiento de Claude Code en tareas de programación complejas.
 - [OpenSkills](https://github.com/numman-ali/openskills): Framework y CLI universal para hacer que las habilidades de codificación de IA sean portables entre diferentes agentes y frameworks.
 - [Awesome NotebookLM Prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts): Colección curada de prompts avanzados para NotebookLM diseñados para generar presentaciones, memos de decisión y hojas de ruta estratégicas.
 - [Design Dictionary](https://ui-design-dictionary.pages.dev/): Diccionario visual que explica terminología de diseño UI/UX de forma sencilla y directa.
@@ -191,7 +190,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Enpitsu Sozai](https://enpitsu-sozai.com/): Ilustraciones con un acabado artístico de dibujo a lápiz, aportando una estética cálida y artesanal a tus proyectos.
 - [Illust Navi](https://illust-navi.com/): Portal de navegación para encontrar ilustraciones y recursos gráficos de alta calidad con un enfoque en el diseño moderno.
 - [Linustock](https://www.linustock.com/): Banco especializado en arte lineal vectorial estilizado, diseñado específicamente para ser fácil de procesar y editar por diseñadores.
-- [Soco-st](https://soco-st.com/): Ilustraciones de estilo plano y minimalista con un personalizador de colores web para descargar en formatos PNG, SVG y EPS.
 - [Shigureni](https://shigureni.com/): Colección de ilustraciones japonesas con un estilo peculiar y tierno, perfectas para blogs y redes sociales.
 - [Loose Drawing](https://loosedrawing.com/): Ilustraciones sencillas de trazo libre con una estética suave, ideales para proyectos que buscan un toque humano y accesible.
 - [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins): Repositorio oficial de Anthropic con plugins de código abierto diseñados para potenciar la productividad y automatización de tareas en Claude.
@@ -200,7 +198,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 📄 LISTAS
 
-- [Startups Graveyard](https://loot-drop.vercel.app/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.
+- [Startups Graveyard](https://www.loot-drop.io/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.
 - [STARTUPS G-Sheet](https://docs.google.com/spreadsheets/u/0/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/htmlview): Hoja de cálculo colaborativa con miles de startups y sus detalles.
 - [State of JS](https://2024.stateofjs.com/en-US/libraries/): El reporte anual definitivo sobre las tendencias, librerías y estado actual de JavaScript.
 - [Actually Free APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/): Lista de APIs realmente gratuitas, abiertas y que no requieren autenticación.
@@ -224,7 +222,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Da.gd](https://da.gd/): Acortador de URLs minimalista y potente con soporte para terminal.
 - [Aptoide API](https://ws75.aptoide.com/api/7/apps/search?info=1): Documentación para acceder a los datos de aplicaciones de la tienda Aptoide.
 - [IPQuery](https://ipquery.io/): API gratuita centrada en desarrolladores para obtener datos de geolocalización e inteligencia de IPs en JSON.
-- [Free LLM APIs](https://github.com/cheahjs/free-llm-api-resources): Lista curada de servicios que ofrecen acceso gratuito o créditos de prueba para APIs de inferencia de modelos de lenguaje grandes.
 - [Scraping APIs for Devs](https://github.com/cporter202/scraping-apis-for-devs): Colección curada de APIs de scraping listas para usar en automatizaciones y apps de IA sin configurar infraestructura propia.
 - [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator permite generar automáticamente bibliotecas cliente de API (generación de SDK), stubs de servidor, documentación y configuración a partir de una especificación OpenAPI (v2, v3).
 - [Magisk](https://github.com/topjohnwu/Magisk): Magisk es un conjunto de software de código abierto para personalizar Android, compatible con dispositivos con versiones de Android superiores a la 6.0.
@@ -250,10 +247,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Valdi Framework](https://github.com/Snapchat/Valdi): El framework ligero y eficiente utilizado por Snapchat para desarrollo.
 - [Qrcode.vue](https://github.com/scopewu/qrcode.vue): Componente de Vue.js para la generación rápida de códigos QR.
 - [Vue Infinite List](https://github.com/suhaotian/broad-infinite-list): Lista infinita optimizada de alto rendimiento para aplicaciones Vue.
-- [React Native Enricher](https://github.com/software-mansion/react-native-enriched): Herramienta para enriquecer y mejorar el contenido en React Native.
+- [React Native Enricher](https://github.com/software-mansion/react-native-enriched-html): Herramienta para enriquecer y mejorar el contenido en React Native.
 - [GH Space Shooter](https://github.com/czl9707/gh-space-shooter): Un clon de Space Shooter escrito íntegramente para la comunidad de GitHub.
 - [React Sounds](https://www.reactsounds.com/): Biblioteca para integrar efectos de sonido en aplicaciones React de forma sencilla.
-- [Nuqs](https://nuqs.47ng.com/): Librería para manejar el estado de la aplicación mediante parámetros de búsqueda en la URL.
+- [Nuqs](https://nuqs.dev/): Librería para manejar el estado de la aplicación mediante parámetros de búsqueda en la URL.
 - [Reactylon](https://www.reactylon.com/): Framework de alto nivel para crear experiencias 3D envolventes con React.
 - [Waveform Playlist](https://github.com/naomiaro/waveform-playlist): Editor de audio multipista en el navegador basado en Web Audio API.
 - [Image.js](https://github.com/image-js/image-js): Potente librería de procesamiento de imágenes para JavaScript.
@@ -273,7 +270,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [GWS CLI](https://github.com/googleworkspace/cli): Herramienta de línea de comandos potente para administrar Google Workspace de forma programática.
 - [Numpy TS](https://github.com/dupontcyborg/numpy-ts): Versión de la librería NumPy portada a TypeScript y JavaScript para cálculos numéricos.
 - [Cheerio](https://github.com/cheeriojs/cheerio/): Librería rápida y flexible para el análisis y manipulación de HTML/XML con sintaxis estilo jQuery.
-- [Dj-Urls-Panel](https://github.com/yassi/dj-urls-panel): Visualiza el enrutamiento de URL de Django dentro del panel de administración de Django, incluyendo patrones, vistas, espacios de nombres y conflictos.
+- [Dj-Urls-Panel](https://github.com/django-control-room/dj-urls-panel): Visualiza el enrutamiento de URL de Django dentro del panel de administración de Django, incluyendo patrones, vistas, espacios de nombres y conflictos.
 - [FaceHash](https://www.facehash.dev/): Un componente de React que genera rostros de avatar únicos a partir de cualquier cadena de texto. Sin dependencias. Funciona con Next.js, Vite y Remix.
 - [Sonar](https://github.com/RasKrebs/sonar): Herramienta de línea de comandos para inspeccionar y administrar servicios que escuchan en puertos locales.
 - [NotebookLM Py](https://github.com/teng-lin/notebooklm-py): API de Python no oficial y funcionalidades de agente para Google NotebookLM. Acceso programático completo a las funciones de NotebookLM, incluidas las capacidades que la interfaz web no expone, a través de Python, la línea de comandos y agentes de IA como Claude Code, Codex y OpenClaw.
@@ -284,14 +281,14 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [SEO Audit Skill](https://github.com/seo-skills/seo-audit-skill): Una completa herramienta de línea de comandos para auditorías SEO con 108 reglas de auditoría en 12 categorías. Analiza cualquier sitio web para detectar las mejores prácticas de SEO, Core Web Vitals, encabezados de seguridad, datos estructurados, accesibilidad y mucho más
 - [Crashcat](https://github.com/isaac-mason/crashcat): Motor de física para JavaScript, diseñado para juegos, simulaciones y sitios web creativos.
 - [PayKit](https://paykit.sh/): El primer framework de facturación para TypeScript que gestiona planes, Stripe y webhooks directamente desde el código.
-- [Geo Content Writer](https://github.com/GEO-SEO/geo-content-writer): Sistema de producción de contenido GEO/SEO basado en backlog que convierte oportunidades de prompts en artículos optimizados.
+- [Geo Content Writer](https://github.com/dageno-agents/geo-content-writer): Sistema de producción de contenido GEO/SEO basado en backlog que convierte oportunidades de prompts en artículos optimizados.
 - [OpenClaw](https://github.com/openclaw/openclaw): Asistente de IA residente con memoria persistente nativa que permite mantener el contexto detallado entre sesiones de trabajo.
-- [OpenCLI-RS Skill](https://github.com/nashsu/opencli-rs-skill): Herramienta avanzada de crawling para agentes de IA que permite extraer datos estructurados de más de 55 fuentes (X, Reddit, etc.).
+- [OpenCLI-RS Skill](https://github.com/nashsu/autocli-skill): Herramienta avanzada de crawling para agentes de IA que permite extraer datos estructurados de más de 55 fuentes (X, Reddit, etc.).
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent): Framework de agentes de IA de Nous Research diseñado para evolucionar y adaptarse dinámicamente según el uso del desarrollador.
 - [DeepTutor](https://github.com/HKUDS/DeepTutor): Asistente de aprendizaje personalizado nativo para agentes, enfocado en optimizar el aprendizaje técnico mediante IA.
 - [Marimo Pair](https://github.com/marimo-team/marimo-pair): Extensión de pair programming para el cuaderno reactivo Marimo, integrada con agentes de IA.
 - [VigIA Orchestrator](https://github.com/JordanCT/VigIA-Orchestrator): Orquestador de agentes de IA para flujos de trabajo complejos y automatización de tareas técnicas.
-- [Druids](https://github.com/fulcrumresearch/druids): Framework de código abierto para construir aplicaciones complejas basadas en LLMs con soporte para múltiples modelos.
+- [Druids](https://github.com/fulcrumresearch/ramure): Framework de código abierto para construir aplicaciones complejas basadas en LLMs con soporte para múltiples modelos.
 - [Qwen Code](https://qwen.ai/qwencode): Agente de IA para codificación en terminal basado en Qwen-Coder para automatizar flujos de trabajo.
 - [pdfx](https://github.com/akii09/pdfx): Componentes de React para generar documentos PDF totalmente personalizables con una experiencia similar a shadcn/ui.
 - [Boneyard](https://github.com/0xGF/boneyard): Librería de React que genera pantallas de carga (skeleton) perfectas basándose en la estructura real del DOM.
@@ -316,7 +313,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [rattles](https://github.com/vyfor/rattles): Biblioteca de indicadores de carga (spinners) minimalistas para la terminal desarrollados íntegramente en Rust.
 - [Hue](https://hueapp.io/): Skill avanzada para Claude Code que permite interactuar con paletas de colores y tokens de diseño.
 - [Great Docs](https://github.com/posit-dev/great-docs): Herramienta para generar documentación técnica excepcional a partir de código.
-- [Tegaki](https://github.com/KurtGokhan/tegaki): Motor de reconocimiento de escritura a mano integrado en el navegador para aplicaciones interactivas.
+- [Tegaki](https://github.com/gkurt/tegaki): Motor de reconocimiento de escritura a mano integrado en el navegador para aplicaciones interactivas.
 - [Aesthetic Portfolio](https://github.com/Aayan15728/Aesthetic-Portfolio-Site): Plantilla de portafolio minimalista con animaciones premium lista para desplegar.
 - [LikeC4](https://github.com/likec4/likec4): Herramienta para visualizar y evolucionar la arquitectura de software con diagramas vivos generados desde el código.
 - [Simple FFmpegJS](https://github.com/Fats403/simple-ffmpegjs): Composición de video declarativa para Node.js que permite definir clips, transiciones y audio como objetos simples.
@@ -330,7 +327,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Statewright](https://github.com/statewright/statewright): Framework de orquestación de agentes basado en máquinas de estado para garantizar flujos deterministas.
 - [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): Colección de habilidades predefinidas para agentes especializados en investigación científica y análisis de datos.
 - [Supervision](https://github.com/roboflow/supervision): Utilidades esenciales para flujos de trabajo de Computer Vision, incluyendo detección de objetos y seguimiento.
-- [zero-native](https://github.com/vercel-labs/zero-native): Shell de aplicación multiplataforma desarrollado por Vercel Labs en Zig, optimizado para envolver frontends web en WebViews nativos ultraligeros.
+- [zero-native](https://github.com/vercel-labs/native): Shell de aplicación multiplataforma desarrollado por Vercel Labs en Zig, optimizado para envolver frontends web en WebViews nativos ultraligeros.
 - [PrettyTable](https://github.com/prettytable/prettytable): Biblioteca de Python ligera para representar de forma sencilla datos tabulares visualmente estructurados y formateados en la terminal.
 - [Google Maps Scrapper](https://github.com/zohaibbashir/Google-Maps-Scrapper): Herramienta en Python basada en Playwright que automatiza la extracción de datos de negocios en Google Maps y los exporta limpios a formato CSV.
 - [SurrealDB](https://surrealdb.com/): Base de datos multi-modelo en la nube y local-first que unifica relaciones, documentos, grafos y búsquedas estructuradas en una plataforma de alto rendimiento y baja latencia.
@@ -340,7 +337,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Qite.js](https://qitejs.qount25.dev/): Framework de frontend para quienes odian React y aman HTML, sin pasos de compilación, sin DOM virtual, sin mezclar JS con HTML, con SSR prioritario y compatible con API web estándar.
 - [Kiru](https://kirujs.dev/): Biblioteca de renderizado completa y fácil de usar, con un tamaño mínimo, gestión de estado basada en señales sin sobrecarga, utilidades de enrutamiento y CSR integrales por defecto, y control granular de la reactividad y el estado.
 - [Elena](https://elenajs.com/): Biblioteca sencilla y compacta para crear componentes web progresivos que no obliga a usar JavaScript para todo y permite cargar primero HTML y CSS, para luego usar JavaScript para añadir interactividad de forma progresiva.
-- [Edge.js](https://edgejs.org/): Entorno de ejecución de JavaScript seguro, diseñado para la computación perimetral y las cargas de trabajo de IA, que utiliza WebAssembly para el aislamiento de procesos cuando está en modo --safe, y es totalmente compatible con Node.js.
+- [Edge.js](https://www.edgejs.org/): Entorno de ejecución de JavaScript seguro, diseñado para la computación perimetral y las cargas de trabajo de IA, que utiliza WebAssembly para el aislamiento de procesos cuando está en modo --safe, y es totalmente compatible con Node.js.
 - [WarpDrive](https://canary.warp-drive.io/): biblioteca de datos ligera y compatible con renderizado del lado del servidor (SSR), basada en Ember.js, que facilita la creación de aplicaciones escalables, rápidas y con muchas funciones.
 - [Workflow SDK](https://workflow-sdk.dev/): Conjunto de herramientas que permite agregar fácilmente durabilidad, confiabilidad y observabilidad a JavaScript asíncrono, y crear aplicaciones y agentes de IA que puedan suspender, reanudar y mantener el estado con facilidad.
 - [TSRX](https://tsrx.dev/): Extensión del lenguaje TypeScript para crear interfaces de usuario declarativas en la era de los agentes, que permite escribir código de componentes de interfaz de usuario que se mantiene legible y en la misma ubicación, donde la estructura, el estilo y el flujo de control conviven.
@@ -351,11 +348,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Portless](https://portless.sh/): Proxy local de Vercel Labs que reemplaza puertos numéricos de localhost por nombres de dominio .localhost legibles. Evita conflictos de puertos y soporta HTTPS local.
 - [Hucre](https://hucre.productdevbook.com/): Motor de hojas de cálculo en TypeScript puro sin dependencias para leer y escribir XLSX, CSV y ODS. Soporta streaming, validación y tablas dinámicas.
 - [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid): Librería en TypeScript para renderizar diagramas Mermaid a SVG o arte ASCII síncronamente en terminales o interfaces, sin dependencias del DOM.
-- [Pushduck](https://pushduck.dev/): Librería universal para subir archivos directamente a almacenamiento compatible con S3. Soporta +16 frameworks, entornos Edge y evita el pesado SDK de AWS.
 - [dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant): Librería en Python para Django que implementa arquitectura multi-inquilino (multi-tenant) sobre bases de datos SQLite individuales con soporte para caché LRU.
-- [Manifest](https://manifest.build/docs/introduction): Plataforma de Backend-as-a-Service (BaaS) de código abierto que permite definir la lógica, bases de datos y paneles de administración con un archivo YAML.
+- [Manifest](https://manifest.build/docs/introduction/): Plataforma de Backend-as-a-Service (BaaS) de código abierto que permite definir la lógica, bases de datos y paneles de administración con un archivo YAML.
 - [SandDance](https://microsoft.github.io/SandDance/): Visualizador interactivo de datos en 2D y 3D creado por Microsoft, que utiliza transiciones animadas para analizar agrupaciones y patrones complejos.
-- [Remocn](https://www.remocn.dev/): Colección de componentes y primitivas de animación listas para copiar y pegar en Remotion, facilitando la creación de videos dinámicos con código React.
+- [Remocn](https://remocn.dev/): Colección de componentes y primitivas de animación listas para copiar y pegar en Remotion, facilitando la creación de videos dinámicos con código React.
 - [Tiks](https://rexa-developer.github.io/tiks/): Biblioteca de audio para la web que genera sonidos de interfaz de usuario de forma procedimental con Web Audio API, eliminando archivos de audio
 - [docmd](https://docmd.io/): Conversión de Markdown a documentos de producción. Útil para documentación técnica.
 - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/): Motor de efectos visuales para terminal. No requiere módulos de terceros.
@@ -385,7 +381,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Jimp](https://jimp-dev.github.io/jimp/): Biblioteca de procesamiento de imágenes para Node.js escrita completamente en JavaScript, sin dependencias nativas, ideal para entornos donde la compilación es un problema.
 - [Sharp](https://sharp.pixelplumbing.com/): El módulo de procesamiento de imágenes para Node.js más rápido, basado en la librería libvips, diseñado para redimensionar imágenes JPEG, PNG, WebP, AVIF y TIFF de forma eficiente.
 - [Claudian](https://github.com/YishenTu/claudian): Plugin para Obsidian que integra a Claude Code como colaborador de IA dentro de tu sistema de notas personales.
-- [Recordly](https://github.com/webadderall/Recordly): Crea grabaciones de pantalla profesionales gratis. Un grabador de pantalla de código abierto para Mac/Windows/Linux que añade zoom automático, cursores animados, subtítulos automáticos y mucho más a tus vídeos.
+- [Recordly](https://github.com/webadderallorg/Recordly): Crea grabaciones de pantalla profesionales gratis. Un grabador de pantalla de código abierto para Mac/Windows/Linux que añade zoom automático, cursores animados, subtítulos automáticos y mucho más a tus vídeos.
 - [Ultramock](https://www.ultramock.io/): Crea mockups de alta calidad para tus productos digitales.
 - [Rowboat](https://github.com/rowboatlabs/rowboat): Compañero de trabajo de IA de código abierto, con memoria
 - [Openvid](https://github.com/CristianOlivera1/openvid): Crea demos profesionales en segundos, directamente en tu navegador
@@ -393,10 +389,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [PWAScore](https://pwascore.com/): Compara las capacidades de las aplicaciones web progresivas (PWA) en los navegadores móviles y de escritorio más populares.
 - [Floci](https://github.com/floci-io/floci): Ligero, esponjoso y siempre gratuito: emulador local de AWS.
 - [Stroke](https://stroke.abhii.space/): Animar archivos SVG. Hermosamente.
-- [MiniStack](https://github.com/Nahuel990/ministack): Emulador local de AWS gratuito y de código abierto: más de 35 servicios, compatible con Terraform, bases de datos reales. Gratis para siempre. Licencia MIT.
+- [MiniStack](https://github.com/ministackorg/ministack): Emulador local de AWS gratuito y de código abierto: más de 35 servicios, compatible con Terraform, bases de datos reales. Gratis para siempre. Licencia MIT.
 - [startupslab](https://startupslab.site/): Plataforma para el lanzamiento y visibilización de startups que ayuda a fundadores a obtener tráfico verificado y backlinks de calidad.
 - [directory-submission-service](https://rankinpublic.xyz/directory-submission-service): Servicio de envío manual a más de 140 directorios de alta autoridad para potenciar el Domain Rating de proyectos SaaS.
-- [EmailMD](https://github.com/unmta/emailmd): Convierte archivos Markdown en correos electrónicos profesionales con un diseño limpio y moderno.
+- [EmailMD](https://github.com/anypost/emailmd): Convierte archivos Markdown en correos electrónicos profesionales con un diseño limpio y moderno.
 - [GitHub Readme Stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow): Genera dinámicamente tu estado de StackOverflow en tus archivos README de GitHub
 - [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium): Genera dinámicamente tu último artículo de Medium en tus archivos README de GitHub
 - [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile): Muestra tu música de Spotify reproduciéndose en tu perfil de Github.
@@ -431,7 +427,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Old School Gaming Filter](https://patorjk.com/old-school-gaming-filters/): Aplicación de filtros retro de videojuegos a texto y elementos.
 - [Unfake JS](https://github.com/jenissimo/unfake.js): Mejora y arregla imágenes generadas por IA que presentan artefactos o pixelado.
 - [Hero Patterns](https://heropatterns.com/): Colección de patrones de fondo SVG repetibles y personalizables.
-- [IRA Design](https://iradesign.io/): Crea ilustraciones personalizadas con degradados y componentes dinámicos.
 - [Cool Backgrounds](https://coolbackgrounds.io/black-background/): Generador de fondos coloridos, abstractos y modernos para sitios web.
 - [PageGYM](https://pagegym.com/): Herramienta para ejercitar y validar el rendimiento de tus páginas web.
 - [FontGen Cool](https://fontgen.cool/): Otra herramienta versátil para generar fuentes y estilos de texto creativos.
@@ -440,7 +435,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [StackRender](https://github.com/stackrender/stackrender): Diseñador visual de esquemas de bases de datos con exportación inmediata.
 - [Baseline Status Video](https://baseline-status-for-video.css-weekly.com/): Validador de soporte de características de video en navegadores modernos.
 - [Free SVG Converter](https://svgconverter.online/): Conversor de archivos de imagen a formato vectorial SVG de forma gratuita.
-- [PasteResize](https://pasteresize.online/): Utilidad para pegar imágenes y redimensionarlas rápidamente en el navegador.
 - [AetherCSS](https://aethercss.lovable.app/): Framework de diseño moderno y ligero basado en utilidades de CSS.
 - [Type Scale Generator](https://landin.gs/tools/type-scale-generator/): Generador visual de escalas tipográficas en múltiples tamaños.
 - [Link Hover Animations](https://hoverly.wpwork.shop/): Editor CSS para crear efectos de animación al pasar el ratón por enlaces.
@@ -455,7 +449,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Try Venz](https://try.venz.dev/): Generador de gráficos y visualizaciones de datos a partir de números brutos.
 - [HelloCSV](https://hellocsv.github.io/HelloCSV/): Librería para integrar la carga y el procesamiento de archivos CSV en tus aplicaciones.
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/): Herramienta de línea de comandos para convertir imágenes en siluetas de arte ASCII.
-- [URL To Any](https://www.urltoany.com/): Colección de utilidades interesantes para manipular y transformar URLs.
+- [URL To Any](https://urltoany.com/): Colección de utilidades interesantes para manipular y transformar URLs.
 - [FontJoy](https://fontjoy.com/): Generador de combinaciones de fuentes equilibradas usando aprendizaje profundo.
 - [FontSensei](https://fontsensei.com/): Herramienta para probar y comparar fuentes de Google Fonts en tiempo real.
 - [Gradienty](https://gradienty.codes/): Generador de gradientes visuales diseñado específicamente para Tailwind CSS.
@@ -504,22 +498,22 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Easing Wizard](https://easingwizard.com/): Creador interactivo de funciones de suavizado (easing) personalizadas para animaciones CSS.
 - [Visprex](https://github.com/visprex/visprex): Herramienta de visualización de datos especializada en archivos CSV para análisis rápido.
 - [Hoppscotch](https://hoppscotch.com): Plataforma de desarrollo de APIs de código abierto, ligera y rápida (alternativa a Postman).
-- [Scira](https://scira.app/): Motor de búsqueda potenciado por IA diseñado para consultas técnicas y de desarrollo.
+- [Scira](https://scira.ai/): Motor de búsqueda potenciado por IA diseñado para consultas técnicas y de desarrollo.
 - [SVG Export](https://svgexport.io/): Extensión para extraer y descargar todos los archivos SVG de una página web con un clic.
 - [Eye Dropper](https://chromewebstore.google.com/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka): Extensión de cuentagotas para capturar cualquier color de un sitio web directamente.
 - [Page Marker](https://chromewebstore.google.com/detail/page-marker-draw-on-web/jfiihjeimjpkpoaekpdpllpaeichkiod): Herramienta que permite dibujar y anotar directamente sobre páginas web en tiempo real.
-- [pqoqubbw Icons](https://icons.pqoqubbw.dev/): Colección de iconos modernos y minimalistas para proyectos web y apps.
+- [pqoqubbw Icons](https://lucide-animated.com/): Colección de iconos modernos y minimalistas para proyectos web y apps.
 - [GitDiagram](https://gitdiagram.com): Convierte cualquier repositorio de GitHub en un diagrama de arquitectura visual automático.
 - [Shots So](https://shots.so/): Crea mockups de productos elegantes con fondos de gradientes y sombras realistas.
 - [TinyWow AI Generator](https://tinywow.com/image/ai-image-generator): Generador de imágenes por IA gratuito y sin necesidad de registro previo.
 - [Glazz Mesh Gradient](https://glazz.saran13raj.com/mesh-gradient): Generador visual de gradientes tipo "mesh" (malla) para fondos modernos.
-- [Color4BG](https://www.color4bg.com/es/): Herramienta para generar fondos abstractos y coloridos de forma gratuita.
+- [Color4BG](https://www.color4bg.com/es): Herramienta para generar fondos abstractos y coloridos de forma gratuita.
 - [Buy Me a Coffee](https://buymeacoffee.com/): Plataforma de micro-mecenazgo para recibir apoyo y donaciones de tu comunidad.
 - [GoFile](https://gofile.io/home): Servicio de intercambio de archivos anónimo y gratuito en la nube sin límites de tamaño.
 - [Globe Engineer](https://explorer.globe.engineer/): Explorador visual de conocimiento para aprender conceptos de ingeniería y ciencia.
 - [Fast.com](https://fast.com/es/): El test de velocidad de internet más simple y rápido del mundo, creado por Netflix.
-- [Flexos Prompt Design](https://www.flexos.work/design/prompt): Herramienta enfocada en la mejora y refinamiento de prompts para modelos de IA.
-- [GitFluence](https://www.gitfluence.com/): Motor de búsqueda inteligente para encontrar el comando de Git exacto que necesitas.
+- [Flexos Prompt Design](https://www.leadwithai.co/tool/prompt): Herramienta enfocada en la mejora y refinamiento de prompts para modelos de IA.
+- [GitFluence](https://gitfluence.com/): Motor de búsqueda inteligente para encontrar el comando de Git exacto que necesitas.
 - [Creative Tim Gradients](https://www.creative-tim.com/twcomponents/gradient-generator): Generador de gradientes para Tailwind CSS con una interfaz visual intuitiva.
 - [Tailscan](https://tailscan.com/): La herramienta definitiva para inspeccionar y editar clases de Tailwind directamente en el navegador.
 - [VividShare Code](https://vividshare.io/code): Editor de código diseñado para crear capturas de pantalla hermosas y listas para compartir.
@@ -545,7 +539,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Website Planet Compressor](https://www.websiteplanet.com/webtools/imagecompressor/): Herramienta de compresión de imágenes online que mantiene la calidad visual.
 - [CompressImage Io](https://compressimage.io/): Compresor de imágenes rápido y eficiente para optimizar el rendimiento web.
 - [ShowCode App](https://showcode.app/): Crea capturas de pantalla de código estilizadas con temas especializados.
-- [Dezgo AI Image](https://dezgo.com/text2image/sdxl): Generador de imágenes por IA basado en SDXL potente y accesible sin registro.
+- [Dezgo AI Image](https://dezgo.com/app/text2image_sdxl): Generador de imágenes por IA basado en SDXL potente y accesible sin registro.
 - [Shape Divider](https://www.shapedivider.app/): Generador de divisores de sección SVG para crear transiciones visuales impactantes.
 - [HolaSVG Loaders](https://loaders.holasvg.com/): Generador interactivo de loaders animados en formato SVG ligero.
 - [BGJar](https://bgjar.com/): Herramienta para crear fondos automáticos y patrones vectoriales para sitios web.
@@ -577,23 +571,23 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [ScreenshotOne](https://screenshotone.com/): API robusta para capturar capturas de pantalla de sitios web a escala.
 - [Happy Hues](https://www.happyhues.co/): Guía visual para elegir paletas de colores basadas en la psicología del color.
 - [Epic Easing](https://epiceasing.com/?curve=0.470%2C0.000%2C0.745%2C0.715&language=css): Creador avanzado de funciones de suavizado para animaciones web profesionales.
-- [Docz](https://www.docz.site/): Herramienta para crear documentación de componentes hermosa y rápida mediante código.
+- [Docz](https://docz.site/): Herramienta para crear documentación de componentes hermosa y rápida mediante código.
 - [LiamBX ERD](https://liambx.com/): Constructor de diagramas Entidad-Relación interactivo y de diseño moderno.
 - [Motion Canvas](https://motioncanvas.io/): Framework basado en TS y Canvas para crear videos de animaciones técnicas.
 - [Beauty Codes](https://beauty.codes/): Mejora la apariencia de las capturas de pantalla de tu código para presentaciones.
 - [VS Code Themes](https://vscodethemes.com/): Catálogo completo para explorar y elegir los mejores temas para Visual Studio Code.
 - [Potpie AI](https://potpie.ai/): Plataforma para crear agentes de IA autónomos mediante prompts naturales.
-- [Luma AI Genie](https://lumalabs.ai/genie?view=create): Generador de modelos 3D de alta fidelidad a partir de texto e imágenes.
+- [Luma AI Genie](https://lumalabs.ai/?view=create): Generador de modelos 3D de alta fidelidad a partir de texto e imágenes.
 - [Taipy](https://github.com/Avaiga/taipy): Framework de Python para construir rápidamente aplicaciones de datos y dashboards.
 - [Browser Use UI](https://github.com/browser-use/web-ui): Interfaz para interactuar con agentes de IA que navegan por la web por ti.
 - [Developer Icons](https://xandemon.github.io/developer-icons/icons/All/): Set completo de iconos técnicos y logos de herramientas para devs.
-- [Tints Dev](https://www.tints.dev/red/AE7FA9): Generador de paletas de colores y variantes tonales para sistemas de diseño.
+- [Tints Dev](https://www.tints.dev/palette/v1:cmVkfEFFN0ZBOXw1MDB8cHwwfDB8MHwxMDB8YQ): Generador de paletas de colores y variantes tonales para sistemas de diseño.
 - [TailColor](https://tailcolor.com/?color=b1b2ff): Herramienta para generar variantes de colores analógicos para Tailwind CSS.
 - [Tailwind Gradient](https://www.tailwindgradient.com/): Otra utilidad enfocada en la creación visual de gradientes para Tailwind.
 - [Typing Bolt](https://www.typingbolt.com/): Tutor de mecanografía inteligente para mejorar tu velocidad y precisión al escribir.
 - [Cursify](https://cursify.vercel.app/): Colección de cursores animados y personalizados para añadir personalidad a tu web.
-- [JSRepo](https://jsrepo.dev/): Herramienta para la creación y gestión rápida de paquetes y módulos JavaScript.
-- [Superfile](https://superfile.netlify.app/): Gestor de archivos para terminal moderno, rápido y con interfaz intuitiva.
+- [JSRepo](https://www.jsrepo.dev/): Herramienta para la creación y gestión rápida de paquetes y módulos JavaScript.
+- [Superfile](https://superfile.dev/): Gestor de archivos para terminal moderno, rápido y con interfaz intuitiva.
 - [Faker JS](https://fakerjs.dev/): La librería estándar para generar datos falsos masivos para pruebas de software.
 - [Sli Dev](https://sli.dev/): Framework basado en web para crear slides de presentaciones usando Markdown y VS Code.
 - [Pattern CSS](https://bansal.io/pattern-css): Librería de patrones de fondo minimalistas hechos puramente con CSS.
@@ -602,13 +596,13 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Gitlogue](https://github.com/unhappychoice/gitlogue): Una herramienta cinematográfica para reproducir commits de Git en la terminal, que convierte tu historial de Git en una historia animada y viviente.
 - [CollabMD](https://github.com/andes90/collabmd): Colaboración en tiempo real para carpetas Markdown, diagramas y documentos respaldados por Git.
 - [Monosketch](https://monosketch.io/): Potente aplicación de dibujo y diagramación ASCII que te permite transformar sin esfuerzo tus Convertidas en diseños visualmente impactantes.
-- [Cloudflare Error Page Editor](https://virt.moe/cferr/editor/): Cloudflare Error Page Editor
+- [Cloudflare Error Page Editor](https://magicalforest.io/cferr/editor/): Cloudflare Error Page Editor
 - [Convert](https://github.com/p2r3/convert):  Convertidor de archivos en línea verdaderamente universal.
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): Ecosistema de OCR multilingüe de alto rendimiento que soporta más de 80 idiomas para aplicaciones industriales y de desarrollo.
 - [CSS Studio](https://cssstudio.ai): Generador y editor de CSS potenciado por Inteligencia Artificial para crear diseños premium rápidamente.
 - [MarkItDown](https://github.com/microsoft/markitdown): Herramienta oficial de Microsoft para convertir diversos formatos de archivo (Office, PDF, etc.) en Markdown limpio.
 - [Tunnelmole](https://tunnelmole.com/): Herramienta sencilla y de código abierto para exponer servidores locales a internet mediante URLs públicas.
-- [Pencil](https://www.pencil.dev/): Lienzo de diseño para desarrolladores integrado en el IDE que genera código de producción instantáneamente.
+- [Pencil](https://www.pen.dev/): Lienzo de diseño para desarrolladores integrado en el IDE que genera código de producción instantáneamente.
 - [fnm](https://github.com/Schniz/fnm): Gestor de versiones de Node.js extremadamente rápido e inteligente, desarrollado íntegramente en Rust.
 - [Diagrams.net](https://app.diagrams.net/): Herramienta líder de diseño de diagramas y flujos, totalmente gratuita y compatible con múltiples formatos (anteriormente Draw.io).
 - [Apidog](https://apidog.com/es/): Plataforma integral de desarrollo de APIs con diseño, documentación, mocking y pruebas automatizadas en un solo lugar.
@@ -642,7 +636,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [BrandBird Mobile Mockup Grid](https://www.brandbird.app/tools/mobile-mockup-grid): Herramienta para generar cuadrículas de mockups móviles elegantes, ideal para presentar capturas de pantalla de apps de forma profesional.
 - [EasyCopy](https://github.com/joeseesun/EasyCopy): Extensión inteligente para la gestión del portapapeles que facilita la organización y recuperación de fragmentos de código y texto.
 - [witr](https://github.com/pranshuparmar/witr): Herramienta de diagnóstico en Go que mapea la información de procesos para revelar su origen y cadenas de causalidad mediante puertos o PIDs.
-- [SuperCmd](https://supercmd.sh/): Lanzador altamente personalizable para macOS compatible con extensiones de Raycast, que incluye un historial avanzado de portapapeles, flujos de voz y funciones de IA.
+- [SuperCmd](https://supercmd.sh/en): Lanzador altamente personalizable para macOS compatible con extensiones de Raycast, que incluye un historial avanzado de portapapeles, flujos de voz y funciones de IA.
 - [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
 - [Formisch](https://formisch.dev/): Biblioteca de formularios modular y agnóstica al framework que utiliza un enfoque basado en esquemas (Valibot) para una validación ultra rápida y reactividad optimizada.
 - [pino-redact](https://github.com/pinojs/redact): Herramienta de alto rendimiento para Node.js que permite la edición selectiva (redacción) de datos sensibles en objetos y logs antes de ser procesados.
@@ -654,13 +648,13 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [leaf](https://github.com/RivoLink/leaf): Visor de archivos Markdown para la terminal que ofrece una experiencia visual similar a una interfaz gráfica (GUI-like).
 - [lawnicons](https://github.com/LawnchairLauncher/lawnicons): Pack de iconos monocromáticos y minimalistas para Android basados en los principios de Material You.
 - [megapattern](https://tools.madebyvishesh.com/megapattern/): Generador procedimental de patrones (LEGO, ASCII, puntos) que permite exportar efectos visuales en SVG y otros formatos.
-- [ossium](https://ossium.live/): Plataforma de descubrimiento para encontrar y gestionar los mejores proyectos de código abierto en GitHub rápidamente.
+- [ossium](https://ossium.in/): Plataforma de descubrimiento para encontrar y gestionar los mejores proyectos de código abierto en GitHub rápidamente.
 - [docker-android](https://github.com/budtmo/docker-android): Entorno de emulación Android en contenedores Docker con soporte para noVNC, grabación de pruebas y automatización.
 - [pdfcraft](https://github.com/PDFCraftTool/pdfcraft): Toolkit de PDF de código abierto y privado que procesa archivos en el navegador mediante WebAssembly sin enviar datos al servidor.
 - [it-tools](https://github.com/CorentinTh/it-tools): Colección masiva de herramientas útiles para desarrolladores (conversores, generadores, criptografía) en una sola interfaz web ligera.
 - [Refero Styles](https://styles.refero.design/): Biblioteca curada de estilos visuales y patrones de diseño extraídos de productos reales para inspirar y guiar la creación de interfaces.
 - [Easy UI](https://github.com/DarkInventor/easy-ui): Colección de componentes y plantillas web premium construidos con TypeScript y MDX para acelerar el desarrollo frontend.
-- [TextLab](https://textlab.javii.es/): Generador de mockups precisos para redes sociales y mensajería como iMessage, WhatsApp e Instagram. Permite exportar capturas realistas de texto.
+- [TextLab](https://textlab.javii.tools/): Generador de mockups precisos para redes sociales y mensajería como iMessage, WhatsApp e Instagram. Permite exportar capturas realistas de texto.
 - [MindPic](https://www.mindpic.ai/): Herramienta de IA para generar y editar imágenes con precisión, ideal para creadores de contenido.
 - [SlitScanner](https://www.slitscanner.app/): Aplicación web creativa para generar efectos visuales de "slit-scan" en tiempo real usando la cámara o videos.
 - [PNG to ICO](https://png-to-ico.com/): Conversor gratuito y sencillo de archivos PNG a formato ICO para iconos de aplicaciones y sitios web.
@@ -669,14 +663,14 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [ToolMateX](https://toolmatex.com/): Colección de herramientas online gratuitas y privadas para desarrolladores que funcionan directamente en el navegador.
 - [OpenFlowKit](https://openflowkit.com/): Motor de diagramación local-first y open-source para ingenieros, con soporte para Mermaid.js y exportación a Figma.
 - [Hopper](https://www.hypercubic.ai/hopper): Interfaz moderna impulsada por IA para interactuar y automatizar tareas en sistemas mainframe antiguos.
-- [ASCIImotion](https://asciimotion.gx2-studio.com/): Utilidad web para convertir imágenes y videos en representaciones artísticas de caracteres ASCII procesados en tiempo real y 100% en el cliente.
+- [ASCIImotion](https://asciimotion.gx2.studio/): Utilidad web para convertir imágenes y videos en representaciones artísticas de caracteres ASCII procesados en tiempo real y 100% en el cliente.
 - [Quarkdown](https://github.com/iamgio/quarkdown): Sistema de maquetación basado en Markdown enriquecido con scripting Turing-completo para compilar a múltiples formatos como PDF, HTML y presentaciones.
 - [Printing Press](https://printingpress.dev/): Framework en Go para generar interfaces de línea de comandos (CLIs) altamente eficientes en tokens y optimizadas para la interacción directa de agentes de IA.
 - [Penpot](https://github.com/penpot/penpot): Plataforma de diseño y creación de prototipos de código abierto pensada para equipos multidisciplinares, basada en estándares web (SVG) y autoalojable.
 - [snapd](https://github.com/canonical/snapd): Motor de empaquetado y despliegue de aplicaciones para Linux desarrollado por Canonical, que permite instalar y actualizar paquetes snap de forma segura y automatizada.
 - [Badgie](https://badgie.me/): Herramienta de línea de comandos en Python que analiza tu repositorio de forma automática y le añade insignias (badges) estilizadas de Shields.io en base a las herramientas detectadas.
 - [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr): Herramienta CLI de código abierto para automatizar la inserción y actualización de insignias personalizadas y dinámicas en descripciones de Pull/Merge Requests (GitHub/GitLab).
-- [removerized](https://github.com/yossTheDev/removerized): Una herramienta web interactiva extremadamente rápida y local para eliminar fondos de imágenes directamente en el navegador preservando la privacidad.
+- [removerized](https://github.com/yossdotpro/removerized): Una herramienta web interactiva extremadamente rápida y local para eliminar fondos de imágenes directamente en el navegador preservando la privacidad.
 - [dura](https://github.com/tkellogg/dura): Una herramienta de fondo escrita en Rust que realiza copias de seguridad de tu trabajo de forma automática y transparente en commits de Git no destructivos.
 - [Jujutsu VCS](https://www.jj-vcs.dev/latest/): Un sistema de control de versiones (VCS) moderno y ultrarrápido compatible con Git, que introduce ramas virtuales y flujos de trabajo concurrentes seguros.
 - [systeminformer](https://github.com/winsiderss/systeminformer): Una herramienta gratuita, potente y multipropósito para Windows que permite monitorear recursos del sistema, depurar software y detectar malware.
@@ -820,7 +814,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI): Una colección de código abierto de componentes animados, interactivos y totalmente personalizables para crear interfaces de usuario impactantes y memorables.
 - [Kutty](https://kutty.netlify.app/): Kutty es un plugin de Tailwind para la creación de aplicaciones web. Cuenta con un conjunto de componentes accesibles y reutilizables que se utilizan habitualmente en aplicaciones web.
 - [WarcraftCN](https://www.warcraftcn.com/): Un conjunto de componentes inspirados en la estética clásica de la interfaz de usuario de Warcraft III RTS. Código abierto, listo para copiar y pegar. Compatible con tus frameworks favoritos. Creado por fans. Sin afiliación.
-- [Retroui](https://www.retroui.dev/): Una librería de interfaz de usuario para React + TailwindCSS con estilo neobrutalista, ideal para crear aplicaciones web modernas y llamativas. Perfecta para cualquier proyecto que utilice Shadcn/ui.
+- [Retroui](https://neobrutalism.com/): Una librería de interfaz de usuario para React + TailwindCSS con estilo neobrutalista, ideal para crear aplicaciones web modernas y llamativas. Perfecta para cualquier proyecto que utilice Shadcn/ui.
 - [Bearnie](https://bearnie.dev/): Componentes accesibles para Astro y Tailwind CSS.
 - [Starwind](https://starwind.dev/): Componentes animados, personalizables y accesibles para Astro, creados exclusivamente con Astro y JavaScript puro. Inspirados en shadcn/ui, con instalación sencilla mediante la línea de comandos.
 - [Shadcn Studio](https://shadcnstudio.com/): Crea interfaces de usuario futuristas con Shadcn.
@@ -829,7 +823,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [CliSpinners](https://github.com/sindresorhus/cli-spinners): Librería de spinners para aplicaciones de línea de comandos.
 - [Kodo7](https://www.kodo7.com/): Sistema de generación de texturas visuales.
 - [8bitUI](https://www.8bitcn.com/): Biblioteca de componentes con una estética retro de 8 bits para proyectos nostálgicos.
-- [ReactLogoSoup](https://github.com/sanity-labs/react-logo-soup): Utilidad para integrar y gestionar fácilmente logos de marcas en aplicaciones React.
+- [ReactLogoSoup](https://github.com/sanity-labs/logo-soup): Utilidad para integrar y gestionar fácilmente logos de marcas en aplicaciones React.
 - [BetterAuthUI](https://better-auth-ui.com/): Conjunto de componentes de interfaz listos para implementar sistemas de autenticación modernos.
 - [Logto](https://logto.io/): Plataforma de gestión de identidad (IAM) de código abierto para añadir autenticación y autorización profesional a aplicaciones SaaS.
 - [Soundcn](https://github.com/kapishdima/soundcn): Versión experimental de componentes Shadcn enfocada en la integración de audio y sonido.
@@ -843,12 +837,12 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [SolidUI](https://www.solid-ui.com/): Conjunto de componentes de interfaz de alta fidelidad construidos específicamente para SolidJS.
 - [Snipzy](https://snipzy.dev/): Repositorio curado de snippets interactivos de HTML, CSS y JavaScript listos para usar.
 - [Kelp UI](https://kelpui.com/): Biblioteca de componentes moderna con un enfoque en la simplicidad y el rendimiento.
-- [Origin UI](https://originui.com/): Colección de componentes de React altamente personalizables para interfaces profesionales.
+- [Origin UI](https://coss.com/ui): Colección de componentes de React altamente personalizables para interfaces profesionales.
 - [Vue Equipment](https://www.vue.equipment/): Suite de herramientas y componentes esenciales para desarrolladores de Vue.js.
 - [Untitled UI (React)](https://www.untitledui.com/react): Versión para React de uno de los sistemas de diseño más completos y populares.
 - [Effect](https://github.com/Effect-TS/effect): Ecosistema robusto de librerías para programación funcional en TypeScript y JavaScript.
-- [Pace UI](https://www.paceui.com/): Librería de componentes enfocada en la velocidad de desarrollo y diseños limpios.
-- [Smooth UI](https://www.smoothui.dev/): Colección de elementos de interfaz con animaciones suaves y un diseño moderno.
+- [Pace UI](https://paceui.com/): Librería de componentes enfocada en la velocidad de desarrollo y diseños limpios.
+- [Smooth UI](https://smoothui.dev/): Colección de elementos de interfaz con animaciones suaves y un diseño moderno.
 - [AllShadcnUI](https://allshadcn.com/): Directorio exhaustivo que recopila casi todos los recursos del ecosistema Shadcn.
 - [Spectrum UI](https://ui.spectrumhq.in/): Librería de componentes inspirada en el diseño de Adobe para interfaces escalables.
 - [LLM React UI](https://llm-ui.com/): Componentes especializados para construir interfaces de usuario para modelos de lenguaje.
@@ -905,7 +899,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Majestic UI (Flutter)](https://www.majesticui.com): Sistema de diseño elegante y completo para aplicaciones móviles con Flutter.
 - [CSSFX](https://cssfx.netlify.app/): Colección de animaciones CSS de un solo clic para copiar y pegar rápidamente.
 - [LunarUI](https://lunarui.dev/): Biblioteca de componentes de React con un diseño oscuro y elegante por defecto.
-- [Reverse UI Craft](https://reverseui.com/craft): Herramienta visual para "deconstruir" y recrear interfaces complejas con facilidad.
+- [Reverse UI Craft](https://reverseui.com/components): Herramienta visual para "deconstruir" y recrear interfaces complejas con facilidad.
 - [Spark UI](https://spark-ui.dev/): Framework de componentes enfocado en la velocidad de renderizado y la simplicidad.
 - [Iconstica Free](https://www.iconstica.com/free-icons): Set de iconos vectoriales gratuitos con un estilo moderno y versátil.
 - [CSS Buttons Generator](https://markodenic.com/tools/buttons-generator/): Generador visual interactivo para crear estilos de botones CSS personalizados.
@@ -931,20 +925,20 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Gitsugi](https://github.com/johnrbell/gitsugi): Extensión de Git inspirada en el arte del kintsugi para reparar rupturas en tu historial de commits.
 - [asciianimesvg](https://github.com/syi0808/asciianimesvg): Generador de SVGs de arte ASCII animados a partir de texto, con soporte para CLI, Rust, WASM y editor web.
 - [Zettlr](https://github.com/Zettlr/Zettlr): Un editor de Markdown profesional y workbench de publicación diseñado para la escritura académica y científica avanzada.
-- [Free React Components](https://reactcomponents.com/): Directorio de componentes gratuitos categorizados para React.
+- [Free React Components](https://www.reactcomponents.com/): Directorio de componentes gratuitos categorizados para React.
 - [HyperUI](https://www.hyperui.dev/): Colección gratuita de componentes de código abierto hechos con Tailwind CSS.
 - [Material Tailwind Blocks](https://www.material-tailwind.com/blocks): Bloques de construcción de UI basados en el estándar de Material Design.
 - [Aceternity UI](https://ui.aceternity.com/): Componentes de interfaz de usuario de vanguardia con animaciones complejas y diseño futurista.
 - [Motion Primitives](https://motion-primitives.com/): Colección de componentes de animación de bajo nivel para Framer Motion.
 - [Preline UI](https://preline.co/): Conjunto de componentes UI de código abierto basados en Tailwind para proyectos rápidos.
 - [Wicked Blocks](https://www.wickedblocks.dev/): Colección de componentes y layouts de Tailwind CSS con un estilo audaz.
-- [Animated Icons (Pqoqubbw)](https://icons.pqoqubbw.dev/): Set de iconos animados de código abierto para aplicaciones React.
+- [Animated Icons (Pqoqubbw)](https://lucide-animated.com/): Set de iconos animados de código abierto para aplicaciones React.
 - [Float UI](https://floatui.com/): Colección de componentes UI gratuitos y modernos hechos con Tailwind CSS.
 - [Meraki UI](https://merakiui.com/): Componentes Tailwind CSS gratuitos con soporte para RTL y diseños modernos.
 - [Tailwind Templates](https://tailwindtemplates.io/): Galería de plantillas y layouts listos para usar con Tailwind CSS.
 - [ApexCharts](https://apexcharts.com/): Librería de gráficos interactivos moderna para dashboards empresariales.
 - [Apache ECharts](https://echarts.apache.org/en/index.html): Potente motor de visualización de datos de código abierto para la web.
-- [theSVG](https://www.thesvg.org/): Repositorio de logos y marcas tecnológicas de alta calidad en formato SVG para desarrolladores.
+- [theSVG](https://thesvg.org/): Repositorio de logos y marcas tecnológicas de alta calidad en formato SVG para desarrolladores.
 - [PrimeReact](https://primereact.org): Colección masiva de componentes de UI de alta calidad para React.
 - [FlyonUI](https://flyonui.com): Librería de componentes moderna construida sobre Tailwind CSS y JS nativo.
 - [Khagwal 3D](https://3d.khagwal.com/): Repositorio de activos 3D detallados para diseño de experiencias inmersivas.
@@ -952,7 +946,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [CSS Box Shadows (Scan)](https://getcssscan.com/css-box-shadow-examples): Catálogo visual de las mejores sombras de cajas CSS para copiar y pegar.
 - [CSS Buttons (Scan)](https://getcssscan.com/css-buttons-examples): Colección de los botones más populares de la web recreados en CSS.
 - [TailGrids](https://tailgrids.com/): Biblioteca de componentes de UI de bajo nivel y grids para Tailwind CSS.
-- [CuratedUIList](https://www.curateduilist.com/): Lista curada de los mejores recursos de UI y componentes para Tailwind.
+- [CuratedUIList](https://bonus.moshref.org/): Lista curada de los mejores recursos de UI y componentes para Tailwind.
 - [Tailkits](https://tailkits.com/): Conjunto de componentes y herramientas para acelerar el desarrollo con Tailwind.
 - [3D SVG](https://3dsvg.design/): Herramienta web intuitiva para transformar archivos SVG, texto y pixel art en elementos 3D dinámicos y exportables.
 - [Elementor](https://github.com/elementor/elementor): El maquetador visual de código abierto líder para WordPress, permitiendo crear sitios profesionales mediante drag-and-drop.
@@ -978,7 +972,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [CC WF Studio](https://github.com/breaking-brake/cc-wf-studio): Herramienta de orquestación visual para flujos de trabajo técnicos.
 - [Nice Avatar](https://github.com/dapi-labs/react-nice-avatar): Librería de React para generar avatares estilizados y personalizables de forma dinámica.
 - [Fluid Functionalism](https://github.com/mickadesign/fluid-functionalism): Librería de componentes UI con una estética fluida y funcional diseñada para interfaces premium.
-- [Jiro Build](https://www.jiro.build/): Biblioteca de componentes UI y extensión de Chrome optimizada para "Vibe Coding" y herramientas de IA.
+- [Jiro Build](https://jiro.build/): Biblioteca de componentes UI y extensión de Chrome optimizada para "Vibe Coding" y herramientas de IA.
 - [Coss UI](https://coss.com/ui): Biblioteca de componentes React accesible y modular orientada al modelo de "copiar y pegar" con Tailwind CSS.
 - [Bejamas UI Create](https://ui.bejamas.com/create): Herramienta avanzada para la generación de componentes de interfaz modernos. Facilita el diseño y desarrollo de layouts visualmente potentes para la web.
 - [Nexus UI](https://nexus-ui.dev/): Biblioteca de componentes open-source para construir interfaces nativas de IA con primitivas para chats, streaming y experiencias multimodales.
@@ -1020,7 +1014,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [UniWind Starter](https://www.native-templates.com/templates/uniwind-starter): El paquete de inicio Uniwind de React Native
 - [Last 30 Days Skill](https://github.com/mvanhorn/last30days-skill): Skill para agentes que analiza y resume tu actividad de los últimos 30 días para reportes rápidos.
 - [Hyperbrowser App Examples](https://github.com/hyperbrowserai/hyperbrowser-app-examples): Repositorio de ejemplos full-stack para automatización de navegadores, scraping y extracción de datos avanzada.
-- [Astrae](https://www.astrae.design/): Biblioteca de plantillas de landing pages modernas y componentes animados listos para producción con React y Framer Motion.
+- [Astrae](https://www.shadcn.io/): Biblioteca de plantillas de landing pages modernas y componentes animados listos para producción con React y Framer Motion.
 - [Realtime Chat Supabase React](https://random-chat.netlify.app/): Componente de chat en tiempo real de pila completa para React, con datos PostgreSQL gestionados por Supabase y Vite en el front-end.
 - [Tabler](https://tabler.io/admin-template): Kit de interfaz de usuario para paneles de control HTML gratuito y de código abierto, basado en Bootstrap.
 
@@ -1028,8 +1022,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 - [Diseño de sistemas](https://kps.hashnode.dev/system-design-the-complete-course): Guía completa sobre el diseño de sistemas escalables y arquitectura de software.
 - [Manual de lab devops](https://dev.to/skysingh04/a-lab-manual-to-devops-4j0e): Manual práctico paso a paso para aprender herramientas y flujos de DevOps.
-- [Habitos de un ingeniero](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers): Reflexiones sobre los hábitos y mentalidad de los mejores ingenieros de software.
-- [Whimsical Animations](https://www.joshwcomeau.com/blog/whimsical-animations): Guía interactiva sobre cómo crear animaciones encantadoras y lúdicas en la web.
+- [Habitos de un ingeniero](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/): Reflexiones sobre los hábitos y mentalidad de los mejores ingenieros de software.
+- [Whimsical Animations](https://www.joshwcomeau.com/blog/whimsical-animations/): Guía interactiva sobre cómo crear animaciones encantadoras y lúdicas en la web.
 - [Art of README](https://github.com/hackergrrl/art-of-readme): El arte de los archivos README.
 - [Mejores prácticas README](https://github.com/jehna/readme-best-practices): Mejores prácticas para archivos README.
 - [Tauri Tanstack Start React Template](https://github.com/kvnxiao/tauri-tanstack-start-react-template): Una plantilla Tauri 2.0 + TanStack Start React, con TailwindCSS, análisis de código con opiniones propias y GitHub Actions preconfigurado.
@@ -1145,7 +1139,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Adler Hsieh](https://adlerhsieh.com/): Blog personal con reflexiones profundas sobre cómo ser un mejor profesional en tecnología.
 - [DevTools Academy](https://www.devtoolsacademy.com/): Portal de aprendizaje con posts y tutoriales enfocados en herramientas de desarrollo.
 - [Karpathy Jobs](https://karpathy.ai/jobs/): Tablero de anuncios y recursos de carrera enfocados en roles de alto nivel en el sector de la Inteligencia Artificial.
-- [Ned Batchelder](https://nedbatchelder.com/blog/): Blog de uno de los desarrolladores de Python más experimentados del ecosistema.
+- [Ned Batchelder](https://nedbatchelder.com/blog): Blog de uno de los desarrolladores de Python más experimentados del ecosistema.
 - [Sobolev&#39;s Blog](https://sobolevn.me/): Artículos técnicos de alta calidad centrados en Python, Django y buenas prácticas.
 - [PythonProgramming](https://pythonprogramming.net/): Tutoriales de Python prácticos que cubren desde lo básico hasta robótica.
 - [Full Stack Python](https://www.fullstackpython.com/): Todo lo necesario para construir y desplegar aplicaciones reales de Python.
@@ -1170,7 +1164,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Console.dev](https://console.dev/): Newsletter semanal que reseña las mejores herramientas de desarrollo y APIs.
 - [web.dev](https://web.dev/): Plataforma de Google con guías y mejores prácticas para el desarrollo web moderno.
 - [Google for Developers](https://developers.google.com/newsletter): Newsletter oficial con las últimas novedades en las plataformas y APIs de Google.
-- [AI Disruptor](https://aidisruptor.ai/): Newsletter que analiza cómo la inteligencia artificial está transformando el mundo y la industria.
 - [AI Weekly](https://aiweekly.co/): Recopilación semanal de las noticias más relevantes en el campo de la IA.
 - [Daniel Roy (Feldroy)](https://daniel.feldroy.com/): Blog y recursos sobre Django, Python y desarrollo de software profesional.
 - [51CTO](https://www.51cto.com/): Una de las plataformas tecnológicas chinas más grandes con noticias y tutoriales.
@@ -1334,7 +1327,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [GeminiCLI](https://geminicli.com/): Interfaz de línea de comandos para interactuar directamente con los modelos Gemini.
 - [Oh My ClaudeCode](https://github.com/Yeachan-Heo/oh-my-claudecode): Orquestación multiagente centrada en equipos para Claude Code.
 - [ClawTeam](https://github.com/HKUDS/ClawTeam): "Inteligencia de enjambre de agentes" (Un comando → Automatización completa)
-- [NanoClaw](https://github.com/qwibitai/nanoclaw): Se ejecuta en contenedores para mayor seguridad. Se conecta a WhatsApp, Telegram, Slack, Discord, Gmail y otras aplicaciones de mensajería, tiene memoria, tareas programadas y se ejecuta directamente en el SDK de agentes de Anthropic.
+- [NanoClaw](https://github.com/nanocoai/nanoclaw): Se ejecuta en contenedores para mayor seguridad. Se conecta a WhatsApp, Telegram, Slack, Discord, Gmail y otras aplicaciones de mensajería, tiene memoria, tareas programadas y se ejecuta directamente en el SDK de agentes de Anthropic.
 - [Lemonade](https://github.com/lemonade-sdk/lemonade): Lemonade ayuda a los usuarios a descubrir y ejecutar aplicaciones de IA locales, ofreciendo modelos LLM optimizados directamente desde sus propias GPU y NPU.
 - [InsForge](https://github.com/InsForge/InsForge): Brinda a los agentes todo lo que necesitan para lanzar aplicaciones full-stack.
 - [Promptfoo](https://github.com/promptfoo/promptfoo): Prueba tus indicaciones, agentes y RAG. Red teaming/pentesting/escaneo de vulnerabilidades para IA. Compara el rendimiento de GPT, Claude, Gemini, Llama y más. Configuraciones declarativas sencillas con línea de comandos e integración CI/CD. Utilizado por OpenAI y Anthropic.
@@ -1356,10 +1349,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases): Colección comunitaria de casos de uso prácticos para automatizar flujos de trabajo utilizando OpenClaw.
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template): Plantilla para clonar cualquier sitio web mediante una única instrucción utilizando agentes de codificación con IA.
 - [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio): Toolkit de procesamiento de voz potenciado por IA que soporta mejora de audio, separación de fuentes y extracción de locutores específicos.
-- [Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI): Alternativa de código abierto a Higgsfield para la generación de imágenes y vídeos cinematográficos con soporte para más de 20 modelos.
+- [Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Generative-AI): Alternativa de código abierto a Higgsfield para la generación de imágenes y vídeos cinematográficos con soporte para más de 20 modelos.
 - [Paseo](https://github.com/getpaseo/paseo): Orquesta agentes de codificación de forma remota desde tu teléfono, ordenador y línea de comandos.
 - [PPT-Master](https://github.com/hugohe3/ppt-master): Herramienta de IA que genera presentaciones de PowerPoint editables a partir de documentos Markdown o PDF.
-- [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video): Framework de generación de video basado en IA para la creación y manipulación de contenido visual dinámico.
+- [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video): Framework de generación de video basado en IA para la creación y manipulación de contenido visual dinámico.
 - [Voice Pro](https://github.com/abus-aikorea/voice-pro): Gradio WebUI multifuncional para creadores. Integra modelos de IA para clonación de voz zero-shot, texto a voz, aislamiento de voces y traducción.
 - [Open-Codesign](https://github.com/OpenCoworkAI/open-codesign): Plataforma de diseño colaborativo impulsada por IA que permite la creación y edición de interfaces de forma local y segura.
 - [AI Designer](https://www.aidesigner.ai/): Generador de interfaces de usuario (UI) mediante IA que transforma descripciones en lenguaje natural en maquetas visuales profesionales.
@@ -1443,7 +1436,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [A/B Test Design](https://abtest.design/): Directorio de casos reales y lecciones aprendidas de experimentos de tests A/B.
 - [Free UI Kits](https://www.webappers.com/2012/11/12/a-comprehensive-collection-of-free-ui-kits-templates/): Recopilación exhaustiva de kits de interfaz y plantillas gratuitas para diseño.
 - [Navbar Gallery](https://www.navbar.gallery/): Galería de inspiración dedicada exclusivamente al diseño de barras de navegación.
-- [DesignSpells](https://www.designspells.com/): Micro-interacciones y detalles de diseño "mágicos" recopilados de las mejores apps.
+- [DesignSpells](https://designspells.com/): Micro-interacciones y detalles de diseño "mágicos" recopilados de las mejores apps.
 - [Developer Portfolios](https://github.com/emmabostian/developer-portfolios): Lista curada de portafolios de programadores excepcionales para inspirarte.
 - [Awesome GitHub Profiles](https://zzetao.github.io/awesome-github-profile/): Ejemplos creativos de cómo personalizar y potenciar tu perfil de GitHub.
 - [SaaS Landing Pages](https://saaslandingpage.com/): La mejor galería de inspiración con ejemplos reales de landings para productos SaaS.
@@ -1458,7 +1451,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [sleek.design](https://sleek.design/references): Plataforma de inspiración que ofrece una colección curada de referencias de diseño de aplicaciones y layouts de alta calidad.
 - [Viewport UI](https://viewport-ui.design/): Colección de componentes UI enfocada en la usabilidad y el diseño responsivo.
 - [Same Energy](https://same.energy/): Buscador visual de imágenes basado en la estética y el sentimiento, perfecto para moodboards.
-- [Headers Club](https://headers.club/): Galería especializada en el diseño de encabezados y banners de impacto para sitios web.
+- [Headers Club](https://www.headers.club/): Galería especializada en el diseño de encabezados y banners de impacto para sitios web.
 - [CallToInspiration](https://calltoinspiration.com/): Herramienta que organiza elementos de UI por categorías para romper el bloqueo creativo.
 - [Unsection](https://www.unsection.com/): Directorio de secciones de landing pages reales para analizar su estructura y copy.
 - [UI Layouts](https://www.ui-layouts.com/): Biblioteca de componentes web animados y modernos construidos con Tailwind CSS.
@@ -1466,7 +1459,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Navbar Gallery](https://www.navbar.gallery/): Inspiración enfocada exclusivamente en el diseño de barras de navegación excepcionales.
 - [CTA Gallery](https://www.cta.gallery/): Galería de botones y secciones de "llamada a la acción" de alta conversión para marketing.
 - [H1 Gallery](https://h1gallery.com/): Colección de los mejores diseños de titulares y hero sections para inspirar tu front-end.
-- [Supahero](https://www.supahero.io/): Escaparate de las mejores hero sections e introducciones de páginas web de alto nivel.
+- [Supahero](https://supahero.io/): Escaparate de las mejores hero sections e introducciones de páginas web de alto nivel.
 - [Deck Gallery](https://www.deck.gallery/): Inspiración para el diseño de slides, presentaciones y notas visuales bien estructuradas.
 - [Dieter Rams Components](https://drams.framer.website/): Componentes UI inspirados en los 10 principios del buen diseño del maestro Dieter Rams.
 - [Minimal Gallery](https://minimal.gallery/): Selección curada de los sitios web más elegantes y minimalistas de la red.
@@ -1474,7 +1467,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [SeeSaw](https://www.seesaw.website/): Directorio visual de sitios web modernos con un enfoque en la innovación y el diseño único.
 - [Brutalist Websites](https://brutalistwebsites.com/): Colección de sitios web que adoptan la estética cruda, honesta y sin adornos del brutalismo digital.
 - [60fps Design](https://60fps.design/): Repositorio que destaca los mejores detalles, animaciones y micro-interacciones de la web.
-- [Handheld Design](https://handheld.design/): Galería de inspiración enfocada específicamente en el diseño de aplicaciones móviles excepcionales.
+- [Handheld Design](https://www.handheld.design/): Galería de inspiración enfocada específicamente en el diseño de aplicaciones móviles excepcionales.
 - [Curations Supply](https://curations.supply/): Directorio curado de recursos de diseño y herramientas para creativos.
 - [PageFlows](https://pageflows.com/): Biblioteca de flujos de usuario de aplicaciones populares para inspiración UX.
 - [SaaSFrame](https://www.saasframe.io/): Biblioteca de investigación de diseño enfocada en productos SaaS, marketing e interfaces.
@@ -1484,20 +1477,20 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Dark Design](https://www.dark.design/): La mejor fuente de inspiración para sitios web y aplicaciones con tema oscuro de alta calidad.
 - [Logo System](https://logosystem.co/): Galería de logotipos e identidades visuales modernas organizadas como sistemas de marca.
 - [Bento Grids](https://bentogrids.com/): Colección de interfaces web que utilizan la popular estructura de cuadrícula tipo bento.
-- [Godly](https://godly.website/): Galería de los mejores sitios web animados e interactivos que definen el estado del arte web.
+- [Godly](https://recent.design/?ref=godly): Galería de los mejores sitios web animados e interactivos que definen el estado del arte web.
 - [Website Vice](https://websitevice.com/): Ejemplos de sitios web con un diseño audaz que rompen con lo tradicional y aburrido.
 - [Pafolios](https://pafolios.com/): Galería de portafolios personales creativos y memorables para desarrolladores y diseñadores.
 - [OGImageGallery](https://www.ogimage.gallery/): Inspiración para el diseño de imágenes de Open Graph que capturan la atención en redes sociales.
 - [Land-book](https://land-book.com/): Galería de diseño web seleccionada a mano que destaca por su calidad visual y técnica.
-- [Godly Infinite Scroll](https://godly.website/): Experiencia de exploración de sitios web sin fin para descubrir las últimas tendencias de diseño.
+- [Godly Infinite Scroll](https://recent.design/?ref=godly): Experiencia de exploración de sitios web sin fin para descubrir las últimas tendencias de diseño.
 - [SaaSpo](https://saaspo.com/): La mejor fuente de inspiración visual para el diseño de interfaces de aplicaciones SaaS modernas.
 - [Open Designs](http://www.opendesigns.org/): Repositorio veterano de plantillas de diseño de código abierto y recursos gratuitos para la web.
 - [Admire The Web](https://admiretheweb.com/): Selección diaria de sitios web que destacan por su código limpio y su estética impecable.
 - [Mobbin](https://mobbin.com/): La biblioteca más grande del mundo de patrones de diseño para aplicaciones móviles reales.
-- [Muzli (ES)](https://muz.li/es): Versión en español del hub de inspiración diaria más popular entre los diseñadores y creativos tech.
+- [Muzli (ES)](https://muz.li/es/): Versión en español del hub de inspiración diaria más popular entre los diseñadores y creativos tech.
 - [One Page Love](https://onepagelove.com/): El lugar definitivo para encontrar inspiración de sitios web de una sola página más impactantes.
 - [Design Sweets](https://designsweets.co/): Pequeños detalles, activos y recursos mezclados que enriquecen cualquier diseño digital.
-- [Craftwork Curated](https://craftwork.design/curated/websites/): Selección Premium de sitios web que utilizan los mejores activos visuales de la industria.
+- [Craftwork Curated](https://craftwork.design/curated/websites): Selección Premium de sitios web que utilizan los mejores activos visuales de la industria.
 - [OSWD](https://www.oswd.org/): Una comunidad clásica para compartir y descargar diseños web de código abierto y gratuitos.
 - [CSS Design Yorkshire](https://www.css-design-yorkshire.com/): Galería regional que destaca lo mejor del diseño web en el área de Yorkshire.
 - [CSS Collection](https://csscollection.com/): Directorio de sitios web que demuestran el poder creativo y la belleza técnica de CSS.
@@ -1508,7 +1501,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Toools.design](https://www.toools.design/ui-web-design-inspiration-websites): Galería técnica que destaca los mejores diseños web.
 - [Httpster](https://httpster.net/): Galería técnica que destaca los mejores diseños web de estética brutalista y minimalismo.
 - [CSS Zen Garden](https://csszengarden.com/pages/alldesigns/): Galería de sitios web influenciados por el CSS.
-- [ogfolio](https://ogfolio.com/): Galería de inspiración curada que recopila los mejores diseños de imágenes de Open Graph (OG) para elevar la presencia social de tu web.
+- [ogfolio](https://www.ogfolio.com/): Galería de inspiración curada que recopila los mejores diseños de imágenes de Open Graph (OG) para elevar la presencia social de tu web.
 - [Deck Gallery](https://www.deck.gallery/): Galería curada de presentaciones, decks y guías de marca para inspiración visual.
 - [ui.live](https://ui.live/): Colección de diseño para inspiración visual.
 - [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Una selección de ideas geniales para sitios web de portafolio para que desarrolladores y diseñadores se inspiren.
