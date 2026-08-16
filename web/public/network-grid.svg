@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600" fill="none">
+  <defs>
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="rgba(202, 252, 0, 0.12)" />
+      <stop offset="50%" stop-color="rgba(255, 255, 255, 0.04)" />
+      <stop offset="100%" stop-color="transparent" />
+    </radialGradient>
+
+    <radialGradient id="coreHalo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="rgba(202, 252, 0, 0.6)" />
+      <stop offset="100%" stop-color="transparent" />
+    </radialGradient>
+
+    <style>
+      @keyframes pulseLine {
+        0% { stroke-dashoffset: 80; opacity: 0.2; }
+        50% { opacity: 0.95; }
+        100% { stroke-dashoffset: 0; opacity: 0.2; }
+      }
+      @keyframes pulseNode {
+        0%, 100% { r: 3.5px; opacity: 0.5; }
+        50% { r: 6.5px; opacity: 1; }
+      }
+      @keyframes floatMesh {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+      }
+      .network-line {
+        stroke: rgba(255, 255, 255, 0.18);
+        stroke-width: 1.2;
+      }
+      .data-pulse {
+        stroke: rgba(255, 255, 255, 0.85);
+        stroke-width: 2;
+        stroke-dasharray: 8 28;
+        animation: pulseLine 5s linear infinite;
+      }
+      .data-pulse-fast {
+        stroke: #CAFC00;
+        stroke-width: 2.2;
+        stroke-dasharray: 10 35;
+        animation: pulseLine 3.5s linear infinite reverse;
+      }
+      .pulse-dot {
+        animation: pulseNode 3.5s ease-in-out infinite;
+      }
+      .floating-mesh {
+        animation: floatMesh 7s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Ambient Glow in the Center -->
+  <circle cx="500" cy="270" r="320" fill="url(#centerGlow)" />
+
+  <!-- Concentric Orbit Rings -->
+  <circle cx="500" cy="270" r="130" stroke="rgba(255,255,255,0.12)" stroke-dasharray="3 6" stroke-width="1" />
+  <circle cx="500" cy="270" r="230" stroke="rgba(255,255,255,0.08)" stroke-dasharray="4 8" stroke-width="1" />
+  <circle cx="500" cy="270" r="350" stroke="rgba(255,255,255,0.05)" stroke-dasharray="6 12" stroke-width="1" />
+
+  <g class="floating-mesh">
+    <!-- Primary Structural Lines -->
+    <line x1="500" y1="130" x2="350" y2="200" class="network-line" />
+    <line x1="500" y1="130" x2="650" y2="200" class="network-line" />
+    <line x1="350" y1="200" x2="240" y2="300" class="network-line" />
+    <line x1="650" y1="200" x2="760" y2="300" class="network-line" />
+    <line x1="240" y1="300" x2="330" y2="400" class="network-line" />
+    <line x1="760" y1="300" x2="670" y2="400" class="network-line" />
+    <line x1="330" y1="400" x2="500" y2="430" class="network-line" />
+    <line x1="670" y1="400" x2="500" y2="430" class="network-line" />
+
+    <!-- Cross Web Connections -->
+    <line x1="350" y1="200" x2="500" y2="270" class="network-line" />
+    <line x1="650" y1="200" x2="500" y2="270" class="network-line" />
+    <line x1="240" y1="300" x2="500" y2="270" class="network-line" />
+    <line x1="760" y1="300" x2="500" y2="270" class="network-line" />
+    <line x1="330" y1="400" x2="500" y2="270" class="network-line" />
+    <line x1="670" y1="400" x2="500" y2="270" class="network-line" />
+    <line x1="500" y1="130" x2="500" y2="270" class="network-line" />
+    <line x1="500" y1="270" x2="500" y2="430" class="network-line" />
+
+    <!-- Outer Nodes Connections -->
+    <line x1="240" y1="300" x2="130" y2="250" class="network-line" />
+    <line x1="240" y1="300" x2="150" y2="380" class="network-line" />
+    <line x1="760" y1="300" x2="870" y2="250" class="network-line" />
+    <line x1="760" y1="300" x2="850" y2="380" class="network-line" />
+    <line x1="350" y1="200" x2="280" y2="100" class="network-line" />
+    <line x1="650" y1="200" x2="720" y2="100" class="network-line" />
+    <line x1="330" y1="400" x2="250" y2="490" class="network-line" />
+    <line x1="670" y1="400" x2="750" y2="490" class="network-line" />
+
+    <!-- Animated Data Pulses -->
+    <line x1="500" y1="130" x2="350" y2="200" class="data-pulse" />
+    <line x1="650" y1="200" x2="760" y2="300" class="data-pulse" />
+    <line x1="760" y1="300" x2="500" y2="270" class="data-pulse-fast" />
+    <line x1="240" y1="300" x2="330" y2="400" class="data-pulse" />
+    <line x1="330" y1="400" x2="500" y2="430" class="data-pulse-fast" />
+    <line x1="500" y1="270" x2="350" y2="200" class="data-pulse" />
+    <line x1="500" y1="270" x2="650" y2="200" class="data-pulse" />
+
+    <!-- Hub Nodes with Halos -->
+    <circle cx="500" cy="130" r="4" fill="#ffffff" />
+    <circle cx="350" cy="200" r="4.5" fill="#ffffff" />
+    <circle cx="650" cy="200" r="4.5" fill="#ffffff" />
+    <circle cx="240" cy="300" r="5" fill="#ffffff" />
+    <circle cx="760" cy="300" r="5" fill="#ffffff" />
+    <circle cx="330" cy="400" r="4.5" fill="#ffffff" />
+    <circle cx="670" cy="400" r="4.5" fill="#ffffff" />
+    <circle cx="500" cy="430" r="4" fill="#ffffff" />
+
+    <!-- Outer Satellite Nodes -->
+    <circle cx="130" cy="250" r="3" fill="#a1a1aa" />
+    <circle cx="150" cy="380" r="3" fill="#a1a1aa" />
+    <circle cx="870" cy="250" r="3" fill="#a1a1aa" />
+    <circle cx="850" cy="380" r="3" fill="#a1a1aa" />
+    <circle cx="280" cy="100" r="2.5" fill="#a1a1aa" />
+    <circle cx="720" cy="100" r="2.5" fill="#a1a1aa" />
+    <circle cx="250" cy="490" r="2.5" fill="#a1a1aa" />
+    <circle cx="750" cy="490" r="2.5" fill="#a1a1aa" />
+
+    <!-- Center Core Node & Halo -->
+    <circle cx="500" cy="270" r="24" fill="url(#coreHalo)" />
+    <circle cx="500" cy="270" r="16" fill="none" stroke="rgba(202,252,0,0.4)" stroke-width="1.5" />
+    <circle cx="500" cy="270" r="6" fill="#CAFC00" class="pulse-dot" />
+
+    <!-- Vivid Colored Accent Nodes -->
+    <circle cx="240" cy="300" r="3.5" fill="#c084fc" />
+    <circle cx="760" cy="300" r="3.5" fill="#fbbf24" />
+    <circle cx="350" cy="200" r="3.5" fill="#34d399" />
+    <circle cx="650" cy="200" r="3.5" fill="#22d3ee" />
+  </g>
+</svg>

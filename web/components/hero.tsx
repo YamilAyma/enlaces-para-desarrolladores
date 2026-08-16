@@ -1,37 +1,67 @@
-import Image from "next/image";
-import { Sparkles } from "lucide-react";
+"use client";
+
+import Link from "next/link";
+import { HeroNetworkBackground } from "@/components/hero-network-background";
+import { Github, PlusCircle, Command } from "lucide-react";
+import { SITE_CONFIG } from "@/lib/site-config";
 
 export function Hero() {
   return (
-    <section className="relative flex flex-col items-center justify-center pt-8 pb-12 text-center max-w-4xl mx-auto">
-      {/* Resplandor radial de fondo */}
-      <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_center,_var(--color-primary)/0.03,_transparent_60%)] pointer-events-none" />
-      
-      {/* Elemento de Marca Visual (Logotipo Premium) */}
-      <div className="relative mb-6 animate-in fade-in zoom-in duration-700">
-        <div className="absolute inset-0 bg-[var(--primary)]/10 blur-[50px] rounded-full scale-75" />
-        <div className="relative h-28 w-80 md:h-36 md:w-[480px]">
-          <Image 
-              src="/logo.png" 
-              alt="Logotipo de Enlaces para Desarrolladores" 
-              fill 
-              className="object-contain filter drop-shadow-[0_0_15px_rgba(202,252,0,0.1)]" 
-              priority
-          />
-        </div>
-      </div>
-      
-      <h1 className="text-4xl md:text-6xl font-black tracking-tight mb-4 bg-gradient-to-b from-white via-zinc-100 to-zinc-400 bg-clip-text text-transparent">
-        Recursos de <span className="text-[var(--primary)] drop-shadow-[0_0_20px_rgba(202,252,0,0.2)]">Código Abierto</span> para Desarrolladores
-      </h1>
-      
-      <p className="max-w-2xl text-lg md:text-xl text-zinc-400 font-sans leading-relaxed mb-8">
-        Una lista curada con cientos de aplicaciones web, herramientas de código abierto, recursos de Tailwind CSS y agentes de IA de vanguardia seleccionados minuciosamente para potenciar tu flujo de trabajo de programación.
-      </p>
+    <section className="relative isolate flex flex-col items-center justify-center pt-4 pb-12 text-center max-w-3xl mx-auto">
+      {/* SVG de Red de Internet Animada de Fondo */}
+      <HeroNetworkBackground />
 
-      <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-zinc-900/80 border border-white/5 text-zinc-400 text-sm font-semibold shadow-inner mb-2 animate-pulse duration-[3000ms]">
-        <Sparkles className="h-4 w-4 text-[var(--primary)]" />
-        <span>Acceso libre e inmediato a cientos de herramientas y APIs</span>
+      {/* Contenido en capa superior */}
+      <div className="relative z-10 flex flex-col items-center">
+        {/* Titular Editorial Compacto y Elegante */}
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-normal tracking-tight mb-3 text-zinc-100 font-serif leading-[1.25]">
+          El <span className="italic font-serif text-[var(--primary)]">Directorio Definitivo</span>
+          <br />
+          de Recursos para <span className="italic font-serif text-white">Desarrolladores</span>.
+        </h1>
+
+        {/* Subtítulo Estilo desengs */}
+        <p className="max-w-md text-xs sm:text-sm text-zinc-400 font-sans leading-relaxed mb-5">
+          Curado minuciosamente por la comunidad — para programadores, creadores e ingenieros de software.
+        </p>
+
+        {/* Enlaces y Metadatos Rápidos */}
+        <div className="flex flex-wrap items-center justify-center gap-2 sm:gap-3 text-xs font-mono text-zinc-400 mb-6">
+          <button
+            onClick={() => {
+              window.dispatchEvent(
+                new KeyboardEvent("keydown", { key: "k", metaKey: true, bubbles: true })
+              );
+            }}
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900/90 border border-white/10 hover:border-white/20 hover:text-white transition-colors cursor-pointer text-xs"
+          >
+            <Command className="h-3 w-3 text-[var(--primary)]" />
+            <span>⌘K Buscar</span>
+          </button>
+
+          <a
+            href={SITE_CONFIG.links.github}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900/90 border border-white/10 hover:border-white/20 hover:text-white transition-colors text-xs"
+          >
+            <Github className="h-3 w-3" />
+            <span>Código Abierto</span>
+          </a>
+
+          <a
+            href={SITE_CONFIG.links.contributing}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900/90 border border-white/10 hover:border-white/20 hover:text-white transition-colors text-xs"
+          >
+            <PlusCircle className="h-3 w-3 text-emerald-400" />
+            <span>Proponer Recurso</span>
+          </a>
+        </div>
+
+        {/* Línea Divisoria Editorial */}
+        <div className="w-full max-w-sm h-[1px] bg-gradient-to-r from-transparent via-zinc-800 to-transparent" />
       </div>
     </section>
   );
