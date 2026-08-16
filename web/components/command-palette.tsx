@@ -79,15 +79,20 @@ export function CommandPalette({ categories }: CommandPaletteProps) {
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, [isOpen]);
 
-  // Reset query and selection when modal is toggled
-  useEffect(() => {
+  // Reset state during render when modal opens
+  const [prevIsOpen, setPrevIsOpen] = useState(isOpen);
+  if (isOpen !== prevIsOpen) {
+    setPrevIsOpen(isOpen);
     if (isOpen) {
       setQuery("");
-      // eslint-disable-next-line react-hooks/set-state-in-effect
       setSelectedIndex(0);
-      // Disable body scroll
+    }
+  }
+
+  // Handle body scroll and auto-focus when modal toggles
+  useEffect(() => {
+    if (isOpen) {
       document.body.style.overflow = "hidden";
-      // Focus input with a tiny delay for animation
       setTimeout(() => inputRef.current?.focus(), 100);
     } else {
       document.body.style.overflow = "";
@@ -183,11 +188,12 @@ export function CommandPalette({ categories }: CommandPaletteProps) {
     }
   }, [query, categories, actions, searchIndex]);
 
-  // Adjust selection when items list change
-  useEffect(() => {
-    // eslint-disable-next-line react-hooks/set-state-in-effect
+  // Reset selection during render when items change
+  const [prevItems, setPrevItems] = useState(items);
+  if (items !== prevItems) {
+    setPrevItems(items);
     setSelectedIndex(0);
-  }, [items]);
+  }
 
   // Scroll active item into view
   useEffect(() => {

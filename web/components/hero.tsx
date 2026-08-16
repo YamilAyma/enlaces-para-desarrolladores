@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import { HeroNetworkBackground } from "@/components/hero-network-background";
 import { Github, PlusCircle, Command } from "lucide-react";
 import { SITE_CONFIG } from "@/lib/site-config";
