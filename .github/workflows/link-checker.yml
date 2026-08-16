@@ -31,4 +31,5 @@ jobs:
           labels: |
             bug
             automated-report
+            jules
           token: ${{ secrets.GITHUB_TOKEN }}
