@@ -10,15 +10,17 @@
 
   --font-sans: var(--font-roboto);
   --font-heading: var(--font-roboto);
+  --font-serif: "Newsreader", "Playfair Display", "Georgia", "Cambria", "Times New Roman", serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 :root {
   /* Brand Identity: Premium Dark with Acid Green */
-  --background: #0a0a0a;
+  --background: #3a3a3a;
   --foreground: #ededed;
 
   --primary: #CAFC00;
-  --primary-foreground: #000000;
+  --primary-foreground: #2a2a2a;
 
   --muted: #18181b;
   --muted-foreground: #a1a1aa;
@@ -28,11 +30,8 @@
 }
 
 @media (prefers-color-scheme: light) {
-  /* Even if the system is light, we keep it dark for brand consistency, 
-     but we could add a light theme here if we wanted to support it in the future.
-     For now, we force the premium dark look preferred by the user. */
   :root {
-    --background: #0a0a0a;
+    --background: #2e2e2e;
     --foreground: #ededed;
     --muted: #18181b;
   }
@@ -44,13 +43,8 @@ body {
   font-family: var(--font-sans);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: var(--font-heading);
+.font-serif {
+  font-family: var(--font-serif);
 }
 
 .scrollbar-hide {
