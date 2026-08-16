@@ -1377,6 +1377,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [RAIW](https://raiw.cc/): Herramienta web y CLI en Python para detectar y eliminar metadatos, marcas de agua invisibles (SynthID, StableSignature) y etiquetas C2PA en imágenes generadas por IA.
 - [ZipTyPrompt](https://ziptyprompt.com/): Herramienta web y local que permite redactar y sanitizar información confidencial, PII y credenciales de tus logs y configuraciones antes de enviarlos a IAs.
 - [AIMock](https://aimock.copilotkit.dev/): Servidor de mocks open-source para simular la pila agéntica de IA completa (LLMs, servidores MCP, DBs vectoriales), asegurando pruebas deterministas en CI/CD.
+- [Agent QA](https://github.com/vostride/agent-qa): Servidor MCP de código fuente disponible para definir, validar, ejecutar y diagnosticar pruebas web y móviles en lenguaje natural.
 - [Webwright](https://github.com/microsoft/Webwright): Framework de Microsoft Research para agentes de IA terminal-native. Permite al modelo escribir y ejecutar su propio código de Playwright para resolver tareas web complejas.
 - [Impeccable](https://github.com/pbakaus/impeccable): Kit para agentes de IA a orientarlos para que puedan ser más eficaces en el diseño frontend. 1 Skill.
 
