@@ -4,8 +4,9 @@ import { Hero } from "@/components/hero";
 import { SiteHeader } from "@/components/site-header";
 import { GalleryClientSide } from "@/components/gallery-clientside";
 import { SiteFooter } from "@/components/site-footer";
+import { SITE_CONFIG } from "@/lib/site-config";
 
-// Revalidate every hour (if we want to pick up README changes without rebuild on Vercel/ISR)
+// Revalidate every hour (literal required by Next.js static AST analyzer)
 export const revalidate = 3600;
 
 export default async function Home() {
@@ -14,8 +15,7 @@ export default async function Home() {
   return (
     <main className="min-h-screen bg-black text-zinc-100 selection:bg-[var(--primary)] selection:text-black relative overflow-x-hidden">
       {/* Background Gradient Mesh */}
-      <div className="fixed inset-0 z-[-1] bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-zinc-900 via-[#0a0a0a] to-black" />
-      <div className="fixed inset-0 z-[-1] bg-[url('/grid.svg')] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]" />
+      <div className="fixed inset-0 z-[-1] bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-zinc-900/40 via-black to-black pointer-events-none" />
       
       <SiteHeader />
       
@@ -26,9 +26,9 @@ export default async function Home() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "CollectionPage",
-            "name": "Enlaces para Desarrolladores",
-            "description": "Una colección curada de cientos de recursos, herramientas y bibliotecas para desarrolladores.",
-            "url": "https://enlaces-para-desarrolladores.netlify.app",
+            "name": SITE_CONFIG.name,
+            "description": SITE_CONFIG.description,
+            "url": SITE_CONFIG.url,
             "mainEntity": {
               "@type": "ItemList",
               "itemListElement": categories.map((cat, idx) => ({

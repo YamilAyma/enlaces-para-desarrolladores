@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
-import { Roboto } from "next/font/google"; // Changed to Roboto
+import { Roboto } from "next/font/google";
 import "./globals.css";
 import { getLinks } from "@/lib/data";
 import { CommandPalette } from "@/components/command-palette";
+import { SITE_CONFIG } from "@/lib/site-config";
 
 const roboto = Roboto({
   subsets: ["latin"],
@@ -12,39 +13,39 @@ const roboto = Roboto({
 
 export const metadata: Metadata = {
   title: {
-    default: "Enlaces para Desarrolladores | Recursos de Código Abierto",
-    template: "%s | Enlaces para Desarrolladores",
+    default: `${SITE_CONFIG.name} | Recursos de Código Abierto`,
+    template: `%s | ${SITE_CONFIG.name}`,
   },
-  description: "Una colección curada de cientos de recursos, herramientas y bibliotecas para potenciar tu flujo de trabajo como desarrollador. Packs, UI Kits, Iconos y más.",
+  description: SITE_CONFIG.description,
   keywords: ["desarrolladores", "recursos", "frontend", "backend", "herramientas", "gratis", "web development", "ui kits", "iconos"],
-  authors: [{ name: "Yamil Ayma", url: "https://github.com/YamilAyma" }],
-  creator: "Yamil Ayma",
-  metadataBase: new URL("https://enlaces-para-desarrolladores.netlify.app"), 
+  authors: [{ name: SITE_CONFIG.author.name, url: SITE_CONFIG.author.url }],
+  creator: SITE_CONFIG.author.name,
+  metadataBase: new URL(SITE_CONFIG.url), 
   alternates: {
-    canonical: "https://enlaces-para-desarrolladores.netlify.app",
+    canonical: SITE_CONFIG.url,
   },
   openGraph: {
     type: "website",
     locale: "es_ES",
-    url: "https://enlaces-para-desarrolladores.netlify.app",
-    title: "Enlaces para Desarrolladores | Recursos de Código Abierto",
-    description: "Descubre cientos de recursos cuidadosamente seleccionados para llevar tu desarrollo al siguiente nivel.",
-    siteName: "Enlaces para Desarrolladores",
+    url: SITE_CONFIG.url,
+    title: `${SITE_CONFIG.name} | Recursos de Código Abierto`,
+    description: SITE_CONFIG.description,
+    siteName: SITE_CONFIG.name,
     images: [
       {
         url: "/banner.png", 
         width: 1200,
         height: 630,
-        alt: "Enlaces para Desarrolladores Logo",
+        alt: `${SITE_CONFIG.name} Logo`,
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Enlaces para Desarrolladores | Recursos de Código Abierto",
-    description: "Colección curada de recursos y herramientas para desarrolladores.",
+    title: `${SITE_CONFIG.name} | Recursos de Código Abierto`,
+    description: SITE_CONFIG.description,
     images: ["/banner.png"],
-    creator: "@yamilayma", 
+    creator: SITE_CONFIG.author.twitterHandle, 
   },
   icons: {
     icon: "/icon.png",
@@ -52,7 +53,7 @@ export const metadata: Metadata = {
     apple: "/icon.png",
   },
   verification: {
-    google: "hKxa3eTYihytsIbCFOtjcyLBoZkGx7ryB5ejex8LB1w",
+    google: SITE_CONFIG.verification.google,
   },
   robots: {
     index: true,
@@ -79,32 +80,33 @@ export default async function RootLayout({
     "@graph": [
       {
         "@type": "WebSite",
-        "@id": "https://enlaces-para-desarrolladores.netlify.app/#website",
-        "url": "https://enlaces-para-desarrolladores.netlify.app",
-        "name": "Enlaces para Desarrolladores",
-        "description": "Una colección curada de cientos de recursos, herramientas y bibliotecas para potenciar tu flujo de trabajo como desarrollador.",
+        "@id": `${SITE_CONFIG.url}/#website`,
+        "url": SITE_CONFIG.url,
+        "name": SITE_CONFIG.name,
+        "description": SITE_CONFIG.description,
         "publisher": {
-          "@id": "https://enlaces-para-desarrolladores.netlify.app/#creator"
+          "@id": `${SITE_CONFIG.url}/#creator`
         },
         "inLanguage": "es"
       },
       {
         "@type": "Person",
-        "@id": "https://enlaces-para-desarrolladores.netlify.app/#creator",
-        "name": "Yamil Ayma",
-        "url": "https://github.com/YamilAyma",
+        "@id": `${SITE_CONFIG.url}/#creator`,
+        "name": SITE_CONFIG.author.name,
+        "url": SITE_CONFIG.author.url,
         "sameAs": [
-          "https://x.com/yamilayma"
+          SITE_CONFIG.author.twitter
         ],
-        "jobTitle": "Software Developer"
+        "jobTitle": SITE_CONFIG.author.jobTitle
       },
       {
         "@type": "CollectionPage",
-        "@id": "https://enlaces-para-desarrolladores.netlify.app/#webpage",
-        "url": "https://enlaces-para-desarrolladores.netlify.app",
-        "name": "Enlaces para Desarrolladores - Recursos y Herramientas",
+        "@id": `${SITE_CONFIG.url}/#webpage`,
+        "url": SITE_CONFIG.url,
+        "name": `${SITE_CONFIG.name} - Recursos y Herramientas`,
         "isPartOf": {
-          "@id": "https://enlaces-para-desarrolladores.netlify.app/#website"
+          "@type": "WebSite",
+          "@id": `${SITE_CONFIG.url}/#website`
         },
         "about": [
           {

@@ -6,9 +6,10 @@ import { SiteFooter } from "@/components/site-footer";
 import { getAllPosts, getPostBySlug } from "@/lib/posts";
 import { Calendar, ArrowLeft, Clock, BookOpen } from "lucide-react";
 import { ShareButton } from "@/components/share-button";
+import { SITE_CONFIG } from "@/lib/site-config";
 import type { Metadata } from "next";
 
-export const revalidate = 3600; // Revalidar cada hora
+export const revalidate = 3600;
 
 interface BlogPostProps {
   params: Promise<{ slug: string }>;
@@ -33,7 +34,7 @@ export async function generateMetadata({ params }: BlogPostProps): Promise<Metad
     };
   }
 
-  const siteUrl = "https://enlaces-para-desarrolladores.netlify.app";
+  const siteUrl = SITE_CONFIG.url;
   const postUrl = `${siteUrl}/blog/${post.slug}`;
   const imageUrl = post.image.startsWith("http")
     ? post.image
@@ -51,7 +52,7 @@ export async function generateMetadata({ params }: BlogPostProps): Promise<Metad
       type: "article",
       url: postUrl,
       publishedTime: post.date,
-      authors: ["Yamil Ayma"],
+      authors: [SITE_CONFIG.author.name],
       images: [
         {
           url: imageUrl,
@@ -104,8 +105,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
   return (
     <main className="min-h-screen bg-black text-zinc-100 selection:bg-[var(--primary)] selection:text-black relative overflow-x-hidden">
       {/* Background Gradient Mesh */}
-      <div className="fixed inset-0 z-[-1] bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-zinc-900 via-[#0a0a0a] to-black" />
-      <div className="fixed inset-0 z-[-1] bg-[url('/grid.svg')] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]" />
+      <div className="fixed inset-0 z-[-1] bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-zinc-900/40 via-black to-black pointer-events-none" />
 
       <SiteHeader />
 
@@ -142,7 +142,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
             </div>
             <div className="flex items-center gap-1.5 ml-auto">
               <span className="text-xs">Por</span>
-              <span className="font-bold text-zinc-300">Yamil Ayma</span>
+              <span className="font-bold text-zinc-300">{SITE_CONFIG.author.name}</span>
             </div>
           </div>
         </header>

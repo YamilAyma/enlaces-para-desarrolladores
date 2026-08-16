@@ -1,9 +1,10 @@
 import { getAllPosts } from "@/lib/posts";
+import { SITE_CONFIG } from "@/lib/site-config";
 
 export const revalidate = 3600;
 export async function GET() {
   const posts = await getAllPosts();
-  const siteUrl = "https://enlaces-para-desarrolladores.netlify.app";
+  const siteUrl = SITE_CONFIG.url;
 
   const itemsXml = posts
     .map((post) => {

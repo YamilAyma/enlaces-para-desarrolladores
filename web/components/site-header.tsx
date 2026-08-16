@@ -7,6 +7,8 @@ import Link from "next/link";
 import { useEffect, useState,  Suspense, useTransition } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 
+import { SITE_CONFIG } from "@/lib/site-config";
+
 function SiteHeaderContent() {
   const [isScrolled, setIsScrolled] = useState(false);
   const router = useRouter();
@@ -53,17 +55,17 @@ function SiteHeaderContent() {
     >
       <div className="flex items-center gap-4">
         <Link href="/" onClick={() => router.replace('/')} className="flex items-center gap-2 group">
-             <div className="relative h-12 w-12 overflow-hidden rounded-xl border border-white/10"> 
+             <div className="relative h-10 w-10 overflow-hidden rounded-xl border border-white/10"> 
                 <Image 
                     src="/logo.png" 
-                    alt="Logo" 
+                    alt={SITE_CONFIG.name} 
                     fill 
                     className="object-cover transition-transform group-hover:scale-110" 
                 />
              </div>
              <div className="flex flex-col leading-none">
                 <span className="text-[10px] text-zinc-500 font-bold tracking-widest uppercase mb-0.5">Enlaces para</span>
-                <span className="text-lg font-black font-heading text-white tracking-tight">Desarrolladores</span>
+                <span className="text-base font-black font-heading text-white tracking-tight">Desarrolladores</span>
              </div>
         </Link>
         <nav className="hidden md:flex items-center gap-6 ml-4 border-l border-white/10 pl-6">
@@ -93,7 +95,7 @@ function SiteHeaderContent() {
         </div>
         
         <a 
-            href="https://github.com/YamilAyma/enlaces-para-desarrolladores" 
+            href={SITE_CONFIG.links.github} 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm font-bold text-zinc-100 transition-all hover:bg-[var(--primary)] hover:text-black hover:border-[var(--primary)] hover:shadow-[0_0_15px_rgba(202,252,0,0.3)]"

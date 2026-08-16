@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Github, Globe, Heart, FileText, Rss } from "lucide-react";
+import { SITE_CONFIG } from "@/lib/site-config";
 
 export function SiteFooter() {
   const currentYear = new Date().getFullYear();
@@ -128,11 +129,11 @@ export function SiteFooter() {
           </div>
         </div>
 
-        {/* Divider and Footer Bottom */}
+          {/* Divider and Footer Bottom */}
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between gap-6">
           {/* Copyright Info */}
           <div className="text-xs text-zinc-500 flex flex-col items-center md:items-start gap-1">
-            <span>&copy; {currentYear} Enlaces para Desarrolladores.</span>
+            <span>&copy; {currentYear} {SITE_CONFIG.name}.</span>
             <span>Todos los derechos reservados.</span>
           </div>
 
@@ -142,12 +143,12 @@ export function SiteFooter() {
             <Heart className="h-3.5 w-3.5 fill-[var(--primary)] text-[var(--primary)] animate-pulse" />
             <span>por</span>
             <a
-              href="https://yamilayma.github.io/"
+              href={SITE_CONFIG.author.url}
               target="_blank"
               rel="noopener noreferrer"
               className="font-bold text-zinc-100 hover:text-[var(--primary)] transition-all duration-300 relative group py-0.5"
             >
-              Yamil Ayma
+              {SITE_CONFIG.author.name}
               <span className="absolute bottom-0 left-0 w-0 h-[1px] bg-[var(--primary)] transition-all duration-300 group-hover:w-full" />
             </a>
           </div>
@@ -155,16 +156,16 @@ export function SiteFooter() {
           {/* Social Icons */}
           <div className="flex items-center gap-2">
             <a
-              href="https://yamilayma.github.io/"
+              href={SITE_CONFIG.author.url}
               target="_blank"
               rel="noopener noreferrer"
-              title="Sitio Web de Yamil Ayma"
+              title={`Perfil de ${SITE_CONFIG.author.name}`}
               className="text-zinc-500 hover:text-[var(--primary)] transition-colors p-2 rounded-full hover:bg-white/5 border border-transparent hover:border-white/5"
             >
               <Globe className="h-4 w-4" />
             </a>
             <a
-              href="https://github.com/YamilAyma/enlaces-para-desarrolladores"
+              href={SITE_CONFIG.links.github}
               target="_blank"
               rel="noopener noreferrer"
               title="Repositorio en GitHub"
