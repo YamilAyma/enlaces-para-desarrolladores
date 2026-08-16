@@ -4,7 +4,7 @@ import { SiteFooter } from "@/components/site-footer";
 import { getAllPosts } from "@/lib/posts";
 import { getCategoryColor } from "@/lib/colors";
 import { SITE_CONFIG } from "@/lib/site-config";
-import { ChevronRight, BookOpen, ArrowUpRight } from "lucide-react";
+import { BookOpen, ArrowUpRight } from "lucide-react";
 
 export const revalidate = 3600;
 

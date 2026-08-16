@@ -1,10 +1,9 @@
 import Link from "next/link";
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { getAllPosts, getPostBySlug } from "@/lib/posts";
-import { Calendar, ArrowLeft, Clock, BookOpen } from "lucide-react";
+import { Calendar, ArrowLeft, Clock } from "lucide-react";
 import { ShareButton } from "@/components/share-button";
 import { SITE_CONFIG } from "@/lib/site-config";
 import type { Metadata } from "next";

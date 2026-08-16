@@ -2,12 +2,11 @@
 
 import { useMemo, useState, useEffect, useRef } from "react";
 import { LinkRow } from "@/components/link-row";
-import { getCategoryIcon } from "@/lib/icons";
 import { getCategoryColor } from "@/lib/colors";
 import { slugify } from "@/lib/utils";
 import Link from "next/link";
 import { useSearchParams, useRouter, usePathname } from "next/navigation";
-import { Loader2, Search, Star, Download, Copy, Trash2, Check, X } from "lucide-react";
+import { Loader2, Search, Download, Copy, Trash2, Check, X } from "lucide-react";
 import { createSearchIndex } from "@/lib/search";
 import { SITE_CONFIG } from "@/lib/site-config";
 
@@ -74,11 +73,13 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
       };
 
       handleSync();
-      setIsLoaded(true);
+
+      const timer = setTimeout(() => setIsLoaded(true), 0);
 
       window.addEventListener("toolkit-updated", handleSync);
       window.addEventListener("storage", handleSync);
       return () => {
+        clearTimeout(timer);
         window.removeEventListener("toolkit-updated", handleSync);
         window.removeEventListener("storage", handleSync);
       };
@@ -132,10 +133,15 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
     router.replace(`${pathname}?${params.toString()}`, { scroll: false });
   };
 
-  // Reset pagination when filter changes
-  useEffect(() => {
+  // Reset pagination during render when filter changes
+  const [prevFilter, setPrevFilter] = useState({ searchQuery, activeCategory });
+  if (
+    prevFilter.searchQuery !== searchQuery ||
+    prevFilter.activeCategory !== activeCategory
+  ) {
+    setPrevFilter({ searchQuery, activeCategory });
     setVisibleCount(SITE_CONFIG.defaultPageSize);
-  }, [searchQuery, activeCategory]);
+  }
 
   const handleLoadMore = () => {
     setVisibleCount((prev) => prev + SITE_CONFIG.defaultPageSize);
