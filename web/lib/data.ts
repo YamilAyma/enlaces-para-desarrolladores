@@ -31,7 +31,7 @@ export async function getLinks(): Promise<Category[]> {
 
 function parseReadme(content: string): Category[] {
   const lines = content.split('\n');
-  const categories: Category[] = [];
+  const categoriesMap = new Map<string, Category>();
   let currentCategory: Category | null = null;
 
   for (let line of lines) {
@@ -39,12 +39,17 @@ function parseReadme(content: string): Category[] {
 
     // Headers (### Category Name)
     if (line.startsWith('### ')) {
-      if (currentCategory) {
-        categories.push(currentCategory);
+      // Remove "### " and optional trailing colon or extra spaces
+      const rawName = line.replace(/^###\s+/, '').trim();
+      const cleanName = rawName.replace(/:\s*$/, '').trim();
+
+      if (!categoriesMap.has(cleanName)) {
+        const newCategory: Category = { name: cleanName, links: [] };
+        categoriesMap.set(cleanName, newCategory);
+        currentCategory = newCategory;
+      } else {
+        currentCategory = categoriesMap.get(cleanName)!;
       }
-      // Remove "### " and optional emojis or extra chars
-      const name = line.replace(/^###\s+/, '').trim();
-      currentCategory = { name, links: [] };
     } 
     // List Items with Links
     else if (line.startsWith('-') && currentCategory) {
@@ -89,9 +94,5 @@ function parseReadme(content: string): Category[] {
     }
   }
 
-  if (currentCategory) {
-    categories.push(currentCategory);
-  }
-
-  return categories;
+  return Array.from(categoriesMap.values());
 }
