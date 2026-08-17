@@ -2,7 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
-import { getAllPosts, getPostBySlug } from "@/lib/posts";
+import { getAllArticles, getArticleBySlug } from "@/lib/articles";
 import { Calendar, ArrowLeft, Clock } from "lucide-react";
 import { ShareButton } from "@/components/share-button";
 import { SITE_CONFIG } from "@/lib/site-config";
@@ -16,16 +16,16 @@ interface BlogPostProps {
 
 // Generar los parámetros estáticos para todas las páginas en tiempo de compilación (Static Site Generation)
 export async function generateStaticParams() {
-  const posts = await getAllPosts();
-  return posts.map((post) => ({
-    slug: post.slug,
+  const articles = await getAllArticles();
+  return articles.map((article) => ({
+    slug: article.slug,
   }));
 }
 
 // Generar metadatos dinámicos para SEO (Open Graph, Twitter) de cada post
 export async function generateMetadata({ params }: BlogPostProps): Promise<Metadata> {
   const { slug } = await params;
-  const post = await getPostBySlug(slug);
+  const post = await getArticleBySlug(slug);
 
   if (!post) {
     return {
@@ -72,7 +72,7 @@ export async function generateMetadata({ params }: BlogPostProps): Promise<Metad
 
 export default async function BlogPostPage({ params }: BlogPostProps) {
   const { slug } = await params;
-  const post = await getPostBySlug(slug);
+  const post = await getArticleBySlug(slug);
 
   if (!post) {
     notFound();

@@ -3,7 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { marked } from "marked";
 
-export interface Post {
+export interface Article {
   slug: string;
   title: string;
   image: string;
@@ -16,23 +16,23 @@ export interface Post {
   rawContent: string;
 }
 
-const postsDirectory = path.join(process.cwd(), "content", "posts");
+const articlesDirectory = path.join(process.cwd(), "content", "articles");
 
 /**
- * Obtiene todos los posts diarios de recursos de content/posts/ que estén publicados (published === true).
+ * Obtiene todos los artículos editoriales de content/articles/ que estén publicados (published === true).
  * Ordenados de forma descendente por fecha.
  */
-export async function getAllPosts(): Promise<Post[]> {
-  if (!fs.existsSync(postsDirectory)) {
+export async function getAllArticles(): Promise<Article[]> {
+  if (!fs.existsSync(articlesDirectory)) {
     return [];
   }
 
-  const fileNames = fs.readdirSync(postsDirectory);
-  const allPostsData = fileNames
+  const fileNames = fs.readdirSync(articlesDirectory);
+  const allArticlesData = fileNames
     .filter((fileName) => fileName.endsWith(".md"))
     .map((fileName) => {
       const slug = fileName.replace(/\.md$/, "");
-      const fullPath = path.join(postsDirectory, fileName);
+      const fullPath = path.join(articlesDirectory, fileName);
       const fileContents = fs.readFileSync(fullPath, "utf8");
 
       const { data, content } = matter(fileContents);
@@ -43,7 +43,7 @@ export async function getAllPosts(): Promise<Post[]> {
         image: data.image || `/og/posts/${slug}.webp`,
         imageAlt: data.imageAlt || "",
         copy: data.copy || "",
-        category: data.category || "Recursos",
+        category: data.category || "",
         date: data.date
           ? data.date instanceof Date
             ? data.date.toISOString().split("T")[0]
@@ -54,23 +54,23 @@ export async function getAllPosts(): Promise<Post[]> {
         rawContent: content,
       };
     })
-    .filter((post) => {
-      if (!post.published) return false;
-      if (!post.date) return false;
+    .filter((article) => {
+      if (!article.published) return false;
+      if (!article.date) return false;
       const todayStr = new Date().toISOString().split("T")[0];
-      return post.date <= todayStr;
+      return article.date <= todayStr;
     })
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 
-  return allPostsData;
+  return allArticlesData;
 }
 
 /**
- * Obtiene un post diario específico por su slug y procesa su contenido Markdown a HTML.
+ * Obtiene un artículo específico por su slug y procesa su contenido Markdown a HTML.
  */
-export async function getPostBySlug(slug: string): Promise<Post | null> {
+export async function getArticleBySlug(slug: string): Promise<Article | null> {
   try {
-    const fullPath = path.join(postsDirectory, `${slug}.md`);
+    const fullPath = path.join(articlesDirectory, `${slug}.md`);
     if (!fs.existsSync(fullPath)) {
       return null;
     }
@@ -100,7 +100,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
       image: data.image || `/og/posts/${slug}.webp`,
       imageAlt: data.imageAlt || "",
       copy: data.copy || "",
-      category: data.category || "Recursos",
+      category: data.category || "",
       date: data.date
         ? data.date instanceof Date
           ? data.date.toISOString().split("T")[0]
@@ -111,7 +111,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
       rawContent: content,
     };
   } catch (error) {
-    console.error(`Error leyendo el post diario con slug ${slug}:`, error);
+    console.error(`Error leyendo el artículo con slug ${slug}:`, error);
     return null;
   }
 }

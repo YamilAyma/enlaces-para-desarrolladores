@@ -67,6 +67,11 @@ export function SiteFooter() {
                 </Link>
               </li>
               <li>
+                <Link href="/posts" className="hover:text-[var(--primary)] transition-colors duration-200">
+                  Archivo de Posts
+                </Link>
+              </li>
+              <li>
                 <a 
                   href="/posts/rss.xml" 
                   target="_blank" 

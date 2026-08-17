@@ -75,6 +75,12 @@ function SiteHeaderContent() {
           >
             Artículos
           </Link>
+          <Link
+            href="/posts"
+            className="text-sm font-semibold text-zinc-400 hover:text-[var(--primary)] transition-colors duration-200"
+          >
+            Archivo
+          </Link>
         </nav>
       </div>
 

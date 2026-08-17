@@ -39,8 +39,9 @@ export async function GET() {
         ? "image/jpeg"
         : "image/png";
 
-      // Escapar el texto base para garantizar validez XML y luego insertar etiquetas <br/> literales
-      const contentEncodedText = escapeXml(descriptionText).replace(/\n/g, "<br/>");
+      // Contenido extenso: Cuerpo del post con delimitadores <br/> dentro de CDATA para Make
+      const bodyContent = post.rawContent ? post.rawContent.trim() : descriptionText;
+      const contentWithDelimiters = bodyContent.replace(/\r\n/g, "\n").replace(/\n/g, "<br/>");
 
       const escapedImageAlt = post.imageAlt ? escapeXml(post.imageAlt) : escapeXml(post.title);
 
@@ -51,7 +52,7 @@ export async function GET() {
       <guid isPermaLink="true">${postUrl}</guid>
       <pubDate>${rfc822Date}</pubDate>
       <description>${escapeXml(descriptionText)}</description>
-      <content:encoded>${contentEncodedText}</content:encoded>
+      <content:encoded><![CDATA[${contentWithDelimiters}]]></content:encoded>
       <enclosure url="${imageUrl}" length="0" type="${imageType}" />
       <media:content url="${imageUrl}" medium="image" type="${imageType}">
         <media:description type="plain">${escapedImageAlt}</media:description>

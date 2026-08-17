@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
-import { getAllPosts } from "@/lib/posts";
+import { getAllArticles } from "@/lib/articles";
 import { getCategoryColor } from "@/lib/colors";
 import { SITE_CONFIG } from "@/lib/site-config";
 import { BookOpen, ArrowUpRight } from "lucide-react";
@@ -30,7 +30,7 @@ export const metadata = {
 };
 
 export default async function BlogPage() {
-  const posts = await getAllPosts();
+  const posts = await getAllArticles();
 
   return (
     <main className="min-h-screen bg-black text-zinc-100 selection:bg-[var(--primary)] selection:text-black relative overflow-x-hidden">

@@ -3,7 +3,8 @@ import path from "path";
 import matter from "gray-matter";
 import sharp from "sharp";
 
-const postsDirectory = path.join(process.cwd(), "posts");
+const articlesDirectory = path.join(process.cwd(), "content", "articles");
+const postsDirectory = path.join(process.cwd(), "content", "posts");
 const postsOutputDirectory = path.join(process.cwd(), "public", "og", "posts");
 const categoriesOutputDirectory = path.join(process.cwd(), "public", "og");
 const readmePath = path.join(process.cwd(), "..", "README.md");
@@ -284,42 +285,47 @@ async function run() {
   console.log("Iniciando generación automática de portadas OG WebP...");
   console.log("===============================================================");
 
-  // --- PARTE 1: Portadas para Blog ---
-  if (fs.existsSync(postsDirectory)) {
-    const fileNames = fs.readdirSync(postsDirectory);
-    const posts = fileNames.filter((fileName) => fileName.endsWith(".md"));
+  // --- PARTE 1: Portadas para Artículos y Posts ---
+  const sourceDirectories = [
+    { dir: articlesDirectory, label: "Artículos" },
+    { dir: postsDirectory, label: "Posts Diarios" },
+  ];
 
-    console.log(`\n[Blog] Procesando ${posts.length} posts...`);
-    for (const fileName of posts) {
-      const slug = fileName.replace(/\.md$/, "");
-      const fullPath = path.join(postsDirectory, fileName);
-      const fileContents = fs.readFileSync(fullPath, "utf8");
+  for (const { dir, label } of sourceDirectories) {
+    if (fs.existsSync(dir)) {
+      const fileNames = fs.readdirSync(dir);
+      const items = fileNames.filter((fileName) => fileName.endsWith(".md"));
 
-      const { data } = matter(fileContents);
-      const title = data.title || "Artículo sin título";
-      const category = data.category || "Recursos";
+      console.log(`\n[${label}] Procesando ${items.length} archivos...`);
+      for (const fileName of items) {
+        const slug = fileName.replace(/\.md$/, "");
+        const fullPath = path.join(dir, fileName);
+        const fileContents = fs.readFileSync(fullPath, "utf8");
 
-      const outputFilePath = path.join(postsOutputDirectory, `${slug}.webp`);
+        const { data } = matter(fileContents);
+        const title = data.title || "Artículo sin título";
+        const category = data.category || "Recursos";
 
-      if (fs.existsSync(outputFilePath)) {
-        console.log(`  - Portada existente para: "${slug}" (omitido)`);
-        continue;
-      }
+        const outputFilePath = path.join(postsOutputDirectory, `${slug}.webp`);
 
-      console.log(`  - Generando portada para post: "${slug}"...`);
-      const svgContent = generateSvgTemplate(title, category);
+        if (fs.existsSync(outputFilePath)) {
+          console.log(`  - Portada existente para: "${slug}" (omitido)`);
+          continue;
+        }
 
-      try {
-        await sharp(Buffer.from(svgContent))
-          .webp({ quality: 85 })
-          .toFile(outputFilePath);
-        console.log(`    ✓ Guardada: /public/og/posts/${slug}.webp`);
-      } catch (error) {
-        console.error(`    ⨯ Error en post "${slug}":`, error);
+        console.log(`  - Generando portada para ${label}: "${slug}"...`);
+        const svgContent = generateSvgTemplate(title, category);
+
+        try {
+          await sharp(Buffer.from(svgContent))
+            .webp({ quality: 85 })
+            .toFile(outputFilePath);
+          console.log(`    ✓ Guardada: /public/og/posts/${slug}.webp`);
+        } catch (error) {
+          console.error(`    ⨯ Error en "${slug}":`, error);
+        }
       }
     }
-  } else {
-    console.log("\n[Blog] No se encontró el directorio de posts.");
   }
 
   // --- PARTE 2: Portadas para Categorías (README.md) ---
