@@ -89,16 +89,29 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
 
   // Formatear fecha en español de forma limpia
   const formatDate = (dateStr: string) => {
-    try {
-      const options: Intl.DateTimeFormatOptions = {
-        year: "numeric",
-        month: "long",
-        day: "numeric",
-      };
-      return new Date(dateStr).toLocaleDateString("es-ES", options);
-    } catch {
-      return dateStr;
+    if (!dateStr) return "";
+    const parts = dateStr.split("-");
+    if (parts.length === 3) {
+      const months = [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre",
+      ];
+      const [y, m, d] = parts;
+      const monthIdx = parseInt(m, 10) - 1;
+      const dayNum = parseInt(d, 10);
+      return `${dayNum} de ${months[monthIdx] || m} de ${y}`;
     }
+    return dateStr;
   };
 
   return (

@@ -123,16 +123,29 @@ export function PostsArchive({ posts }: PostsArchiveProps) {
   };
 
   const formatDate = (dateStr: string) => {
-    try {
-      const options: Intl.DateTimeFormatOptions = {
-        year: "numeric",
-        month: "short",
-        day: "numeric",
-      };
-      return new Date(dateStr).toLocaleDateString("es-ES", options);
-    } catch {
-      return dateStr;
+    if (!dateStr) return "";
+    const parts = dateStr.split("-");
+    if (parts.length === 3) {
+      const months = [
+        "ene",
+        "feb",
+        "mar",
+        "abr",
+        "may",
+        "jun",
+        "jul",
+        "ago",
+        "sep",
+        "oct",
+        "nov",
+        "dic",
+      ];
+      const [y, m, d] = parts;
+      const monthIdx = parseInt(m, 10) - 1;
+      const dayNum = parseInt(d, 10);
+      return `${dayNum} ${months[monthIdx] || m} ${y}`;
     }
+    return dateStr;
   };
 
   return (

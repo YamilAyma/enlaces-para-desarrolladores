@@ -39,9 +39,12 @@ export async function GET() {
         ? "image/jpeg"
         : "image/png";
 
-      // Contenido extenso: Cuerpo del post con delimitadores <br/> sin CDATA para Make
+      // Contenido extenso: Cuerpo del post en una sola línea continua con &lt;br/&gt;
       const bodyContent = post.rawContent ? post.rawContent.trim() : descriptionText;
-      const contentWithDelimiters = bodyContent.replace(/\r\n/g, "\n").replace(/\n/g, "<br/>");
+      const contentWithDelimiters = escapeXml(bodyContent)
+        .replace(/\r\n/g, "\n")
+        .replace(/\r/g, "\n")
+        .replace(/\n/g, "&lt;br/&gt;");
 
       const escapedImageAlt = post.imageAlt ? escapeXml(post.imageAlt) : escapeXml(post.title);
 
