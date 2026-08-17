@@ -8,7 +8,7 @@ export async function GET() {
 
   const itemsXml = posts
     .map((post) => {
-      const postUrl = `${siteUrl}/blog/${post.slug}`;
+      const postUrl = `${siteUrl}/posts#${post.slug}`;
       const imageUrl = post.image.startsWith("http")
         ? post.image
         : `${siteUrl}${post.image}`;
@@ -39,7 +39,7 @@ export async function GET() {
         ? "image/jpeg"
         : "image/png";
 
-      // Contenido extenso: Cuerpo del post con delimitadores <br/> dentro de CDATA para Make
+      // Contenido extenso: Cuerpo del post con delimitadores <br/> sin CDATA para Make
       const bodyContent = post.rawContent ? post.rawContent.trim() : descriptionText;
       const contentWithDelimiters = bodyContent.replace(/\r\n/g, "\n").replace(/\n/g, "<br/>");
 
@@ -52,7 +52,7 @@ export async function GET() {
       <guid isPermaLink="true">${postUrl}</guid>
       <pubDate>${rfc822Date}</pubDate>
       <description>${escapeXml(descriptionText)}</description>
-      <content:encoded><![CDATA[${contentWithDelimiters}]]></content:encoded>
+      <content:encoded>${contentWithDelimiters}</content:encoded>
       <enclosure url="${imageUrl}" length="0" type="${imageType}" />
       <media:content url="${imageUrl}" medium="image" type="${imageType}">
         <media:description type="plain">${escapedImageAlt}</media:description>
