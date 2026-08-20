@@ -414,6 +414,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus): Crea sistemas de RAG (Búsqueda Aumentada) sobre tus propios repositorios de GitHub.
 - [Homarr](https://github.com/homarr-labs/homarr): Un dashboard elegante y modular para integrar todos tus servicios en un solo lugar.
 - [YourASCII](https://yourascii.vercel.app/): Generador de arte ASCII y texto estilizado para consolas y perfiles.
+- [Live Font Generator](https://livefontgenerator.com/): Herramienta online gratuita para generar texto con diferentes estilos de fuentes y caracteres Unicode para tus proyectos, diseños y redes sociales.
 - [User Scanner](https://github.com/kaifcodec/user-scanner): Herramienta para la búsqueda y escaneo de perfiles de usuario en múltiples plataformas.
 - [PhoneIntel](https://github.com/phoneintel/phoneintel): Utilidad de inteligencia y búsqueda de información basada en números telefónicos.
 - [Nexfil](https://github.com/thewhiteh4t/nexfil): Buscador rápido de perfiles de usuario en cientos de redes sociales simultáneamente.
