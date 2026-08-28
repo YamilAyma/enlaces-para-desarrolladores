@@ -6,5 +6,8 @@ web/build_log.txt
 scripts/README.test.md
 scripts/urls_to_remove.json
 
+# Archivos locales de desarrollo
+validation.txt
+
 # Skills locales ignoradas por Git
-.agent/skills/blog-writer/
+.agent/skills/blog-writer/
