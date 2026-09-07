@@ -9,6 +9,7 @@ import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import { Loader2, Search, Download, Copy, Trash2, Check, X } from "lucide-react";
 import { createSearchIndex } from "@/lib/search";
 import { SITE_CONFIG } from "@/lib/site-config";
+import { trackCategoryFilter, trackFavoriteToggle } from "@/lib/analytics";
 
 interface LinkItem {
   title: string;
@@ -100,6 +101,11 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
 
   const toggleFavorite = (item: LinkItem) => {
     const exists = favorites.some((fav) => fav.url === item.url);
+    trackFavoriteToggle({
+      title: item.title,
+      url: item.url,
+      action: exists ? "remove" : "add",
+    });
     if (exists) {
       saveFavorites(favorites.filter((fav) => fav.url !== item.url));
     } else {
@@ -112,6 +118,7 @@ export function GalleryClientSide({ initialCategories }: { initialCategories: Ca
 
   // Helper to sync URL params
   const updateCategory = (cat: string) => {
+    trackCategoryFilter(cat, "gallery_category_chips");
     setIsFiltering(true);
     const params = new URLSearchParams(searchParams);
     if (cat && cat !== "All") {

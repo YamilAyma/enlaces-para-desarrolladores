@@ -1,6 +1,7 @@
 "use client";
 
 import { Share2 } from "lucide-react";
+import { trackShare } from "@/lib/analytics";
 
 interface ShareButtonProps {
   title: string;
@@ -11,6 +12,11 @@ export function ShareButton({ title, copy }: ShareButtonProps) {
   const handleShare = () => {
     if (typeof window !== "undefined") {
       if (navigator.share) {
+        trackShare({
+          title,
+          method: "native_share",
+          url: window.location.href,
+        });
         navigator
           .share({
             title: title,
@@ -19,6 +25,11 @@ export function ShareButton({ title, copy }: ShareButtonProps) {
           })
           .catch(console.error);
       } else {
+        trackShare({
+          title,
+          method: "clipboard",
+          url: window.location.href,
+        });
         navigator.clipboard.writeText(window.location.href);
         alert("Enlace copiado al portapapeles");
       }

@@ -3,6 +3,7 @@
 import React from "react";
 import { ArrowUpRight, Star } from "lucide-react";
 import { getCategoryColor } from "@/lib/colors";
+import { trackResourceClick } from "@/lib/analytics";
 
 export interface LinkRowProps {
   title: string;
@@ -28,6 +29,14 @@ export function LinkRow({
       href={url}
       target="_blank"
       rel="noopener noreferrer"
+      onClick={() =>
+        trackResourceClick({
+          title,
+          url,
+          category: categoryName,
+          source: "link_row",
+        })
+      }
       className="group relative flex items-center justify-between gap-2.5 px-3 py-2 rounded-md transition-all duration-200 hover:bg-zinc-900/60 border border-transparent hover:border-white/5"
     >
       {/* Contenedor principal de información (Línea continua) */}

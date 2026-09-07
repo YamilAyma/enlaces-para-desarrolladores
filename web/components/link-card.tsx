@@ -1,5 +1,6 @@
 import { ArrowUpRight, Star } from "lucide-react";
 import React from "react";
+import { trackResourceClick } from "@/lib/analytics";
 
 interface LinkCardProps {
   title: string;
@@ -23,6 +24,7 @@ export function LinkCard({ title, url, description, isFavorite = false, onToggle
       href={url}
       target="_blank"
       rel="noopener noreferrer"
+      onClick={() => trackResourceClick({ title, url, source: "link_card" })}
       className="group relative flex flex-col justify-between overflow-hidden rounded-xl border border-white/10 bg-zinc-900/40 p-6 transition-all duration-300 hover:-translate-y-1 hover:border-[var(--primary)]/50 hover:shadow-[0_8px_30px_rgba(0,0,0,0.5)] hover:bg-black backdrop-blur-sm"
     >
       {/* Content */}

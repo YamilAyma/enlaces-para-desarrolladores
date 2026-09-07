@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Search, Terminal, Sparkles, Copy, Download, Trash2, X, CornerDownLeft } from "lucide-react";
 import { createSearchIndex } from "@/lib/search";
 import { slugify } from "@/lib/utils";
+import { trackResourceClick, trackSearch, trackCategoryFilter } from "@/lib/analytics";
 
 interface LinkItem {
   title: string;
@@ -101,6 +102,23 @@ export function CommandPalette({ categories }: CommandPaletteProps) {
       document.body.style.overflow = "";
     };
   }, [isOpen]);
+
+  // Track search query with debounce
+  useEffect(() => {
+    const cleanQuery = query.trim();
+    if (!cleanQuery || cleanQuery.length < 2) return;
+
+    const timer = setTimeout(() => {
+      const results = searchIndex.search(cleanQuery);
+      trackSearch({
+        query: cleanQuery,
+        resultsCount: results.length,
+        source: "command_palette",
+      });
+    }, 600);
+
+    return () => clearTimeout(timer);
+  }, [query, searchIndex]);
 
   // Actions structure
   const actions = useMemo(() => {
@@ -227,9 +245,16 @@ export function CommandPalette({ categories }: CommandPaletteProps) {
     if (item.type === "action" && "handler" in item) {
       item.handler();
     } else if (item.type === "category" && "slug" in item) {
+      trackCategoryFilter(item.title, "command_palette");
       router.push(`/categoria/${item.slug}`);
       setIsOpen(false);
     } else if (item.type === "link" && "url" in item) {
+      trackResourceClick({
+        title: item.title,
+        url: item.url,
+        category: "category" in item ? (item.category as string) : undefined,
+        source: "command_palette",
+      });
       window.open(item.url, "_blank", "noopener,noreferrer");
       setIsOpen(false);
     }
