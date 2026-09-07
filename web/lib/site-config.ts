@@ -27,5 +27,6 @@ export const SITE_CONFIG = {
   },
   analytics: {
     gtmId: "GTM-55CGZDVT",
+    gaId: "G-Y37CSWHEZT",
   },
 } as const;
