@@ -25,4 +25,7 @@ export const SITE_CONFIG = {
   verification: {
     google: "hKxa3eTYihytsIbCFOtjcyLBoZkGx7ryB5ejex8LB1w",
   },
+  analytics: {
+    gtmId: "GTM-55CGZDVT",
+  },
 } as const;
