@@ -303,7 +303,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [HMPL](https://github.com/hmpl-language/hmpl): Moderno lenguaje de marcado para fetching distribuido que optimiza la carga de componentes en aplicaciones web modernas mediante un enfoque orientado al servidor.
 - [Markdown Viewer Skills](https://github.com/markdown-viewer/skills): Extensiones para agentes de IA que habilitan la renderización de diagramas y visualizaciones directamente dentro de Markdown.
 - [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph): Herramienta que genera grafos de conocimiento técnicos sobre proyectos de IA para facilitar la comprensión de arquitecturas complejas.
-- [motion-gpu](https://github.com/kaltwrk/spektral): Framework minimalista para la creación de efectos visuales modernos y de alto rendimiento utilizando WebGPU.
+- [spektral](https://github.com/kaltwrk/spektral): Framework minimalista para la creación de efectos visuales modernos y de alto rendimiento utilizando WebGPU.
 - [armada](https://github.com/armadasvc/armada): Framework nativo de Kubernetes para la orquestación masiva y escalable de bots y scrapers.
 - [pinchtab](https://github.com/pinchtab/pinchtab): Puente de automatización de navegadores de alto rendimiento con dashboard en tiempo real e inyección de stealth avanzada.
 - [linux-android](https://github.com/mayukh4/linux-android): Script automatizado para configurar un entorno Linux completo dentro de dispositivos Android a través de Termux.
@@ -489,7 +489,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template): La plantilla de README más popular y completa para proyectos de GitHub.
 - [React App Structure](https://github.com/Shpendrr/react-app-structure): Guía y plantilla sobre cómo estructurar aplicaciones React usando "Atomic Design".
 - [Countless Dev](https://countless.dev/): Herramienta de comparación masiva para modelos de Inteligencia Artificial.
-- [FrutigerAero Glassmorphism](https://aahlv.com/): Generador de efectos de "glassmorphism" estilo Frutiger Aero con CSS.
 - [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator): Herramienta visual de Hype4 para crear efectos de cristal esmerilado modernos.
 - [PyPi Stats](https://pypistats.org/): Análisis detallado de las estadísticas de descarga de cualquier paquete de Python.
 - [Easing Wizard](https://easingwizard.com/): Creador interactivo de funciones de suavizado (easing) personalizadas para animaciones CSS.
@@ -878,7 +877,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Tambo](https://github.com/tambo-ai/tambo): Herramienta de IA para generar componentes de interfaz de usuario a partir de descripciones.
 - [YamadaUI](https://yamada-ui.com/): Un sistema de diseño completo y flexible para construir aplicaciones React con facilidad.
 - [Svelte Shadcn Blocks](https://sv-blocks.vercel.app/): Colección de bloques de construcción para Svelte basados en el ecosistema Shadcn.
-- [Supabase UI](https://supabase.com/library): Librería de componentes de interfaz oficial de Supabase para aplicaciones de datos.
+- [Supabase Library](https://supabase.com/library): Librería de componentes de interfaz oficial de Supabase para aplicaciones de datos.
 - [WebTUI](https://webtui.ironclad.sh/): Framework para construir interfaces web con un aspecto auténtico de terminal clásica.
 - [9ui](https://www.9ui.dev/): Conjunto de componentes UI modernos y minimalistas orientados al diseño limpio.
 - [AllUtilityCSS](https://allutilitycss.com/): Recurso exhaustivo con tips, trucos y herramientas avanzadas sobre Tailwind CSS.
@@ -1306,7 +1305,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [strix](https://www.strix.ai/): Agentes de IA de código abierto para encontrar y corregir vulnerabilidades en aplicaciones.
 - [hippo-memory](https://hippo-memory.com/): Memoria con inspiración biológica para agentes de IA sin dependencias.
 - [openhare](https://sjjian.github.io/openhare/): Cliente SQL de escritorio impulsado por IA y construido en Flutter.
-- [claude-bug-bounty](https://github.com/Awarexone/Agentic-Bug-Hunter): Herramienta de auditoría y búsqueda de vulnerabilidades desde la terminal con Claude Code.
+- [Agentic-Bug-Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter): Herramienta de auditoría y búsqueda de vulnerabilidades desde la terminal con Claude Code.
 - [full-stack-ai-agent-template](https://vstorm-co.github.io/full-stack-ai-agent-template/): Generador de aplicaciones full-stack con agentes de IA, RAG y autenticación.
 - [whichllm](https://github.com/Andyyyy64/whichllm): Herramienta para encontrar el modelo LLM local que ofrece mejor rendimiento en tu equipo.
 
@@ -1361,7 +1360,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI): Estudio de IA generativa autoalojable y open-source con Next.js y Electron que unifica la generación de imagen, video y sincronización labial para más de 200 modelos.
 - [Context7](https://context7.com/): Herramienta inteligente diseñada para simplificar y automatizar la gestión y estructuración de contextos complejos en interacciones con modelos de lenguaje grandes.
 - [Midscene.js](https://midscenejs.com/): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
-- [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skills-platform): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
+- [agent-skills-platform](https://github.com/FrancyJGLisboa/agent-skills-platform): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill): Herramienta que analiza textos y libros técnicos para extraer conocimiento estructurado y convertirlo de forma automatizada en habilidades prácticas ejecutables por agentes de IA.
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill): Archivo de habilidad (skill) para agentes de IA optimizado para estructurar y redactar prompts de alta calidad para el modelo de generación de video Jimeng Seedance 2.0 de ByteDance.
 - [Semble](https://minish.ai/packages/semble/introduction/): Librería de búsqueda de código rápida y local en CPU optimizada para agentes de IA. Combina embeddings semánticos y BM25, reduciendo drásticamente el consumo de tokens.
