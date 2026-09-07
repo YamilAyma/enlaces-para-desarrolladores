@@ -23,7 +23,10 @@ export const SITE_CONFIG = {
   revalidate: 3600,
   defaultPageSize: 30,
   verification: {
-    google: "hKxa3eTYihytsIbCFOtjcyLBoZkGx7ryB5ejex8LB1w",
+    google: [
+      "hKxa3eTYihytsIbCFOtjcyLBoZkGx7ryB5ejex8LB1w",
+      "aR5CmOdqcFgUY6PwhMdF_YUISiPNc4xCYf6J0n6y_o0",
+    ],
   },
   analytics: {
     gtmId: "GTM-55CGZDVT",

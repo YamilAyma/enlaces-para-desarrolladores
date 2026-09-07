@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     apple: "/icon.png",
   },
   verification: {
-    google: SITE_CONFIG.verification.google,
+    google: [...SITE_CONFIG.verification.google],
   },
   robots: {
     index: true,
