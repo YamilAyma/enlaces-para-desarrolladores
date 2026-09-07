@@ -31,7 +31,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [AllSvgIcons](https://allsvgicons.com/): Repositorio masivo de iconos en formato SVG.
 - [System Prompts IA](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): Prompts de sistema de los modelos de IA más populares.
 - [Freesets](https://freesets.dev/): Conjuntos de recursos gráficos gratuitos para diseño.
-- [Ufreetools](https://www.ufreetools.com/es/): Herramientas web gratuitas y utilidades varias.
 - [Tailwind Animations](https://tailwind-animations.com/): Librería de animaciones lista para copiar y pegar en Tailwind CSS.
 - [Starterkit Pro Blocks](https://blocks.starterkitpro.com/): Bloques de interfaz de usuario para aplicaciones web.
 - [FreeMediaGoo](https://www.freemediagoo.com/): Stock gratuito de imágenes, texturas y backgrounds.
@@ -112,7 +111,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [DevOps Bash Tools](https://github.com/HariSekhon/DevOps-Bash-tools): Scripts de bash avanzados y utilidades para automatización en DevOps.
 - [Awesome CursorRules](https://github.com/PatrickJS/awesome-cursorrules): Recopilación de reglas y prompts optimizados para el editor de código Cursor.
 - [Computer Vision Notebooks](https://github.com/roboflow/notebooks): Colección de notebooks de Roboflow para aprender y aplicar modelos de visión computacional.
-- [Top AI Newsletters](https://www.marktechpost.com/2023/01/15/top-artificial-intelligence-ai-newsletters-to-subscribe-in-2023): Listado de las mejores newsletters sobre Inteligencia Artificial para mantenerse al día.
+- [Top AI Newsletters](https://www.marktechpost.com/2023/01/15/top-artificial-intelligence-ai-newsletters-to-subscribe-in-2023/): Listado de las mejores newsletters sobre Inteligencia Artificial para mantenerse al día.
 - [Applied ML](https://github.com/eugeneyan/applied-ml): Repositorio enfocado en la aplicación práctica de Machine Learning en entornos de producción.
 - [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents): Recopilación de los mejores agentes de IA y frameworks para su desarrollo.
 - [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills): Directorio completo de tutoriales, guías y repositorios para habilidades de agentes de IA.
@@ -304,7 +303,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [HMPL](https://github.com/hmpl-language/hmpl): Moderno lenguaje de marcado para fetching distribuido que optimiza la carga de componentes en aplicaciones web modernas mediante un enfoque orientado al servidor.
 - [Markdown Viewer Skills](https://github.com/markdown-viewer/skills): Extensiones para agentes de IA que habilitan la renderización de diagramas y visualizaciones directamente dentro de Markdown.
 - [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph): Herramienta que genera grafos de conocimiento técnicos sobre proyectos de IA para facilitar la comprensión de arquitecturas complejas.
-- [motion-gpu](https://github.com/motion-core/motion-gpu): Framework minimalista para la creación de efectos visuales modernos y de alto rendimiento utilizando WebGPU.
+- [spektral](https://github.com/kaltwrk/spektral): Framework minimalista para la creación de efectos visuales modernos y de alto rendimiento utilizando WebGPU.
 - [armada](https://github.com/armadasvc/armada): Framework nativo de Kubernetes para la orquestación masiva y escalable de bots y scrapers.
 - [pinchtab](https://github.com/pinchtab/pinchtab): Puente de automatización de navegadores de alto rendimiento con dashboard en tiempo real e inyección de stealth avanzada.
 - [linux-android](https://github.com/mayukh4/linux-android): Script automatizado para configurar un entorno Linux completo dentro de dispositivos Android a través de Termux.
@@ -362,6 +361,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Telemetry SQL Playground](https://telemetry.sh/sql/playground?lang=es): Entorno gratuito en español para practicar consultas SQL sobre eventos sintéticos de API, sin crear una cuenta.
 - [A Box of Tools](https://abox.tools/es/): Caja de 35 herramientas de archivo que funcionan enteramente en el navegador: comprimir una imagen a un tamaño exacto, unir o censurar un PDF, recortar vídeo, editar audio, leer códigos QR, formatear JSON. Nada se sube a ningún servidor. Código abierto (MIT) y traducida al español.
 - [zdoc](https://www.zdoc.app/es): Herramienta gratuita para traducir READMEs de GitHub a múltiples idiomas y mantenerlos actualizados.
 - [muJS](https://mujs.org/): Librería de navegación AJAX de 5KB como alternativa ligera a Turbo y htmx.
@@ -407,7 +407,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Profile Summary for GitHub](https://profile-summary-for-github.com/search): Genera un resumen visual con estadísticas de tu perfil de GitHub.
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow): Plantilla de Github Action para mostrar contenido en tu perfil.
 - [Tooooools](https://www.tooooools.app/): Colección masiva de herramientas de diseño y recursos creativos.
-- [Font Generator](https://fontgenerator.design/fonts): Generador de fuentes personalizadas y estilos tipográficos modernos.
 - [SVG Studio Web](https://www.svg.studio/): Herramienta online para la creación y edición de gráficos vectoriales SVG.
 - [GitAgent](https://github.com/open-gitagent/gitagent): Agente de IA especializado en la gestión y automatización de procesos en Git.
 - [Plannotator](https://github.com/backnotprop/plannotator): Utilidad para la planificación y anotación visual de proyectos.
@@ -415,6 +414,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus): Crea sistemas de RAG (Búsqueda Aumentada) sobre tus propios repositorios de GitHub.
 - [Homarr](https://github.com/homarr-labs/homarr): Un dashboard elegante y modular para integrar todos tus servicios en un solo lugar.
 - [YourASCII](https://yourascii.vercel.app/): Generador de arte ASCII y texto estilizado para consolas y perfiles.
+- [Live Font Generator](https://livefontgenerator.com/): Herramienta online gratuita para generar texto con diferentes estilos de fuentes y caracteres Unicode para tus proyectos, diseños y redes sociales.
 - [User Scanner](https://github.com/kaifcodec/user-scanner): Herramienta para la búsqueda y escaneo de perfiles de usuario en múltiples plataformas.
 - [PhoneIntel](https://github.com/phoneintel/phoneintel): Utilidad de inteligencia y búsqueda de información basada en números telefónicos.
 - [Nexfil](https://github.com/thewhiteh4t/nexfil): Buscador rápido de perfiles de usuario en cientos de redes sociales simultáneamente.
@@ -443,7 +443,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Translate JS](https://github.com/xnx3/translate): Librería para traducir sitios web dinámicamente usando IA para i18n.
 - [GitHub Profile Header](https://leviarista.github.io/github-profile-header-generator/): Crea encabezados personalizados y profesionales para tu perfil de GitHub.
 - [Glass3D Card](https://glass3d.dev/): Generador de tarjetas con efecto "Glassmorphism" y estilo 3D moderno.
-- [CalculatorBit](https://calculatorbit.com/): Colección de calculadoras y herramientas matemáticas para programadores.
 - [ClipJS](https://clipjs.mohy.dev/): Herramienta para crear y editar clips de video directamente desde el navegador.
 - [Image Elf](https://www.image-elf.com/): Herramienta sencilla para crear imágenes de plantilla y placeholders rápidamente.
 - [Text to SVG](https://text-to-svg.com/): Conversor online de texto a trazados vectoriales SVG con soporte para varias fuentes.
@@ -490,10 +489,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): Muestra estadísticas dinámicas de tu GitHub directamente en tu README.
 - [Hall of Fame](https://github.com/sourcerer-io/hall-of-fame#readme): Salón de la fama visual para los colaboradores de un proyecto en el README.
 - [Best README Template](https://github.com/othneildrew/Best-README-Template): La plantilla de README más popular y completa para proyectos de GitHub.
-- [Streamoku](https://www.streamoku.com/): Plataforma centrada en el despliegue simplificado de aplicaciones Streamlit.
 - [React App Structure](https://github.com/Shpendrr/react-app-structure): Guía y plantilla sobre cómo estructurar aplicaciones React usando "Atomic Design".
 - [Countless Dev](https://countless.dev/): Herramienta de comparación masiva para modelos de Inteligencia Artificial.
-- [FrutigerAero Glassmorphism](https://frutigeraerogames.com/glassmorphism-css-ui-generator/): Generador de efectos de "glassmorphism" estilo Frutiger Aero con CSS.
 - [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator): Herramienta visual de Hype4 para crear efectos de cristal esmerilado modernos.
 - [PyPi Stats](https://pypistats.org/): Análisis detallado de las estadísticas de descarga de cualquier paquete de Python.
 - [Easing Wizard](https://easingwizard.com/): Creador interactivo de funciones de suavizado (easing) personalizadas para animaciones CSS.
@@ -802,7 +799,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [crd-ui](https://crd-ui.juanda.co/): Componente ligero y personalizable para tarjetas de crédito/débito.
 - [rare-ui](https://www.rareui.com/): Colección de componentes y animaciones UI poco comunes listos para usar.
 - [takumi](https://takumi.kane.tw/): Renderizador de JSX, HTML y CSS a SVG sin navegador headless.
-- [circle](https://circle.lndev.me/): Interfaz de gestión de proyectos inspirada en Linear construida con Next.js y shadcn/ui.
+- [circle](https://circle.lndev.me/lndev-ui/team/CORE/all): Interfaz de gestión de proyectos inspirada en Linear construida con Next.js y shadcn/ui.
 - [xy](https://reflex.dev/docs/xy/): Gráficos componibles y acelerados por GPU para entornos web y notebooks.
 - [react-css-highlight](https://yaireo.github.io/react-css-highlight/?path=/story/compare--two-elements): Componente React para resaltado de texto ultra rápido mediante CSS Custom Highlight API.
 - [Componentry](https://componentry.dev/): Componentes UI para React animados y construidos con Tailwind CSS.
@@ -882,7 +879,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Tambo](https://github.com/tambo-ai/tambo): Herramienta de IA para generar componentes de interfaz de usuario a partir de descripciones.
 - [YamadaUI](https://yamada-ui.com/): Un sistema de diseño completo y flexible para construir aplicaciones React con facilidad.
 - [Svelte Shadcn Blocks](https://sv-blocks.vercel.app/): Colección de bloques de construcción para Svelte basados en el ecosistema Shadcn.
-- [Supabase UI](https://supabase.com/ui): Librería de componentes de interfaz oficial de Supabase para aplicaciones de datos.
+- [Supabase Library](https://supabase.com/library): Librería de componentes de interfaz oficial de Supabase para aplicaciones de datos.
 - [WebTUI](https://webtui.ironclad.sh/): Framework para construir interfaces web con un aspecto auténtico de terminal clásica.
 - [9ui](https://www.9ui.dev/): Conjunto de componentes UI modernos y minimalistas orientados al diseño limpio.
 - [AllUtilityCSS](https://allutilitycss.com/): Recurso exhaustivo con tips, trucos y herramientas avanzadas sobre Tailwind CSS.
@@ -936,18 +933,16 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Animated Icons (Pqoqubbw)](https://lucide-animated.com/): Set de iconos animados de código abierto para aplicaciones React.
 - [Float UI](https://floatui.com/): Colección de componentes UI gratuitos y modernos hechos con Tailwind CSS.
 - [Meraki UI](https://merakiui.com/): Componentes Tailwind CSS gratuitos con soporte para RTL y diseños modernos.
-- [Tailwind Templates](https://tailwindtemplates.io/): Galería de plantillas y layouts listos para usar con Tailwind CSS.
 - [ApexCharts](https://apexcharts.com/): Librería de gráficos interactivos moderna para dashboards empresariales.
 - [Apache ECharts](https://echarts.apache.org/en/index.html): Potente motor de visualización de datos de código abierto para la web.
 - [theSVG](https://thesvg.org/): Repositorio de logos y marcas tecnológicas de alta calidad en formato SVG para desarrolladores.
-- [PrimeReact](https://primereact.org): Colección masiva de componentes de UI de alta calidad para React.
+- [PrimeReact](https://primereact.dev/): Colección masiva de componentes de UI de alta calidad para React.
 - [FlyonUI](https://flyonui.com): Librería de componentes moderna construida sobre Tailwind CSS y JS nativo.
 - [Khagwal 3D](https://3d.khagwal.com/): Repositorio de activos 3D detallados para diseño de experiencias inmersivas.
 - [Shadcn UI Blocks](https://www.shadcnui-blocks.com/): Colección de secciones y componentes pre-diseñados basados en Shadcn UI.
 - [CSS Box Shadows (Scan)](https://getcssscan.com/css-box-shadow-examples): Catálogo visual de las mejores sombras de cajas CSS para copiar y pegar.
 - [CSS Buttons (Scan)](https://getcssscan.com/css-buttons-examples): Colección de los botones más populares de la web recreados en CSS.
 - [TailGrids](https://tailgrids.com/): Biblioteca de componentes de UI de bajo nivel y grids para Tailwind CSS.
-- [CuratedUIList](https://bonus.moshref.org/): Lista curada de los mejores recursos de UI y componentes para Tailwind.
 - [Tailkits](https://tailkits.com/): Conjunto de componentes y herramientas para acelerar el desarrollo con Tailwind.
 - [3D SVG](https://3dsvg.design/): Herramienta web intuitiva para transformar archivos SVG, texto y pixel art en elementos 3D dinámicos y exportables.
 - [Elementor](https://github.com/elementor/elementor): El maquetador visual de código abierto líder para WordPress, permitiendo crear sitios profesionales mediante drag-and-drop.
@@ -1082,7 +1077,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [alg0.dev](https://www.alg0.dev/): Herramienta interactiva para aprender y visualizar el funcionamiento de algoritmos paso a paso.
 - [Python Tutor](https://pythontutor.com/): Visualizador educativo que muestra la ejecución de código paso a paso para Python, JS, C, C++ y Java.
 - [RunSQL](https://runsql.com/r): Entorno interactivo basado en el navegador para ejecutar, probar y compartir consultas SQL sin configuración local.
-- [Algorithm Visualizer](https://algorithm-visualizer.org/): Plataforma interactiva que visualiza algoritmos de diversas estructuras de datos mediante animaciones paso a paso.
 - [Linux Security Guide](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): Guía completa de endurecimiento y seguridad para servidores Linux mantenida por la comunidad.
 - [Marp](https://github.com/marp-team/marp): Ecosistema para crear diapositivas profesionales utilizando Markdown, con soporte para PDF, PPTX y exportación web.
 - [Swiss Design System](https://swiss.ziki.boo/): Sistema de diseño minimalista inspirado en el estilo suizo, optimizado para la creación de interfaces de agentes de IA y herramientas técnicas.
@@ -1151,7 +1145,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Cassidoo Blog](https://cassidoo.co/): Blog de Cassidy Williams con newsletters y humor para desarrolladores.
 - [Optimist Engineer](https://newsletter.optimistengineer.com/): Newsletter enfocada en la mentalidad y sistemas para ingenieros de software.
 - [Blogging for Devs](https://bloggingfordevs.com/): Recursos y guías sobre cómo empezar y crecer tu blog técnico personal.
-- [The Codist](https://thecodist.com/): Reflexiones sobre el arte de la programación y la historia del desarrollo de software.
 - [Hacker News](https://news.ycombinator.com/): La fuente de noticias agregada más influyente para la comunidad tech y emprendedora.
 - [Luminousmen](https://luminousmen.com/): Blog técnico con artículos profundos sobre ingeniería de datos y Python.
 - [Blwt Blog](https://matt.blwt.io/): Reflexiones y tutoriales sobre desarrollo web, arquitectura y productividad.
@@ -1165,7 +1158,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Console.dev](https://console.dev/): Newsletter semanal que reseña las mejores herramientas de desarrollo y APIs.
 - [web.dev](https://web.dev/): Plataforma de Google con guías y mejores prácticas para el desarrollo web moderno.
 - [Google for Developers](https://developers.google.com/newsletter): Newsletter oficial con las últimas novedades en las plataformas y APIs de Google.
-- [AI Weekly](https://aiweekly.co/): Recopilación semanal de las noticias más relevantes en el campo de la IA.
+- [AI Weekly](https://aiweekly.co/): Descubre lo que los expertos en IA están leyendo y compartiendo ahora, clasificado y explicado tres veces por semana.
 - [Daniel Roy (Feldroy)](https://daniel.feldroy.com/): Blog y recursos sobre Django, Python y desarrollo de software profesional.
 - [51CTO](https://www.51cto.com/): Una de las plataformas tecnológicas chinas más grandes con noticias y tutoriales.
 - [cnblogs](https://www.cnblogs.com/): Comunidad de blogs técnicos líder en China para desarrolladores.
@@ -1265,7 +1258,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [xberg](https://docs.xberg.io/): Framework políglota con núcleo en Rust para extracción inteligente de texto e información estructurada.
 - [qm](https://github.com/yc-software/qm): Entorno de desarrollo y orquestación multi-agente para flujos de trabajo colaborativos.
 - [autoharness](https://github.com/tigerless-labs/autoharness): Capa de habilidades con autoaprendizaje para Claude Code que extrae nuevos comandos de tus sesiones.
-- [Graft](https://github.com/nanonets/graft): Herramienta para optimizar el rendimiento y comprensión contextual de agentes de codificación.
+- [Graft](https://github.com/trailhq/Graft): Herramienta para optimizar el rendimiento y comprensión contextual de agentes de codificación.
 - [chatbot-template](https://github.com/shadcn-ui/chatbot-template): Plantilla minimalista de chatbot para Next.js integrada con Vercel AI SDK.
 - [cactus](https://cactuscompute.com/): Motor de IA de baja latencia diseñado para dispositivos móviles y wearables.
 - [langchainjs](https://github.com/langchain-ai/langchainjs): Plataforma integral de ingeniería para la creación de agentes autónomos.
@@ -1297,7 +1290,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [flint-chart](https://microsoft.github.io/flint-chart/): Lenguaje de visualización para que agentes de IA generen gráficos personalizables.
 - [oh-my-pi](https://omp.sh/): Agente de codificación para la terminal con edición anclada e integración con navegador.
 - [orca](https://www.onorca.dev/): Entorno de desarrollo de nueva generación para operar flotas de agentes en paralelo.
-- [repowise](https://www.repowise.dev/): Inteligencia de código para equipos con IA mediante métricas y decisiones vía MCP.
+- [repowise](https://repowise.dev/): Inteligencia de código para equipos con IA mediante métricas y decisiones vía MCP.
 - [reactbench](https://www.reactbench.com/): Evaluación comparativa para medir la eficacia de agentes de codificación en React.
 - [agent-device](https://agent-device.dev/): CLI para controlar dispositivos móviles iOS y Android desde agentes de IA.
 - [docbank](https://www.docbank.ai/): Almacén local de documentos para desarrolladores y agentes de IA.
@@ -1314,7 +1307,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [strix](https://www.strix.ai/): Agentes de IA de código abierto para encontrar y corregir vulnerabilidades en aplicaciones.
 - [hippo-memory](https://hippo-memory.com/): Memoria con inspiración biológica para agentes de IA sin dependencias.
 - [openhare](https://sjjian.github.io/openhare/): Cliente SQL de escritorio impulsado por IA y construido en Flutter.
-- [claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty): Herramienta de auditoría y búsqueda de vulnerabilidades desde la terminal con Claude Code.
+- [Agentic-Bug-Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter): Herramienta de auditoría y búsqueda de vulnerabilidades desde la terminal con Claude Code.
 - [full-stack-ai-agent-template](https://vstorm-co.github.io/full-stack-ai-agent-template/): Generador de aplicaciones full-stack con agentes de IA, RAG y autenticación.
 - [whichllm](https://github.com/Andyyyy64/whichllm): Herramienta para encontrar el modelo LLM local que ofrece mejor rendimiento en tu equipo.
 
@@ -1369,7 +1362,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI): Estudio de IA generativa autoalojable y open-source con Next.js y Electron que unifica la generación de imagen, video y sincronización labial para más de 200 modelos.
 - [Context7](https://context7.com/): Herramienta inteligente diseñada para simplificar y automatizar la gestión y estructuración de contextos complejos en interacciones con modelos de lenguaje grandes.
 - [Midscene.js](https://midscenejs.com/): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
-- [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
+- [agent-skills-platform](https://github.com/FrancyJGLisboa/agent-skills-platform): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill): Herramienta que analiza textos y libros técnicos para extraer conocimiento estructurado y convertirlo de forma automatizada en habilidades prácticas ejecutables por agentes de IA.
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill): Archivo de habilidad (skill) para agentes de IA optimizado para estructurar y redactar prompts de alta calidad para el modelo de generación de video Jimeng Seedance 2.0 de ByteDance.
 - [Semble](https://minish.ai/packages/semble/introduction/): Librería de búsqueda de código rápida y local en CPU optimizada para agentes de IA. Combina embeddings semánticos y BM25, reduciendo drásticamente el consumo de tokens.
@@ -1388,7 +1381,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [sie](https://superlinked.com/): Servidor de inferencia de código abierto para procesamiento de embeddings y reordenamiento.
 - [Sana](https://nvlabs.github.io/Sana/docs/): Framework para generación eficiente de imágenes en alta resolución mediante Transformers.
 - [nativ](https://blaizzy.github.io/nativ/): Aplicación macOS nativa para chatear, ejecutar y monitorear modelos MLX locales.
-- [img2threejs](https://github.com/hoainho/img2threejs): Reconstruye objetos de imágenes de referencia en modelos Three.js procedimentales.
+- [img2threejs](https://github.com/img2threejs/img2threejs): Reconstruye objetos de imágenes de referencia en modelos Three.js procedimentales.
 - [lingbot-map](https://github.com/Robbyant/lingbot-map): Modelo 3D de base para reconstrucción de escenas a partir de datos en tiempo real.
 - [FunClip](https://github.com/modelscope/FunClip): Herramienta de reconocimiento de voz y recorte de video asistida por LLMs.
 - [pocket-tts](https://github.com/kyutai-labs/pocket-tts): Sistema Text-to-Speech extremadamente ligero ejecutable en CPU.
@@ -1429,7 +1422,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Easing Graphs](https://www.easing.dev/): Colección seleccionada de curvas de suavizado (easing) para animaciones web.
 - [Laws of UX](https://lawsofux.com/): Colección de leyes y mejores prácticas de experiencia de usuario para diseñar interfaces.
 - [Design System Checklist](https://www.designsystemchecklist.com/): Lista de comprobación open-source para planificar y estructurar sistemas de diseño.
-- [Design Books](https://designbooks.org/): Recopilación de libros esenciales sobre diseño gráfico, UX y producto.
+- [Design Books](https://design-books.com/): Recopilación de libros esenciales sobre diseño gráfico, UX y producto.
 - [abtest.design](https://abtest.design/): Colección de aprendizajes y datos de tests A/B en productos digitales líderes.
 
 - [Netfolio](https://www.netfolio.io/websites): Explora los mejores sitios web Actualizado diariamente.
@@ -1495,8 +1488,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Craftwork Curated](https://craftwork.design/curated/websites): Selección Premium de sitios web que utilizan los mejores activos visuales de la industria.
 - [OSWD](https://www.oswd.org/): Una comunidad clásica para compartir y descargar diseños web de código abierto y gratuitos.
 - [CSS Design Yorkshire](https://www.css-design-yorkshire.com/): Galería regional que destaca lo mejor del diseño web en el área de Yorkshire.
-- [CSS Collection](https://csscollection.com/): Directorio de sitios web que demuestran el poder creativo y la belleza técnica de CSS.
-- [CSS Mix](https://cssmix.net/): Recopilación de sitios web enfocada en la armonía visual y la excelencia técnica front-end.
 - [CSS Reboot](http://www.cssreboot.com/): Galería histórica de un evento global de rediseño web simultáneo que marcó una época.
 - [CSS Manía](https://www.cssmania.com/): Una de las galerías de diseño CSS más antiguas y respetadas para inspiración web.
 - [GraphCommerce Gallery](https://www.graphcommerce.org/gallery): Galería que muestra el potencial de React y Next.js para construir e-commerce asombrosos.
