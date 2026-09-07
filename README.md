@@ -1156,7 +1156,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Console.dev](https://console.dev/): Newsletter semanal que reseña las mejores herramientas de desarrollo y APIs.
 - [web.dev](https://web.dev/): Plataforma de Google con guías y mejores prácticas para el desarrollo web moderno.
 - [Google for Developers](https://developers.google.com/newsletter): Newsletter oficial con las últimas novedades en las plataformas y APIs de Google.
-- [AI Weekly](https://aiweekly.co/): Recopilación semanal de las noticias más relevantes en el campo de la IA.
+- [AI Weekly](https://aiweekly.co/): Descubre lo que los expertos en IA están leyendo y compartiendo ahora, clasificado y explicado tres veces por semana.
 - [Daniel Roy (Feldroy)](https://daniel.feldroy.com/): Blog y recursos sobre Django, Python y desarrollo de software profesional.
 - [51CTO](https://www.51cto.com/): Una de las plataformas tecnológicas chinas más grandes con noticias y tutoriales.
 - [cnblogs](https://www.cnblogs.com/): Comunidad de blogs técnicos líder en China para desarrolladores.
