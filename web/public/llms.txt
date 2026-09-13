@@ -115,7 +115,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [CSS Background Effects](https://prismic.io/blog/css-background-effects): Guía detallada sobre cómo crear efectos visuales de fondo impactantes con CSS.
 - [Best Web Design Tools](https://bestwebdesigntools.com/): Directorio con miles de herramientas de diseño para todo tipo de creadores.
 - [Cursor Directory](https://cursor.directory/): Repositorio de reglas y configuraciones optimizadas para potenciar el editor Cursor.
-- [Cursor List](https://cursorlist.com/): Listado curado de recursos y herramientas específicas para usuarios de Cursor.
 - [Ldrs (UI Ball)](https://uiball.com/ldrs/): Biblioteca de loaders y spinners modernos y ligeros hechos con web components.
 - [Best of Web Python](https://github.com/ml-tooling/best-of-web-python?tab=readme-ov-file): Selección de las mejores herramientas y librerías del ecosistema Python para web.
 - [Web Tools Weekly Feed](https://us5.campaign-archive.com/home/?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d): Feed interactivo con las últimas herramientas recomendadas para desarrolladores.
@@ -222,7 +221,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [SQL MCP Server](https://github.com/Azure/data-api-builder): Servidor Model Context Protocol nativo de Microsoft (Data API builder) que permite a los agentes de IA acceder de forma segura a datos SQL sin exponer esquemas sensibles.
 - [InsForge](https://insforge.dev/): Proporcione a los agentes todo lo que necesitan.
 - [Liquid](https://github.com/shrihari-prakash/liquid): ✨ Servidor de autenticación y gestión de usuarios sin interrupciones y altamente personalizable para cualquier proyecto.
-- [Dropzone](https://github.com/dropzone/dropzone): Dropzone es una biblioteca de arrastrar y soltar fácil de usar. Admite vistas previas de imágenes y muestra barras de progreso muy útiles.
+- [Dropzone](https://github.com/enyo/dropzone): Dropzone es una biblioteca de arrastrar y soltar fácil de usar. Admite vistas previas de imágenes y muestra barras de progreso muy útiles.
 - [Pretext](https://github.com/chenglou/pretext): Medición y maquetación de texto rápidas, precisas y completas.
 - [Django Modern Rest](https://github.com/wemake-services/django-modern-rest): ¡Moderno framework REST para Django con tipado y soporte asíncrono!
 - [Beheader](https://github.com/p2r3/beheader): Herramienta de línea de comandos para unir múltiples archivos en uno solo.
@@ -321,7 +320,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Qite.js](https://qitejs.qount25.dev/): Framework de frontend para quienes odian React y aman HTML, sin pasos de compilación, sin DOM virtual, sin mezclar JS con HTML, con SSR prioritario y compatible con API web estándar.
 - [Kiru](https://kirujs.dev/): Biblioteca de renderizado completa y fácil de usar, con un tamaño mínimo, gestión de estado basada en señales sin sobrecarga, utilidades de enrutamiento y CSR integrales por defecto, y control granular de la reactividad y el estado.
 - [Elena](https://elenajs.com/): Biblioteca sencilla y compacta para crear componentes web progresivos que no obliga a usar JavaScript para todo y permite cargar primero HTML y CSS, para luego usar JavaScript para añadir interactividad de forma progresiva.
-- [Edge.js](https://www.edgejs.org/): Entorno de ejecución de JavaScript seguro, diseñado para la computación perimetral y las cargas de trabajo de IA, que utiliza WebAssembly para el aislamiento de procesos cuando está en modo --safe, y es totalmente compatible con Node.js.
 - [WarpDrive](https://canary.warp-drive.io/): biblioteca de datos ligera y compatible con renderizado del lado del servidor (SSR), basada en Ember.js, que facilita la creación de aplicaciones escalables, rápidas y con muchas funciones.
 - [Workflow SDK](https://workflow-sdk.dev/): Conjunto de herramientas que permite agregar fácilmente durabilidad, confiabilidad y observabilidad a JavaScript asíncrono, y crear aplicaciones y agentes de IA que puedan suspender, reanudar y mantener el estado con facilidad.
 - [TSRX](https://tsrx.dev/): Extensión del lenguaje TypeScript para crear interfaces de usuario declarativas en la era de los agentes, que permite escribir código de componentes de interfaz de usuario que se mantiene legible y en la misma ubicación, donde la estructura, el estilo y el flujo de control conviven.
@@ -345,6 +343,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 ## 🛠️ HERRAMIENTAS:
 
+- [Telemetry SQL Playground](https://telemetry.sh/sql/playground?lang=es): Entorno gratuito en español para practicar consultas SQL sobre eventos sintéticos de API, sin crear una cuenta.
 - [A Box of Tools](https://abox.tools/es/): Caja de 35 herramientas de archivo que funcionan enteramente en el navegador: comprimir una imagen a un tamaño exacto, unir o censurar un PDF, recortar vídeo, editar audio, leer códigos QR, formatear JSON. Nada se sube a ningún servidor. Código abierto (MIT) y traducida al español.
 - [zdoc](https://www.zdoc.app/es): Herramienta gratuita para traducir READMEs de GitHub a múltiples idiomas y mantenerlos actualizados.
 - [muJS](https://mujs.org/): Librería de navegación AJAX de 5KB como alternativa ligera a Turbo y htmx.
@@ -396,6 +395,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus): Crea sistemas de RAG (Búsqueda Aumentada) sobre tus propios repositorios de GitHub.
 - [Homarr](https://github.com/homarr-labs/homarr): Un dashboard elegante y modular para integrar todos tus servicios en un solo lugar.
 - [YourASCII](https://yourascii.vercel.app/): Generador de arte ASCII y texto estilizado para consolas y perfiles.
+- [Live Font Generator](https://livefontgenerator.com/): Herramienta online gratuita para generar texto con diferentes estilos de fuentes y caracteres Unicode para tus proyectos, diseños y redes sociales.
 - [User Scanner](https://github.com/kaifcodec/user-scanner): Herramienta para la búsqueda y escaneo de perfiles de usuario en múltiples plataformas.
 - [PhoneIntel](https://github.com/phoneintel/phoneintel): Utilidad de inteligencia y búsqueda de información basada en números telefónicos.
 - [Nexfil](https://github.com/thewhiteh4t/nexfil): Buscador rápido de perfiles de usuario en cientos de redes sociales simultáneamente.
@@ -433,7 +433,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [URL To Any](https://urltoany.com/): Colección de utilidades interesantes para manipular y transformar URLs.
 - [FontJoy](https://fontjoy.com/): Generador de combinaciones de fuentes equilibradas usando aprendizaje profundo.
 - [FontSensei](https://fontsensei.com/): Herramienta para probar y comparar fuentes de Google Fonts en tiempo real.
-- [Gradienty](https://gradienty.codes/): Generador de gradientes visuales diseñado específicamente para Tailwind CSS.
 - [PicLooks](https://www.piclooks.com/): Repositorio de imágenes de perfiles generadas para usar en maquetas de diseño.
 - [PhotoGradient](https://photogradient.com/): Crea gradientes personalizados y complejos con una interfaz visual sencilla.
 - [GraphItUp Tools](https://graphitup.com/tools): Utilidades para crear gráficas de visualización de datos impactantes.
@@ -821,7 +820,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [muCSS](https://mucss.org/): Librería de CSS ultra ligera y minimalista para crear interfaces rápidas y eficientes sin el peso de frameworks grandes.
 - [EasyFrontend](https://easyfrontend.com/): Repositorio de componentes y plantillas listas para usar en cualquier proyecto web.
 - [BeerCSS](https://www.beercss.com/): Framework de diseño basado en Material Design 3 con una sintaxis extremadamente simple.
-- [FlyonUI](https://flyonui.com/): Librería de componentes moderna construida sobre Tailwind CSS y JS nativo.
 - [Drag &amp; Drop (FormKit)](https://drag-and-drop.formkit.com/): La solución definitiva para implementar drag and drop accesible en formularios.
 - [Ninja Backgrounds](https://ui.bootstrap.ninja/ninja-backgrounds/): Colección de fondos dinámicos y patrones visuales para proyectos Bootstrap.
 - [Mielo UI](https://mielo-ui.github.io/): Conjunto de componentes ligeros con una estética minimalista y moderna.
@@ -908,7 +906,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Apache ECharts](https://echarts.apache.org/en/index.html): Potente motor de visualización de datos de código abierto para la web.
 - [theSVG](https://thesvg.org/): Repositorio de logos y marcas tecnológicas de alta calidad en formato SVG para desarrolladores.
 - [PrimeReact](https://primereact.dev/): Colección masiva de componentes de UI de alta calidad para React.
-- [FlyonUI](https://flyonui.com): Librería de componentes moderna construida sobre Tailwind CSS y JS nativo.
 - [Khagwal 3D](https://3d.khagwal.com/): Repositorio de activos 3D detallados para diseño de experiencias inmersivas.
 - [Shadcn UI Blocks](https://www.shadcnui-blocks.com/): Colección de secciones y componentes pre-diseñados basados en Shadcn UI.
 - [CSS Box Shadows (Scan)](https://getcssscan.com/css-box-shadow-examples): Catálogo visual de las mejores sombras de cajas CSS para copiar y pegar.
@@ -989,7 +986,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Manual de lab devops](https://dev.to/skysingh04/a-lab-manual-to-devops-4j0e): Manual práctico paso a paso para aprender herramientas y flujos de DevOps.
 - [Habitos de un ingeniero](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/): Reflexiones sobre los hábitos y mentalidad de los mejores ingenieros de software.
 - [Whimsical Animations](https://www.joshwcomeau.com/blog/whimsical-animations/): Guía interactiva sobre cómo crear animaciones encantadoras y lúdicas en la web.
-- [Art of README](https://github.com/hackergrrl/art-of-readme): El arte de los archivos README.
 - [Mejores prácticas README](https://github.com/jehna/readme-best-practices): Mejores prácticas para archivos README.
 - [Tauri Tanstack Start React Template](https://github.com/kvnxiao/tauri-tanstack-start-react-template): Una plantilla Tauri 2.0 + TanStack Start React, con TailwindCSS, análisis de código con opiniones propias y GitHub Actions preconfigurado.
 - [React SaaS Template](https://www.react-saas-template.com/): Ahorra meses a tu equipo al crear aplicaciones SaaS B2B y B2C con esta gratuita de la comunidad React Router. plantilla
@@ -1122,7 +1118,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Console.dev](https://console.dev/): Newsletter semanal que reseña las mejores herramientas de desarrollo y APIs.
 - [web.dev](https://web.dev/): Plataforma de Google con guías y mejores prácticas para el desarrollo web moderno.
 - [Google for Developers](https://developers.google.com/newsletter): Newsletter oficial con las últimas novedades en las plataformas y APIs de Google.
-- [AI Weekly](https://aiweekly.co/): Recopilación semanal de las noticias más relevantes en el campo de la IA.
+- [AI Weekly](https://aiweekly.co/): Descubre lo que los expertos en IA están leyendo y compartiendo ahora, clasificado y explicado tres veces por semana.
 - [Daniel Roy (Feldroy)](https://daniel.feldroy.com/): Blog y recursos sobre Django, Python y desarrollo de software profesional.
 - [51CTO](https://www.51cto.com/): Una de las plataformas tecnológicas chinas más grandes con noticias y tutoriales.
 - [cnblogs](https://www.cnblogs.com/): Comunidad de blogs técnicos líder en China para desarrolladores.

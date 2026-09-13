@@ -125,7 +125,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [CSS Background Effects](https://prismic.io/blog/css-background-effects): Guía detallada sobre cómo crear efectos visuales de fondo impactantes con CSS.
 - [Best Web Design Tools](https://bestwebdesigntools.com/): Directorio con miles de herramientas de diseño para todo tipo de creadores.
 - [Cursor Directory](https://cursor.directory/): Repositorio de reglas y configuraciones optimizadas para potenciar el editor Cursor.
-- [Cursor List](https://cursorlist.com/): Listado curado de recursos y herramientas específicas para usuarios de Cursor.
 - [Ldrs (UI Ball)](https://uiball.com/ldrs/): Biblioteca de loaders y spinners modernos y ligeros hechos con web components.
 - [Best of Web Python](https://github.com/ml-tooling/best-of-web-python?tab=readme-ov-file): Selección de las mejores herramientas y librerías del ecosistema Python para web.
 - [Web Tools Weekly Feed](https://us5.campaign-archive.com/home/?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d): Feed interactivo con las últimas herramientas recomendadas para desarrolladores.
@@ -237,7 +236,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [InsForge](https://insforge.dev/): Proporcione a los agentes todo lo que necesitan.
   para lanzar aplicaciones fullstack.
 - [Liquid](https://github.com/shrihari-prakash/liquid): ✨ Servidor de autenticación y gestión de usuarios sin interrupciones y altamente personalizable para cualquier proyecto.
-- [Dropzone](https://github.com/dropzone/dropzone): Dropzone es una biblioteca de arrastrar y soltar fácil de usar. Admite vistas previas de imágenes y muestra barras de progreso muy útiles.
+- [Dropzone](https://github.com/enyo/dropzone): Dropzone es una biblioteca de arrastrar y soltar fácil de usar. Admite vistas previas de imágenes y muestra barras de progreso muy útiles.
 - [Pretext](https://github.com/chenglou/pretext): Medición y maquetación de texto rápidas, precisas y completas.
 - [Django Modern Rest](https://github.com/wemake-services/django-modern-rest): ¡Moderno framework REST para Django con tipado y soporte asíncrono!
 - [Beheader](https://github.com/p2r3/beheader): Herramienta de línea de comandos para unir múltiples archivos en uno solo.
@@ -336,7 +335,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Qite.js](https://qitejs.qount25.dev/): Framework de frontend para quienes odian React y aman HTML, sin pasos de compilación, sin DOM virtual, sin mezclar JS con HTML, con SSR prioritario y compatible con API web estándar.
 - [Kiru](https://kirujs.dev/): Biblioteca de renderizado completa y fácil de usar, con un tamaño mínimo, gestión de estado basada en señales sin sobrecarga, utilidades de enrutamiento y CSR integrales por defecto, y control granular de la reactividad y el estado.
 - [Elena](https://elenajs.com/): Biblioteca sencilla y compacta para crear componentes web progresivos que no obliga a usar JavaScript para todo y permite cargar primero HTML y CSS, para luego usar JavaScript para añadir interactividad de forma progresiva.
-- [Edge.js](https://www.edgejs.org/): Entorno de ejecución de JavaScript seguro, diseñado para la computación perimetral y las cargas de trabajo de IA, que utiliza WebAssembly para el aislamiento de procesos cuando está en modo --safe, y es totalmente compatible con Node.js.
 - [WarpDrive](https://canary.warp-drive.io/): biblioteca de datos ligera y compatible con renderizado del lado del servidor (SSR), basada en Ember.js, que facilita la creación de aplicaciones escalables, rápidas y con muchas funciones.
 - [Workflow SDK](https://workflow-sdk.dev/): Conjunto de herramientas que permite agregar fácilmente durabilidad, confiabilidad y observabilidad a JavaScript asíncrono, y crear aplicaciones y agentes de IA que puedan suspender, reanudar y mantener el estado con facilidad.
 - [TSRX](https://tsrx.dev/): Extensión del lenguaje TypeScript para crear interfaces de usuario declarativas en la era de los agentes, que permite escribir código de componentes de interfaz de usuario que se mantiene legible y en la misma ubicación, donde la estructura, el estilo y el flujo de control conviven.
@@ -452,7 +450,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [URL To Any](https://urltoany.com/): Colección de utilidades interesantes para manipular y transformar URLs.
 - [FontJoy](https://fontjoy.com/): Generador de combinaciones de fuentes equilibradas usando aprendizaje profundo.
 - [FontSensei](https://fontsensei.com/): Herramienta para probar y comparar fuentes de Google Fonts en tiempo real.
-- [Gradienty](https://gradienty.codes/): Generador de gradientes visuales diseñado específicamente para Tailwind CSS.
 - [PicLooks](https://www.piclooks.com/): Repositorio de imágenes de perfiles generadas para usar en maquetas de diseño.
 - [PhotoGradient](https://photogradient.com/): Crea gradientes personalizados y complejos con una interfaz visual sencilla.
 - [GraphItUp Tools](https://graphitup.com/tools): Utilidades para crear gráficas de visualización de datos impactantes.
@@ -850,7 +847,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [muCSS](https://mucss.org/): Librería de CSS ultra ligera y minimalista para crear interfaces rápidas y eficientes sin el peso de frameworks grandes.
 - [EasyFrontend](https://easyfrontend.com/): Repositorio de componentes y plantillas listas para usar en cualquier proyecto web.
 - [BeerCSS](https://www.beercss.com/): Framework de diseño basado en Material Design 3 con una sintaxis extremadamente simple.
-- [FlyonUI](https://flyonui.com/): Librería de componentes moderna construida sobre Tailwind CSS y JS nativo.
 - [Drag &amp; Drop (FormKit)](https://drag-and-drop.formkit.com/): La solución definitiva para implementar drag and drop accesible en formularios.
 - [Ninja Backgrounds](https://ui.bootstrap.ninja/ninja-backgrounds/): Colección de fondos dinámicos y patrones visuales para proyectos Bootstrap.
 - [Mielo UI](https://mielo-ui.github.io/): Conjunto de componentes ligeros con una estética minimalista y moderna.
@@ -937,7 +933,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Apache ECharts](https://echarts.apache.org/en/index.html): Potente motor de visualización de datos de código abierto para la web.
 - [theSVG](https://thesvg.org/): Repositorio de logos y marcas tecnológicas de alta calidad en formato SVG para desarrolladores.
 - [PrimeReact](https://primereact.dev/): Colección masiva de componentes de UI de alta calidad para React.
-- [FlyonUI](https://flyonui.com): Librería de componentes moderna construida sobre Tailwind CSS y JS nativo.
 - [Khagwal 3D](https://3d.khagwal.com/): Repositorio de activos 3D detallados para diseño de experiencias inmersivas.
 - [Shadcn UI Blocks](https://www.shadcnui-blocks.com/): Colección de secciones y componentes pre-diseñados basados en Shadcn UI.
 - [CSS Box Shadows (Scan)](https://getcssscan.com/css-box-shadow-examples): Catálogo visual de las mejores sombras de cajas CSS para copiar y pegar.
@@ -1020,7 +1015,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Manual de lab devops](https://dev.to/skysingh04/a-lab-manual-to-devops-4j0e): Manual práctico paso a paso para aprender herramientas y flujos de DevOps.
 - [Habitos de un ingeniero](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/): Reflexiones sobre los hábitos y mentalidad de los mejores ingenieros de software.
 - [Whimsical Animations](https://www.joshwcomeau.com/blog/whimsical-animations/): Guía interactiva sobre cómo crear animaciones encantadoras y lúdicas en la web.
-- [Art of README](https://github.com/hackergrrl/art-of-readme): El arte de los archivos README.
 - [Mejores prácticas README](https://github.com/jehna/readme-best-practices): Mejores prácticas para archivos README.
 - [Tauri Tanstack Start React Template](https://github.com/kvnxiao/tauri-tanstack-start-react-template): Una plantilla Tauri 2.0 + TanStack Start React, con TailwindCSS, análisis de código con opiniones propias y GitHub Actions preconfigurado.
 - [React SaaS Template](https://www.react-saas-template.com/): Ahorra meses a tu equipo al crear aplicaciones SaaS B2B y B2C con esta gratuita de la comunidad React Router. plantilla

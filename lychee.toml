@@ -34,7 +34,15 @@ exclude = [
   'https://linux\.do/.*',
   'https://www\.csdn\.net/.*',
   'https://docs\.google\.com/.*',
-  'https://fakeimg\.pl/.*'
+  'https://fakeimg\.pl/.*',
+  'https://codeburst\.io/.*',
+  'https://convertifypro\.com/.*',
+  'https://designspells\.com/.*',
+  'https://kps\.hashnode\.dev/.*',
+  'https://land-book\.com/.*',
+  'https://livefontgenerator\.com/.*',
+  'https://uxplanet\.org/.*',
+  'https://www\.producthunt\.com/.*'
 ]
 
 # Códigos de estado HTTP aceptables
