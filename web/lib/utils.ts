@@ -1,4 +1,8 @@
-export function slugify(text: string): string {
+export function slugify(text?: string | null): string {
+  if (!text || typeof text !== 'string') {
+    return '';
+  }
+
   // 1. Extraer solo el título principal antes de aclaraciones parentéticas o de formato
   // Ej: "📦 PACKS (Colección de recursos...)" -> "📦 PACKS"
   // Ej: "Self-Hosted / Autoalojado" -> "Self-Hosted"
