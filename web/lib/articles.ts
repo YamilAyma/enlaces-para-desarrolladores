@@ -28,6 +28,11 @@ export async function getAllArticles(): Promise<Article[]> {
     const mdFiles = fileNames.filter((fileName) => fileName.endsWith(".md"));
 
     const articlesPromises = mdFiles.map(async (fileName) => {
+  const todayStr = new Date().toISOString().split("T")[0];
+  const fileNames = fs.readdirSync(articlesDirectory);
+  const allArticlesData = fileNames
+    .filter((fileName) => fileName.endsWith(".md"))
+    .map((fileName) => {
       const slug = fileName.replace(/\.md$/, "");
       const fullPath = path.join(articlesDirectory, fileName);
       const fileContents = await fs.readFile(fullPath, "utf8");
@@ -50,11 +55,13 @@ export async function getAllArticles(): Promise<Article[]> {
         content: "",
         rawContent: content,
       };
-    });
-
-    const allArticles = await Promise.all(articlesPromises);
-
-    const todayStr = new Date().toISOString().split("T")[0];
+    })
+    .filter((article) => {
+      if (!article.published) return false;
+      if (!article.date) return false;
+      return article.date <= todayStr;
+    })
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
 
     return allArticles
       .filter((article) => {

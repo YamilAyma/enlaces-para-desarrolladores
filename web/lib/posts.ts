@@ -23,11 +23,18 @@ const postsDirectory = path.join(process.cwd(), "content", "posts");
  * Ordenados de forma descendente por fecha.
  */
 export async function getAllPosts(): Promise<Post[]> {
+  let fileNames: string[];
   try {
-    const fileNames = await fs.readdir(postsDirectory);
-    const mdFiles = fileNames.filter((fileName) => fileName.endsWith(".md"));
+    fileNames = await fs.promises.readdir(postsDirectory);
+  } catch {
+    return [];
+  }
 
-    const postsPromises = mdFiles.map(async (fileName) => {
+  const todayStr = new Date().toISOString().split("T")[0];
+  const fileNames = fs.readdirSync(postsDirectory);
+  const allPostsData = fileNames
+    .filter((fileName) => fileName.endsWith(".md"))
+    .map((fileName) => {
       const slug = fileName.replace(/\.md$/, "");
       const fullPath = path.join(postsDirectory, fileName);
       const fileContents = await fs.readFile(fullPath, "utf8");
@@ -50,11 +57,13 @@ export async function getAllPosts(): Promise<Post[]> {
         content: "",
         rawContent: content,
       };
-    });
-
-    const allPosts = await Promise.all(postsPromises);
-
-    const todayStr = new Date().toISOString().split("T")[0];
+    })
+    .filter((post) => {
+      if (!post.published) return false;
+      if (!post.date) return false;
+      return post.date <= todayStr;
+    })
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
 
     return allPosts
       .filter((post) => {
