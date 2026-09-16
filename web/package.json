@@ -15,6 +15,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^12.28.1",
     "gray-matter": "^4.0.3",
+    "isomorphic-dompurify": "^4.2.0",
     "lucide-react": "^0.562.0",
     "marked": "^18.0.4",
     "minisearch": "^7.2.0",

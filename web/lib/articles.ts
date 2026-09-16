@@ -2,6 +2,7 @@ import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
 import { marked } from "marked";
+import DOMPurify from "isomorphic-dompurify";
 
 export interface Article {
   slug: string;
@@ -98,7 +99,8 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
       }
     }
 
-    const processedContent = await marked.parse(content);
+    const rawHtml = await marked.parse(content);
+    const processedContent = DOMPurify.sanitize(rawHtml);
 
     return {
       slug,
