@@ -23,11 +23,13 @@ const postsDirectory = path.join(process.cwd(), "content", "posts");
  * Ordenados de forma descendente por fecha.
  */
 export async function getAllPosts(): Promise<Post[]> {
-  if (!fs.existsSync(postsDirectory)) {
+  let fileNames: string[];
+  try {
+    fileNames = await fs.promises.readdir(postsDirectory);
+  } catch {
     return [];
   }
 
-  const fileNames = fs.readdirSync(postsDirectory);
   const allPostsData = fileNames
     .filter((fileName) => fileName.endsWith(".md"))
     .map((fileName) => {
