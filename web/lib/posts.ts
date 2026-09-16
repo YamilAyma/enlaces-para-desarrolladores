@@ -1,4 +1,4 @@
-import fs from "fs";
+import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
 import { marked } from "marked";
@@ -37,7 +37,7 @@ export async function getAllPosts(): Promise<Post[]> {
     .map((fileName) => {
       const slug = fileName.replace(/\.md$/, "");
       const fullPath = path.join(postsDirectory, fileName);
-      const fileContents = fs.readFileSync(fullPath, "utf8");
+      const fileContents = await fs.readFile(fullPath, "utf8");
 
       const { data, content } = matter(fileContents);
 
@@ -65,7 +65,16 @@ export async function getAllPosts(): Promise<Post[]> {
     })
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 
-  return allPostsData;
+    return allPosts
+      .filter((post) => {
+        if (!post.published) return false;
+        if (!post.date) return false;
+        return post.date <= todayStr;
+      })
+      .sort((a, b) => (a.date < b.date ? 1 : -1));
+  } catch {
+    return [];
+  }
 }
 
 /**
@@ -74,11 +83,7 @@ export async function getAllPosts(): Promise<Post[]> {
 export async function getPostBySlug(slug: string): Promise<Post | null> {
   try {
     const fullPath = path.join(postsDirectory, `${slug}.md`);
-    if (!fs.existsSync(fullPath)) {
-      return null;
-    }
-
-    const fileContents = fs.readFileSync(fullPath, "utf8");
+    const fileContents = await fs.readFile(fullPath, "utf8");
     const { data, content } = matter(fileContents);
 
     if (data.published === false) {
@@ -114,7 +119,9 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
       rawContent: content,
     };
   } catch (error) {
-    console.error(`Error leyendo el post diario con slug ${slug}:`, error);
+    if ((error as { code?: string }).code !== "ENOENT") {
+      console.error(`Error leyendo el post diario con slug ${slug}:`, error);
+    }
     return null;
   }
 }
