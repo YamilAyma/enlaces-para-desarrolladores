@@ -1,4 +1,4 @@
-import fs from "fs";
+import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
 import { marked } from "marked";
@@ -24,17 +24,19 @@ const articlesDirectory = path.join(process.cwd(), "content", "articles");
  * Ordenados de forma descendente por fecha.
  */
 export async function getAllArticles(): Promise<Article[]> {
-  if (!fs.existsSync(articlesDirectory)) {
-    return [];
-  }
+  try {
+    const fileNames = await fs.readdir(articlesDirectory);
+    const mdFiles = fileNames.filter((fileName) => fileName.endsWith(".md"));
 
+    const articlesPromises = mdFiles.map(async (fileName) => {
+  const todayStr = new Date().toISOString().split("T")[0];
   const fileNames = fs.readdirSync(articlesDirectory);
   const allArticlesData = fileNames
     .filter((fileName) => fileName.endsWith(".md"))
     .map((fileName) => {
       const slug = fileName.replace(/\.md$/, "");
       const fullPath = path.join(articlesDirectory, fileName);
-      const fileContents = fs.readFileSync(fullPath, "utf8");
+      const fileContents = await fs.readFile(fullPath, "utf8");
 
       const { data, content } = matter(fileContents);
 
@@ -58,12 +60,20 @@ export async function getAllArticles(): Promise<Article[]> {
     .filter((article) => {
       if (!article.published) return false;
       if (!article.date) return false;
-      const todayStr = new Date().toISOString().split("T")[0];
       return article.date <= todayStr;
     })
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 
-  return allArticlesData;
+    return allArticles
+      .filter((article) => {
+        if (!article.published) return false;
+        if (!article.date) return false;
+        return article.date <= todayStr;
+      })
+      .sort((a, b) => (a.date < b.date ? 1 : -1));
+  } catch {
+    return [];
+  }
 }
 
 /**
@@ -72,11 +82,7 @@ export async function getAllArticles(): Promise<Article[]> {
 export async function getArticleBySlug(slug: string): Promise<Article | null> {
   try {
     const fullPath = path.join(articlesDirectory, `${slug}.md`);
-    if (!fs.existsSync(fullPath)) {
-      return null;
-    }
-
-    const fileContents = fs.readFileSync(fullPath, "utf8");
+    const fileContents = await fs.readFile(fullPath, "utf8");
     const { data, content } = matter(fileContents);
 
     if (data.published === false) {
@@ -113,7 +119,9 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
       rawContent: content,
     };
   } catch (error) {
-    console.error(`Error leyendo el artículo con slug ${slug}:`, error);
+    if ((error as { code?: string }).code !== "ENOENT") {
+      console.error(`Error leyendo el artículo con slug ${slug}:`, error);
+    }
     return null;
   }
 }
