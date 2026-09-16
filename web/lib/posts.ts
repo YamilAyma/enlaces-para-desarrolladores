@@ -30,6 +30,8 @@ export async function getAllPosts(): Promise<Post[]> {
     return [];
   }
 
+  const todayStr = new Date().toISOString().split("T")[0];
+  const fileNames = fs.readdirSync(postsDirectory);
   const allPostsData = fileNames
     .filter((fileName) => fileName.endsWith(".md"))
     .map((fileName) => {
@@ -59,7 +61,6 @@ export async function getAllPosts(): Promise<Post[]> {
     .filter((post) => {
       if (!post.published) return false;
       if (!post.date) return false;
-      const todayStr = new Date().toISOString().split("T")[0];
       return post.date <= todayStr;
     })
     .sort((a, b) => (a.date < b.date ? 1 : -1));

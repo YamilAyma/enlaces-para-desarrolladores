@@ -27,6 +27,7 @@ export async function getAllArticles(): Promise<Article[]> {
     return [];
   }
 
+  const todayStr = new Date().toISOString().split("T")[0];
   const fileNames = fs.readdirSync(articlesDirectory);
   const allArticlesData = fileNames
     .filter((fileName) => fileName.endsWith(".md"))
@@ -57,7 +58,6 @@ export async function getAllArticles(): Promise<Article[]> {
     .filter((article) => {
       if (!article.published) return false;
       if (!article.date) return false;
-      const todayStr = new Date().toISOString().split("T")[0];
       return article.date <= todayStr;
     })
     .sort((a, b) => (a.date < b.date ? 1 : -1));
