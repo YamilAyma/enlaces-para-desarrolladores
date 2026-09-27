@@ -619,7 +619,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Diffs](https://diffs.com/): Herramienta web para crear, compartir y presentar fragmentos de código y comparaciones de cambios elegantes.
 - [MD-This-Page](https://github.com/Ademking/MD-This-Page): Extensión de navegador para convertir cualquier página web en Markdown limpio listo para IA.
 - [RevPDF](https://revpdf.com/): Editor de PDF offline gratuito para editar, anotar, firmar, comprimir y convertir documentos de forma privada.
-- [Omniget](https://github.com/tonhowtf/omniget): Aplicación de escritorio en Rust para descargar videos y cursos de múltiples plataformas usando patrones eficientes de red.
+- [OmniGet](https://github.com/tonhowtf/omniget): Aplicación de escritorio libre para descargar vídeo y audio de YouTube, Instagram, TikTok y los sitios que soporta yt-dlp; incluye un servidor MCP para agentes de IA.
 - [MentionDrop](https://www.mentiondrop.com/): Monitor de web en tiempo real con resúmenes de IA para seguimiento de marca, productos y competidores.
 - [CursorClip](https://cursorclip.com/): Grabadora de pantalla para macOS que utiliza zoom inteligente y seguimiento de cursor para demos de producto cinematográficas.
 - [Tolaria](https://github.com/refactoringhq/tolaria): Aplicación de gestión de conocimiento offline-first en Markdown, optimizada para velocidad y contexto de agentes de IA.
