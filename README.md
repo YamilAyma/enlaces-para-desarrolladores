@@ -73,7 +73,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile): Herramientas y recursos para mejorar la apariencia de tu perfil de GitHub.
 - [Programming Best Practices](https://github.com/dereknguyen269/programing-best-practices): Guía fundamental sobre las mejores prácticas en el desarrollo de software.
 - [Tools UI](https://tools.ui-layouts.com/): Librería de componentes y herramientas para diseño de interfaces de usuario.
-- [Tool UI](https://www.tool-ui.com/): Biblioteca de componentes especializada en la creación de herramientas internas y paneles de administración de forma rápida.
+- [Tool UI](https://www.assistant-ui.com/elements): Biblioteca de componentes especializada en la creación de herramientas internas y paneles de administración de forma rápida.
 - [Programming Fonts](https://www.programmingfonts.org/): Catálogo interactivo para probar y elegir tipografías para programadores.
 - [Resourcle](https://resourcle.com/): Un "pack de packs" que recopila las mejores listas de recursos para devs.
 - [GitHub Issue Templates](https://github.com/stevemao/github-issue-templates): Plantillas listas para usar en tus reportes de errores y sugerencias.
@@ -92,7 +92,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Unheap](https://www.unheap.com/): Un catálogo categorizado de plugins de jQuery y componentes web clásicos.
 - [Branding Website](https://www.brandingwebsite.com/): Galería de inspiración enfocada específicamente en sitios web de branding.
 - [Pixelums Wallpapers](https://www.pixelums.com/): Fondos de pantalla minimalistas y artísticos en alta resolución.
-- [Component Libraries](https://componentlibraries.com/): Base de datos exhaustiva para comparar librerías de componentes UI.
 - [Pixels Market](https://pixels.market/): Repositorio de ilustraciones gratuitas para proyectos comerciales y personales.
 - [Hover.css](https://ianlunn.github.io/Hover/): Colección de efectos de animación al pasar el ratón (hover) usando CSS3.
 - [myCompiler](https://www.mycompiler.io/es): Compilador e intérprete online multilinguaje para pruebas rápidas de código.
@@ -346,7 +345,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Hucre](https://hucre.productdevbook.com/): Motor de hojas de cálculo en TypeScript puro sin dependencias para leer y escribir XLSX, CSV y ODS. Soporta streaming, validación y tablas dinámicas.
 - [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid): Librería en TypeScript para renderizar diagramas Mermaid a SVG o arte ASCII síncronamente en terminales o interfaces, sin dependencias del DOM.
 - [dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant): Librería en Python para Django que implementa arquitectura multi-inquilino (multi-tenant) sobre bases de datos SQLite individuales con soporte para caché LRU.
-- [Manifest](https://manifest.build/docs/introduction/): Plataforma de Backend-as-a-Service (BaaS) de código abierto que permite definir la lógica, bases de datos y paneles de administración con un archivo YAML.
+- [Manifest](https://manifest.build/llm-gateway/docs/introduction/): Plataforma de Backend-as-a-Service (BaaS) de código abierto que permite definir la lógica, bases de datos y paneles de administración con un archivo YAML.
 - [SandDance](https://microsoft.github.io/SandDance/): Visualizador interactivo de datos en 2D y 3D creado por Microsoft, que utiliza transiciones animadas para analizar agrupaciones y patrones complejos.
 - [Remocn](https://remocn.dev/): Colección de componentes y primitivas de animación listas para copiar y pegar en Remotion, facilitando la creación de videos dinámicos con código React.
 - [Tiks](https://rexa-developer.github.io/tiks/): Biblioteca de audio para la web que genera sonidos de interfaz de usuario de forma procedimental con Web Audio API, eliminando archivos de audio
@@ -514,7 +513,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [VividShare Code](https://vividshare.io/code): Editor de código diseñado para crear capturas de pantalla hermosas y listas para compartir.
 - [Gimli Tailwind](https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl): Extensión que permite inspeccionar y modificar estilos de Tailwind en tiempo real.
 - [Can I Use](https://caniuse.com/): La base de datos de referencia para verificar la compatibilidad de características web.
-- [Phase](https://www.phase.com/es-ES): Creador de animaciones Lottie y micro-interacciones de alta fidelidad para interfaces.
 - [Mossaik](https://mossaik.app/): Aplicación potente para la edición de fotos y diseño gráfico con IA.
 - [htaccess Tester](https://htaccess.madewithlove.com/): Validador de reglas para archivos `.htaccess` de Apache para evitar errores de servidor.
 - [Namechk](https://namechk.com/): Buscador de disponibilidad de nombres de usuario y dominios en decenas de plataformas.
@@ -925,7 +923,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Aceternity UI](https://ui.aceternity.com/): Componentes de interfaz de usuario de vanguardia con animaciones complejas y diseño futurista.
 - [Motion Primitives](https://motion-primitives.com/): Colección de componentes de animación de bajo nivel para Framer Motion.
 - [Preline UI](https://preline.co/): Conjunto de componentes UI de código abierto basados en Tailwind para proyectos rápidos.
-- [Wicked Blocks](https://www.wickedblocks.dev/): Colección de componentes y layouts de Tailwind CSS con un estilo audaz.
+- [Wicked Blocks](https://www.shadcnblocks.com/): Colección de componentes y layouts de Tailwind CSS con un estilo audaz.
 - [Animated Icons (Pqoqubbw)](https://lucide-animated.com/): Set de iconos animados de código abierto para aplicaciones React.
 - [Float UI](https://floatui.com/): Colección de componentes UI gratuitos y modernos hechos con Tailwind CSS.
 - [Meraki UI](https://merakiui.com/): Componentes Tailwind CSS gratuitos con soporte para RTL y diseños modernos.
@@ -1245,7 +1243,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 #### ✨ Herramientas IA
 
 - [brownies](https://github.com/franciscop/brownies): Gestor ligero de almacenamiento local, de sesión y cookies con suscripción a eventos en tiempo real.
-- [loopx](https://github.com/huangruiteng/loopx): Kernel de estado ligero para la gestión de bucles y flujos con equipos de agentes de IA.
+- [loopx](https://github.com/loopx-project/loopx): Kernel de estado ligero para la gestión de bucles y flujos con equipos de agentes de IA.
 - [esp32-ai](https://github.com/slvDev/esp32-ai): Repositorio y proyecto de código abierto para desarrollo de IA en ESP32.
 - [ADR](https://github.com/uber/ADR): Plataforma de observabilidad, auditoría de seguridad y detección de amenazas para agentes de IA.
 - [kaneo](https://kaneo.app/): Gestión de proyectos de código abierto orientada a la simplicidad y eficiencia.
@@ -1345,7 +1343,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Voice Pro](https://github.com/abus-aikorea/voice-pro): Gradio WebUI multifuncional para creadores. Integra modelos de IA para clonación de voz zero-shot, texto a voz, aislamiento de voces y traducción.
 - [Open-Codesign](https://github.com/OpenCoworkAI/open-codesign): Plataforma de diseño colaborativo impulsada por IA que permite la creación y edición de interfaces de forma local y segura.
 - [AI Designer](https://www.aidesigner.ai/): Generador de interfaces de usuario (UI) mediante IA que transforma descripciones en lenguaje natural en maquetas visuales profesionales.
-- [open-slide](https://github.com/1weiho/open-slide): Framework de presentaciones diseñado específicamente para ser utilizado por agentes de IA, permitiendo la creación programática de diapositivas.
+- [open-slide](https://github.com/open-slide/open-slide): Framework de presentaciones diseñado específicamente para ser utilizado por agentes de IA, permitiendo la creación programática de diapositivas.
 - [TaxHacker](https://github.com/vas3k/TaxHacker): Aplicación de contabilidad impulsada por IA para freelancers que categoriza automáticamente recibos y facturas mediante LLMs.
 - [muload](https://muload.dev/): Colección de 38 indicadores de carga (loaders) de matriz de puntos diseñados específicamente para interfaces de IA (token streams, attention heads).
 - [Davia](https://davia.ai/): Herramienta para agentes de IA que genera documentación interna interactiva y visual de un codebase, integrando diagramas y pizarras editables.

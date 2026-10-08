@@ -42,7 +42,11 @@ exclude = [
   'https://land-book\.com/.*',
   'https://livefontgenerator\.com/.*',
   'https://uxplanet\.org/.*',
-  'https://www\.producthunt\.com/.*'
+  'https://www\.producthunt\.com/.*',
+  'https://neopythonic\.blogspot\.com/.*',
+  'https://www\.irasutoya\.com/.*',
+  'https://warper\.tech/.*',
+  'https://www\.rareui\.com/.*'
 ]
 
 # Códigos de estado HTTP aceptables
