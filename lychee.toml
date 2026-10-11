@@ -46,7 +46,10 @@ exclude = [
   'https://neopythonic\.blogspot\.com/.*',
   'https://www\.irasutoya\.com/.*',
   'https://warper\.tech/.*',
-  'https://www\.rareui\.com/.*'
+  'https://www\.rareui\.com/.*',
+  'https://assetpro\.design/.*',
+  'https://floatui\.com/.*',
+  'https://saaspo\.com/.*'
 ]
 
 # Códigos de estado HTTP aceptables
