@@ -17,7 +17,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 - [shaper](https://github.com/taleshape-com/shaper): Plataforma para visualizar y compartir datos mediante consultas SQL con DuckDB.
 - [ML Visualized](https://ml-visualized.com/#): Guía visual e interactiva para aprender conceptos de Machine Learning.
-
+- [Hookcn](https://github.com/strlrd-29/hookcn): Colección extensa de hooks personalizados para React.
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): Esta es una base de datos con más de 300.000 símbolos que incluyen acciones, ETF, fondos, índices, divisas, criptomonedas y mercados monetarios.
 - [GetDesign](https://getdesign.md/): Diseños inspirados en sitios web populares. Incorpóralo a tu proyecto y deja que los agentes de codificación creen la interfaz de usuario correspondiente.
 - [Prompts.chat](https://github.com/f/prompts.chat): Comparte, descubre y recopila prompts de la comunidad. Gratuito y de código abierto: autoaloja tu organización con total privacidad.
