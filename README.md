@@ -43,7 +43,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Reshot](https://www.reshot.com/): Iconos e ilustraciones gratuitas con un estilo único.
 - [WebTools Weekly](https://webtoolsweekly.com/archive): Archivo histórico de herramientas recomendadas semanalmente para devs.
 - [Developer Icons](https://xandemon.github.io/developer-icons/): Set de iconos de fuentes especializadas para desarrolladores.
-- [Hookcn](https://hookcn.ouassim.tech/): Colección extensa de hooks personalizados para React.
 - [Symbl](https://symbl.revend.group/): Repositorio técnico de símbolos y elementos SVG.
 - [21st.dev](https://21st.dev/): Catálogo de componentes modernos y estilizados para React.
 - [Big List of Lists](https://github.com/jnv/lists): La recopilación más extensa de listas de recursos en GitHub.
@@ -504,7 +503,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Color4BG](https://www.color4bg.com/es): Herramienta para generar fondos abstractos y coloridos de forma gratuita.
 - [Buy Me a Coffee](https://buymeacoffee.com/): Plataforma de micro-mecenazgo para recibir apoyo y donaciones de tu comunidad.
 - [GoFile](https://gofile.io/home): Servicio de intercambio de archivos anónimo y gratuito en la nube sin límites de tamaño.
-- [Globe Engineer](https://explorer.globe.engineer/): Explorador visual de conocimiento para aprender conceptos de ingeniería y ciencia.
 - [Fast.com](https://fast.com/es/): El test de velocidad de internet más simple y rápido del mundo, creado por Netflix.
 - [Flexos Prompt Design](https://www.leadwithai.co/tool/prompt): Herramienta enfocada en la mejora y refinamiento de prompts para modelos de IA.
 - [GitFluence](https://gitfluence.com/): Motor de búsqueda inteligente para encontrar el comando de Git exacto que necesitas.
@@ -577,7 +575,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Tints Dev](https://www.tints.dev/palette/v1:cmVkfEFFN0ZBOXw1MDB8cHwwfDB8MHwxMDB8YQ): Generador de paletas de colores y variantes tonales para sistemas de diseño.
 - [TailColor](https://tailcolor.com/?color=b1b2ff): Herramienta para generar variantes de colores analógicos para Tailwind CSS.
 - [Tailwind Gradient](https://www.tailwindgradient.com/): Otra utilidad enfocada en la creación visual de gradientes para Tailwind.
-- [Typing Bolt](https://www.typingbolt.com/): Tutor de mecanografía inteligente para mejorar tu velocidad y precisión al escribir.
 - [Cursify](https://cursify.vercel.app/): Colección de cursores animados y personalizados para añadir personalidad a tu web.
 - [JSRepo](https://www.jsrepo.dev/): Herramienta para la creación y gestión rápida de paquetes y módulos JavaScript.
 - [Superfile](https://superfile.dev/): Gestor de archivos para terminal moderno, rápido y con interfaz intuitiva.
@@ -617,7 +614,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Diffs](https://diffs.com/): Herramienta web para crear, compartir y presentar fragmentos de código y comparaciones de cambios elegantes.
 - [MD-This-Page](https://github.com/Ademking/MD-This-Page): Extensión de navegador para convertir cualquier página web en Markdown limpio listo para IA.
 - [RevPDF](https://revpdf.com/): Editor de PDF offline gratuito para editar, anotar, firmar, comprimir y convertir documentos de forma privada.
-- [Omniget](https://github.com/tonhowtf/omniget): Aplicación de escritorio en Rust para descargar videos y cursos de múltiples plataformas usando patrones eficientes de red.
 - [MentionDrop](https://www.mentiondrop.com/): Monitor de web en tiempo real con resúmenes de IA para seguimiento de marca, productos y competidores.
 - [CursorClip](https://cursorclip.com/): Grabadora de pantalla para macOS que utiliza zoom inteligente y seguimiento de cursor para demos de producto cinematográficas.
 - [Tolaria](https://github.com/refactoringhq/tolaria): Aplicación de gestión de conocimiento offline-first en Markdown, optimizada para velocidad y contexto de agentes de IA.
@@ -820,7 +816,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [BetterAuthUI](https://better-auth-ui.com/): Conjunto de componentes de interfaz listos para implementar sistemas de autenticación modernos.
 - [Logto](https://logto.io/): Plataforma de gestión de identidad (IAM) de código abierto para añadir autenticación y autorización profesional a aplicaciones SaaS.
 - [Soundcn](https://github.com/kapishdima/soundcn): Versión experimental de componentes Shadcn enfocada en la integración de audio y sonido.
-- [FusionCharts](https://www.fusioncharts.com/blog/fusioncharts-free-now-open-source/): Poderosa librería de gráficos empresariales ahora disponible como código abierto.
+- [FusionCharts](https://www.fusioncharts.com/blog/fusioncharts-free-now-open-source): Poderosa librería de gráficos empresariales ahora disponible como código abierto.
 - [Park UI](https://park-ui.com/): Sistema de diseño moderno basado en Panda CSS y Ark UI para componentes de alta calidad.
 - [Chatkit](https://openai.github.io/chatkit-js/): Entorno de desarrollo de OpenAI para construir interfaces de chat con IA de forma rápida.
 - [BonBonButtons](https://simurai.com/archive/buttons/): Archivo de botones clásicos con una estética "caramelo" y efectos visuales únicos.
@@ -902,7 +898,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [GlowUI Icons](https://www.glowui.com/icons): Set de iconos modernos con efectos de brillo y gradientes integrados.
 - [RizzUI](https://www.rizzui.com/): Sistema de diseño robusto y flexible para aplicaciones web modernas a escala.
 - [MagicUI](https://magicui.design): Biblioteca de componentes animados y efectos visuales de alta calidad para React.
-- [Hexta UI](https://www.hextaui.com/): Biblioteca de componentes de React y Tailwind CSS con diseños modernos, minimalistas y altamente personalizables.
+- [Hexta UI](https://hextaui.com/): Biblioteca de componentes de React y Tailwind CSS con diseños modernos, minimalistas y altamente personalizables.
 - [Lukacho UI](https://ui.lukacho.com/components): Colección de componentes de interfaz con un diseño audaz y contemporáneo.
 - [Volt (PrimeVue)](https://volt.primevue.org/): Plantilla de panel de administración premium y potente para Vue.js.
 - [98.CSS](https://jdan.github.io/98.css/): Framework CSS para construir interfaces con la estética clásica de Windows 98.
@@ -994,7 +990,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Plantillas HTML](https://htmlrev.com/): Directorio curado de las mejores plantillas HTML gratuitas para landing pages y sitios web.
 - [DreamTemplate](https://www.dreamtemplate.com/): Amplia colección de plantillas web profesionales y recursos de diseño.
 - [SaaS Starter](https://github.com/nextjs/saas-starter): Base sólida de código abierto para construir aplicaciones SaaS con Next.js.
-- [Plantilla de Landing](https://studio.jaumegelabert.dev/): Landing page moderna y minimalista construida con Next.js y React.
 - [supa-next-starter](https://github.com/michaeltroya/supa-next-starter): Starter kit que combina la potencia de Next.js con Supabase para un backend rápido.
 - [ProjectPlannerAI StarterKit](https://github.com/webdevcody/ppai-next-starter): Kit de inicio para construir aplicaciones impulsadas por IA con Next.js.
 - [Open Source Templates](https://www.opensourcetemplates.org/): Repositorio de plantillas de código abierto para diversos tipos de proyectos.
@@ -1292,11 +1287,11 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [mgrep](https://github.com/mixedbread-ai/mgrep): Búsqueda semántica en CLI para código, imágenes y documentos PDF.
 - [openreview](https://openreview.labs.vercel.dev/): Bot de revisión de código con IA autoalojable e impulsado por Vercel.
 - [emdash](https://emdash.com/): Entorno de desarrollo para ejecutar múltiples agentes de código en paralelo.
-- [agentfield](https://www.agentfield.ai/): Plataforma para construir y escalar agentes de IA como microservicios auditables.
+- [agentfield](https://agentfield.ai/): Plataforma para construir y escalar agentes de IA como microservicios auditables.
 - [openwiki](https://github.com/langchain-ai/openwiki): CLI que genera y mantiene la documentación del repositorio para agentes de IA.
 - [mindwalk](https://github.com/cosmtrek/mindwalk): Herramienta de visualización para reproducir sesiones de agentes de código en 3D.
 - [code-review-graph](https://code-review-graph.com/): Grafo de inteligencia de código local para MCP y CLI que optimiza el consumo de contexto.
-- [wigolo](https://knockoutez.github.io/wigolo/): Herramienta de búsqueda y rastreo local sobre MCP para agentes de codificación.
+- [wigolo](https://wigolo.app/): Herramienta de búsqueda y rastreo local sobre MCP para agentes de codificación.
 - [strix](https://www.strix.ai/): Agentes de IA de código abierto para encontrar y corregir vulnerabilidades en aplicaciones.
 - [hippo-memory](https://hippo-memory.com/): Memoria con inspiración biológica para agentes de IA sin dependencias.
 - [openhare](https://sjjian.github.io/openhare/): Cliente SQL de escritorio impulsado por IA y construido en Flutter.
@@ -1365,7 +1360,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [ZipTyPrompt](https://ziptyprompt.com/): Herramienta web y local que permite redactar y sanitizar información confidencial, PII y credenciales de tus logs y configuraciones antes de enviarlos a IAs.
 - [AIMock](https://aimock.copilotkit.dev/): Servidor de mocks open-source para simular la pila agéntica de IA completa (LLMs, servidores MCP, DBs vectoriales), asegurando pruebas deterministas en CI/CD.
 - [Agent QA](https://github.com/vostride/agent-qa): Servidor MCP de código fuente disponible para definir, validar, ejecutar y diagnosticar pruebas web y móviles en lenguaje natural.
-- [Webwright](https://github.com/microsoft/Webwright): Framework de Microsoft Research para agentes de IA terminal-native. Permite al modelo escribir y ejecutar su propio código de Playwright para resolver tareas web complejas.
+- [Webwright](https://github.com/microsoft/CUAWright): Framework de Microsoft Research para agentes de IA terminal-native. Permite al modelo escribir y ejecutar su propio código de Playwright para resolver tareas web complejas.
 - [Impeccable](https://github.com/pbakaus/impeccable): Kit para agentes de IA a orientarlos para que puedan ser más eficaces en el diseño frontend. 1 Skill.
 
 #### 🧠 Modelos y Datos
@@ -1437,7 +1432,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [a1 Gallery](https://www.a1.gallery/): Galería de diseño web minimalista y brutalista que desafía las convenciones modernas.
 - [Refero](https://refero.design/): Enorme base de datos de capturas de pantalla de interfaces de usuario de las mejores apps del mundo.
 - [sleek.design](https://sleek.design/references): Plataforma de inspiración que ofrece una colección curada de referencias de diseño de aplicaciones y layouts de alta calidad.
-- [Viewport UI](https://viewport-ui.design/): Colección de componentes UI enfocada en la usabilidad y el diseño responsivo.
+- [Viewport UI](https://viewportui.com/): Colección de componentes UI enfocada en la usabilidad y el diseño responsivo.
 - [Same Energy](https://same.energy/): Buscador visual de imágenes basado en la estética y el sentimiento, perfecto para moodboards.
 - [Headers Club](https://www.headers.club/): Galería especializada en el diseño de encabezados y banners de impacto para sitios web.
 - [CallToInspiration](https://calltoinspiration.com/): Herramienta que organiza elementos de UI por categorías para romper el bloqueo creativo.
@@ -1478,7 +1473,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Muzli (ES)](https://muz.li/es/): Versión en español del hub de inspiración diaria más popular entre los diseñadores y creativos tech.
 - [One Page Love](https://onepagelove.com/): El lugar definitivo para encontrar inspiración de sitios web de una sola página más impactantes.
 - [Design Sweets](https://designsweets.co/): Pequeños detalles, activos y recursos mezclados que enriquecen cualquier diseño digital.
-- [Craftwork Curated](https://craftwork.design/curated/websites): Selección Premium de sitios web que utilizan los mejores activos visuales de la industria.
+- [Craftwork Curated](https://craftwork.design/inspiration/websites): Selección Premium de sitios web que utilizan los mejores activos visuales de la industria.
 - [OSWD](https://www.oswd.org/): Una comunidad clásica para compartir y descargar diseños web de código abierto y gratuitos.
 - [CSS Design Yorkshire](https://www.css-design-yorkshire.com/): Galería regional que destaca lo mejor del diseño web en el área de Yorkshire.
 - [CSS Reboot](http://www.cssreboot.com/): Galería histórica de un evento global de rediseño web simultáneo que marcó una época.
