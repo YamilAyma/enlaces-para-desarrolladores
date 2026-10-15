@@ -357,6 +357,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [nvmon](https://github.com/Han-DongHeun/nvmon): Monitor de GPU NVIDIA para la terminal que muestra gráficos de utilización, memoria, temperatura, consumo energético y procesos activos.
+
 - [Telemetry SQL Playground](https://telemetry.sh/sql/playground?lang=es): Entorno gratuito en español para practicar consultas SQL sobre eventos sintéticos de API, sin crear una cuenta.
 - [A Box of Tools](https://abox.tools/es/): Caja de 35 herramientas de archivo que funcionan enteramente en el navegador: comprimir una imagen a un tamaño exacto, unir o censurar un PDF, recortar vídeo, editar audio, leer códigos QR, formatear JSON. Nada se sube a ningún servidor. Código abierto (MIT) y traducida al español.
 - [zdoc](https://www.zdoc.app/es): Herramienta gratuita para traducir READMEs de GitHub a múltiples idiomas y mantenerlos actualizados.
@@ -1227,6 +1229,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Feloxi](https://github.com/thesaadmirza/feloxi): Plataforma de monitoreo autoalojada y de código abierto para colas de tareas Celery. Escrita en Rust y Next.js, utiliza ClickHouse y no requiere SDK ni agentes.
 
 ### 🤖 IA
+
+- [diff-tour](https://github.com/init-co-jp/diff-tour): Interfaz de terminal que utiliza agentes de IA para convertir cambios de Git en recorridos guiados con explicaciones, preguntas y referencias al código.
+- [OpenQodex](https://github.com/openqodex/openqodex): Herramienta de revisión de código que combina analizadores estáticos con un revisor independiente de IA para evaluar cambios antes de enviarlos al repositorio remoto.
 
 - [ChatGPT](https://chatgpt.com/): El modelo de lenguaje a gran escala de OpenAI que revolucionó la interacción con la IA.
 - [Gemini](https://gemini.google.com/): La IA más avanzada de Google, integrada en su ecosistema y disponible mediante CLI.
