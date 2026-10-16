@@ -214,6 +214,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### APIs:
 
+- [Meilisearch](https://github.com/meilisearch/meilisearch): Motor de búsqueda con API REST que combina búsqueda semántica y de texto completo, tolerancia a errores tipográficos, filtros y facetas.
+
 - [Awesome APIs](https://github.com/TonnyL/Awesome_APIs): Una lista curada de APIs asombrosas para todo tipo de funcionalidades.
 - [Da.gd](https://da.gd/): Acortador de URLs minimalista y potente con soporte para terminal.
 - [Aptoide API](https://ws75.aptoide.com/api/7/apps/search?info=1): Documentación para acceder a los datos de aplicaciones de la tienda Aptoide.
@@ -356,6 +358,11 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 
 ### 🛠️ HERRAMIENTAS:
+
+- [Caddy](https://github.com/caddyserver/caddy): Servidor web extensible con HTTPS automático, soporte para HTTP/1.1, HTTP/2 y HTTP/3 y configuración mediante Caddyfile o JSON.
+- [pxl](https://github.com/crsolver/claude-pxl): Herramienta para crear pixel art mediante código y exportar PNG, hojas de sprites con metadatos JSON y GIF animados, con un visor que reproduce el dibujo paso a paso.
+- [fzf](https://github.com/junegunn/fzf): Buscador interactivo para la terminal que permite seleccionar archivos, explorar el historial y crear menús mediante coincidencias aproximadas.
+- [LocalStack](https://github.com/localstack/localstack): Emulador de servicios de AWS en un contenedor para desarrollar y probar aplicaciones localmente o en integración continua; el repositorio enlazado está archivado.
 
 - [nvmon](https://github.com/Han-DongHeun/nvmon): Monitor de GPU NVIDIA para la terminal que muestra gráficos de utilización, memoria, temperatura, consumo energético y procesos activos.
 
@@ -765,6 +772,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Whimsically](https://www.whimsically.app/): Loaders bonitos y agradables con sonido que puedes copiar y pegar, con soporte de React.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+
+- [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm): ORM para TypeScript y JavaScript que permite definir esquemas y consultas tipadas para PostgreSQL, MySQL y SQLite.
 
 - [legend-motion](https://github.com/LegendApp/legend-motion): Biblioteca de animaciones declarativas para React Native.
 - [react-native-enriched-html](https://enriched.swmansion.com/html/): Componente de texto enriquecido basado en HTML para aplicaciones React Native.
