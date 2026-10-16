@@ -363,6 +363,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [pxl](https://github.com/crsolver/claude-pxl): Herramienta para crear pixel art mediante código y exportar PNG, hojas de sprites con metadatos JSON y GIF animados, con un visor que reproduce el dibujo paso a paso.
 - [fzf](https://github.com/junegunn/fzf): Buscador interactivo para la terminal que permite seleccionar archivos, explorar el historial y crear menús mediante coincidencias aproximadas.
 - [LocalStack](https://github.com/localstack/localstack): Emulador de servicios de AWS en un contenedor para desarrollar y probar aplicaciones localmente o en integración continua; el repositorio enlazado está archivado.
+- [CurlShot](https://curlshot.com/tools/full-page-screenshot): Captura de pantalla de una web completa como imagen o PDF, en vista de ordenador, móvil o tablet, sin anuncios ni avisos de cookies; se puede probar sin crear cuenta. También ofrece una API de capturas con plan gratuito de 100 al mes.
 
 - [nvmon](https://github.com/Han-DongHeun/nvmon): Monitor de GPU NVIDIA para la terminal que muestra gráficos de utilización, memoria, temperatura, consumo energético y procesos activos.
 
