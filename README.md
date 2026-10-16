@@ -357,6 +357,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [CurlShot](https://curlshot.com/tools/full-page-screenshot): Captura de pantalla de una web completa como imagen o PDF, en vista de ordenador, móvil o tablet, sin anuncios ni avisos de cookies; se puede probar sin crear cuenta. También ofrece una API de capturas con plan gratuito de 100 al mes.
+
 - [nvmon](https://github.com/Han-DongHeun/nvmon): Monitor de GPU NVIDIA para la terminal que muestra gráficos de utilización, memoria, temperatura, consumo energético y procesos activos.
 
 - [Telemetry SQL Playground](https://telemetry.sh/sql/playground?lang=es): Entorno gratuito en español para practicar consultas SQL sobre eventos sintéticos de API, sin crear una cuenta.
