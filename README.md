@@ -214,6 +214,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### APIs:
 
+- [PostgREST](https://github.com/PostgREST/postgrest): Genera una API REST desde una base de datos PostgreSQL existente, con autenticación mediante JWT y documentación OpenAPI.
+
 - [Meilisearch](https://github.com/meilisearch/meilisearch): Motor de búsqueda con API REST que combina búsqueda semántica y de texto completo, tolerancia a errores tipográficos, filtros y facetas.
 
 - [Awesome APIs](https://github.com/TonnyL/Awesome_APIs): Una lista curada de APIs asombrosas para todo tipo de funcionalidades.
@@ -358,6 +360,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 
 ### 🛠️ HERRAMIENTAS:
+
+- [Material for MkDocs](https://github.com/squidfunk/mkdocs-material): Framework sobre MkDocs para crear sitios de documentación desde Markdown con búsqueda, diseño adaptable y opciones de personalización.
+- [Vitest](https://github.com/vitest-dev/vitest): Framework de pruebas integrado con Vite que incluye soporte para TypeScript y JSX, cobertura de código, mocks y pruebas de componentes en el navegador.
+- [Hurl](https://github.com/Orange-OpenSource/hurl): Herramienta de línea de comandos para ejecutar y encadenar peticiones HTTP definidas en texto plano y comprobar sus respuestas.
 
 - [Caddy](https://github.com/caddyserver/caddy): Servidor web extensible con HTTPS automático, soporte para HTTP/1.1, HTTP/2 y HTTP/3 y configuración mediante Caddyfile o JSON.
 - [pxl](https://github.com/crsolver/claude-pxl): Herramienta para crear pixel art mediante código y exportar PNG, hojas de sprites con metadatos JSON y GIF animados, con un visor que reproduce el dibujo paso a paso.
@@ -1205,6 +1211,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [dev.css](https://tangled.org/devins.page/dev.css/): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 
 ### 🏠 Self-Hosted (Autoalojado)
+
+- [Appwrite](https://github.com/appwrite/appwrite): Plataforma autoalojable para desarrollar aplicaciones con autenticación, bases de datos, almacenamiento, funciones, mensajería y eventos en tiempo real.
+- [Documenso](https://github.com/documenso/documenso): Herramienta autoalojable para firmar documentos digitalmente y revisar el código que gestiona las firmas.
 
 - [GeoLibre](https://geolibre.app/): Sistema de información geográfica (GIS) de escritorio construido con Tauri v2 y React.
 - [dreeve](https://dreeve.app/): Panel de control autoalojable para datos de deportes y condición física.
