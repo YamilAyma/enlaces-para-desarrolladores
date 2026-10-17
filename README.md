@@ -1377,6 +1377,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Agent QA](https://github.com/vostride/agent-qa): Servidor MCP de código fuente disponible para definir, validar, ejecutar y diagnosticar pruebas web y móviles en lenguaje natural.
 - [Webwright](https://github.com/microsoft/CUAWright): Framework de Microsoft Research para agentes de IA terminal-native. Permite al modelo escribir y ejecutar su propio código de Playwright para resolver tareas web complejas.
 - [Impeccable](https://github.com/pbakaus/impeccable): Kit para agentes de IA a orientarlos para que puedan ser más eficaces en el diseño frontend. 1 Skill.
+- [YYLO](https://github.com/yylo-dev/yylo): Orquestador de código abierto para agentes de codificación en la terminal, con flujos de trabajo repetibles y cambios de repositorio respaldados por evidencia.
 
 #### 🧠 Modelos y Datos
 
