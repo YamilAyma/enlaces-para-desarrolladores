@@ -361,6 +361,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Playwright](https://github.com/microsoft/playwright): Framework para automatizar navegadores y ejecutar pruebas de extremo a extremo en Chromium, Firefox y WebKit con una misma API.
+- [Turborepo](https://github.com/vercel/turborepo): Sistema de compilación escrito en Rust y optimizado para proyectos JavaScript y TypeScript, incluidos monorepos.
+
 - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material): Framework sobre MkDocs para crear sitios de documentación desde Markdown con búsqueda, diseño adaptable y opciones de personalización.
 - [Vitest](https://github.com/vitest-dev/vitest): Framework de pruebas integrado con Vite que incluye soporte para TypeScript y JSX, cobertura de código, mocks y pruebas de componentes en el navegador.
 - [Hurl](https://github.com/Orange-OpenSource/hurl): Herramienta de línea de comandos para ejecutar y encadenar peticiones HTTP definidas en texto plano y comprobar sus respuestas.
@@ -779,6 +782,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Whimsically](https://www.whimsically.app/): Loaders bonitos y agradables con sonido que puedes copiar y pegar, con soporte de React.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+
+- [Fastify](https://github.com/fastify/fastify): Framework web para Node.js con arquitectura de plugins para crear servidores y definir rutas HTTP.
 
 - [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm): ORM para TypeScript y JavaScript que permite definir esquemas y consultas tipadas para PostgreSQL, MySQL y SQLite.
 
@@ -1211,6 +1216,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [dev.css](https://tangled.org/devins.page/dev.css/): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 
 ### 🏠 Self-Hosted (Autoalojado)
+
+- [MinIO](https://github.com/minio/minio): Servidor de almacenamiento de objetos compatible con S3 para despliegues propios; el repositorio indica que ya no recibe mantenimiento y su edición comunitaria se distribuye como código fuente.
+- [Traefik](https://github.com/traefik/traefik): Proxy inverso HTTP y balanceador de carga que descubre servicios en Docker, Kubernetes y otros entornos y actualiza sus rutas automáticamente.
+- [Casdoor](https://github.com/casdoor/casdoor): Plataforma autoalojada de identidad y acceso con inicio de sesión único, consola de administración y soporte para OAuth, OIDC, SAML y autenticación multifactor.
 
 - [Appwrite](https://github.com/appwrite/appwrite): Plataforma autoalojable para desarrollar aplicaciones con autenticación, bases de datos, almacenamiento, funciones, mensajería y eventos en tiempo real.
 - [Documenso](https://github.com/documenso/documenso): Herramienta autoalojable para firmar documentos digitalmente y revisar el código que gestiona las firmas.
