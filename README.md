@@ -363,6 +363,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Markdy](https://github.com/HoangYell/markdy-com): Herramienta para crear diagramas de arquitectura animados a partir de texto y recorrer paso a paso solicitudes, respuestas y eventos del sistema.
+
 - [uv](https://github.com/astral-sh/uv): Gestor de paquetes y proyectos Python que administra dependencias, entornos y versiones de Python, y permite ejecutar scripts y herramientas.
 - [fd](https://github.com/sharkdp/fd): Herramienta de terminal para buscar archivos y directorios mediante expresiones regulares o patrones glob, con respeto de las reglas de .gitignore.
 - [Ruff](https://github.com/astral-sh/ruff): Analizador y formateador de código Python con reglas de calidad, correcciones automáticas, organización de importaciones e integración con editores.
@@ -793,6 +795,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Whimsically](https://www.whimsically.app/): Loaders bonitos y agradables con sonido que puedes copiar y pegar, con soporte de React.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+
+- [dompdf.js](https://github.com/lmn1919/dompdf.js): Biblioteca para convertir elementos HTML en PDF con texto vectorial seleccionable y buscable desde el navegador, con paginación, fuentes personalizadas y formularios.
 
 - [AutoAnimate](https://github.com/formkit/auto-animate): Biblioteca para añadir transiciones a interfaces web sin configuración, compatible con React, Vue, Solid y otras aplicaciones JavaScript.
 
@@ -1230,6 +1234,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🏠 Self-Hosted (Autoalojado)
 
+- [Cap](https://github.com/tiagozip/cap): Alternativa autoalojada a CAPTCHA que ejecuta desafíos de prueba de trabajo e instrumentación en segundo plano en el navegador, sin rompecabezas ni rastreo.
+
 - [Strapi](https://github.com/strapi/strapi): CMS desacoplado y autoalojable que permite definir modelos de contenido visualmente y generar APIs REST y GraphQL, con gestión de permisos y archivos multimedia.
 - [Supabase](https://github.com/supabase/supabase): Plataforma autoalojable basada en PostgreSQL que integra autenticación, APIs automáticas, suscripciones en tiempo real, funciones y almacenamiento de archivos.
 
@@ -1275,6 +1281,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Feloxi](https://github.com/thesaadmirza/feloxi): Plataforma de monitoreo autoalojada y de código abierto para colas de tareas Celery. Escrita en Rust y Next.js, utiliza ClickHouse y no requiere SDK ni agentes.
 
 ### 🤖 IA
+
+- [Anatomy](https://github.com/wheresryan22/anatomy): Skill para agentes que explica conceptos técnicos mediante ilustraciones isométricas interactivas con SVG, WebGL y efectos 3D.
+- [LangWatch](https://github.com/langwatch/langwatch): Plataforma de observabilidad y evaluación de aplicaciones y agentes de IA, con trazas, pruebas, gestión de prompts y controles de costes y acceso.
+- [Quicksand](https://github.com/microsoft/quicksand): API asíncrona de Python para ejecutar agentes de IA en máquinas virtuales QEMU, con control de comandos, directorios compartidos, red y guardado del estado.
 
 - [diff-tour](https://github.com/init-co-jp/diff-tour): Interfaz de terminal que utiliza agentes de IA para convertir cambios de Git en recorridos guiados con explicaciones, preguntas y referencias al código.
 - [OpenQodex](https://github.com/openqodex/openqodex): Herramienta de revisión de código que combina analizadores estáticos con un revisor independiente de IA para evaluar cambios antes de enviarlos al repositorio remoto.
