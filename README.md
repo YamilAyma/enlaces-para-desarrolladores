@@ -387,7 +387,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [pxl](https://github.com/crsolver/claude-pxl): Herramienta para crear pixel art mediante código y exportar PNG, hojas de sprites con metadatos JSON y GIF animados, con un visor que reproduce el dibujo paso a paso.
 - [fzf](https://github.com/junegunn/fzf): Buscador interactivo para la terminal que permite seleccionar archivos, explorar el historial y crear menús mediante coincidencias aproximadas.
 - [LocalStack](https://github.com/localstack/localstack): Emulador de servicios de AWS en un contenedor para desarrollar y probar aplicaciones localmente o en integración continua; el repositorio enlazado está archivado.
-- [CurlShot](https://curlshot.com/tools/full-page-screenshot): Captura de pantalla de una web completa como imagen o PDF, en vista de ordenador, móvil o tablet, sin anuncios ni avisos de cookies; se puede probar sin crear cuenta. También ofrece una API de capturas con plan gratuito de 100 al mes.
 
 - [nvmon](https://github.com/Han-DongHeun/nvmon): Monitor de GPU NVIDIA para la terminal que muestra gráficos de utilización, memoria, temperatura, consumo energético y procesos activos.
 
@@ -707,7 +706,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [SVG Gobbler](https://svggobbler.com/): Una extensión de navegador de código abierto que encuentra, optimiza y exporta contenido SVG de cualquier página web.
 - [pake](https://github.com/tw93/pake): Convierte cualquier página web en una aplicación de escritorio con un solo comando; compatible con macOS, Windows y Linux.
 - [Cate](https://cate.cero-ai.com/): Un lienzo con zoom infinito para programar. Paneles de editor, terminal y navegador en un espacio de trabajo espacial.
-- [SVG dot icon animator](https://konvert.design/tools/svg-to-dot-animation): Animador de iconos svg pero con puntitos.
+- [SVG dot icon animator](https://konverthq.com/tools/svg-to-dot-animation): Animador de iconos svg pero con puntitos.
 
 #### Despliegue:
 
@@ -900,7 +899,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Blendy](https://blendy.tahazsh.com/): Librería de micro-animaciones ligeras para añadir dinamismo a tu interfaz sin peso extra.
 - [Async Selector (RDSX)](https://async.rdsx.dev/): Componente de selección asíncrono avanzado para manejar grandes volúmenes de datos.
 - [Sacred Computer](https://www.sacred.computer/): Biblioteca de componentes React con una estética de terminal "retro-futurista".
-- [ReneCSS](https://renecss.org/): Framework CSS minimalista enfocado en la simplicidad y el rendimiento extremo.
 - [MUI (Material UI)](https://mui.com/): La librería de componentes React de Material Design más popular y madura.
 - [Myna UI](https://mynaui.com/): Kit de diseño completo con componentes modernos y una estética de pájaro minimalista.
 - [Intent UI](https://intentui.com/): Sistema de diseño enfocado en la intención del usuario y la claridad visual.
@@ -1316,7 +1314,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [xberg](https://docs.xberg.io/): Framework políglota con núcleo en Rust para extracción inteligente de texto e información estructurada.
 - [qm](https://github.com/yc-software/qm): Entorno de desarrollo y orquestación multi-agente para flujos de trabajo colaborativos.
 - [autoharness](https://github.com/tigerless-labs/autoharness): Capa de habilidades con autoaprendizaje para Claude Code que extrae nuevos comandos de tus sesiones.
-- [Graft](https://github.com/trailhq/Graft): Herramienta para optimizar el rendimiento y comprensión contextual de agentes de codificación.
+- [Graft](https://github.com/trailhq/Trail-Code): Herramienta para optimizar el rendimiento y comprensión contextual de agentes de codificación.
 - [chatbot-template](https://github.com/shadcn-ui/chatbot-template): Plantilla minimalista de chatbot para Next.js integrada con Vercel AI SDK.
 - [cactus](https://cactuscompute.com/): Motor de IA de baja latencia diseñado para dispositivos móviles y wearables.
 - [langchainjs](https://github.com/langchain-ai/langchainjs): Plataforma integral de ingeniería para la creación de agentes autónomos.
@@ -1419,7 +1417,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi): Proxy de API compatible con OpenAI que centraliza y rota claves gratuitas de 14 proveedores de LLM, con failover automático y cifrado AES-256.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI): Estudio de IA generativa autoalojable y open-source con Next.js y Electron que unifica la generación de imagen, video y sincronización labial para más de 200 modelos.
 - [Context7](https://context7.com/): Herramienta inteligente diseñada para simplificar y automatizar la gestión y estructuración de contextos complejos en interacciones con modelos de lenguaje grandes.
-- [Midscene.js](https://midscenejs.com/): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
+- [Midscene.js](https://midscenejs.com/introduction): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
 - [agent-skills-platform](https://github.com/FrancyJGLisboa/agent-skills-platform): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill): Herramienta que analiza textos y libros técnicos para extraer conocimiento estructurado y convertirlo de forma automatizada en habilidades prácticas ejecutables por agentes de IA.
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill): Archivo de habilidad (skill) para agentes de IA optimizado para estructurar y redactar prompts de alta calidad para el modelo de generación de video Jimeng Seedance 2.0 de ByteDance.
