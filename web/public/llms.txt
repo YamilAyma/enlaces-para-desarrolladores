@@ -8,6 +8,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 
 - [shaper](https://github.com/taleshape-com/shaper): Plataforma para visualizar y compartir datos mediante consultas SQL con DuckDB.
 - [ML Visualized](https://ml-visualized.com/#): Guía visual e interactiva para aprender conceptos de Machine Learning.
+- [Hookcn](https://github.com/strlrd-29/hookcn): Colección extensa de hooks personalizados para React.
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): Esta es una base de datos con más de 300.000 símbolos que incluyen acciones, ETF, fondos, índices, divisas, criptomonedas y mercados monetarios.
 - [GetDesign](https://getdesign.md/): Diseños inspirados en sitios web populares. Incorpóralo a tu proyecto y deja que los agentes de codificación creen la interfaz de usuario correspondiente.
 - [Prompts.chat](https://github.com/f/prompts.chat): Comparte, descubre y recopila prompts de la comunidad. Gratuito y de código abierto: autoaloja tu organización con total privacidad.
@@ -201,6 +202,9 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Laravel Roadmap](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path): Guía completa y detallada para dominar el ecosistema de Laravel.
 ## APIs:
 
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine): Motor para exponer datos mediante una API GraphQL con control de acceso y conectores para distintas bases de datos.
+- [PostgREST](https://github.com/PostgREST/postgrest): Genera una API REST desde una base de datos PostgreSQL existente, con autenticación mediante JWT y documentación OpenAPI.
+- [Meilisearch](https://github.com/meilisearch/meilisearch): Motor de búsqueda con API REST que combina búsqueda semántica y de texto completo, tolerancia a errores tipográficos, filtros y facetas.
 - [Awesome APIs](https://github.com/TonnyL/Awesome_APIs): Una lista curada de APIs asombrosas para todo tipo de funcionalidades.
 - [Da.gd](https://da.gd/): Acortador de URLs minimalista y potente con soporte para terminal.
 - [Aptoide API](https://ws75.aptoide.com/api/7/apps/search?info=1): Documentación para acceder a los datos de aplicaciones de la tienda Aptoide.
@@ -341,6 +345,25 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 ## 🛠️ HERRAMIENTAS:
 
+- [REA](https://github.com/morluto/rea): Herramientas de ingeniería inversa mediante MCP o terminal para analizar binarios nativos, aplicaciones JavaScript y Electron, ensamblados .NET y sitios web.
+- [Markdy](https://github.com/HoangYell/markdy-com): Herramienta para crear diagramas de arquitectura animados a partir de texto y recorrer paso a paso solicitudes, respuestas y eventos del sistema.
+- [uv](https://github.com/astral-sh/uv): Gestor de paquetes y proyectos Python que administra dependencias, entornos y versiones de Python, y permite ejecutar scripts y herramientas.
+- [fd](https://github.com/sharkdp/fd): Herramienta de terminal para buscar archivos y directorios mediante expresiones regulares o patrones glob, con respeto de las reglas de .gitignore.
+- [Ruff](https://github.com/astral-sh/ruff): Analizador y formateador de código Python con reglas de calidad, correcciones automáticas, organización de importaciones e integración con editores.
+- [eza](https://github.com/eza-community/eza): Alternativa al comando ls para listar archivos con colores, metadatos, información de enlaces simbólicos y estado de Git, con temas personalizables.
+- [Lazydocker](https://github.com/jesseduffield/lazydocker): Interfaz de terminal para gestionar Docker y Docker Compose, consultar registros y ejecutar comandos habituales o personalizados.
+- [Bun](https://github.com/oven-sh/bun): Conjunto de herramientas para JavaScript y TypeScript que integra entorno de ejecución, empaquetador, ejecutor de pruebas y gestor de paquetes.
+- [Delta](https://github.com/dandavison/delta): Visor de terminal para salidas de Git, diff y grep con resaltado de sintaxis, comparación en paralelo y visualización de conflictos de fusión.
+- [Playwright](https://github.com/microsoft/playwright): Framework para automatizar navegadores y ejecutar pruebas de extremo a extremo en Chromium, Firefox y WebKit con una misma API.
+- [Turborepo](https://github.com/vercel/turborepo): Sistema de compilación escrito en Rust y optimizado para proyectos JavaScript y TypeScript, incluidos monorepos.
+- [Material for MkDocs](https://github.com/squidfunk/mkdocs-material): Framework sobre MkDocs para crear sitios de documentación desde Markdown con búsqueda, diseño adaptable y opciones de personalización.
+- [Vitest](https://github.com/vitest-dev/vitest): Framework de pruebas integrado con Vite que incluye soporte para TypeScript y JSX, cobertura de código, mocks y pruebas de componentes en el navegador.
+- [Hurl](https://github.com/Orange-OpenSource/hurl): Herramienta de línea de comandos para ejecutar y encadenar peticiones HTTP definidas en texto plano y comprobar sus respuestas.
+- [Caddy](https://github.com/caddyserver/caddy): Servidor web extensible con HTTPS automático, soporte para HTTP/1.1, HTTP/2 y HTTP/3 y configuración mediante Caddyfile o JSON.
+- [pxl](https://github.com/crsolver/claude-pxl): Herramienta para crear pixel art mediante código y exportar PNG, hojas de sprites con metadatos JSON y GIF animados, con un visor que reproduce el dibujo paso a paso.
+- [fzf](https://github.com/junegunn/fzf): Buscador interactivo para la terminal que permite seleccionar archivos, explorar el historial y crear menús mediante coincidencias aproximadas.
+- [LocalStack](https://github.com/localstack/localstack): Emulador de servicios de AWS en un contenedor para desarrollar y probar aplicaciones localmente o en integración continua; el repositorio enlazado está archivado.
+- [nvmon](https://github.com/Han-DongHeun/nvmon): Monitor de GPU NVIDIA para la terminal que muestra gráficos de utilización, memoria, temperatura, consumo energético y procesos activos.
 - [Telemetry SQL Playground](https://telemetry.sh/sql/playground?lang=es): Entorno gratuito en español para practicar consultas SQL sobre eventos sintéticos de API, sin crear una cuenta.
 - [A Box of Tools](https://abox.tools/es/): Caja de 35 herramientas de archivo que funcionan enteramente en el navegador: comprimir una imagen a un tamaño exacto, unir o censurar un PDF, recortar vídeo, editar audio, leer códigos QR, formatear JSON. Nada se sube a ningún servidor. Código abierto (MIT) y traducida al español.
 - [zdoc](https://www.zdoc.app/es): Herramienta gratuita para traducir READMEs de GitHub a múltiples idiomas y mantenerlos actualizados.
@@ -656,7 +679,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [SVG Gobbler](https://svggobbler.com/): Una extensión de navegador de código abierto que encuentra, optimiza y exporta contenido SVG de cualquier página web.
 - [pake](https://github.com/tw93/pake): Convierte cualquier página web en una aplicación de escritorio con un solo comando; compatible con macOS, Windows y Linux.
 - [Cate](https://cate.cero-ai.com/): Un lienzo con zoom infinito para programar. Paneles de editor, terminal y navegador en un espacio de trabajo espacial.
-- [SVG dot icon animator](https://konvert.design/tools/svg-to-dot-animation): Animador de iconos svg pero con puntitos.
+- [SVG dot icon animator](https://konverthq.com/tools/svg-to-dot-animation): Animador de iconos svg pero con puntitos.
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
 - [Xata](https://github.com/xataio/xata): Plataforma de base de datos serverless basada en PostgreSQL con búsqueda integrada y analíticas.
 - [Coolify](https://github.com/coollabsio/coolify): Alternativa de código abierto a Vercel, Netlify o Heroku. Permite alojar aplicaciones, bases de datos y servicios en tus propios servidores.
@@ -738,6 +761,13 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Whimsically](https://www.whimsically.app/): Loaders bonitos y agradables con sonido que puedes copiar y pegar, con soporte de React.
 ## ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
+- [Hono](https://github.com/honojs/hono): Framework web basado en estándares web, con soporte para TypeScript y middleware, que funciona en Node.js, Bun, Deno y plataformas de ejecución en la nube.
+- [htmx](https://github.com/bigskysoftware/htmx): Biblioteca que permite usar AJAX, transiciones CSS, WebSockets y eventos enviados por el servidor mediante atributos HTML para crear interfaces interactivas.
+- [Bubble Tea](https://github.com/charmbracelet/bubbletea): Framework de Go basado en la arquitectura Elm para crear interfaces de terminal con gestión de estado, vistas declarativas y manejo de teclado y ratón.
+- [dompdf.js](https://github.com/lmn1919/dompdf.js): Biblioteca para convertir elementos HTML en PDF con texto vectorial seleccionable y buscable desde el navegador, con paginación, fuentes personalizadas y formularios.
+- [AutoAnimate](https://github.com/formkit/auto-animate): Biblioteca para añadir transiciones a interfaces web sin configuración, compatible con React, Vue, Solid y otras aplicaciones JavaScript.
+- [Fastify](https://github.com/fastify/fastify): Framework web para Node.js con arquitectura de plugins para crear servidores y definir rutas HTTP.
+- [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm): ORM para TypeScript y JavaScript que permite definir esquemas y consultas tipadas para PostgreSQL, MySQL y SQLite.
 - [legend-motion](https://github.com/LegendApp/legend-motion): Biblioteca de animaciones declarativas para React Native.
 - [react-native-enriched-html](https://enriched.swmansion.com/html/): Componente de texto enriquecido basado en HTML para aplicaciones React Native.
 - [react-native-true-sheet](https://sheet.lodev09.com/): Experiencia nativa de menú inferior (bottom sheet) para desarrollo móvil.
@@ -827,7 +857,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Blendy](https://blendy.tahazsh.com/): Librería de micro-animaciones ligeras para añadir dinamismo a tu interfaz sin peso extra.
 - [Async Selector (RDSX)](https://async.rdsx.dev/): Componente de selección asíncrono avanzado para manejar grandes volúmenes de datos.
 - [Sacred Computer](https://www.sacred.computer/): Biblioteca de componentes React con una estética de terminal "retro-futurista".
-- [ReneCSS](https://renecss.org/): Framework CSS minimalista enfocado en la simplicidad y el rendimiento extremo.
 - [MUI (Material UI)](https://mui.com/): La librería de componentes React de Material Design más popular y madura.
 - [Myna UI](https://mynaui.com/): Kit de diseño completo con componentes modernos y una estética de pájaro minimalista.
 - [Intent UI](https://intentui.com/): Sistema de diseño enfocado en la intención del usuario y la claridad visual.
@@ -1157,6 +1186,15 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [dev.css](https://tangled.org/devins.page/dev.css/): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 ## 🏠 Self-Hosted (Autoalojado)
 
+- [Cap](https://github.com/tiagozip/cap): Alternativa autoalojada a CAPTCHA que ejecuta desafíos de prueba de trabajo e instrumentación en segundo plano en el navegador, sin rompecabezas ni rastreo.
+- [Strapi](https://github.com/strapi/strapi): CMS desacoplado y autoalojable que permite definir modelos de contenido visualmente y generar APIs REST y GraphQL, con gestión de permisos y archivos multimedia.
+- [Supabase](https://github.com/supabase/supabase): Plataforma autoalojable basada en PostgreSQL que integra autenticación, APIs automáticas, suscripciones en tiempo real, funciones y almacenamiento de archivos.
+- [Typesense](https://github.com/typesense/typesense): Motor de búsqueda con tolerancia a errores tipográficos, filtros, facetas, ordenación y consultas sobre múltiples colecciones.
+- [MinIO](https://github.com/minio/minio): Servidor de almacenamiento de objetos compatible con S3 para despliegues propios; el repositorio indica que ya no recibe mantenimiento y su edición comunitaria se distribuye como código fuente.
+- [Traefik](https://github.com/traefik/traefik): Proxy inverso HTTP y balanceador de carga que descubre servicios en Docker, Kubernetes y otros entornos y actualiza sus rutas automáticamente.
+- [Casdoor](https://github.com/casdoor/casdoor): Plataforma autoalojada de identidad y acceso con inicio de sesión único, consola de administración y soporte para OAuth, OIDC, SAML y autenticación multifactor.
+- [Appwrite](https://github.com/appwrite/appwrite): Plataforma autoalojable para desarrollar aplicaciones con autenticación, bases de datos, almacenamiento, funciones, mensajería y eventos en tiempo real.
+- [Documenso](https://github.com/documenso/documenso): Herramienta autoalojable para firmar documentos digitalmente y revisar el código que gestiona las firmas.
 - [GeoLibre](https://geolibre.app/): Sistema de información geográfica (GIS) de escritorio construido con Tauri v2 y React.
 - [dreeve](https://dreeve.app/): Panel de control autoalojable para datos de deportes y condición física.
 - [atomic](https://atomicapp.ai/): Base de conocimientos personal autoalojable con conexiones semánticas.
@@ -1189,6 +1227,13 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Feloxi](https://github.com/thesaadmirza/feloxi): Plataforma de monitoreo autoalojada y de código abierto para colas de tareas Celery. Escrita en Rust y Next.js, utiliza ClickHouse y no requiere SDK ni agentes.
 ## 🤖 IA
 
+- [NVIDIA Run:ai](https://github.com/dsx-ai-factory/run-ai): Plataforma para orquestar cargas de IA en Kubernetes, distribuir recursos GPU entre equipos y supervisar varios clústeres desde un control central.
+- [Talorys](https://github.com/rociiu/talorys): Asistente personal de IA desplegable en tu cuenta de Cloudflare, con chat, memoria editable, tareas, notas, proyectos y recordatorios programados.
+- [Anatomy](https://github.com/wheresryan22/anatomy): Skill para agentes que explica conceptos técnicos mediante ilustraciones isométricas interactivas con SVG, WebGL y efectos 3D.
+- [LangWatch](https://github.com/langwatch/langwatch): Plataforma de observabilidad y evaluación de aplicaciones y agentes de IA, con trazas, pruebas, gestión de prompts y controles de costes y acceso.
+- [Quicksand](https://github.com/microsoft/quicksand): API asíncrona de Python para ejecutar agentes de IA en máquinas virtuales QEMU, con control de comandos, directorios compartidos, red y guardado del estado.
+- [diff-tour](https://github.com/init-co-jp/diff-tour): Interfaz de terminal que utiliza agentes de IA para convertir cambios de Git en recorridos guiados con explicaciones, preguntas y referencias al código.
+- [OpenQodex](https://github.com/openqodex/openqodex): Herramienta de revisión de código que combina analizadores estáticos con un revisor independiente de IA para evaluar cambios antes de enviarlos al repositorio remoto.
 - [ChatGPT](https://chatgpt.com/): El modelo de lenguaje a gran escala de OpenAI que revolucionó la interacción con la IA.
 - [Gemini](https://gemini.google.com/): La IA más avanzada de Google, integrada en su ecosistema y disponible mediante CLI.
 - [GLM](https://chat.z.ai/): Modelo de lenguaje bilingüe de alto rendimiento desarrollado por Zhipu AI.
@@ -1204,7 +1249,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [xberg](https://docs.xberg.io/): Framework políglota con núcleo en Rust para extracción inteligente de texto e información estructurada.
 - [qm](https://github.com/yc-software/qm): Entorno de desarrollo y orquestación multi-agente para flujos de trabajo colaborativos.
 - [autoharness](https://github.com/tigerless-labs/autoharness): Capa de habilidades con autoaprendizaje para Claude Code que extrae nuevos comandos de tus sesiones.
-- [Graft](https://github.com/trailhq/Graft): Herramienta para optimizar el rendimiento y comprensión contextual de agentes de codificación.
+- [Graft](https://github.com/trailhq/Trail-Code): Herramienta para optimizar el rendimiento y comprensión contextual de agentes de codificación.
 - [chatbot-template](https://github.com/shadcn-ui/chatbot-template): Plantilla minimalista de chatbot para Next.js integrada con Vercel AI SDK.
 - [cactus](https://cactuscompute.com/): Motor de IA de baja latencia diseñado para dispositivos móviles y wearables.
 - [langchainjs](https://github.com/langchain-ai/langchainjs): Plataforma integral de ingeniería para la creación de agentes autónomos.
@@ -1305,7 +1350,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi): Proxy de API compatible con OpenAI que centraliza y rota claves gratuitas de 14 proveedores de LLM, con failover automático y cifrado AES-256.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI): Estudio de IA generativa autoalojable y open-source con Next.js y Electron que unifica la generación de imagen, video y sincronización labial para más de 200 modelos.
 - [Context7](https://context7.com/): Herramienta inteligente diseñada para simplificar y automatizar la gestión y estructuración de contextos complejos en interacciones con modelos de lenguaje grandes.
-- [Midscene.js](https://midscenejs.com/): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
+- [Midscene.js](https://midscenejs.com/introduction): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
 - [agent-skills-platform](https://github.com/FrancyJGLisboa/agent-skills-platform): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill): Herramienta que analiza textos y libros técnicos para extraer conocimiento estructurado y convertirlo de forma automatizada en habilidades prácticas ejecutables por agentes de IA.
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill): Archivo de habilidad (skill) para agentes de IA optimizado para estructurar y redactar prompts de alta calidad para el modelo de generación de video Jimeng Seedance 2.0 de ByteDance.
