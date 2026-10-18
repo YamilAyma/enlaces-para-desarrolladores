@@ -363,6 +363,11 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [uv](https://github.com/astral-sh/uv): Gestor de paquetes y proyectos Python que administra dependencias, entornos y versiones de Python, y permite ejecutar scripts y herramientas.
+- [fd](https://github.com/sharkdp/fd): Herramienta de terminal para buscar archivos y directorios mediante expresiones regulares o patrones glob, con respeto de las reglas de .gitignore.
+- [Ruff](https://github.com/astral-sh/ruff): Analizador y formateador de código Python con reglas de calidad, correcciones automáticas, organización de importaciones e integración con editores.
+- [eza](https://github.com/eza-community/eza): Alternativa al comando ls para listar archivos con colores, metadatos, información de enlaces simbólicos y estado de Git, con temas personalizables.
+
 - [Lazydocker](https://github.com/jesseduffield/lazydocker): Interfaz de terminal para gestionar Docker y Docker Compose, consultar registros y ejecutar comandos habituales o personalizados.
 - [Bun](https://github.com/oven-sh/bun): Conjunto de herramientas para JavaScript y TypeScript que integra entorno de ejecución, empaquetador, ejecutor de pruebas y gestor de paquetes.
 - [Delta](https://github.com/dandavison/delta): Visor de terminal para salidas de Git, diff y grep con resaltado de sintaxis, comparación en paralelo y visualización de conflictos de fusión.
@@ -1224,6 +1229,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [dev.css](https://tangled.org/devins.page/dev.css/): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 
 ### 🏠 Self-Hosted (Autoalojado)
+
+- [Strapi](https://github.com/strapi/strapi): CMS desacoplado y autoalojable que permite definir modelos de contenido visualmente y generar APIs REST y GraphQL, con gestión de permisos y archivos multimedia.
+- [Supabase](https://github.com/supabase/supabase): Plataforma autoalojable basada en PostgreSQL que integra autenticación, APIs automáticas, suscripciones en tiempo real, funciones y almacenamiento de archivos.
 
 - [Typesense](https://github.com/typesense/typesense): Motor de búsqueda con tolerancia a errores tipográficos, filtros, facetas, ordenación y consultas sobre múltiples colecciones.
 
