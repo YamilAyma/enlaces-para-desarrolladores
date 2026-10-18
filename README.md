@@ -214,6 +214,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### APIs:
 
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine): Motor para exponer datos mediante una API GraphQL con control de acceso y conectores para distintas bases de datos.
+
 - [PostgREST](https://github.com/PostgREST/postgrest): Genera una API REST desde una base de datos PostgreSQL existente, con autenticación mediante JWT y documentación OpenAPI.
 
 - [Meilisearch](https://github.com/meilisearch/meilisearch): Motor de búsqueda con API REST que combina búsqueda semántica y de texto completo, tolerancia a errores tipográficos, filtros y facetas.
@@ -360,6 +362,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 
 ### 🛠️ HERRAMIENTAS:
+
+- [Lazydocker](https://github.com/jesseduffield/lazydocker): Interfaz de terminal para gestionar Docker y Docker Compose, consultar registros y ejecutar comandos habituales o personalizados.
+- [Bun](https://github.com/oven-sh/bun): Conjunto de herramientas para JavaScript y TypeScript que integra entorno de ejecución, empaquetador, ejecutor de pruebas y gestor de paquetes.
+- [Delta](https://github.com/dandavison/delta): Visor de terminal para salidas de Git, diff y grep con resaltado de sintaxis, comparación en paralelo y visualización de conflictos de fusión.
 
 - [Playwright](https://github.com/microsoft/playwright): Framework para automatizar navegadores y ejecutar pruebas de extremo a extremo en Chromium, Firefox y WebKit con una misma API.
 - [Turborepo](https://github.com/vercel/turborepo): Sistema de compilación escrito en Rust y optimizado para proyectos JavaScript y TypeScript, incluidos monorepos.
@@ -782,6 +788,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Whimsically](https://www.whimsically.app/): Loaders bonitos y agradables con sonido que puedes copiar y pegar, con soporte de React.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+
+- [AutoAnimate](https://github.com/formkit/auto-animate): Biblioteca para añadir transiciones a interfaces web sin configuración, compatible con React, Vue, Solid y otras aplicaciones JavaScript.
 
 - [Fastify](https://github.com/fastify/fastify): Framework web para Node.js con arquitectura de plugins para crear servidores y definir rutas HTTP.
 
@@ -1216,6 +1224,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [dev.css](https://tangled.org/devins.page/dev.css/): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 
 ### 🏠 Self-Hosted (Autoalojado)
+
+- [Typesense](https://github.com/typesense/typesense): Motor de búsqueda con tolerancia a errores tipográficos, filtros, facetas, ordenación y consultas sobre múltiples colecciones.
 
 - [MinIO](https://github.com/minio/minio): Servidor de almacenamiento de objetos compatible con S3 para despliegues propios; el repositorio indica que ya no recibe mantenimiento y su edición comunitaria se distribuye como código fuente.
 - [Traefik](https://github.com/traefik/traefik): Proxy inverso HTTP y balanceador de carga que descubre servicios en Docker, Kubernetes y otros entornos y actualiza sus rutas automáticamente.
