@@ -363,6 +363,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [REA](https://github.com/morluto/rea): Herramientas de ingeniería inversa mediante MCP o terminal para analizar binarios nativos, aplicaciones JavaScript y Electron, ensamblados .NET y sitios web.
+
 - [Markdy](https://github.com/HoangYell/markdy-com): Herramienta para crear diagramas de arquitectura animados a partir de texto y recorrer paso a paso solicitudes, respuestas y eventos del sistema.
 
 - [uv](https://github.com/astral-sh/uv): Gestor de paquetes y proyectos Python que administra dependencias, entornos y versiones de Python, y permite ejecutar scripts y herramientas.
@@ -795,6 +797,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Whimsically](https://www.whimsically.app/): Loaders bonitos y agradables con sonido que puedes copiar y pegar, con soporte de React.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+
+- [Hono](https://github.com/honojs/hono): Framework web basado en estándares web, con soporte para TypeScript y middleware, que funciona en Node.js, Bun, Deno y plataformas de ejecución en la nube.
+- [htmx](https://github.com/bigskysoftware/htmx): Biblioteca que permite usar AJAX, transiciones CSS, WebSockets y eventos enviados por el servidor mediante atributos HTML para crear interfaces interactivas.
+- [Bubble Tea](https://github.com/charmbracelet/bubbletea): Framework de Go basado en la arquitectura Elm para crear interfaces de terminal con gestión de estado, vistas declarativas y manejo de teclado y ratón.
 
 - [dompdf.js](https://github.com/lmn1919/dompdf.js): Biblioteca para convertir elementos HTML en PDF con texto vectorial seleccionable y buscable desde el navegador, con paginación, fuentes personalizadas y formularios.
 
@@ -1281,6 +1287,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Feloxi](https://github.com/thesaadmirza/feloxi): Plataforma de monitoreo autoalojada y de código abierto para colas de tareas Celery. Escrita en Rust y Next.js, utiliza ClickHouse y no requiere SDK ni agentes.
 
 ### 🤖 IA
+
+- [NVIDIA Run:ai](https://github.com/dsx-ai-factory/run-ai): Plataforma para orquestar cargas de IA en Kubernetes, distribuir recursos GPU entre equipos y supervisar varios clústeres desde un control central.
+- [Talorys](https://github.com/rociiu/talorys): Asistente personal de IA desplegable en tu cuenta de Cloudflare, con chat, memoria editable, tareas, notas, proyectos y recordatorios programados.
 
 - [Anatomy](https://github.com/wheresryan22/anatomy): Skill para agentes que explica conceptos técnicos mediante ilustraciones isométricas interactivas con SVG, WebGL y efectos 3D.
 - [LangWatch](https://github.com/langwatch/langwatch): Plataforma de observabilidad y evaluación de aplicaciones y agentes de IA, con trazas, pruebas, gestión de prompts y controles de costes y acceso.
