@@ -49,7 +49,9 @@ exclude = [
   'https://www\.rareui\.com/.*',
   'https://assetpro\.design/.*',
   'https://floatui\.com/.*',
-  'https://saaspo\.com/.*'
+  'https://saaspo\.com/.*',
+  'https://towardsdatascience\.com/.*',
+  'https://www\.tints\.dev/.*'
 ]
 
 # Códigos de estado HTTP aceptables
