@@ -363,6 +363,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [hyperfine](https://github.com/sharkdp/hyperfine): Herramienta de línea de comandos para comparar rendimiento con análisis estadístico, ejecuciones de calentamiento y exportación de resultados.
+- [Zed](https://github.com/zed-industries/zed): Editor de código con edición colaborativa disponible para macOS, Linux y Windows.
+
 - [REA](https://github.com/morluto/rea): Herramientas de ingeniería inversa mediante MCP o terminal para analizar binarios nativos, aplicaciones JavaScript y Electron, ensamblados .NET y sitios web.
 
 - [Markdy](https://github.com/HoangYell/markdy-com): Herramienta para crear diagramas de arquitectura animados a partir de texto y recorrer paso a paso solicitudes, respuestas y eventos del sistema.
@@ -731,6 +734,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🌐 WEB:
 
+- [Docusaurus](https://github.com/facebook/docusaurus): Generador de sitios web para proyectos con documentación, blog, soporte de traducciones y páginas personalizables.
+
 - [Web Interface Guidelines](https://interfaces.rauno.me/): Lista curada de detalles e interacciones que elevan la calidad de una interfaz web.
 - [Invisible Details](https://rauno.me/craft/interaction-design): Análisis sobre los detalles sutiles que hacen que las interacciones digitales sean naturales.
 - [Details That Make Interfaces Feel Better](https://jakub.kr/writing/details-that-make-interfaces-feel-better): Selección de micro-interacciones y detalles que mejoran la experiencia en la web.
@@ -796,6 +801,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Whimsically](https://www.whimsically.app/): Loaders bonitos y agradables con sonido que puedes copiar y pegar, con soporte de React.
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
+
+- [Prisma ORM](https://github.com/prisma/orm): ORM para Node.js y TypeScript con herramientas para integrar bases de datos en aplicaciones nuevas o existentes.
 
 - [Hono](https://github.com/honojs/hono): Framework web basado en estándares web, con soporte para TypeScript y middleware, que funciona en Node.js, Bun, Deno y plataformas de ejecución en la nube.
 - [htmx](https://github.com/bigskysoftware/htmx): Biblioteca que permite usar AJAX, transiciones CSS, WebSockets y eventos enviados por el servidor mediante atributos HTML para crear interfaces interactivas.
@@ -1238,6 +1245,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🏠 Self-Hosted (Autoalojado)
 
+- [Keycloak](https://github.com/keycloak/keycloak): Servidor de gestión de identidades y acceso con autenticación, federación de usuarios y autorización detallada para aplicaciones y servicios.
+
 - [Cap](https://github.com/tiagozip/cap): Alternativa autoalojada a CAPTCHA que ejecuta desafíos de prueba de trabajo e instrumentación en segundo plano en el navegador, sin rompecabezas ni rastreo.
 
 - [Strapi](https://github.com/strapi/strapi): CMS desacoplado y autoalojable que permite definir modelos de contenido visualmente y generar APIs REST y GraphQL, con gestión de permisos y archivos multimedia.
@@ -1285,6 +1294,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Feloxi](https://github.com/thesaadmirza/feloxi): Plataforma de monitoreo autoalojada y de código abierto para colas de tareas Celery. Escrita en Rust y Next.js, utiliza ClickHouse y no requiere SDK ni agentes.
 
 ### 🤖 IA
+
+- [decider](https://github.com/Mapika/decider): Familia de modelos que responde preguntas con opciones predefinidas y devuelve distribuciones de probabilidad en una sola pasada.
 
 - [NVIDIA Run:ai](https://github.com/dsx-ai-factory/run-ai): Plataforma para orquestar cargas de IA en Kubernetes, distribuir recursos GPU entre equipos y supervisar varios clústeres desde un control central.
 - [Talorys](https://github.com/rociiu/talorys): Asistente personal de IA desplegable en tu cuenta de Cloudflare, con chat, memoria editable, tareas, notas, proyectos y recordatorios programados.
