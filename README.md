@@ -363,6 +363,13 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Helix](https://github.com/helix-editor/helix): Editor de texto modal para terminal con selecciones múltiples, soporte integrado de servidores de lenguaje y resaltado de sintaxis mediante Tree-sitter.
+- [OpenTofu](https://github.com/opentofu/opentofu): Herramienta de infraestructura como código para definir y versionar recursos mediante configuraciones declarativas, previsualizar cambios y automatizar su aplicación.
+- [Dagger](https://github.com/dagger/dagger): Motor para automatizar compilaciones, pruebas y entregas mediante funciones que orquestan contenedores, con caché incremental y ejecución local, en CI o en la nube.
+- [Podman](https://github.com/podman-container-tools/podman): Herramienta para gestionar contenedores OCI, imágenes, volúmenes y grupos de contenedores, con ejecución sin privilegios y una interfaz de comandos compatible con Docker.
+- [WezTerm](https://github.com/wezterm/wezterm): Emulador y multiplexor de terminal multiplataforma, acelerado por GPU y escrito en Rust.
+- [Litestream](https://github.com/benbjohnson/litestream): Herramienta de recuperación para SQLite que replica cambios de forma incremental en segundo plano hacia otro archivo o S3.
+
 - [hyperfine](https://github.com/sharkdp/hyperfine): Herramienta de línea de comandos para comparar rendimiento con análisis estadístico, ejecuciones de calentamiento y exportación de resultados.
 - [Zed](https://github.com/zed-industries/zed): Editor de código con edición colaborativa disponible para macOS, Linux y Windows.
 
@@ -1244,6 +1251,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [dev.css](https://tangled.org/devins.page/dev.css/): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 
 ### 🏠 Self-Hosted (Autoalojado)
+
+- [Gitea](https://github.com/go-gitea/gitea): Plataforma autoalojada de desarrollo con alojamiento Git, revisión de código, seguimiento de incidencias, registro de paquetes y CI/CD.
 
 - [Keycloak](https://github.com/keycloak/keycloak): Servidor de gestión de identidades y acceso con autenticación, federación de usuarios y autorización detallada para aplicaciones y servicios.
 
