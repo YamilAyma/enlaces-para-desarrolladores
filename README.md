@@ -230,6 +230,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🖥️ Técnico:
 
+- [ReactOS](https://github.com/reactos/reactos): Sistema operativo en fase alfa que busca compatibilidad con aplicaciones y controladores de la familia Windows NT.
+
 - [Baoyu Skills](https://github.com/JimLiu/baoyu-skills): Habilidades compartidas por Baoyu para mejorar la eficiencia en el trabajo diario con Claude Code.
 - [AI Agents Skills](https://github.com/hoodini/ai-agents-skills): Colección curada de habilidades especializadas para agentes de codificación.
 - [Vercel Labs Agent Skills](https://github.com/vercel-labs/agent-skills): Habilidades empaquetadas para agentes de IA siguiendo el formato estándar de Agent Skills.
@@ -362,6 +364,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 
 ### 🛠️ HERRAMIENTAS:
+
+- [pgcli](https://github.com/dbcli/pgcli): Cliente de PostgreSQL para la terminal con autocompletado y resaltado de sintaxis.
+- [Glow](https://github.com/charmbracelet/glow): Lector de Markdown para la terminal que permite explorar archivos locales y visualizar documentos desde archivos o la entrada estándar.
 
 - [Helix](https://github.com/helix-editor/helix): Editor de texto modal para terminal con selecciones múltiples, soporte integrado de servidores de lenguaje y resaltado de sintaxis mediante Tree-sitter.
 - [OpenTofu](https://github.com/opentofu/opentofu): Herramienta de infraestructura como código para definir y versionar recursos mediante configuraciones declarativas, previsualizar cambios y automatizar su aplicación.
@@ -1303,6 +1308,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Feloxi](https://github.com/thesaadmirza/feloxi): Plataforma de monitoreo autoalojada y de código abierto para colas de tareas Celery. Escrita en Rust y Next.js, utiliza ClickHouse y no requiere SDK ni agentes.
 
 ### 🤖 IA
+
+- [Social Media Research Skills](https://github.com/ScrapeCreators/social-media-research-skills): Colección de habilidades para agentes de IA que investigan redes sociales mediante análisis de publicaciones, comentarios, transcripciones, competidores y anuncios con la API de ScrapeCreators.
+- [AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge): Sistema de agentes de IA para analizar mercados, evaluar riesgos y ejecutar operaciones en Solana.
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio): Aplicación con ejecución local para clonar y diseñar voces, doblar vídeos, transcribir audio y crear audiolibros.
 
 - [decider](https://github.com/Mapika/decider): Familia de modelos que responde preguntas con opciones predefinidas y devuelve distribuciones de probabilidad en una sola pasada.
 
