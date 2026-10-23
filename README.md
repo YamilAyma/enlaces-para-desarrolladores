@@ -365,6 +365,14 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Nushell](https://github.com/nushell/nushell): Shell moderna y multiplataforma escrita en Rust que procesa datos de comandos como tablas y estructuras tipadas.
+- [Alacritty](https://github.com/alacritty/alacritty): Emulador de terminal acelerado por GPU enfocado en la simplicidad, velocidad de renderizado y bajo consumo de recursos.
+- [Neovim](https://github.com/neovim/neovim): Editor de texto modal extensible basado en Vim con soporte nativo para Lua, Tree-sitter y protocolo LSP.
+- [DuckDB](https://github.com/duckdb/duckdb): Sistema de gestión de bases de datos analíticas SQL embebido y en memoria de alto rendimiento para procesamiento OLAP.
+- [Vale](https://github.com/errata-ai/vale): Linter de documentación y prosa técnica basado en reglas que permite verificar y hacer cumplir guías de estilo editorial.
+- [direnv](https://github.com/direnv/direnv): Extensión de shell que carga y descarga variables de entorno automáticamente al entrar o salir de directorios de proyecto.
+- [btop](https://github.com/aristocratos/btop): Monitor de recursos del sistema para terminal con interfaz gráfica TUI interactiva para CPU, memoria, discos y redes.
+
 - [pgcli](https://github.com/dbcli/pgcli): Cliente de PostgreSQL para la terminal con autocompletado y resaltado de sintaxis.
 - [Glow](https://github.com/charmbracelet/glow): Lector de Markdown para la terminal que permite explorar archivos locales y visualizar documentos desde archivos o la entrada estándar.
 
@@ -745,6 +753,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [HTML as a programming language](https://github.com/HTML-as-programming-language/HTML-as-programming-language): Un compilador y set de herramientas satírico pero completamente funcional que permite escribir lógica compleja utilizando etiquetas HTML y XML.
 
 ### 🌐 WEB:
+
+- [Hugo](https://github.com/gohugoio/hugo): Generador de sitios web estáticos ultrarrápido escrito en Go con tiempos de compilación casi instantáneos.
 
 - [Docusaurus](https://github.com/facebook/docusaurus): Generador de sitios web para proyectos con documentación, blog, soporte de traducciones y páginas personalizables.
 
