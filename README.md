@@ -373,6 +373,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [direnv](https://github.com/direnv/direnv): Extensión de shell que carga y descarga variables de entorno automáticamente al entrar o salir de directorios de proyecto.
 - [btop](https://github.com/aristocratos/btop): Monitor de recursos del sistema para terminal con interfaz gráfica TUI interactiva para CPU, memoria, discos y redes.
 
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark): Script Bash con licencia MIT que mide en aproximadamente un minuto la CPU y la memoria de un servidor Linux con sysbench y las IOPS de lectura y escritura aleatoria 4k con fio, sin enviar datos a ningún sitio salvo que se le pase un token de subida.
 - [pgcli](https://github.com/dbcli/pgcli): Cliente de PostgreSQL para la terminal con autocompletado y resaltado de sintaxis.
 - [Glow](https://github.com/charmbracelet/glow): Lector de Markdown para la terminal que permite explorar archivos locales y visualizar documentos desde archivos o la entrada estándar.
 
