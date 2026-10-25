@@ -74,7 +74,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Tools UI](https://tools.ui-layouts.com/): Librería de componentes y herramientas para diseño de interfaces de usuario.
 - [Tool UI](https://www.assistant-ui.com/elements): Biblioteca de componentes especializada en la creación de herramientas internas y paneles de administración de forma rápida.
 - [Programming Fonts](https://www.programmingfonts.org/): Catálogo interactivo para probar y elegir tipografías para programadores.
-- [Resourcle](https://resourcle.com/): Un "pack de packs" que recopila las mejores listas de recursos para devs.
 - [GitHub Issue Templates](https://github.com/stevemao/github-issue-templates): Plantillas listas para usar en tus reportes de errores y sugerencias.
 - [CSS Image Effects](https://prismic.io/blog/css-image-effects): Tutorial de Prismic sobre cómo crear efectos visuales en imágenes usando solo CSS.
 - [Frutiger Aero Wallpapers](https://imgur.com/a/over-50-frutiger-aero-wallpapers-2008ify-pc-py02bp7): Colección nostálgica de fondos de pantalla con estética Frutiger Aero.
@@ -88,7 +87,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Vertex42 Templates](https://www.vertex42.com/): Plantillas profesionales para documentos de Word y hojas de cálculo.
 - [1001 Fonts](https://www.1001fonts.com/): Repositorio con miles de fuentes gratuitas listas para descargar y usar.
 - [3D Icons](https://www.3dicons.com/): Set de iconos 3D gratuitos y de alta calidad para interfaces modernas.
-- [Unheap](https://www.unheap.com/): Un catálogo categorizado de plugins de jQuery y componentes web clásicos.
 - [Branding Website](https://www.brandingwebsite.com/): Galería de inspiración enfocada específicamente en sitios web de branding.
 - [Pixelums Wallpapers](https://www.pixelums.com/): Fondos de pantalla minimalistas y artísticos en alta resolución.
 - [Pixels Market](https://pixels.market/): Repositorio de ilustraciones gratuitas para proyectos comerciales y personales.
@@ -369,7 +367,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Alacritty](https://github.com/alacritty/alacritty): Emulador de terminal acelerado por GPU enfocado en la simplicidad, velocidad de renderizado y bajo consumo de recursos.
 - [Neovim](https://github.com/neovim/neovim): Editor de texto modal extensible basado en Vim con soporte nativo para Lua, Tree-sitter y protocolo LSP.
 - [DuckDB](https://github.com/duckdb/duckdb): Sistema de gestión de bases de datos analíticas SQL embebido y en memoria de alto rendimiento para procesamiento OLAP.
-- [Vale](https://github.com/errata-ai/vale): Linter de documentación y prosa técnica basado en reglas que permite verificar y hacer cumplir guías de estilo editorial.
+- [Vale](https://github.com/vale-cli/vale): Linter de documentación y prosa técnica basado en reglas que permite verificar y hacer cumplir guías de estilo editorial.
 - [direnv](https://github.com/direnv/direnv): Extensión de shell que carga y descarga variables de entorno automáticamente al entrar o salir de directorios de proyecto.
 - [btop](https://github.com/aristocratos/btop): Monitor de recursos del sistema para terminal con interfaz gráfica TUI interactiva para CPU, memoria, discos y redes.
 
@@ -612,7 +610,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [LLM RAM Calc](https://llm-calc.rayfernando.ai/?quant=fp16): Calculadora para estimar la memoria RAM necesaria para ejecutar modelos LLM locales.
 - [Tally](https://tally.so/): El creador de formularios online más sencillo, gratuito y con una interfaz similar a Notion.
 - [UI Kits](https://uikits.design/): Directorio de kits de interfaz de usuario gratuitos y recursos de diseño.
-- [htaccess Redirect](https://www.htaccessredirect.net/): Generador visual de reglas de redirección para archivos de configuración de Apache.
 - [VTable](https://github.com/VisActor/VTable): Librería de alto rendimiento para renderizar tablas multidimensionales y complejas.
 - [CompressX](https://compresto.app/?aff=nyLmN): Potente herramienta de compresión de videos sin pérdida perceptible de calidad.
 - [ScreenshotOne](https://screenshotone.com/): API robusta para capturar capturas de pantalla de sitios web a escala.
@@ -932,7 +929,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Myna UI](https://mynaui.com/): Kit de diseño completo con componentes modernos y una estética de pájaro minimalista.
 - [Intent UI](https://intentui.com/): Sistema de diseño enfocado en la intención del usuario y la claridad visual.
 - [MotifyX](https://jatin-yadav05.github.io/MotifyX/): Colección de patrones CSS modernos para crear fondos visualmente atractivos.
-- [Tailwind Layouts (Laloka)](https://layoutsfortailwind.lalokalabs.dev/): Directorio de layouts y estructuras de cajas listas para usar con Tailwind.
 - [Waveform Renderer](https://github.com/maximux13/waveform-renderer): Utilidad para generar visualizaciones de ondas de sonido a partir de archivos de audio.
 - [TailwindFlex](https://tailwindflex.com/): Repositorio masivo de componentes y elementos web construidos exclusivamente con Tailwind.
 - [Ant Design X](https://x.ant.design/): La extensión oficial de Ant Design para construir interfaces de usuario impulsadas por IA.
@@ -1088,7 +1084,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 ### 📚 DOCUMENTACIÓN UTIL
 
 - [Catalogue IF](https://catalogue.projectsbyif.com/): IF selecciona cuidadosamente este catálogo para ayudar a los equipos a diseñar servicios confiables que sean útiles para los usuarios.
-- [Design Prompts](https://www.designprompts.dev/): Colección de prompts especializados para generar diseños de interfaces de usuario con IA.
+- [Design Prompts](https://designprompts.dev/): Colección de prompts especializados para generar diseños de interfaces de usuario con IA.
 - [CSS Properties](https://nikolai-shabalin.github.io/css-properties/en/): Referencia completa y detallada sobre todas las propiedades CSS y sus posibles valores.
 - [The Component Gallery](https://component.gallery/): Directorio de referencia que recopila componentes de interfaz de usuario de sistemas de diseño reales.
 - [Scroll-Driven Animations](https://scroll-driven-animations.style/): Guía y ejemplos interactivos sobre cómo crear animaciones basadas en el scroll usando CSS.
@@ -1234,7 +1230,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [JavaScript Weekly](https://javascriptweekly.com/): La newsletter de JavaScript más conocida con noticias y tutoriales semanales.
 - [ECMAScript News](https://ecmascript.news/index.html): Actualizaciones de última hora sobre las nuevas especificaciones de JavaScript.
 - [NextRoll Tech Blog](https://tech.nextroll.com/blog/): Blog de ingeniería con foco en sistemas distribuidos, datos y ad-tech.
-- [Vue.js Feed](https://vuejsfeed.com/): El lugar central para encontrar noticias, tutoriales y componentes de Vue.js.
 - [Node Weekly](https://nodeweekly.com/): La newsletter semanal definitiva para desarrolladores de Node.js.
 - [React Status](https://react.statuscode.com/): Resumen semanal con lo último en el ecosistema de React y React Native.
 - [PHP Weekly](https://www.phpweekly.com/): Newsletter semanal con las noticias y tutoriales más frescos sobre PHP.
@@ -1456,7 +1451,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi): Proxy de API compatible con OpenAI que centraliza y rota claves gratuitas de 14 proveedores de LLM, con failover automático y cifrado AES-256.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI): Estudio de IA generativa autoalojable y open-source con Next.js y Electron que unifica la generación de imagen, video y sincronización labial para más de 200 modelos.
 - [Context7](https://context7.com/): Herramienta inteligente diseñada para simplificar y automatizar la gestión y estructuración de contextos complejos en interacciones con modelos de lenguaje grandes.
-- [Midscene.js](https://midscenejs.com/introduction): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
+- [Midscene.js](https://midscenejs.com/): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
 - [agent-skills-platform](https://github.com/FrancyJGLisboa/agent-skills-platform): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill): Herramienta que analiza textos y libros técnicos para extraer conocimiento estructurado y convertirlo de forma automatizada en habilidades prácticas ejecutables por agentes de IA.
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill): Archivo de habilidad (skill) para agentes de IA optimizado para estructurar y redactar prompts de alta calidad para el modelo de generación de video Jimeng Seedance 2.0 de ByteDance.
