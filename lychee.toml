@@ -51,7 +51,8 @@ exclude = [
   'https://floatui\.com/.*',
   'https://saaspo\.com/.*',
   'https://towardsdatascience\.com/.*',
-  'https://www\.tints\.dev/.*'
+  'https://www\.tints\.dev/.*',
+  'https://yesicon\.app/.*'
 ]
 
 # Códigos de estado HTTP aceptables
