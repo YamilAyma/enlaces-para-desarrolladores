@@ -193,7 +193,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 📄 LISTAS
 
-- [Startups Graveyard](https://www.loot-drop.io/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.
+[ Startups Graveyard](https://www.loot-drop.io/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.
 - [STARTUPS G-Sheet](https://docs.google.com/spreadsheets/u/0/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/htmlview): Hoja de cálculo colaborativa con miles de startups y sus detalles.
 - [State of JS](https://2024.stateofjs.com/en-US/libraries/): El reporte anual definitivo sobre las tendencias, librerías y estado actual de JavaScript.
 - [Actually Free APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/): Lista de APIs realmente gratuitas, abiertas y que no requieren autenticación.
