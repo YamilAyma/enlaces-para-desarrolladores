@@ -189,11 +189,11 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins): Repositorio oficial de Anthropic con plugins de código abierto diseñados para potenciar la productividad y automatización de tareas en Claude.
 - [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills): Colección de 754 habilidades estructuradas de ciberseguridad para agentes de IA (como Claude Code), mapeadas bajo marcos de la industria como MITRE ATT&CK y NIST.
 - [Turtletoy](https://turtletoy.net/): Plataforma para crear arte codificado a mano y trazable en línea mediante una API gráfica de JavaScript Turtle.
-- - [DebutPin](https://debutpin.com): Plataforma gratuita de lanzamiento para makers indie: publica tu producto, consigue votos y colecciona pins permanentes.
+-  [DebutPin](https://debutpin.com): Plataforma gratuita de lanzamiento para makers indie: publica tu producto, consigue votos y colecciona pins permanentes.
 
 ### 📄 LISTAS
 
-[ Startups Graveyard](https://www.loot-drop.io/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.
+- [Startups Graveyard](https://www.loot-drop.io/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.
 - [STARTUPS G-Sheet](https://docs.google.com/spreadsheets/u/0/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/htmlview): Hoja de cálculo colaborativa con miles de startups y sus detalles.
 - [State of JS](https://2024.stateofjs.com/en-US/libraries/): El reporte anual definitivo sobre las tendencias, librerías y estado actual de JavaScript.
 - [Actually Free APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/): Lista de APIs realmente gratuitas, abiertas y que no requieren autenticación.
