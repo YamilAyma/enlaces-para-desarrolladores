@@ -189,6 +189,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins): Repositorio oficial de Anthropic con plugins de código abierto diseñados para potenciar la productividad y automatización de tareas en Claude.
 - [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills): Colección de 754 habilidades estructuradas de ciberseguridad para agentes de IA (como Claude Code), mapeadas bajo marcos de la industria como MITRE ATT&CK y NIST.
 - [Turtletoy](https://turtletoy.net/): Plataforma para crear arte codificado a mano y trazable en línea mediante una API gráfica de JavaScript Turtle.
+-  [DebutPin](https://debutpin.com): Plataforma gratuita de lanzamiento para makers indie: publica tu producto, consigue votos y colecciona pins permanentes.
 
 ### 📄 LISTAS
 
