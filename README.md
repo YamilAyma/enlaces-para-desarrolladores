@@ -735,6 +735,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Xata](https://github.com/xataio/xata): Plataforma de base de datos serverless basada en PostgreSQL con búsqueda integrada y analíticas.
 - [Coolify](https://github.com/coollabsio/coolify): Alternativa de código abierto a Vercel, Netlify o Heroku. Permite alojar aplicaciones, bases de datos y servicios en tus propios servidores.
 - [Findfont](https://www.findfont.co/): Permite explorar y comparar más de 5000 fuentes gratuitas seleccionadas en más de 50 categorías, con la posibilidad de comparar hasta 10 fuentes en la misma vista.
+- [deed.page](https://deed.page): Hosting estático para agentes de IA y desarrolladores. Publica un HTML o una carpeta con una sola petición HTTP PUT o mediante un servidor MCP remoto y obtén una URL HTTPS en vivo. Plan gratuito sin registro: 25 sitios, 25 MB por sitio.
 
 ### 🤗 RELAX:
 
