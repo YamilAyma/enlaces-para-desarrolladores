@@ -18,14 +18,14 @@ jobs:
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
           cat > /tmp/bienvenida.md <<'EOF'
-          ¡Hola! 👋
+          Hey there! 👋
 
-          Gracias por compartir una herramienta con nuestra comunidad de desarrolladores.
+          Thanks for sharing your tool with our developer community!
 
-          Si te gusta la iniciativa, te invitamos a dejar una ⭐ en el [repositorio](https://github.com/YamilAyma/enlaces-para-desarrolladores). Ese pequeño gesto nos ayuda a llegar a más desarrolladores y a dar mayor visibilidad a las herramientas compartidas, incluida la tuya.
+          If you find this project useful, consider giving the [repository](https://github.com/YamilAyma/enlaces-para-desarrolladores) a ⭐. It helps more developers discover this collection and gives tools like yours a chance to reach a wider audience.
 
-          La estrella es opcional y no condiciona la revisión de tu contribución.
+          Starring is completely optional and won't affect the review of your contribution.
 
-          ¡Gracias por aportar! 🚀
+          Thanks for being part of the community! 🚀
           EOF
           gh api "repos/$REPO/issues/$PR_NUMBER/comments" -f body="$(cat /tmp/bienvenida.md)"
