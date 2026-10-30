@@ -1535,6 +1535,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Design Systems Surf](https://designsystems.surf/): Directorio para explorar y navegar a través de sistemas de diseño de empresas líderes.
 - [a1 Gallery](https://www.a1.gallery/): Galería de diseño web minimalista y brutalista que desafía las convenciones modernas.
 - [Refero](https://refero.design/): Enorme base de datos de capturas de pantalla de interfaces de usuario de las mejores apps del mundo.
+- [APPLORE](https://applore.app/): Biblioteca de inspiración con más de 18.000 iconos reales de App Store y Google Play, con todas sus versiones anteriores archivadas.
 - [sleek.design](https://sleek.design/references): Plataforma de inspiración que ofrece una colección curada de referencias de diseño de aplicaciones y layouts de alta calidad.
 - [Viewport UI](https://viewportui.com/): Colección de componentes UI enfocada en la usabilidad y el diseño responsivo.
 - [Same Energy](https://same.energy/): Buscador visual de imágenes basado en la estética y el sentimiento, perfecto para moodboards.
