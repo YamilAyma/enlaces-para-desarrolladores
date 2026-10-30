@@ -20,5 +20,7 @@
 - [ ] El enlace utiliza el formato `- [Nombre](URL)`.
 - [ ] He comprobado que el enlace funciona y no da error 404.
 - [ ] No contiene publicidad invasiva ni elementos maliciosos.
-- [ ] He dejado una estrellita ⭐ al repositorio para apoyar el proyecto.
+- [ ] (Opcional) He dejado una ⭐ al repositorio para apoyar la comunidad.
+
+> ⭐ **Apoya esta comunidad (opcional):** Si el repositorio te resulta útil, considera dejar una [estrella](https://github.com/YamilAyma/enlaces-para-desarrolladores). Ayuda a que más desarrolladores descubran esta colección y las herramientas que compartimos, incluida la tuya. No es un requisito para aceptar tu contribución.
 - [ ] El PR está redactado en español.
