@@ -729,6 +729,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Cate](https://cate.cero-ai.com/): Un lienzo con zoom infinito para programar. Paneles de editor, terminal y navegador en un espacio de trabajo espacial.
 - [SVG dot icon animator](https://konverthq.com/tools/svg-to-dot-animation): Animador de iconos svg pero con puntitos.
 
+- [Glim](https://github.com/NeoPanic/Glim): Visor de archivos para macOS escrito en Rust, con vistas de Markdown, código, JSON, CSV y diferencias de Git, además de edición básica de texto UTF-8.
+
 #### Despliegue:
 
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
