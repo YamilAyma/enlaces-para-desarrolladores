@@ -1,0 +1,31 @@
+name: Bienvenida a nuevas PR
+
+on:
+  pull_request_target:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  bienvenida:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comentar en la PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          cat > /tmp/bienvenida.md <<'EOF'
+          Hey there! 👋
+
+          Thanks for sharing your tool with our developer community!
+
+          If you find this project useful, consider giving the [repository](https://github.com/YamilAyma/enlaces-para-desarrolladores) a ⭐. It helps more developers discover this collection and gives tools like yours a chance to reach a wider audience.
+
+          Starring is completely optional and won't affect the review of your contribution.
+
+          Thanks for being part of the community! 🚀
+          EOF
+          gh api "repos/$REPO/issues/$PR_NUMBER/comments" -f body="$(cat /tmp/bienvenida.md)"
