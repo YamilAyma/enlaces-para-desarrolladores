@@ -27,7 +27,7 @@ jobs:
           repo, pr = os.environ["REPO"], os.environ["PR"]
           def api(path, *args):
               return subprocess.run(["gh", "api", path, *args], text=True, capture_output=True, check=True).stdout
-          files = json.loads(api(f"repos/{repo}/pulls/{pr}/files", "--paginate"))
+          files = [item for page in json.loads(api(f"repos/{repo}/pulls/{pr}/files", "--paginate", "--slurp")) for item in page]
           if len(files) != 1 or files[0]["filename"] != "README.md":
               print("Not a README-only resource PR; leave classification manual.")
               raise SystemExit(0)
@@ -76,7 +76,7 @@ jobs:
               print("Not labeled as a resource contribution.")
               raise SystemExit(0)
           marker = "<!-- resource-contribution-merge-thanks -->"
-          comments = json.loads(api(f"repos/{repo}/issues/{pr}/comments", "--paginate"))
+          comments = [item for page in json.loads(api(f"repos/{repo}/issues/{pr}/comments", "--paginate", "--slurp")) for item in page]
           if any(marker in c.get("body", "") for c in comments):
               print("Thank-you comment already exists.")
               raise SystemExit(0)
