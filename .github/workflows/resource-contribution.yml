@@ -50,9 +50,15 @@ jobs:
           label = "contribution: resource"
           try:
               api(f"repos/{repo}/labels", "-f", f"name={label}", "-f", "color=0E8A16", "-f", "description=New developer tool or resource")
-          except subprocess.CalledProcessError:
-              pass  # Existing label; the add operation below still verifies access.
-          api(f"repos/{repo}/issues/{pr}/labels", "-f", f"labels[]={label}")
+          except subprocess.CalledProcessError as exc:
+              if "already_exists" not in exc.stderr and "already exists" not in exc.stderr.lower():
+                  print("Label creation failed:", exc.stderr.strip())
+                  raise
+          try:
+              api(f"repos/{repo}/issues/{pr}/labels", "-f", f"labels[]={label}")
+          except subprocess.CalledProcessError as exc:
+              print("Label assignment failed:", exc.stderr.strip())
+              raise
           print("Resource contribution label applied.")
           PY
 
@@ -89,6 +95,10 @@ jobs:
           Thanks again for contributing! 🚀
 
           """ + marker
-          api(f"repos/{repo}/issues/{pr}/comments", "-f", f"body={message}")
+          try:
+              api(f"repos/{repo}/issues/{pr}/comments", "-f", f"body={message}")
+          except subprocess.CalledProcessError as exc:
+              print("Merge comment failed:", exc.stderr.strip())
+              raise
           print("Thank-you comment posted.")
           PY
