@@ -5,10 +5,12 @@ on:
     types: [opened]
 
 permissions:
+  contents: read
   issues: write
 
 jobs:
   bienvenida:
+    if: github.event.pull_request.user.login != github.repository_owner
     runs-on: ubuntu-latest
     steps:
       - name: Comentar en la PR
@@ -28,4 +30,7 @@ jobs:
 
           Thanks for being part of the community! 🚀
           EOF
-          gh api "repos/$REPO/issues/$PR_NUMBER/comments" -f body="$(cat /tmp/bienvenida.md)"
+          if ! gh api "repos/$REPO/issues/$PR_NUMBER/comments" -f body="$(cat /tmp/bienvenida.md)"; then
+            echo "::error::Could not post welcome comment. Check Actions token permissions and repository/organization restrictions."
+            exit 1
+          fi
