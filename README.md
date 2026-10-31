@@ -1595,6 +1595,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [ui.live](https://ui.live/): Colección de diseño para inspiración visual.
 - [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Una selección de ideas geniales para sitios web de portafolio para que desarrolladores y diseñadores se inspiren.
 - [CollectUI](https://collectui.com/): Colección de diseño de interfaces de usuario para inspiración visual.
+- [posts.design](https://posts.design/): Biblioteca de publicaciones reales para redes sociales, cabeceras de X e imágenes OG de más de 950 marcas, cada una con su fuente.
 
 ---
 
