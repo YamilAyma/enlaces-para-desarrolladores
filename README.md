@@ -1175,6 +1175,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Fontshare](https://www.fontshare.com/): Servicio de fuentes gratuitas de Indian Type Foundry que ofrece tipografías de nivel profesional.
 - [Uncut](https://uncut.wtf/): Directorio de fuentes tipográficas contemporáneas y de código abierto cuidadosamente seleccionadas.
 - [Cute Font Gen](https://cutefontgen.com/): Generador gratuito de fuentes "cute" y kawaii con más de 100 estilos Unicode (script, burbujas, small caps y marcos con corazones y destellos) para copiar y pegar en bios de Instagram, TikTok, Discord, Roblox y nicks de juegos. No requiere cuenta ni descarga.
+- [Letriza](https://letriza.com/): Generador gratuito en español de letras, símbolos y texto decorativo para copiar y pegar en redes sociales y juegos.
 
 ### 📣 BLOGS Y BOLETINES
 
