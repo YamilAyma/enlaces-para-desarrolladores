@@ -731,6 +731,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 - [Glim](https://github.com/NeoPanic/Glim): Visor de archivos para macOS escrito en Rust, con vistas de Markdown, código, JSON, CSV y diferencias de Git, además de edición básica de texto UTF-8.
 
+- [Spoof Me](https://spoof-me.com/): Extensión para Chrome y Firefox que cambia el User-Agent, el idioma, la zona horaria y la pantalla del navegador para probar un sitio como lo vería un usuario de otro país o dispositivo.
+
 #### Despliegue:
 
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
