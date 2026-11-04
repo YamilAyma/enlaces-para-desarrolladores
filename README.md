@@ -1596,6 +1596,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Una selección de ideas geniales para sitios web de portafolio para que desarrolladores y diseñadores se inspiren.
 - [CollectUI](https://collectui.com/): Colección de diseño de interfaces de usuario para inspiración visual.
 - [posts.design](https://posts.design/): Biblioteca de publicaciones reales para redes sociales, cabeceras de X e imágenes OG de más de 950 marcas, cada una con su fuente.
+- [NightMarquee](https://nightmarquee.com/): Biblioteca creciente de prompts de sitios web cinematográficos, cada uno con una demo en vivo que se recorre con scroll y un prompt para Lovable, Bolt, Cursor, Claude y Codex. Empieza gratis, sin cuenta.
 
 ---
 
