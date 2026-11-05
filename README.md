@@ -364,6 +364,13 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Task](https://github.com/go-task/task): Ejecutor de tareas y herramienta de compilación moderna basada en YAML como alternativa multiplataforma a Make.
+- [Zellij](https://github.com/zellij-org/zellij): Espacio de trabajo y multiplexor de terminal moderno escrito en Rust con soporte para plugins en WebAssembly y paneles flotantes.
+- [mise](https://github.com/jdx/mise): Gestor de versiones de herramientas y lenguajes políglota, administrador de variables de entorno y ejecutor de tareas en una sola CLI.
+- [Infracost](https://github.com/infracost/infracost): Herramienta de estimación de costos en la nube que analiza código de Terraform y muestra desgloses en pull requests antes de desplegar.
+- [Atuin](https://github.com/atuinsh/atuin): Reemplazo inteligente del historial de shell que almacena comandos en una base de datos SQLite con búsqueda difusa y sincronización cifrada.
+- [Kestra](https://github.com/kestra-io/kestra): Plataforma de orquestación y automatización de flujos de trabajo orientada a eventos para diseñar y monitorizar pipelines mediante YAML.
+
 - [Nushell](https://github.com/nushell/nushell): Shell moderna y multiplataforma escrita en Rust que procesa datos de comandos como tablas y estructuras tipadas.
 - [Alacritty](https://github.com/alacritty/alacritty): Emulador de terminal acelerado por GPU enfocado en la simplicidad, velocidad de renderizado y bajo consumo de recursos.
 - [Neovim](https://github.com/neovim/neovim): Editor de texto modal extensible basado en Vim con soporte nativo para Lua, Tree-sitter y protocolo LSP.
@@ -754,6 +761,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [HTML as a programming language](https://github.com/HTML-as-programming-language/HTML-as-programming-language): Un compilador y set de herramientas satírico pero completamente funcional que permite escribir lógica compleja utilizando etiquetas HTML y XML.
 
 ### 🌐 WEB:
+
+- [Wagtail](https://github.com/wagtail/wagtail): CMS de código abierto basado en Django centrado en la flexibilidad arquitectónica y una experiencia de edición intuitiva.
 
 - [Hugo](https://github.com/gohugoio/hugo): Generador de sitios web estáticos ultrarrápido escrito en Go con tiempos de compilación casi instantáneos.
 
@@ -1265,6 +1274,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [dev.css](https://tangled.org/devins.page/dev.css/): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 
 ### 🏠 Self-Hosted (Autoalojado)
+
+- [Unleash](https://github.com/unleash/unleash): Plataforma de gestión de feature flags (conmutadores de funcionalidad) de código abierto y autoalojable para despliegues progresivos y seguros.
 
 - [Gitea](https://github.com/go-gitea/gitea): Plataforma autoalojada de desarrollo con alojamiento Git, revisión de código, seguimiento de incidencias, registro de paquetes y CI/CD.
 
