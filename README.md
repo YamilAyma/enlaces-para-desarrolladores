@@ -364,6 +364,12 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [PdfCraft](https://github.com/storytold/pdfcraft): Lector y editor de PDF desarrollado en Rust para organizar, combinar, dividir y proteger documentos.
+- [DeckCraft](https://github.com/storytold/deckcraft): Editor de presentaciones en fase alfa que permite abrir y guardar archivos PPTX, crear diapositivas con animaciones y exportarlas a PDF e imágenes.
+- [Caseboard](https://github.com/vishalnaikawadi/detective-board): Aplicación de navegador para crear tableros de investigación con fotos, notas, mapas y documentos conectados por hilos, con almacenamiento local y exportación a PNG.
+- [Shrike](https://github.com/SumantxD/shrike): Herramienta de depuración que registra el recorrido de las interacciones por el código, las bases de datos y los servicios, y comparte las trazas con agentes de IA.
+- [cleanyour.tv](https://github.com/Gathin23/cleanyourtv): Proyecto para desactivar aplicaciones preinstaladas en Android TV y Google TV mediante ADB por Wi-Fi e instalar un lanzador minimalista, con respaldo y restauración.
+
 - [Task](https://github.com/go-task/task): Ejecutor de tareas y herramienta de compilación moderna basada en YAML como alternativa multiplataforma a Make.
 - [Zellij](https://github.com/zellij-org/zellij): Espacio de trabajo y multiplexor de terminal moderno escrito en Rust con soporte para plugins en WebAssembly y paneles flotantes.
 - [mise](https://github.com/jdx/mise): Gestor de versiones de herramientas y lenguajes políglota, administrador de variables de entorno y ejecutor de tareas en una sola CLI.
@@ -1328,6 +1334,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Feloxi](https://github.com/thesaadmirza/feloxi): Plataforma de monitoreo autoalojada y de código abierto para colas de tareas Celery. Escrita en Rust y Next.js, utiliza ClickHouse y no requiere SDK ni agentes.
 
 ### 🤖 IA
+
+- [Anima](https://github.com/Garinmckayl/anima): Skill de Claude Code para generar figuras biológicas interactivas e isométricas en páginas HTML independientes, con mecanismos explorables y citas de las fuentes.
 
 - [Social Media Research Skills](https://github.com/ScrapeCreators/social-media-research-skills): Colección de habilidades para agentes de IA que investigan redes sociales mediante análisis de publicaciones, comentarios, transcripciones, competidores y anuncios con la API de ScrapeCreators.
 - [AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge): Sistema de agentes de IA para analizar mercados, evaluar riesgos y ejecutar operaciones en Solana.
