@@ -1474,7 +1474,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [CTA Gallery](https://www.cta.gallery/): Galería de botones y secciones de "llamada a la acción" de alta conversión para marketing.
 - [H1 Gallery](https://h1gallery.com/): Colección de los mejores diseños de titulares y hero sections para inspirar tu front-end.
 - [Supahero](https://supahero.io/): Escaparate de las mejores hero sections e introducciones de páginas web de alto nivel.
-- [Deck Gallery](https://www.deck.gallery/): Inspiración para el diseño de slides, presentaciones y notas visuales bien estructuradas.
+- [Deck Gallery](https://www.deck.gallery/): Galería curada de presentaciones, decks y guías de marca para inspiración visual.
 - [Dieter Rams Components](https://drams.framer.website/): Componentes UI inspirados en los 10 principios del buen diseño del maestro Dieter Rams.
 - [Minimal Gallery](https://minimal.gallery/): Selección curada de los sitios web más elegantes y minimalistas de la red.
 - [Footer Design](https://www.footer.design/): Galería de inspiración dedicada exclusivamente al diseño de pies de página creativos y funcionales.
