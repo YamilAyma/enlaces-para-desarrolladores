@@ -52,7 +52,20 @@ exclude = [
   'https://saaspo\.com/.*',
   'https://towardsdatascience\.com/.*',
   'https://www\.tints\.dev/.*',
-  'https://yesicon\.app/.*'
+  'https://yesicon\.app/.*',
+  'https://www\.deck\.gallery/.*',
+  'https://htmlrev\.com/.*',
+  'https://websitevice\.com/.*',
+  'https://www\.cssmania\.com/.*',
+  'https://www\.webappers\.com/.*',
+  'https://velvetyne\.fr/.*',
+  'https://unblast\.com/.*',
+  'https://condense\.jp/.*',
+  'https://designm\.ag/.*',
+  'https://illust-navi\.com/.*',
+  'https://tyoudoii-illust\.com/.*',
+  'https://web-sozai\.com/.*',
+  'https://www\.linustock\.com/.*'
 ]
 
 # Códigos de estado HTTP aceptables

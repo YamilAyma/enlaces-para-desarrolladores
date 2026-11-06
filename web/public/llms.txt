@@ -65,7 +65,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Tools UI](https://tools.ui-layouts.com/): Librería de componentes y herramientas para diseño de interfaces de usuario.
 - [Tool UI](https://www.assistant-ui.com/elements): Biblioteca de componentes especializada en la creación de herramientas internas y paneles de administración de forma rápida.
 - [Programming Fonts](https://www.programmingfonts.org/): Catálogo interactivo para probar y elegir tipografías para programadores.
-- [Resourcle](https://resourcle.com/): Un "pack de packs" que recopila las mejores listas de recursos para devs.
 - [GitHub Issue Templates](https://github.com/stevemao/github-issue-templates): Plantillas listas para usar en tus reportes de errores y sugerencias.
 - [CSS Image Effects](https://prismic.io/blog/css-image-effects): Tutorial de Prismic sobre cómo crear efectos visuales en imágenes usando solo CSS.
 - [Frutiger Aero Wallpapers](https://imgur.com/a/over-50-frutiger-aero-wallpapers-2008ify-pc-py02bp7): Colección nostálgica de fondos de pantalla con estética Frutiger Aero.
@@ -79,7 +78,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Vertex42 Templates](https://www.vertex42.com/): Plantillas profesionales para documentos de Word y hojas de cálculo.
 - [1001 Fonts](https://www.1001fonts.com/): Repositorio con miles de fuentes gratuitas listas para descargar y usar.
 - [3D Icons](https://www.3dicons.com/): Set de iconos 3D gratuitos y de alta calidad para interfaces modernas.
-- [Unheap](https://www.unheap.com/): Un catálogo categorizado de plugins de jQuery y componentes web clásicos.
 - [Branding Website](https://www.brandingwebsite.com/): Galería de inspiración enfocada específicamente en sitios web de branding.
 - [Pixelums Wallpapers](https://www.pixelums.com/): Fondos de pantalla minimalistas y artísticos en alta resolución.
 - [Pixels Market](https://pixels.market/): Repositorio de ilustraciones gratuitas para proyectos comerciales y personales.
@@ -182,6 +180,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins): Repositorio oficial de Anthropic con plugins de código abierto diseñados para potenciar la productividad y automatización de tareas en Claude.
 - [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills): Colección de 754 habilidades estructuradas de ciberseguridad para agentes de IA (como Claude Code), mapeadas bajo marcos de la industria como MITRE ATT&CK y NIST.
 - [Turtletoy](https://turtletoy.net/): Plataforma para crear arte codificado a mano y trazable en línea mediante una API gráfica de JavaScript Turtle.
+- [DebutPin](https://debutpin.com): Plataforma gratuita de lanzamiento para makers indie: publica tu producto, consigue votos y colecciona pins permanentes.
 ## 📄 LISTAS
 
 - [Startups Graveyard](https://www.loot-drop.io/): Repositorio interactivo de startups que fallaron y las lecciones aprendidas.
@@ -214,6 +213,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Magisk](https://github.com/topjohnwu/Magisk): Magisk es un conjunto de software de código abierto para personalizar Android, compatible con dispositivos con versiones de Android superiores a la 6.0.
 ## 🖥️ Técnico:
 
+- [ReactOS](https://github.com/reactos/reactos): Sistema operativo en fase alfa que busca compatibilidad con aplicaciones y controladores de la familia Windows NT.
 - [Baoyu Skills](https://github.com/JimLiu/baoyu-skills): Habilidades compartidas por Baoyu para mejorar la eficiencia en el trabajo diario con Claude Code.
 - [AI Agents Skills](https://github.com/hoodini/ai-agents-skills): Colección curada de habilidades especializadas para agentes de codificación.
 - [Vercel Labs Agent Skills](https://github.com/vercel-labs/agent-skills): Habilidades empaquetadas para agentes de IA siguiendo el formato estándar de Agent Skills.
@@ -299,7 +299,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Hue](https://hueapp.io/): Skill avanzada para Claude Code que permite interactuar con paletas de colores y tokens de diseño.
 - [Great Docs](https://github.com/posit-dev/great-docs): Herramienta para generar documentación técnica excepcional a partir de código.
 - [Tegaki](https://github.com/gkurt/tegaki): Motor de reconocimiento de escritura a mano integrado en el navegador para aplicaciones interactivas.
-- [Aesthetic Portfolio](https://github.com/Aayan15728/Aesthetic-Portfolio-Site): Plantilla de portafolio minimalista con animaciones premium lista para desplegar.
+- [Aesthetic Portfolio](https://github.com/Aayan15728/Awesome-Portfolio-Site): Plantilla de portafolio minimalista con animaciones premium lista para desplegar.
 - [LikeC4](https://github.com/likec4/likec4): Herramienta para visualizar y evolucionar la arquitectura de software con diagramas vivos generados desde el código.
 - [Simple FFmpegJS](https://github.com/Fats403/simple-ffmpegjs): Composición de video declarativa para Node.js que permite definir clips, transiciones y audio como objetos simples.
 - [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal): Terminal financiera moderna de código abierto diseñada como alternativa a Bloomberg.
@@ -345,6 +345,34 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 ## 🛠️ HERRAMIENTAS:
 
+- [PdfCraft](https://github.com/storytold/pdfcraft): Lector y editor de PDF desarrollado en Rust para organizar, combinar, dividir y proteger documentos.
+- [DeckCraft](https://github.com/storytold/deckcraft): Editor de presentaciones en fase alfa que permite abrir y guardar archivos PPTX, crear diapositivas con animaciones y exportarlas a PDF e imágenes.
+- [Caseboard](https://github.com/vishalnaikawadi/detective-board): Aplicación de navegador para crear tableros de investigación con fotos, notas, mapas y documentos conectados por hilos, con almacenamiento local y exportación a PNG.
+- [Shrike](https://github.com/SumantxD/shrike): Herramienta de depuración que registra el recorrido de las interacciones por el código, las bases de datos y los servicios, y comparte las trazas con agentes de IA.
+- [cleanyour.tv](https://github.com/Gathin23/cleanyourtv): Proyecto para desactivar aplicaciones preinstaladas en Android TV y Google TV mediante ADB por Wi-Fi e instalar un lanzador minimalista, con respaldo y restauración.
+- [Task](https://github.com/go-task/task): Ejecutor de tareas y herramienta de compilación moderna basada en YAML como alternativa multiplataforma a Make.
+- [Zellij](https://github.com/zellij-org/zellij): Espacio de trabajo y multiplexor de terminal moderno escrito en Rust con soporte para plugins en WebAssembly y paneles flotantes.
+- [mise](https://github.com/jdx/mise): Gestor de versiones de herramientas y lenguajes políglota, administrador de variables de entorno y ejecutor de tareas en una sola CLI.
+- [Infracost](https://github.com/infracost/infracost): Herramienta de estimación de costos en la nube que analiza código de Terraform y muestra desgloses en pull requests antes de desplegar.
+- [Atuin](https://github.com/atuinsh/atuin): Reemplazo inteligente del historial de shell que almacena comandos en una base de datos SQLite con búsqueda difusa y sincronización cifrada.
+- [Kestra](https://github.com/kestra-io/kestra): Plataforma de orquestación y automatización de flujos de trabajo orientada a eventos para diseñar y monitorizar pipelines mediante YAML.
+- [Nushell](https://github.com/nushell/nushell): Shell moderna y multiplataforma escrita en Rust que procesa datos de comandos como tablas y estructuras tipadas.
+- [Alacritty](https://github.com/alacritty/alacritty): Emulador de terminal acelerado por GPU enfocado en la simplicidad, velocidad de renderizado y bajo consumo de recursos.
+- [Neovim](https://github.com/neovim/neovim): Editor de texto modal extensible basado en Vim con soporte nativo para Lua, Tree-sitter y protocolo LSP.
+- [DuckDB](https://github.com/duckdb/duckdb): Sistema de gestión de bases de datos analíticas SQL embebido y en memoria de alto rendimiento para procesamiento OLAP.
+- [Vale](https://github.com/vale-cli/vale): Linter de documentación y prosa técnica basado en reglas que permite verificar y hacer cumplir guías de estilo editorial.
+- [direnv](https://github.com/direnv/direnv): Extensión de shell que carga y descarga variables de entorno automáticamente al entrar o salir de directorios de proyecto.
+- [btop](https://github.com/aristocratos/btop): Monitor de recursos del sistema para terminal con interfaz gráfica TUI interactiva para CPU, memoria, discos y redes.
+- [pgcli](https://github.com/dbcli/pgcli): Cliente de PostgreSQL para la terminal con autocompletado y resaltado de sintaxis.
+- [Glow](https://github.com/charmbracelet/glow): Lector de Markdown para la terminal que permite explorar archivos locales y visualizar documentos desde archivos o la entrada estándar.
+- [Helix](https://github.com/helix-editor/helix): Editor de texto modal para terminal con selecciones múltiples, soporte integrado de servidores de lenguaje y resaltado de sintaxis mediante Tree-sitter.
+- [OpenTofu](https://github.com/opentofu/opentofu): Herramienta de infraestructura como código para definir y versionar recursos mediante configuraciones declarativas, previsualizar cambios y automatizar su aplicación.
+- [Dagger](https://github.com/dagger/dagger): Motor para automatizar compilaciones, pruebas y entregas mediante funciones que orquestan contenedores, con caché incremental y ejecución local, en CI o en la nube.
+- [Podman](https://github.com/podman-container-tools/podman): Herramienta para gestionar contenedores OCI, imágenes, volúmenes y grupos de contenedores, con ejecución sin privilegios y una interfaz de comandos compatible con Docker.
+- [WezTerm](https://github.com/wezterm/wezterm): Emulador y multiplexor de terminal multiplataforma, acelerado por GPU y escrito en Rust.
+- [Litestream](https://github.com/benbjohnson/litestream): Herramienta de recuperación para SQLite que replica cambios de forma incremental en segundo plano hacia otro archivo o S3.
+- [hyperfine](https://github.com/sharkdp/hyperfine): Herramienta de línea de comandos para comparar rendimiento con análisis estadístico, ejecuciones de calentamiento y exportación de resultados.
+- [Zed](https://github.com/zed-industries/zed): Editor de código con edición colaborativa disponible para macOS, Linux y Windows.
 - [REA](https://github.com/morluto/rea): Herramientas de ingeniería inversa mediante MCP o terminal para analizar binarios nativos, aplicaciones JavaScript y Electron, ensamblados .NET y sitios web.
 - [Markdy](https://github.com/HoangYell/markdy-com): Herramienta para crear diagramas de arquitectura animados a partir de texto y recorrer paso a paso solicitudes, respuestas y eventos del sistema.
 - [uv](https://github.com/astral-sh/uv): Gestor de paquetes y proyectos Python que administra dependencias, entornos y versiones de Python, y permite ejecutar scripts y herramientas.
@@ -562,13 +590,11 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [LLM RAM Calc](https://llm-calc.rayfernando.ai/?quant=fp16): Calculadora para estimar la memoria RAM necesaria para ejecutar modelos LLM locales.
 - [Tally](https://tally.so/): El creador de formularios online más sencillo, gratuito y con una interfaz similar a Notion.
 - [UI Kits](https://uikits.design/): Directorio de kits de interfaz de usuario gratuitos y recursos de diseño.
-- [htaccess Redirect](https://www.htaccessredirect.net/): Generador visual de reglas de redirección para archivos de configuración de Apache.
 - [VTable](https://github.com/VisActor/VTable): Librería de alto rendimiento para renderizar tablas multidimensionales y complejas.
 - [CompressX](https://compresto.app/?aff=nyLmN): Potente herramienta de compresión de videos sin pérdida perceptible de calidad.
 - [ScreenshotOne](https://screenshotone.com/): API robusta para capturar capturas de pantalla de sitios web a escala.
 - [Happy Hues](https://www.happyhues.co/): Guía visual para elegir paletas de colores basadas en la psicología del color.
 - [Epic Easing](https://epiceasing.com/?curve=0.470%2C0.000%2C0.745%2C0.715&language=css): Creador avanzado de funciones de suavizado para animaciones web profesionales.
-- [Docz](https://docz.site/): Herramienta para crear documentación de componentes hermosa y rápida mediante código.
 - [LiamBX ERD](https://liambx.com/): Constructor de diagramas Entidad-Relación interactivo y de diseño moderno.
 - [Motion Canvas](https://motioncanvas.io/): Framework basado en TS y Canvas para crear videos de animaciones técnicas.
 - [Beauty Codes](https://beauty.codes/): Mejora la apariencia de las capturas de pantalla de tu código para presentaciones.
@@ -631,7 +657,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [BrandBird Mobile Mockup Grid](https://www.brandbird.app/tools/mobile-mockup-grid): Herramienta para generar cuadrículas de mockups móviles elegantes, ideal para presentar capturas de pantalla de apps de forma profesional.
 - [EasyCopy](https://github.com/joeseesun/EasyCopy): Extensión inteligente para la gestión del portapapeles que facilita la organización y recuperación de fragmentos de código y texto.
 - [witr](https://github.com/pranshuparmar/witr): Herramienta de diagnóstico en Go que mapea la información de procesos para revelar su origen y cadenas de causalidad mediante puertos o PIDs.
-- [SuperCmd](https://supercmd.sh/en): Lanzador altamente personalizable para macOS compatible con extensiones de Raycast, que incluye un historial avanzado de portapapeles, flujos de voz y funciones de IA.
+- [SuperCmd](https://supercmd.sh/): Lanzador altamente personalizable para macOS compatible con extensiones de Raycast, que incluye un historial avanzado de portapapeles, flujos de voz y funciones de IA.
 - [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
 - [Formisch](https://formisch.dev/): Biblioteca de formularios modular y agnóstica al framework que utiliza un enfoque basado en esquemas (Valibot) para una validación ultra rápida y reactividad optimizada.
 - [pino-redact](https://github.com/pinojs/redact): Herramienta de alto rendimiento para Node.js que permite la edición selectiva (redacción) de datos sensibles en objetos y logs antes de ser procesados.
@@ -680,10 +706,12 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [pake](https://github.com/tw93/pake): Convierte cualquier página web en una aplicación de escritorio con un solo comando; compatible con macOS, Windows y Linux.
 - [Cate](https://cate.cero-ai.com/): Un lienzo con zoom infinito para programar. Paneles de editor, terminal y navegador en un espacio de trabajo espacial.
 - [SVG dot icon animator](https://konverthq.com/tools/svg-to-dot-animation): Animador de iconos svg pero con puntitos.
+- [Glim](https://github.com/glimapp/glim): Visor de archivos para macOS escrito en Rust, con vistas de Markdown, código, JSON, CSV y diferencias de Git, además de edición básica de texto UTF-8.
 - [PythonAnywhere](https://www.pythonanywhere.com): Plataforma de alojamiento y desarrollo online optimizada para el ecosistema Python.
 - [Xata](https://github.com/xataio/xata): Plataforma de base de datos serverless basada en PostgreSQL con búsqueda integrada y analíticas.
 - [Coolify](https://github.com/coollabsio/coolify): Alternativa de código abierto a Vercel, Netlify o Heroku. Permite alojar aplicaciones, bases de datos y servicios en tus propios servidores.
 - [Findfont](https://www.findfont.co/): Permite explorar y comparar más de 5000 fuentes gratuitas seleccionadas en más de 50 categorías, con la posibilidad de comparar hasta 10 fuentes en la misma vista.
+- [deed.page](https://deed.page): Hosting estático para agentes de IA y desarrolladores. Publica un HTML o una carpeta con una sola petición HTTP PUT o mediante un servidor MCP remoto y obtén una URL HTTPS en vivo. Plan gratuito sin registro: 25 sitios, 25 MB por sitio.
 ## 🤗 RELAX:
 
 - [The Coding Love](https://thecodinglove.com/): Blog clásico de humor para desarrolladores con memes y GIFs sobre la vida en IT.
@@ -699,6 +727,9 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [HTML as a programming language](https://github.com/HTML-as-programming-language/HTML-as-programming-language): Un compilador y set de herramientas satírico pero completamente funcional que permite escribir lógica compleja utilizando etiquetas HTML y XML.
 ## 🌐 WEB:
 
+- [Wagtail](https://github.com/wagtail/wagtail): CMS de código abierto basado en Django centrado en la flexibilidad arquitectónica y una experiencia de edición intuitiva.
+- [Hugo](https://github.com/gohugoio/hugo): Generador de sitios web estáticos ultrarrápido escrito en Go con tiempos de compilación casi instantáneos.
+- [Docusaurus](https://github.com/meta/docusaurus): Generador de sitios web para proyectos con documentación, blog, soporte de traducciones y páginas personalizables.
 - [Web Interface Guidelines](https://interfaces.rauno.me/): Lista curada de detalles e interacciones que elevan la calidad de una interfaz web.
 - [Invisible Details](https://rauno.me/craft/interaction-design): Análisis sobre los detalles sutiles que hacen que las interacciones digitales sean naturales.
 - [Details That Make Interfaces Feel Better](https://jakub.kr/writing/details-that-make-interfaces-feel-better): Selección de micro-interacciones y detalles que mejoran la experiencia en la web.
@@ -761,6 +792,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Whimsically](https://www.whimsically.app/): Loaders bonitos y agradables con sonido que puedes copiar y pegar, con soporte de React.
 ## ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
+- [Prisma ORM](https://github.com/prisma/orm): ORM para Node.js y TypeScript con herramientas para integrar bases de datos en aplicaciones nuevas o existentes.
 - [Hono](https://github.com/honojs/hono): Framework web basado en estándares web, con soporte para TypeScript y middleware, que funciona en Node.js, Bun, Deno y plataformas de ejecución en la nube.
 - [htmx](https://github.com/bigskysoftware/htmx): Biblioteca que permite usar AJAX, transiciones CSS, WebSockets y eventos enviados por el servidor mediante atributos HTML para crear interfaces interactivas.
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea): Framework de Go basado en la arquitectura Elm para crear interfaces de terminal con gestión de estado, vistas declarativas y manejo de teclado y ratón.
@@ -861,7 +893,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Myna UI](https://mynaui.com/): Kit de diseño completo con componentes modernos y una estética de pájaro minimalista.
 - [Intent UI](https://intentui.com/): Sistema de diseño enfocado en la intención del usuario y la claridad visual.
 - [MotifyX](https://jatin-yadav05.github.io/MotifyX/): Colección de patrones CSS modernos para crear fondos visualmente atractivos.
-- [Tailwind Layouts (Laloka)](https://layoutsfortailwind.lalokalabs.dev/): Directorio de layouts y estructuras de cajas listas para usar con Tailwind.
 - [Waveform Renderer](https://github.com/maximux13/waveform-renderer): Utilidad para generar visualizaciones de ondas de sonido a partir de archivos de audio.
 - [TailwindFlex](https://tailwindflex.com/): Repositorio masivo de componentes y elementos web construidos exclusivamente con Tailwind.
 - [Ant Design X](https://x.ant.design/): La extensión oficial de Ant Design para construir interfaces de usuario impulsadas por IA.
@@ -988,7 +1019,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [NG-Matero](https://github.com/ng-matero/ng-matero): Panel de administración robusto para Angular basado en Material Design.
 - [Windy Toolbox](https://windytoolbox.com/): Conjunto de herramientas y componentes esenciales para usuarios de Tailwind CSS.
 - [FlatLogic Plantillas](https://flatlogic.com/templates): Biblioteca de plantillas de administración y dashboards premium para diversos frameworks.
-- [Plantillas HTML](https://htmlrev.com/): Directorio curado de las mejores plantillas HTML gratuitas para landing pages y sitios web.
 - [DreamTemplate](https://www.dreamtemplate.com/): Amplia colección de plantillas web profesionales y recursos de diseño.
 - [SaaS Starter](https://github.com/nextjs/saas-starter): Base sólida de código abierto para construir aplicaciones SaaS con Next.js.
 - [supa-next-starter](https://github.com/michaeltroya/supa-next-starter): Starter kit que combina la potencia de Next.js con Supabase para un backend rápido.
@@ -1014,7 +1044,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 ## 📚 DOCUMENTACIÓN UTIL
 
 - [Catalogue IF](https://catalogue.projectsbyif.com/): IF selecciona cuidadosamente este catálogo para ayudar a los equipos a diseñar servicios confiables que sean útiles para los usuarios.
-- [Design Prompts](https://www.designprompts.dev/): Colección de prompts especializados para generar diseños de interfaces de usuario con IA.
+- [Design Prompts](https://designprompts.dev/): Colección de prompts especializados para generar diseños de interfaces de usuario con IA.
 - [CSS Properties](https://nikolai-shabalin.github.io/css-properties/en/): Referencia completa y detallada sobre todas las propiedades CSS y sus posibles valores.
 - [The Component Gallery](https://component.gallery/): Directorio de referencia que recopila componentes de interfaz de usuario de sistemas de diseño reales.
 - [Scroll-Driven Animations](https://scroll-driven-animations.style/): Guía y ejemplos interactivos sobre cómo crear animaciones basadas en el scroll usando CSS.
@@ -1156,7 +1186,6 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [JavaScript Weekly](https://javascriptweekly.com/): La newsletter de JavaScript más conocida con noticias y tutoriales semanales.
 - [ECMAScript News](https://ecmascript.news/index.html): Actualizaciones de última hora sobre las nuevas especificaciones de JavaScript.
 - [NextRoll Tech Blog](https://tech.nextroll.com/blog/): Blog de ingeniería con foco en sistemas distribuidos, datos y ad-tech.
-- [Vue.js Feed](https://vuejsfeed.com/): El lugar central para encontrar noticias, tutoriales y componentes de Vue.js.
 - [Node Weekly](https://nodeweekly.com/): La newsletter semanal definitiva para desarrolladores de Node.js.
 - [React Status](https://react.statuscode.com/): Resumen semanal con lo último en el ecosistema de React y React Native.
 - [PHP Weekly](https://www.phpweekly.com/): Newsletter semanal con las noticias y tutoriales más frescos sobre PHP.
@@ -1183,9 +1212,12 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 ## ⭐ PACKS DE COMPONENTES y LIBRERIAS
 
 - [phantom-ui](https://github.com/Aejkatappaja/phantom-ui): Componente web ligero (~8 KB) e independiente de framework que genera skeleton loaders automáticos midiendo el DOM real en tiempo de ejecución.
-- [dev.css](https://tangled.org/devins.page/dev.css/): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
+- [dev.css](https://tangled.org/devins.page/dev.css): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 ## 🏠 Self-Hosted (Autoalojado)
 
+- [Unleash](https://github.com/unleash/unleash): Plataforma de gestión de feature flags (conmutadores de funcionalidad) de código abierto y autoalojable para despliegues progresivos y seguros.
+- [Gitea](https://github.com/go-gitea/gitea): Plataforma autoalojada de desarrollo con alojamiento Git, revisión de código, seguimiento de incidencias, registro de paquetes y CI/CD.
+- [Keycloak](https://github.com/keycloak/keycloak): Servidor de gestión de identidades y acceso con autenticación, federación de usuarios y autorización detallada para aplicaciones y servicios.
 - [Cap](https://github.com/tiagozip/cap): Alternativa autoalojada a CAPTCHA que ejecuta desafíos de prueba de trabajo e instrumentación en segundo plano en el navegador, sin rompecabezas ni rastreo.
 - [Strapi](https://github.com/strapi/strapi): CMS desacoplado y autoalojable que permite definir modelos de contenido visualmente y generar APIs REST y GraphQL, con gestión de permisos y archivos multimedia.
 - [Supabase](https://github.com/supabase/supabase): Plataforma autoalojable basada en PostgreSQL que integra autenticación, APIs automáticas, suscripciones en tiempo real, funciones y almacenamiento de archivos.
@@ -1227,6 +1259,11 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Feloxi](https://github.com/thesaadmirza/feloxi): Plataforma de monitoreo autoalojada y de código abierto para colas de tareas Celery. Escrita en Rust y Next.js, utiliza ClickHouse y no requiere SDK ni agentes.
 ## 🤖 IA
 
+- [Anima](https://github.com/Garinmckayl/anima): Skill de Claude Code para generar figuras biológicas interactivas e isométricas en páginas HTML independientes, con mecanismos explorables y citas de las fuentes.
+- [Social Media Research Skills](https://github.com/ScrapeCreators/social-media-research-skills): Colección de habilidades para agentes de IA que investigan redes sociales mediante análisis de publicaciones, comentarios, transcripciones, competidores y anuncios con la API de ScrapeCreators.
+- [AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge): Sistema de agentes de IA para analizar mercados, evaluar riesgos y ejecutar operaciones en Solana.
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio): Aplicación con ejecución local para clonar y diseñar voces, doblar vídeos, transcribir audio y crear audiolibros.
+- [decider](https://github.com/Mapika/decider): Familia de modelos que responde preguntas con opciones predefinidas y devuelve distribuciones de probabilidad en una sola pasada.
 - [NVIDIA Run:ai](https://github.com/dsx-ai-factory/run-ai): Plataforma para orquestar cargas de IA en Kubernetes, distribuir recursos GPU entre equipos y supervisar varios clústeres desde un control central.
 - [Talorys](https://github.com/rociiu/talorys): Asistente personal de IA desplegable en tu cuenta de Cloudflare, con chat, memoria editable, tareas, notas, proyectos y recordatorios programados.
 - [Anatomy](https://github.com/wheresryan22/anatomy): Skill para agentes que explica conceptos técnicos mediante ilustraciones isométricas interactivas con SVG, WebGL y efectos 3D.
@@ -1350,7 +1387,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi): Proxy de API compatible con OpenAI que centraliza y rota claves gratuitas de 14 proveedores de LLM, con failover automático y cifrado AES-256.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI): Estudio de IA generativa autoalojable y open-source con Next.js y Electron que unifica la generación de imagen, video y sincronización labial para más de 200 modelos.
 - [Context7](https://context7.com/): Herramienta inteligente diseñada para simplificar y automatizar la gestión y estructuración de contextos complejos en interacciones con modelos de lenguaje grandes.
-- [Midscene.js](https://midscenejs.com/introduction): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
+- [Midscene.js](https://midscenejs.com/): Framework de automatización y pruebas de UI basado en IA que permite interactuar y controlar el navegador web utilizando comandos en lenguaje natural e inspección visual inteligente.
 - [agent-skills-platform](https://github.com/FrancyJGLisboa/agent-skills-platform): Utilidad especializada para automatizar el diseño, la estructuración y la implementación de habilidades modulares reutilizables para agentes de desarrollo e inteligencia artificial.
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill): Herramienta que analiza textos y libros técnicos para extraer conocimiento estructurado y convertirlo de forma automatizada en habilidades prácticas ejecutables por agentes de IA.
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill): Archivo de habilidad (skill) para agentes de IA optimizado para estructurar y redactar prompts de alta calidad para el modelo de generación de video Jimeng Seedance 2.0 de ByteDance.
@@ -1363,6 +1400,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Agent QA](https://github.com/vostride/agent-qa): Servidor MCP de código fuente disponible para definir, validar, ejecutar y diagnosticar pruebas web y móviles en lenguaje natural.
 - [Webwright](https://github.com/microsoft/CUAWright): Framework de Microsoft Research para agentes de IA terminal-native. Permite al modelo escribir y ejecutar su propio código de Playwright para resolver tareas web complejas.
 - [Impeccable](https://github.com/pbakaus/impeccable): Kit para agentes de IA a orientarlos para que puedan ser más eficaces en el diseño frontend. 1 Skill.
+- [YYLO](https://github.com/yylo-dev/yylo): Orquestador de código abierto para agentes de codificación en la terminal, con flujos de trabajo repetibles y cambios de repositorio respaldados por evidencia.
 - [speech-to-speech](https://github.com/huggingface/speech-to-speech): Construcción de agentes de voz locales mediante modelos de código abierto.
 - [sie](https://superlinked.com/): Servidor de inferencia de código abierto para procesamiento de embeddings y reordenamiento.
 - [Sana](https://nvlabs.github.io/Sana/docs/): Framework para generación eficiente de imágenes en alta resolución mediante Transformers.
@@ -1423,6 +1461,7 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Design Systems Surf](https://designsystems.surf/): Directorio para explorar y navegar a través de sistemas de diseño de empresas líderes.
 - [a1 Gallery](https://www.a1.gallery/): Galería de diseño web minimalista y brutalista que desafía las convenciones modernas.
 - [Refero](https://refero.design/): Enorme base de datos de capturas de pantalla de interfaces de usuario de las mejores apps del mundo.
+- [APPLORE](https://applore.app/): Biblioteca de inspiración con más de 18.000 iconos reales de App Store y Google Play, con todas sus versiones anteriores archivadas.
 - [sleek.design](https://sleek.design/references): Plataforma de inspiración que ofrece una colección curada de referencias de diseño de aplicaciones y layouts de alta calidad.
 - [Viewport UI](https://viewportui.com/): Colección de componentes UI enfocada en la usabilidad y el diseño responsivo.
 - [Same Energy](https://same.energy/): Buscador visual de imágenes basado en la estética y el sentimiento, perfecto para moodboards.
@@ -1475,10 +1514,10 @@ Este archivo proporciona un mapa de recursos optimizado para asistentes de IA y 
 - [Httpster](https://httpster.net/): Galería técnica que destaca los mejores diseños web de estética brutalista y minimalismo.
 - [CSS Zen Garden](https://csszengarden.com/pages/alldesigns/): Galería de sitios web influenciados por el CSS.
 - [ogfolio](https://www.ogfolio.com/): Galería de inspiración curada que recopila los mejores diseños de imágenes de Open Graph (OG) para elevar la presencia social de tu web.
-- [Deck Gallery](https://www.deck.gallery/): Galería curada de presentaciones, decks y guías de marca para inspiración visual.
 - [ui.live](https://ui.live/): Colección de diseño para inspiración visual.
 - [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Una selección de ideas geniales para sitios web de portafolio para que desarrolladores y diseñadores se inspiren.
 - [CollectUI](https://collectui.com/): Colección de diseño de interfaces de usuario para inspiración visual.
+- [posts.design](https://posts.design/): Biblioteca de publicaciones reales para redes sociales, cabeceras de X e imágenes OG de más de 950 marcas, cada una con su fuente.
 
 ## Optional
 

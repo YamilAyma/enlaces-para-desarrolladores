@@ -317,7 +317,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Hue](https://hueapp.io/): Skill avanzada para Claude Code que permite interactuar con paletas de colores y tokens de diseño.
 - [Great Docs](https://github.com/posit-dev/great-docs): Herramienta para generar documentación técnica excepcional a partir de código.
 - [Tegaki](https://github.com/gkurt/tegaki): Motor de reconocimiento de escritura a mano integrado en el navegador para aplicaciones interactivas.
-- [Aesthetic Portfolio](https://github.com/Aayan15728/Aesthetic-Portfolio-Site): Plantilla de portafolio minimalista con animaciones premium lista para desplegar.
+- [Aesthetic Portfolio](https://github.com/Aayan15728/Awesome-Portfolio-Site): Plantilla de portafolio minimalista con animaciones premium lista para desplegar.
 - [LikeC4](https://github.com/likec4/likec4): Herramienta para visualizar y evolucionar la arquitectura de software con diagramas vivos generados desde el código.
 - [Simple FFmpegJS](https://github.com/Fats403/simple-ffmpegjs): Composición de video declarativa para Node.js que permite definir clips, transiciones y audio como objetos simples.
 - [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal): Terminal financiera moderna de código abierto diseñada como alternativa a Bloomberg.
@@ -629,7 +629,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [ScreenshotOne](https://screenshotone.com/): API robusta para capturar capturas de pantalla de sitios web a escala.
 - [Happy Hues](https://www.happyhues.co/): Guía visual para elegir paletas de colores basadas en la psicología del color.
 - [Epic Easing](https://epiceasing.com/?curve=0.470%2C0.000%2C0.745%2C0.715&language=css): Creador avanzado de funciones de suavizado para animaciones web profesionales.
-- [Docz](https://docz.site/): Herramienta para crear documentación de componentes hermosa y rápida mediante código.
 - [LiamBX ERD](https://liambx.com/): Constructor de diagramas Entidad-Relación interactivo y de diseño moderno.
 - [Motion Canvas](https://motioncanvas.io/): Framework basado en TS y Canvas para crear videos de animaciones técnicas.
 - [Beauty Codes](https://beauty.codes/): Mejora la apariencia de las capturas de pantalla de tu código para presentaciones.
@@ -692,7 +691,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [BrandBird Mobile Mockup Grid](https://www.brandbird.app/tools/mobile-mockup-grid): Herramienta para generar cuadrículas de mockups móviles elegantes, ideal para presentar capturas de pantalla de apps de forma profesional.
 - [EasyCopy](https://github.com/joeseesun/EasyCopy): Extensión inteligente para la gestión del portapapeles que facilita la organización y recuperación de fragmentos de código y texto.
 - [witr](https://github.com/pranshuparmar/witr): Herramienta de diagnóstico en Go que mapea la información de procesos para revelar su origen y cadenas de causalidad mediante puertos o PIDs.
-- [SuperCmd](https://supercmd.sh/en): Lanzador altamente personalizable para macOS compatible con extensiones de Raycast, que incluye un historial avanzado de portapapeles, flujos de voz y funciones de IA.
+- [SuperCmd](https://supercmd.sh/): Lanzador altamente personalizable para macOS compatible con extensiones de Raycast, que incluye un historial avanzado de portapapeles, flujos de voz y funciones de IA.
 - [HuLa](https://github.com/HuLaSpark/HuLa): Aplicación de mensajería instantánea multiplataforma de alto rendimiento construida con Rust, Tauri y Vue 3, compatible con múltiples sistemas.
 - [Formisch](https://formisch.dev/): Biblioteca de formularios modular y agnóstica al framework que utiliza un enfoque basado en esquemas (Valibot) para una validación ultra rápida y reactividad optimizada.
 - [pino-redact](https://github.com/pinojs/redact): Herramienta de alto rendimiento para Node.js que permite la edición selectiva (redacción) de datos sensibles en objetos y logs antes de ser procesados.
@@ -742,7 +741,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Cate](https://cate.cero-ai.com/): Un lienzo con zoom infinito para programar. Paneles de editor, terminal y navegador en un espacio de trabajo espacial.
 - [SVG dot icon animator](https://konverthq.com/tools/svg-to-dot-animation): Animador de iconos svg pero con puntitos.
 
-- [Glim](https://github.com/NeoPanic/Glim): Visor de archivos para macOS escrito en Rust, con vistas de Markdown, código, JSON, CSV y diferencias de Git, además de edición básica de texto UTF-8.
+- [Glim](https://github.com/glimapp/glim): Visor de archivos para macOS escrito en Rust, con vistas de Markdown, código, JSON, CSV y diferencias de Git, además de edición básica de texto UTF-8.
 
 #### Despliegue:
 
@@ -772,7 +771,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 - [Hugo](https://github.com/gohugoio/hugo): Generador de sitios web estáticos ultrarrápido escrito en Go con tiempos de compilación casi instantáneos.
 
-- [Docusaurus](https://github.com/facebook/docusaurus): Generador de sitios web para proyectos con documentación, blog, soporte de traducciones y páginas personalizables.
+- [Docusaurus](https://github.com/meta/docusaurus): Generador de sitios web para proyectos con documentación, blog, soporte de traducciones y páginas personalizables.
 
 - [Web Interface Guidelines](https://interfaces.rauno.me/): Lista curada de detalles e interacciones que elevan la calidad de una interfaz web.
 - [Invisible Details](https://rauno.me/craft/interaction-design): Análisis sobre los detalles sutiles que hacen que las interacciones digitales sean naturales.
@@ -1075,7 +1074,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [NG-Matero](https://github.com/ng-matero/ng-matero): Panel de administración robusto para Angular basado en Material Design.
 - [Windy Toolbox](https://windytoolbox.com/): Conjunto de herramientas y componentes esenciales para usuarios de Tailwind CSS.
 - [FlatLogic Plantillas](https://flatlogic.com/templates): Biblioteca de plantillas de administración y dashboards premium para diversos frameworks.
-- [Plantillas HTML](https://htmlrev.com/): Directorio curado de las mejores plantillas HTML gratuitas para landing pages y sitios web.
 - [DreamTemplate](https://www.dreamtemplate.com/): Amplia colección de plantillas web profesionales y recursos de diseño.
 - [SaaS Starter](https://github.com/nextjs/saas-starter): Base sólida de código abierto para construir aplicaciones SaaS con Next.js.
 - [supa-next-starter](https://github.com/michaeltroya/supa-next-starter): Starter kit que combina la potencia de Next.js con Supabase para un backend rápido.
@@ -1277,7 +1275,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS
 
 - [phantom-ui](https://github.com/Aejkatappaja/phantom-ui): Componente web ligero (~8 KB) e independiente de framework que genera skeleton loaders automáticos midiendo el DOM real en tiempo de ejecución.
-- [dev.css](https://tangled.org/devins.page/dev.css/): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
+- [dev.css](https://tangled.org/devins.page/dev.css): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 
 ### 🏠 Self-Hosted (Autoalojado)
 
@@ -1610,7 +1608,6 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Httpster](https://httpster.net/): Galería técnica que destaca los mejores diseños web de estética brutalista y minimalismo.
 - [CSS Zen Garden](https://csszengarden.com/pages/alldesigns/): Galería de sitios web influenciados por el CSS.
 - [ogfolio](https://www.ogfolio.com/): Galería de inspiración curada que recopila los mejores diseños de imágenes de Open Graph (OG) para elevar la presencia social de tu web.
-- [Deck Gallery](https://www.deck.gallery/): Galería curada de presentaciones, decks y guías de marca para inspiración visual.
 - [ui.live](https://ui.live/): Colección de diseño para inspiración visual.
 - [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Una selección de ideas geniales para sitios web de portafolio para que desarrolladores y diseñadores se inspiren.
 - [CollectUI](https://collectui.com/): Colección de diseño de interfaces de usuario para inspiración visual.
