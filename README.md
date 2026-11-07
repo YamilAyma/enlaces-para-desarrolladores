@@ -213,6 +213,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### APIs:
 
+- [Gotenberg](https://github.com/gotenberg/gotenberg): API sin estado empaquetada en Docker para convertir documentos HTML, Markdown y Office en archivos PDF de forma automatizada.
+
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine): Motor para exponer datos mediante una API GraphQL con control de acceso y conectores para distintas bases de datos.
 
 - [PostgREST](https://github.com/PostgREST/postgrest): Genera una API REST desde una base de datos PostgreSQL existente, con autenticación mediante JWT y documentación OpenAPI.
@@ -228,6 +230,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Magisk](https://github.com/topjohnwu/Magisk): Magisk es un conjunto de software de código abierto para personalizar Android, compatible con dispositivos con versiones de Android superiores a la 6.0.
 
 ### 🖥️ Técnico:
+
+- [ClickHouse](https://github.com/clickhouse/clickhouse): Sistema de gestión de bases de datos analítico (OLAP) columnar de alto rendimiento para consultas SQL sobre grandes volúmenes de datos en tiempo real.
 
 - [ReactOS](https://github.com/reactos/reactos): Sistema operativo en fase alfa que busca compatibilidad con aplicaciones y controladores de la familia Windows NT.
 
@@ -363,6 +367,13 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 
 ### 🛠️ HERRAMIENTAS:
+
+- [Yazi](https://github.com/sxyazi/yazi): Administrador de archivos para terminal ultrarrápido escrito en Rust basado en E/S asíncrona con previsualización integrada.
+- [k6](https://github.com/grafana/k6): Herramienta moderna y extensible de pruebas de carga y rendimiento para APIs y microservicios desarrollada en Go y JavaScript.
+- [Storybook](https://github.com/storybookjs/storybook): Entorno de desarrollo aislado para construir, probar y documentar componentes de interfaz de usuario de forma modular.
+- [Redoc](https://github.com/redocly/redoc): Generador de documentación interactiva y responsive para APIs REST a partir de especificaciones OpenAPI/Swagger.
+- [Locust](https://github.com/locustio/locust): Framework de pruebas de carga escalable y distribuido para aplicaciones web donde los escenarios se programan en Python puro.
+- [Renovate](https://github.com/renovatebot/renovate): Herramienta de automatización multiplataforma que detecta dependencias desactualizadas y genera pull requests automáticos.
 
 - [PdfCraft](https://github.com/storytold/pdfcraft): Lector y editor de PDF desarrollado en Rust para organizar, combinar, dividir y proteger documentos.
 - [DeckCraft](https://github.com/storytold/deckcraft): Editor de presentaciones en fase alfa que permite abrir y guardar archivos PPTX, crear diapositivas con animaciones y exportarlas a PDF e imágenes.
