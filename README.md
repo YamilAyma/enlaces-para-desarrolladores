@@ -753,6 +753,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [SVG dot icon animator](https://konverthq.com/tools/svg-to-dot-animation): Animador de iconos svg pero con puntitos.
 
 - [Glim](https://github.com/glimapp/glim): Visor de archivos para macOS escrito en Rust, con vistas de Markdown, código, JSON, CSV y diferencias de Git, además de edición básica de texto UTF-8.
+- [AppScreen](https://appscreen.pro/): Editor gratuito en el navegador para crear capturas de App Store y Google Play con marcos de dispositivo, textos y fondos; exporta en los tamaños que pide cada tienda. Sin instalar nada.
 
 #### Despliegue:
 
