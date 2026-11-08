@@ -231,6 +231,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🖥️ Técnico:
 
+- [Dragonfly](https://github.com/dragonflydb/dragonfly): Almacén de datos en memoria ultrarrápido y eficiente compatible con las APIs de Redis y Memcached sin necesidad de cambios en el código.
+- [Prometheus](https://github.com/prometheus/prometheus): Sistema de monitorización y alertas de código abierto con base de datos de series temporales y motor de consultas PromQL.
+
 - [ClickHouse](https://github.com/clickhouse/clickhouse): Sistema de gestión de bases de datos analítico (OLAP) columnar de alto rendimiento para consultas SQL sobre grandes volúmenes de datos en tiempo real.
 
 - [ReactOS](https://github.com/reactos/reactos): Sistema operativo en fase alfa que busca compatibilidad con aplicaciones y controladores de la familia Windows NT.
@@ -367,6 +370,13 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 
 ### 🛠️ HERRAMIENTAS:
+
+- [Tilt](https://github.com/tilt-dev/tilt): Herramienta que define entornos de desarrollo como código para microservicios sobre Kubernetes con recarga y sincronización en vivo.
+- [Prettier](https://github.com/prettier/prettier): Formateador de código con soporte amplio que impone un estilo uniforme en JavaScript, TypeScript, HTML, CSS y Markdown.
+- [frp](https://github.com/fatedier/frp): Proxy inverso rápido y seguro para exponer servidores y servicios locales situados detrás de NAT o cortafuegos directamente a Internet.
+- [Grafana](https://github.com/grafana/grafana): Plataforma de visualización, analítica y observabilidad para componer paneles interactivos a partir de múltiples fuentes de datos.
+- [Typst](https://github.com/typst/typst): Sistema de maquetación y composición tipográfica basado en marcado, moderno y rápido concebido como alternativa a LaTeX.
+- [Yaak](https://github.com/mountain-loop/yaak): Cliente de escritorio de código abierto y local-first para interactuar y depurar APIs REST, GraphQL, WebSockets y gRPC.
 
 - [Yazi](https://github.com/sxyazi/yazi): Administrador de archivos para terminal ultrarrápido escrito en Rust basado en E/S asíncrona con previsualización integrada.
 - [k6](https://github.com/grafana/k6): Herramienta moderna y extensible de pruebas de carga y rendimiento para APIs y microservicios desarrollada en Go y JavaScript.
