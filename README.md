@@ -213,6 +213,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### APIs:
 
+- [SiftingIO](https://sifting.io/docs): API de datos de mercado en tiempo real por REST y WebSocket, con datos históricos por REST para acciones y ETF de EE. UU., divisas, materias primas y criptomonedas. Requiere una clave; el plan gratuito tiene límites y es para uso interno no comercial.
+
 - [Gotenberg](https://github.com/gotenberg/gotenberg): API sin estado empaquetada en Docker para convertir documentos HTML, Markdown y Office en archivos PDF de forma automatizada.
 
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine): Motor para exponer datos mediante una API GraphQL con control de acceso y conectores para distintas bases de datos.
@@ -1639,3 +1641,4 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 ---
 
 Increíble, llegaste hasta aquí 🔍. Si te interesa, puedes visitar mi [proyecto de curación de prompts de NotebookLM](https://github.com/YamilAyma/notebooklm-prompt-styles), personaliza tus diapositivas con estilo 💫.
+
