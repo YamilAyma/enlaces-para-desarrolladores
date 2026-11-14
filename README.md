@@ -766,6 +766,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 - [Glim](https://github.com/glimapp/glim): Visor de archivos para macOS escrito en Rust, con vistas de Markdown, código, JSON, CSV y diferencias de Git, además de edición básica de texto UTF-8.
 - [AppScreen](https://appscreen.pro/): Editor gratuito en el navegador para crear capturas de App Store y Google Play con marcos de dispositivo, textos y fondos; exporta en los tamaños que pide cada tienda. Sin instalar nada.
+- [Spoof Me](https://spoof-me.com/): Extensión para Chrome y Firefox que cambia el User-Agent, el idioma, la zona horaria y la pantalla del navegador para probar un sitio como lo vería un usuario de otro país o dispositivo.
 
 #### Despliegue:
 
