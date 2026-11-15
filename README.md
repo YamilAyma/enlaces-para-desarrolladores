@@ -1384,6 +1384,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 #### ✨ Herramientas IA
 
+- [HumanPen Skill](https://github.com/humanpen/humanpen-skill): Skill de código abierto para reescribir y traducir documentos desde agentes; el servicio usa créditos y ofrece 100 gratis al registrarse.
+
 - [brownies](https://github.com/franciscop/brownies): Gestor ligero de almacenamiento local, de sesión y cookies con suscripción a eventos en tiempo real.
 - [loopx](https://github.com/loopx-project/loopx): Kernel de estado ligero para la gestión de bucles y flujos con equipos de agentes de IA.
 - [esp32-ai](https://github.com/slvDev/esp32-ai): Repositorio y proyecto de código abierto para desarrollo de IA en ESP32.
