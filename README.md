@@ -213,6 +213,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### APIs:
 
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate): API de traducción automática neuronal de código abierto, autoalojable y completamente libre de rastreo o claves de terceros.
+
 - [SiftingIO](https://sifting.io/docs): API de datos de mercado en tiempo real por REST y WebSocket, con datos históricos por REST para acciones y ETF de EE. UU., divisas, materias primas y criptomonedas. Requiere una clave; el plan gratuito tiene límites y es para uso interno no comercial.
 
 - [Gotenberg](https://github.com/gotenberg/gotenberg): API sin estado empaquetada en Docker para convertir documentos HTML, Markdown y Office en archivos PDF de forma automatizada.
@@ -232,6 +234,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Magisk](https://github.com/topjohnwu/Magisk): Magisk es un conjunto de software de código abierto para personalizar Android, compatible con dispositivos con versiones de Android superiores a la 6.0.
 
 ### 🖥️ Técnico:
+
+- [Trino](https://github.com/trinodb/trino): Motor de consultas SQL distribuido de alto rendimiento diseñado para analítica rápida sobre grandes lagos de datos y almacenes heterogéneos.
 
 - [Dragonfly](https://github.com/dragonflydb/dragonfly): Almacén de datos en memoria ultrarrápido y eficiente compatible con las APIs de Redis y Memcached sin necesidad de cambios en el código.
 - [Prometheus](https://github.com/prometheus/prometheus): Sistema de monitorización y alertas de código abierto con base de datos de series temporales y motor de consultas PromQL.
@@ -372,6 +376,10 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [oxipng](https://github.com/oxipng/oxipng): Optimizador de imágenes PNG multihilo.
 
 ### 🛠️ HERRAMIENTAS:
+
+- [fastlane](https://github.com/fastlane/fastlane): Herramienta de automatización para compilar, firmar y desplegar aplicaciones iOS y Android en tiendas de aplicaciones.
+- [minikube](https://github.com/kubernetes/minikube): Herramienta para desplegar y ejecutar clústeres locales de Kubernetes con soporte para múltiples controladores y entornos de desarrollo.
+- [Stryker](https://github.com/stryker-mutator/stryker-js): Framework de pruebas de mutación para JavaScript y TypeScript que evalúa la efectividad real de tus suites de tests introduciendo fallos controlados.
 
 - [Tilt](https://github.com/tilt-dev/tilt): Herramienta que define entornos de desarrollo como código para microservicios sobre Kubernetes con recarga y sincronización en vivo.
 - [Prettier](https://github.com/prettier/prettier): Formateador de código con soporte amplio que impone un estilo uniforme en JavaScript, TypeScript, HTML, CSS y Markdown.
@@ -863,6 +871,9 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### ⭐ PACKS DE COMPONENTES y LIBRERIAS:
 
+- [Svelte](https://github.com/sveltejs/svelte): Framework web reactivo que traslada el trabajo al tiempo de compilación para producir código JavaScript optimizado sin sobrecarga de Virtual DOM.
+- [SolidJS](https://github.com/solidjs/solid): Librería declarativa y reactiva para construir interfaces de usuario web con alto rendimiento y reactividad de grano fino sin Virtual DOM.
+
 - [Prisma ORM](https://github.com/prisma/orm): ORM para Node.js y TypeScript con herramientas para integrar bases de datos en aplicaciones nuevas o existentes.
 
 - [Hono](https://github.com/honojs/hono): Framework web basado en estándares web, con soporte para TypeScript y middleware, que funciona en Node.js, Bun, Deno y plataformas de ejecución en la nube.
@@ -1302,6 +1313,8 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [dev.css](https://tangled.org/devins.page/dev.css): Framework de CSS sin clases (classless) ultraligero (~5.5 KB) diseñado para estilizar documentos HTML puros de forma moderna y totalmente responsive.
 
 ### 🏠 Self-Hosted (Autoalojado)
+
+- [Directus](https://github.com/directus/directus): Plataforma de código abierto que transforma cualquier base de datos SQL en una API REST y GraphQL instantánea con panel de administración intuitivo.
 
 - [Unleash](https://github.com/unleash/unleash): Plataforma de gestión de feature flags (conmutadores de funcionalidad) de código abierto y autoalojable para despliegues progresivos y seguros.
 
