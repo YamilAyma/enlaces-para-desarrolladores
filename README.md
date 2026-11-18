@@ -1510,6 +1510,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 - [Webwright](https://github.com/microsoft/CUAWright): Framework de Microsoft Research para agentes de IA terminal-native. Permite al modelo escribir y ejecutar su propio código de Playwright para resolver tareas web complejas.
 - [Impeccable](https://github.com/pbakaus/impeccable): Kit para agentes de IA a orientarlos para que puedan ser más eficaces en el diseño frontend. 1 Skill.
 - [YYLO](https://github.com/yylo-dev/yylo): Orquestador de código abierto para agentes de codificación en la terminal, con flujos de trabajo repetibles y cambios de repositorio respaldados por evidencia.
+- [ai-photo-to-video-prompt-recipes](https://siuserxiaowei.github.io/ai-photo-to-video-prompt-recipes/es/): Guía interactiva de código abierto (MIT) en español con benchmark de 480 pruebas y 12 recetas de prompts en 2 pasos (Nano Banana 2 + Kling 2.5 Turbo) para animar fotos en video sin deformar rostros ni vehículos.
 
 #### 🧠 Modelos y Datos
 
