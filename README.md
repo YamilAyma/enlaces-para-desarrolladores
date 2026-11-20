@@ -450,6 +450,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 - [Telemetry SQL Playground](https://telemetry.sh/sql/playground?lang=es): Entorno gratuito en español para practicar consultas SQL sobre eventos sintéticos de API, sin crear una cuenta.
 - [A Box of Tools](https://abox.tools/es/): Caja de 35 herramientas de archivo que funcionan enteramente en el navegador: comprimir una imagen a un tamaño exacto, unir o censurar un PDF, recortar vídeo, editar audio, leer códigos QR, formatear JSON. Nada se sube a ningún servidor. Código abierto (MIT) y traducida al español.
+- [PDF Fan — Extraer páginas PDF](https://pdf.fan/es/extraer-paginas-pdf/): Herramienta gratuita en español para seleccionar páginas de un PDF, cambiar su orden y guardar un archivo nuevo sin crear una cuenta. El PDF original se procesa en el navegador.
 - [zdoc](https://www.zdoc.app/es): Herramienta gratuita para traducir READMEs de GitHub a múltiples idiomas y mantenerlos actualizados.
 - [muJS](https://mujs.org/): Librería de navegación AJAX de 5KB como alternativa ligera a Turbo y htmx.
 - [Antra](https://github.com/anandprtp/Antra): Aplicación de escritorio para convertir enlaces de música en descargas locales etiquetadas.
